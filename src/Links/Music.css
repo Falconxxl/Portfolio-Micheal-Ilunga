@@ -1,0 +1,100 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Container-Music {
+    width: 100%;
+    height: 90vh;
+    background-color:darkslateblue;
+    box-sizing: border-box;
+    /*background-image: url("../Assets/banner19.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-content .cta-music-btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 40px;
+    font-family: "Figtree", sans-serif;
+    background-color: black;
+    border-radius: 60px;
+    border: 2px solid transparent;
+
+    background:
+            linear-gradient(black, black) padding-box,
+            linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;
+
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    /*transition: transform 0.3s ease, background-color 0.3s ease;*/
+}
+
+.hero-content .cta-music-btn:hover {
+    /*background-color: #799da9;*/
+    /*background-color:#f3bb2f;*/
+    color: white;
+    border: 2px solid transparent;
+
+    background:
+            linear-gradient(black, black) padding-box,
+            linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;
+
+}
+
+/* Scroll button */
+.scroll-down-music {
+    position: absolute;
+    bottom: 100px;
+    left: 95%;
+    transform: translateX(-50%);
+    font-size: 1.5rem;
+    color: white;
+
+    border-radius: 50px;
+    text-decoration: none;
+
+    border: 2px solid transparent;
+
+    background:
+            linear-gradient(black, black) padding-box,
+            linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;
+
+    height: 50px;
+    width: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    animation: bounce 2s infinite;
+}
+
+.scroll-down:hover {
+    background-color:#f3bb2f;
+    color: black;
+    border: 3px solid #f3bb2f;
+}
+
+/*-------------------------------------------*/
+
+@media screen and (max-width:940px) {
+
+
+    .Container-ContactUs {
+        width: 100%;
+        height: 80vh;
+        box-sizing: border-box;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        padding-top: 150px;
+    }
+
+}

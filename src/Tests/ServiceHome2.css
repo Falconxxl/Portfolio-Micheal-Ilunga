@@ -1,0 +1,40 @@
+
+
+/*.button-modal-miniature {*/
+/*    width: 50px;*/
+/*    height: 50px;*/
+/*}*/
+
+.button-modal-mike_Brenda {
+    background: transparent;
+    border: none;
+    width: 100%;     /* prend toute la largeur du parent */
+    height: auto;    /* garde le ratio */
+    border-radius: 40px;
+    transition: transform 0.3s ease;
+}
+
+.button-modal-mike_Brenda:hover {
+    transform: scale(1.05);
+}
+
+
+/*.media-Container-ServiceHome-single {*/
+/*    width: 100%;        !* prend toute la largeur dispo *!*/
+/*    max-width: 600px;   !* limite la taille max sur grand écran *!*/
+/*    height: auto;       !* pas de hauteur fixe *!*/
+/*    !*background: transparent;*!*/
+/*    !*background-color: yellow;*!*/
+/*    border-radius: 40px;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.image-mike_brenda-home {*/
+/*    width: 100%;     !* prend toute la largeur du parent *!*/
+/*    height: auto;    !* garde le ratio *!*/
+/*    border-radius: 40px;*/
+/*    transition: transform 0.3s ease;*/
+/*}*/
+

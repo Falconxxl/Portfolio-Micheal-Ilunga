@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Container-OurTeam {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.Container-OurTeam h1 {
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Orbitron', sans-serif !important;
+    margin-top: 50px;
+
+}
+
+.Container-OurTeam-details {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.box-ourTeam {
+    width: 300px;
+    height: 400px;
+    /*background-color: darkgray;*/
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    border-bottom: 1px solid #8461f6;
+}
+
+.box-ourTeam1 {
+    width: 300px;
+    height: 400px;
+    /*background-color: darkgray;*/
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    border-bottom: 1px solid #8461f6;
+}
+
+.box-ourTeam1 img {
+    width: 200px;
+    height: 200px;
+}
+
+.box-ourTeam1 p {
+    font-family: "Poppins", sans sans-serif;
+    text-align: center;
+}
+
+.box-ourTeam img {
+    width: 200px;
+    height: 200px;
+}
+
+.box-ourTeam p {
+    font-family: "Poppins", sans sans-serif;
+    text-align: center;
+}
+
+@media screen and (max-width:940px) {
+
+    .Container-OurTeam-details {
+        gap: 0px;
+    }
+
+    .Container-OurTeam-details {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .box-ourTeam {
+        border-bottom: 1px solid #8461f6;
+    }
+
+    .box-ourTeam1 {
+        border-bottom: 0px solid #8461f6;
+    }
+
+}

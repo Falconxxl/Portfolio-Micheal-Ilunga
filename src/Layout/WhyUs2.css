@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+/* Container principal */
+.Container-WhyUs2 {
+    width: 100%;
+    /*background-color: #1c1c1c;*/
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /*padding: 70px 100px;*/
+    padding-top: 70px;
+    padding-bottom: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 30px;
+    font-family: "Poppins", sans-serif;
+}
+
+/* Container gauche */
+.Container-WhyUs2-left {
+    flex: 1 1 40%;
+    max-width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 0px;
+}
+
+.Container-WhyUs2-left h1 {
+    font-size: 48px;
+    font-family: Poppins, sans-serif;
+    color: #3f97fb;
+    font-weight: 650;
+    line-height: 1.2;
+}
+
+/* Container droit */
+.Container-WhyUs2-right {
+    flex: 1 1 55%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px; /* <-- Espace entre chaque bloc */
+}
+
+/* Bloc titre + paragraphes */
+.Container-WhyUs2-right-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* <-- petit gap interne entre titre et paragraphe */
+    border-bottom: 1px solid #3f97fb; /* couleur et épaisseur du bord */
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-bottom: 50px;
+    /*background-color: #f3bb2f;*/
+}
+
+.Container-WhyUs2-right-content-x {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* <-- petit gap interne entre titre et paragraphe */
+    /*border-bottom: 1px solid #f3bb2f; !* couleur et épaisseur du bord *!*/
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-bottom: 50px;
+    /*background-color: #f3bb2f;*/
+}
+
+.Container-WhyUs2-right-title {
+    flex: 1 1 250px;
+    font-size: 24px;
+    /*font-family: "Poppins", sans-serif;*/
+    font-family: Poppins, sans-serif;
+    color: #0b3f88;
+    font-weight: 700;
+    margin-bottom: 30px; /* <-- espace fixe entre titre et paragraphes */
+}
+
+.Container-WhyUs2-right-paragraf {
+    flex: 2 1 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* <-- espace entre chaque paragraphe */
+}
+
+/*.Container-WhyUs2-right-paragraf .icon-text {*/
+/*    display: flex;*/
+/*    align-items: flex-start;*/
+/*    gap: 15px;*/
+/*}*/
+
+.Container-WhyUs2 .icon-stack .fa-circle {
+    color: #3f97fb !important;
+}
+
+/* ALIGNEMENT */
+.Container-WhyUs2-right-paragraf .icon-text {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+/* ICON CONTAINER */
+.icon-stack {
+    display: inline-flex;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    margin-top: 3px;
+}
+
+.icon-stack .fa-circle {
+    position: absolute;
+    font-size: 30px;
+    color: #3f97fb;
+    top: 0;
+    left: 0;
+}
+
+.icon-stack .fa-check {
+    position: absolute;
+    font-size: 14px;
+    color: white !important;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+}
+
+/* HOVER (optionnel mais propre) */
+.icon-text:hover .icon-stack {
+    transform: scale(1.1);
+    transition: 0.2s ease;
+}
+
+.Container-WhyUs2-right-paragraf .icon-text i {
+    font-size: 30px;
+    color: #3f97fb;
+}
+
+/*.Container-WhyUs2-right-paragraf .icon-text i {*/
+/*    font-size: 25px;*/
+/*    background: linear-gradient(135deg, #44c3fa, #8f8cfc, #8f8cfc);*/
+/*    -webkit-background-clip: text;*/
+/*    -webkit-text-fill-color: transparent;*/
+/*    display: inline-block;*/
+/*}*/
+
+.Container-WhyUs2-right-paragraf .icon-text p {
+    margin: 0;
+    font-size: 17px;
+    font-family: "Poppins", sans-serif;
+    color: #0b3f88;
+    line-height: 1.5;
+}
+
+/* Media Queries */
+
+/* Tablettes */
+@media (max-width: 1000px) {
+    .Container-WhyUs2 {
+        padding: 50px 50px;
+        padding-bottom: 0px;
+
+    }
+    .Container-WhyUs2-left {
+        flex: 1 1 45%;
+        max-width: 350px;
+    }
+    .Container-WhyUs2-left h1 {
+        font-size: 48px;
+    }
+    .Container-WhyUs2-right-title {
+        font-size: 22px;
+        margin-bottom: 20px; /* réduit un peu sur tablette */
+    }
+    .Container-WhyUs2-right-paragraf .icon-text p {
+        font-size: 16px;
+    }
+}
+
+/* Mobiles */
+@media (max-width: 768px) {
+
+    .Container-WhyUs2-right-title {
+        margin-bottom: 15px; /* réduit l'espace entre le titre et les paragraphes */
+        font-size: 20px;
+    }
+
+    .Container-WhyUs2-right-paragraf {
+        gap: 30px; /* réduit l'espace entre chaque paragraphe */
+    }
+
+    .Container-WhyUs2-right-paragraf .icon-text {
+        gap: 10px; /* réduit l'espace entre l'icône et le texte */
+    }
+}

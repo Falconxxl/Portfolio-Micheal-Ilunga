@@ -1,0 +1,351 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*---------Basic Package------------------*/
+
+.Container-PricingVideo {
+    width: 100%;
+    height: auto;
+    /*background-color: #1c1c1c;*/
+    background-color: black;
+    /*border-top: 1px solid #7856f4;*/
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+
+.Container-PricingVideo h1 {
+    font-size: clamp(36px, 5vw, 48px);
+    font-weight: 800;
+    line-height: 1.1;
+    font-family: 'Orbitron', sans-serif !important;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    /*margin-bottom: 10px;*/
+}
+
+.Container-PricingVideo-wrapper {
+    width: 90%;
+    height: auto;
+    /*background-color: #1c1c1c*/
+    background-color: black;
+    display: flex;
+    justify-content: center; /* ou space-between, selon ton design */
+    gap: 20px; /* espace entre les boîtes */
+    flex-wrap: wrap; /* permet le retour à la ligne sur petits écrans */
+}
+
+.PricingVideo-details-x {
+    width: 450px;
+    height: auto;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(black,black) padding-box,
+    linear-gradient(135deg, #fa4177, #cd0f9a) border-box;
+
+    /* ✅ bordure dégradée fonctionnelle */
+    /*background: linear-gradient(#1c1c1c,#1c1c1c) padding-box,*/
+    /*linear-gradient(135deg, #fa4177, #cd0f9a) border-box;*/
+    border: 4px solid transparent;
+}
+
+.PricingVideo-details-x h2 {
+    font-size: clamp(24px, 5vw, 24px);
+    font-weight: 800;
+    line-height: 1.1;
+    font-family: 'Orbitron', sans-serif !important;
+    width: 100%;
+    text-align: center;
+    /*color: #cd0f9a;*/
+    /*color: white;*/
+    color: #fe609e;
+
+}
+
+.pricing-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 30px;
+}
+
+.pricing-list li {
+    position: relative;
+    padding-left: 50px; /* espace réservé pour l’icône */
+    margin-bottom: 12px;
+    color: white; /* ou selon ton design */
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+.pricing-list i {
+    position: absolute;
+    left: 0;
+    top: 2px; /* ajuste selon ton alignement */
+    color: #fe609e;
+    font-size: 25px;
+}
+
+.pricing-list span {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: "Poppins", sans-serif;
+}
+
+.btn-cta-PricingVideo-x {
+    /*background: #1c1c1c;*/
+    background: black;
+    color: #fff;
+    border-radius: 50px;
+    padding: 15px 40px;
+    border: 2px solid  #fe609e;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    margin-top: 10px;
+    text-decoration: none;
+    /*word-spacing: 3px;*/
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-cta-PricingVideo-x:hover {
+    /*background: #1c1c1c;*/
+    background: linear-gradient(135deg, #fa4177, #cd0f9a);
+    /*background-color: black;*/
+    color: white;
+    border-radius: 50px;
+    padding: 15px 40px;
+    border: 2px solid  #cd0f9a;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Orbitron', sans-serif !important;
+    cursor: pointer;
+    margin-top: 10px;
+    text-decoration: none;
+    /*word-spacing: 3px;*/
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/*---------Standard Package------------------*/
+
+.PricingVideo-details-standard {
+    width: 450px;
+    height: auto;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* ✅ bordure dégradée fonctionnelle */
+    background: linear-gradient(black,black) padding-box,
+    /*background: linear-gradient(#1c1c1c,#1c1c1c) padding-box,*/
+    linear-gradient(135deg, #0288fd, #2d00f4) border-box;
+    border: 4px solid transparent;
+}
+
+
+.PricingVideo-details-standard h2 {
+    font-size: clamp(24px, 5vw, 24px);
+    font-weight: 800;
+    line-height: 1.1;
+    font-family: 'Orbitron', sans-serif !important;
+    width: 100%;
+    text-align: center;
+    /*color: #cd0f9a;*/
+    /*color: white;*/
+    color: #0288fd;
+
+}
+
+.pricing-list-standard {
+    list-style: none;
+    padding: 0;
+    margin-top: 30px;
+}
+
+.pricing-list-standard li {
+    position: relative;
+    padding-left: 50px; /* espace réservé pour l’icône */
+    margin-bottom: 12px;
+    color: white; /* ou selon ton design */
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+.pricing-list-standard i {
+    position: absolute;
+    left: 0;
+    top: 2px; /* ajuste selon ton alignement */
+    color: #0288fd;
+    font-size: 25px;
+}
+
+.pricing-list-standard span {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: Poppins, sans-serif;
+}
+
+.btn-cta-PricingVideo-standard {
+    /*background: linear-gradient(135deg, #1755eb, #2c26da);*/
+    /*background-color: black;*/
+    color: #fff;
+    border-radius: 50px;
+    padding: 15px 40px;
+    border: 2px solid  #0288fd;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    margin-top: 10px;
+    text-decoration: none;
+    /*background: #1c1c1c;*/
+    background: black;
+    /*word-spacing: 3px;*/
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-cta-PricingVideo-standard:hover {
+    /*background: #1c1c1c;*/
+    /*background-color: black;*/
+    background: linear-gradient(135deg, #1755eb, #2c26da);
+    color: white;
+    border-radius: 50px;
+    padding: 15px 40px;
+    border: 2px solid  #0288fd;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    margin-top: 10px;
+    text-decoration: none;
+    /*word-spacing: 3px;*/
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/*---------Gold Package------------------*/
+
+.PricingVideo-details-Golg {
+    width: 450px;
+    height: auto;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* ✅ bordure dégradée fonctionnelle */
+    background: linear-gradient(black,black) padding-box,
+    /*background: linear-gradient(#1c1c1c,#1c1c1c) padding-box,*/
+    linear-gradient(135deg, #dca61d, #9f6a30) border-box;
+    border: 4px solid transparent;
+}
+
+
+.PricingVideo-details-Golg h2 {
+    font-size: clamp(24px, 5vw, 24px);
+    font-weight: 800;
+    line-height: 1.1;
+    font-family: 'Orbitron', sans-serif !important;
+    width: 100%;
+    text-align: center;
+    /*color: #cd0f9a;*/
+    /*color: white;*/
+    color: #f3bb2f;
+
+}
+
+.pricing-list-Gold {
+    list-style: none;
+    padding: 0;
+    margin-top: 30px;
+}
+
+.pricing-list-Gold li {
+    position: relative;
+    padding-left: 50px; /* espace réservé pour l’icône */
+    margin-bottom: 12px;
+    color: white; /* ou selon ton design */
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+.pricing-list-Gold i {
+    position: absolute;
+    left: 0;
+    top: 2px; /* ajuste selon ton alignement */
+    color: #f3bb2f;
+    font-size: 25px;
+}
+
+.pricing-list-Gold span {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: Poppins, sans-serif;
+}
+
+.btn-cta-PricingVideo-Gold {
+    /*background: linear-gradient(135deg, #f3bb2f, #c78d43);*/
+    /*background-color: #1c1c1c;*/
+    background: black;
+    color: #fff;
+    border-radius: 50px;
+    padding: 15px 40px;
+    border: 2px solid  #c78d43;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    margin-top: 10px;
+    text-decoration: none;
+    /*word-spacing: 3px;*/
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-cta-PricingVideo-Gold:hover {
+    background: #1c1c1c;
+    background: linear-gradient(135deg, #f3bb2f, #c78d43);
+    /*background-color: black;*/
+    color: white;
+    border-radius: 50px;
+    padding: 15px 40px;
+    border: 2px solid  #f3bb2f;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    margin-top: 10px;
+    text-decoration: none;
+    /*word-spacing: 3px;*/
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/*----------------@media query--------------*/
+
+@media screen and (max-width:748px) {
+
+    .Container-PricingVideo h1 {
+        font-size: clamp(30px, 5vw, 48px);
+        width: 80%;
+        text-align: left;
+    }
+
+    .Container-PricingVideo {
+        padding-bottom: 50px;
+    }
+}
+

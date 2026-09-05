@@ -1,0 +1,871 @@
+
+/*@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.AudioVisual-banner {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    margin-bottom: -50px;
+    /*background-color: red;*/
+}
+
+/* Vidéos */
+.AudioVisual-video {
+    position: absolute;
+    top: 19vh;
+    left: 0;
+    width: 100%;
+    height: 76%;
+    object-fit: cover;
+    z-index: -1;
+    /*background-color: black;*/
+}
+
+.desktop-video {
+    display: block;
+}
+.mobile-video { display: none; }
+
+/* Contenu desktop */
+
+.AudioVisual-content {
+    position: absolute;
+    top: 65%;              /* centre verticalement */
+    left: 20%;             /* centre horizontalement */
+    transform: translate(-50%, -50%);
+    color: #3f97fb;
+    z-index: 2;
+    /* >>> Passe devant la vidéo */
+    text-align: center;
+
+
+    display: flex;
+    gap: 10px;
+}
+
+.cta-btn-AudioVisual {
+    position: relative;
+    z-index: 3;
+
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-family: "Figtree", sans-serif;
+    border-radius: 60px;
+
+    border: 2px solid transparent;
+
+    background-color: #3f97fb;
+
+    /*background:*/
+    /*        linear-gradient(black, black) padding-box,*/
+    /*        linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;*/
+
+    font-size: 16px;
+    font-weight: 600;
+
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.cta-btn-AudioVisual:hover {
+    transform: scale(1.1);
+}
+
+/* Bouton scroll */
+.AudioVisual-scroll-down {
+    position: absolute;
+    bottom: 100px;
+    left: 95%;
+    transform: translateX(-50%);
+    font-size: 1.5rem;
+    color: white;
+
+    border-radius: 50px;
+    text-decoration: none;
+
+    border: 2px solid transparent;
+
+    background-color: #3f97fb;
+
+    /*background:*/
+    /*        linear-gradient(black, black) padding-box,*/
+    /*        linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;*/
+
+    height: 50px;
+    width: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    animation: bounce 2s infinite;
+}
+
+.AudioVisual-scroll-down:hover {
+    transform: translateX(-50%) scale(1.1);
+}
+
+/*------Description--------*/
+
+.AudioVisual-Description {
+    /*background-color: yellow;*/
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /*margin-bottom: 50px;*/
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-color: white;
+    /*background-color: #f3bb2f;*/
+    gap: 30px;
+}
+
+.AudioVisual-Description-left {
+    /*background-color: #141414;*/
+    background-color: #d6eaff;
+    width: 700px;
+    height: auto;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    /*border: 3px solid transparent ;*/
+    /*background:*/
+    /*        linear-gradient(white, white) padding-box,*/
+    /*        linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;*/
+
+}
+
+.AudioVisual-Description-left h1 {
+    font-family:"Poppins", sans-serif;
+    /*color: #1c6077;*/
+    font-size: 36px;
+    text-align: left;
+    /*color: #fcd552;*/
+    color: #3f97fb;
+    font-weight: 500;
+}
+
+.AudioVisual-Description-left p {
+    font-family:"Poppins", sans-serif;
+    color: #0b3f88;
+    margin-top: 20px;
+    font-size: 23px;
+    font-weight: 500;
+    /*color: #1c6077;*/
+    /*color: #fcd552;*/
+}
+
+.AudioVisual-Description-Right {
+    background-color: #0a3e89;
+    /*background-color: #141414;*/
+
+    width: 700px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    border-radius: 30px;
+    border-left: 1px solid #f3bb2f ;
+}
+
+.AudioVisual-Description-Right p{
+    font-family:"Poppins", sans-serif;
+    font-size: 18px;
+    color: white;
+    font-weight: 300;
+}
+
+/*------Section-Drone-Video--------*/
+
+.section-drone-video {
+    width: 100%;
+    height: auto;
+    background-color: #1c1c1c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /*padding: 50px;*/
+    /*flex-direction: row;*/
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.texte-drone {
+    width: 600px;
+    height: auto;
+    /*background-color: #f3bb2f;*/
+    background-color: #1c1c1c;
+    padding: 30px;
+}
+
+.texte-drone h1 {
+    font-size: 2.7rem;
+    font-family: Poppins, sans-serif;
+    /*font-family: 'Orbitron', sans-serif !important;*/
+    color: white;
+    /*color: #1c6077;*/
+    margin-bottom: 10px;
+    line-height: 1.2;
+    font-weight: 400;
+    /*background-color: #1c1c1c;*/
+    border-radius: 30px;
+    /*padding: 20px;*/
+    /*text-align: center;*/
+}
+
+.texte-drone h2 {
+    font-size: 1.5rem;
+    /*margin-bottom: 15px;*/
+    font-family: "Poppins", sans-serif;
+    color: #9b98fc;
+    /*color: black;*/
+    margin-bottom: 10px;
+    font-weight: 500;
+    /*padding: 20px;*/
+
+}
+
+.texte-drone p {
+    font-size: 17px;
+    /*margin-bottom: 15px;*/
+    font-family: "Poppins", sans-serif;
+    /*color: #f3bb2f;*/
+    color: white;
+    margin-bottom: 10px;
+    font-weight: 300;
+    /*background-color: #1c1c1c;*/
+}
+
+.Drone-quote-button {
+    background-color:#1c1c1c;
+    color: #fff;
+    border-radius: 50px;
+    padding: 15px 40px;
+    /*border: 2px solid  #f3bb2f;*/
+    border: 2px solid transparent;
+    background:
+            linear-gradient(#1c1c1c, #1c1c1c) padding-box,
+            linear-gradient(90deg, #6bc0f5, #908ef4, #7357eb) border-box;
+
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 125px;
+    margin-right: auto;
+    text-decoration: none;
+    /*word-spacing: 3px;*/
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.Drone-quote-button i {
+    margin-left: 15px; /* espace à gauche de l’icône */
+}
+
+.Drone-quote-button:hover {
+    background-color: #f3bb2f;
+    transform: scale(1.05);
+    color: white;
+}
+
+.wrapper-drone-video {
+    position: relative; /* ✅ indispensable */
+    width: 900px;
+    height: 450px;
+    background-color: #1c1c1c;
+    border: 2px solid transparent;
+    background:
+            linear-gradient(#1c1c1c, #1c1c1c) padding-box,
+            linear-gradient(90deg, #6bc0f5, #908ef4, #7357eb) border-box;
+
+    border-radius: 20px;
+    overflow: hidden; /* cache ce qui dépasse */
+}
+
+.drone-video-desktop {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* ajuste la vidéo sans la déformer */
+    border-radius: 20px;
+}
+
+.drone-video-mobile {
+    display: none;
+}
+
+{/*---------------Where Creativity Meets Direction----------------*/}
+
+.audiovisual-direction-Mike {
+    width: 100%;
+    /*background-color: #f3bb2f;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+}
+
+.direction-Mike-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    max-width: 1200px;
+    gap: 100px;
+    flex-wrap: wrap;
+}
+
+.audiovisual-direction-image img {
+    width: 600px;
+    height: auto;
+    border-radius: 20px;
+    object-fit: cover;
+    /*border: 2px solid #f3bb2f;*/
+    /*border: 2px solid transparent;*/
+    background:
+            linear-gradient(#1c1c1c, #1c1c1c) padding-box,
+            linear-gradient(90deg, #6bc0f5, #908ef4, #7357eb) border-box;
+
+}
+
+.audiovisual-direction-text {
+    flex: 1;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.audiovisual-direction-badge {
+    background: linear-gradient(135deg, #d6ccfb, #7856f4);
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 10px 4px;
+    border-radius: 9999px; /* forme pill */
+    display: inline-block;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.audiovisual-direction-text h1 {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 1.1;
+    margin-bottom: 20px;
+    font-family: Poppins, sans-serif;
+    color: white;
+}
+
+.audiovisual-direction-text p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.6;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+{/*---------------making-off----------------*/}
+
+.makingof-section {
+    width: 100%;
+    height: auto;
+    background-color: #1c1c1c;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    /*border-top: 1px solid #f3bb2f;*/
+
+}
+
+.makingof-section h1 {
+    /*color: #f3bb2f;*/
+    color: white;
+    font-size: 3.5rem;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-bottom: 20px;
+}
+
+.makingof-section h2 {
+    color: #f3bb2f;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-bottom: 20px;
+}
+
+.makingof-section p {
+    color: white;
+    width: 50%;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: "Poppins", sans-serif;
+    margin-left: 110px;
+    margin-right: 110px;
+    /*padding-top: 50px;*/
+}
+
+.makingof-videos {
+    width: auto;
+    height: auto;
+    /*background-color: red;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 23px;
+    flex-wrap: wrap;
+}
+
+.makingof-GroupVideos1 {
+    width: auto;
+    height: auto;
+    /*background-color: yellow;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.makingof-GroupVideos1-video1 {
+    /*width: 610px;*/
+    /*height: 400px;*/
+    width: 620px;
+    /*height: 510px;*/
+    background-color: white;
+    border: 2px solid #f3bb2f;
+    border-radius: 10px;
+}
+
+.makingof-video-detail {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;      /* remplit tout le cadre sans déformer */
+    border-radius: 10px;
+    display: block;
+}
+
+/*-------------------------------------*/
+
+
+
+/*-------------------------------------*/
+
+@keyframes bounce {
+    0%, 100% { transform: translate(-50%, 0); }
+    50% { transform: translate(-50%, -10px); }
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+
+    .AudioVisual-banner {
+        margin-bottom: -99px;
+    }
+
+    .desktop-video {
+        display: none;
+    }
+    .mobile-video { display: block;
+    top: 12vh;}
+
+    .AudioVisual-content {
+        position: absolute;
+        top: 70%;              /* un peu plus haut sur mobile */
+        left: 20px;             /* marge gauche */
+        right: 20px;            /* marge droite */
+        transform: translateY(-50%);
+    }
+
+
+    .AudioVisual-content h1 { font-size: 3rem; }
+    .AudioVisual-content p { font-size: 1.1rem; }
+    .cta-btn-AudioVisual {
+        padding: 20px 40px;
+        font-size: 1.1rem;
+    }
+
+    .AudioVisual-content {
+        display: flex;
+        gap: 10px;
+        flex-direction: column;
+    }
+
+    .cta-btn-AudioVisual {
+        padding: 14px 25px;
+    }
+
+    /*.audiovisual-direction-badge {*/
+    /*    background: linear-gradient(135deg, #d6ccfb, #7856f4);*/
+    /*    color: white;*/
+    /*    font-weight: 700;*/
+    /*    font-size: 16px;*/
+    /*    padding: 10px 4px;*/
+    /*    border-radius: 9999px; !* forme pill *!*/
+    /*    display: inline-block;*/
+    /*    margin-bottom: 20px;*/
+    /*    letter-spacing: 2px;*/
+    /*    text-align: center;*/
+    /*}*/
+
+
+
+    /*------Description--------*/
+
+    .AudioVisual-Description {
+        /*background-color: yellow;*/
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-bottom: 0px;
+        /*border-top: 1px solid black ;*/
+        padding-top: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .AudioVisual-Description-left {
+        /*background-color: red;*/
+        width: 700px;
+        height: auto;
+        /*padding: 40px;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 30px;
+    }
+
+    .AudioVisual-Description-left h1 {
+        font-size: 36px;
+        line-height: 1.4;
+    }
+
+    .AudioVisual-Description-left p {
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .AudioVisual-Description-Right {
+        border-left: 0px solid black ;
+        padding: 30px;
+        width: 100%;
+        height: auto;
+    }
+
+    .AudioVisual-Description-Right p{
+        font-size: 16px;
+        font-weight: 300;
+
+    }
+
+    /*------Section-Drone-Video--------*/
+
+    .section-drone-video {
+        padding: 0px;
+    }
+
+    .texte-drone {
+        /*width: 600px;*/
+        height: auto;
+        /*background-color: yellow;*/
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    /*.Drone-quote-button {*/
+    /*    margin-left: 130px;*/
+    /*    margin-bottom: 40px;*/
+    /*}*/
+
+    .Drone-quote-button {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 40px;
+        display: block;
+    }
+
+    .wrapper-drone-video {
+        position: relative; /* ✅ indispensable */
+        width: 85%;
+        height: 650px;
+        /*background-color: green;*/
+        margin-bottom: 50px;
+        /*overflow: hidden; !* cache ce qui dépasse *!*/
+    }
+
+    .drone-video-desktop {
+        display: none;
+    }
+
+    .drone-video-mobile {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* ajuste la vidéo sans la déformer */
+        border-radius: 20px;
+    }
+
+
+{/*---------------Where Creativity Meets Direction----------------*/}
+
+    .audiovisual-direction-Mike {
+        width: 100%;
+        /*background-color: #111;*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 60px 0px;
+    }
+
+    .direction-Mike-inner {
+        width: 90%;
+        /*max-width: 1200px;*/
+        gap: 10px;
+        padding: 0px;
+        /*flex-wrap: wrap;*/
+    }
+
+    .audiovisual-direction-image img {
+        width: 380px;
+        height: auto;
+        border-radius: 20px;
+        object-fit: cover;
+    }
+
+    .audiovisual-direction-text {
+        flex: 1;
+        /*color: #fff;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    /*.audiovisual-direction-badge {*/
+    /*    !*background: linear-gradient(135deg, #f3bb2f, #c78d43);*!*/
+    /*    color: white;*/
+    /*    font-weight: 700;*/
+    /*    font-size: 16px;*/
+    /*    padding: 0px 0px;*/
+    /*    border-radius: 9999px; !* forme pill *!*/
+    /*    display: inline-block;*/
+    /*    margin-bottom: 20px;*/
+    /*    letter-spacing: 2px;*/
+    /*    text-align: center;*/
+    /*}*/
+
+    .audiovisual-direction-text h1 {
+        font-size: 40px;
+        font-weight: 800;
+        line-height: 1.1;
+        margin-bottom: 20px;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 20px; /* ← ajustez la valeur selon vos besoins *
+    }
+
+
+{/*---------------making off----------------*/}
+
+
+    .makingof-GroupVideos1-video1 {
+        width: 500px;
+        /*background-color: white;*/
+        background-color: white;
+        border: 2px solid #f3bb2f;
+        border-radius: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .AudioVisual-content h1 { font-size: 3rem; }
+    .AudioVisual-content p { font-size: 1.1rem; }
+    .cta-btn-AudioVisual {
+        padding: 20px 35px;
+        font-size: 1.1rem;
+    }
+    .AudioVisual-scroll-down {
+        font-size: 1.1rem;
+        bottom: 120px;
+        left: 90%;
+    }
+
+    .AudioVisual-content {
+        /*position: absolute;*/
+        /*top: 65%;              !* centre verticalement *!*/
+        /*left: 20%;             !* centre horizontalement *!*/
+        /*transform: translate(-50%, -50%);*/
+        /*color: #3f97fb;*/
+        /*z-index: 2;*/
+        /*!* >>> Passe devant la vidéo *!*/
+        /*text-align: center;*/
+
+
+        display: flex;
+        gap: 10px;
+        flex-direction: column;
+    }
+
+
+    /*------Section-Drone-Video--------*/
+
+    .section-drone-video {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .texte-drone {
+        height: auto;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    /*.Drone-quote-button {*/
+    /*    margin-left: 70px;*/
+    /*    margin-bottom: 40px;*/
+    /*}*/
+
+    .Drone-quote-button {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 40px;
+        display: block;
+    }
+
+    .texte-drone h1 {
+        font-size: 2.8rem;
+        /*margin-bottom: 15px;*/
+        font-family: "Poppins", sans-serif;
+        color: white;
+        /*color: #1c6077;*/
+        margin-bottom: 10px;
+        font-weight: 600;
+        /*background-color: #1c1c1c;*/
+        border-radius: 30px;
+        /*padding: 20px;*/
+        /*text-align: center;*/
+    }
+
+{/*---------------making-off----------------*/}
+
+    .makingof-section {
+        width: 100%;
+        height: auto;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .makingof-section h1 {
+        /*color: #f3bb2f;*/
+        font-size: 2.4rem;
+        /*font-weight: 600;*/
+        /*font-family: "Poppins", sans-serif;*/
+        margin-left: 20px;
+        /*padding-top: 50px;*/
+        margin-bottom: 20px;
+        margin-right: 20px;
+    }
+
+    .makingof-section h2 {
+        /*color: #f3bb2f;*/
+        font-size: 1.5rem;
+        /*font-weight: 400;*/
+        /*font-family: "Poppins", sans-serif;*/
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+
+    .makingof-section p {
+        /*color: white;*/
+        width: 90%;
+        /*font-size: 16px;*/
+        /*font-weight: 300;*/
+        /*font-family: "Poppins", sans-serif;*/
+        margin-left: 20px;
+        margin-right: 20px;
+        /*padding-top: 50px;*/
+    }
+
+    .makingof-GroupVideos1 {
+        width: auto;
+        height: 300px;
+        /*background-color: yellow;*/
+        gap: 10px;
+    }
+
+    .makingof-GroupVideos2 {
+        width: auto;
+        height: 300px;
+        /*background-color: green;*/
+        gap: 10px;
+    }
+
+    .makingof-videos {
+        width: auto;
+        height: auto;
+        /*background-color: red;*/
+        margin-top: 30px;
+        gap: 10px;
+    }
+
+    .makingof-GroupVideos1-video1 {
+        width: 400px;
+        background-color: white;
+        border: 2px solid #f3bb2f;
+        border-radius: 10px;
+    }
+
+    /*.audiovisual-direction-badge {*/
+    /*    background: linear-gradient(135deg, #d6ccfb, #7856f4);*/
+    /*    color: white;*/
+    /*    font-weight: 700;*/
+    /*    font-size: 16px;*/
+    /*    padding: 10px 4px;*/
+    /*    border-radius: 9999px; !* forme pill *!*/
+    /*    display: inline-block;*/
+    /*    margin-bottom: 20px;*/
+    /*    letter-spacing: 2px;*/
+    /*    text-align: center;*/
+    /*}*/
+
+}

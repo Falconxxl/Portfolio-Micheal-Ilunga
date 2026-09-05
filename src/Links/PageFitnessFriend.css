@@ -1,0 +1,961 @@
+/* ===================== PLAN D'ACTION ===================== */
+
+
+
+.action-plan-section {
+    background-color: #ebf3fb;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.action-plan-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 60px;
+    max-width: 1400px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.action-plan-text {
+    flex: 1 1 55%;
+    max-width: 650px;
+    font-family: "Poppins", sans-serif;
+}
+
+.action-plan-title {
+    color: #0b3f88;
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.action-plan-intro {
+    color: black;
+    font-size: 16px;
+    font-weight: 320;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+.action-plan-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.action-plan-list-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.action-plan-list-item span {
+    color: black;
+    font-size: 16px;
+    line-height: 1.5;
+    padding-top: 4px;
+}
+
+.action-plan-image {
+    flex: 1 1 40%;
+    max-width: 500px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.action-plan-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+    display: block;
+    object-fit: cover;
+}
+
+/* ===================== MÉTHODES UTILISÉES ===================== */
+
+.methods-section {
+    background-color: white;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.methods-title {
+    text-align: center;
+    color: #0b3f88;
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 60px;
+}
+
+.methods-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    max-width: 1400px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.method-card {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    border-radius: 25px;
+}
+
+.method-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 16px;
+}
+
+.method-dot {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.method-title {
+    color: #0b3f88;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.method-description {
+    color: black;
+    font-size: 15px;
+    font-weight: 320;
+    line-height: 1.6;
+}
+
+/* ===================== TECHNIQUES UTILISÉES ===================== */
+
+.techniques-section {
+    background-color: #ebf3fb;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.techniques-title {
+    text-align: center;
+    color: #0b3f88;
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 60px;
+}
+
+.techniques-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px 40px;
+    max-width: 1400px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.technique-item {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+.technique-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 14px;
+}
+
+.technique-title {
+    color: #0b3f88;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.technique-description {
+    color: black;
+    font-size: 15px;
+    font-weight: 320;
+    line-height: 1.6;
+}
+
+/* ===================== EXIGENCES DE L'APPLICATION ===================== */
+
+.application-requirements-section {
+    background-color: #0b3f88;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.application-requirements-content {
+    max-width: 1400px;
+    margin: 0 auto;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+.application-requirements-inner {
+    max-width: 900px;
+}
+
+.application-requirements-title {
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.application-requirements-text {
+    color: white;
+    font-size: 16px;
+    font-weight: 320;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.application-requirements-text:last-child {
+    margin-bottom: 0;
+}
+
+/* ===================== DESIGN VISUEL ===================== */
+
+.visual-design-section {
+    background-color: white;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.visual-design-content {
+    max-width: 1400px;
+    margin: 0 auto;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+.visual-design-inner {
+    max-width: 800px;
+}
+
+.visual-design-title {
+    color: #0b3f88;
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.visual-design-text {
+    color: black;
+    font-size: 16px;
+    font-weight: 320;
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+
+.visual-design-list {
+    margin-bottom: 24px;
+}
+
+/* ===================== COLOR SCHEME ===================== */
+
+.color-scheme-section {
+    background-color: #f5f8fc;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+}
+
+.color-scheme-title {
+    color: #0b3f88;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 20px;
+}
+
+.color-scheme-intro {
+    color: black;
+    font-size: 15px;
+    font-weight: 320;
+    font-family: "Poppins", sans-serif;
+    max-width: 600px;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+}
+
+.color-scheme-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.color-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+    width: 140px;
+    box-sizing: border-box;
+}
+
+.color-box {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    border: 1px solid #e2e8f0;
+    margin-bottom: 16px;
+}
+
+.color-item h3 {
+    color: #0b3f88;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    margin: 0 0 4px 0;
+}
+
+.color-item p {
+    color: black;
+    font-size: 13px;
+    font-weight: 320;
+    margin: 0;
+}
+
+/* ===================== LOGO FITNESSFRIEND ===================== */
+
+.logo-fitnessfriend-section {
+    display: flex;
+    align-items: stretch;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.logo-fitnessfriend-text {
+    flex: 1 1 50%;
+    background-color: #ebf3fb;
+    padding: 80px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+.logo-fitnessfriend-title {
+    color: #0b3f88;
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.logo-fitnessfriend-description {
+    color: black;
+    font-size: 16px;
+    font-weight: 320;
+    line-height: 1.6;
+    max-width: 450px;
+}
+
+.logo-fitnessfriend-image {
+    flex: 1 1 50%;
+    background-color: #0074c1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 40px;
+    box-sizing: border-box;
+}
+
+.logo-fitnessfriend-image img {
+    max-width: 100%;
+    max-height: 160px;
+    object-fit: contain;
+}
+
+/* ===================== TYPOGRAPHIE ===================== */
+
+.typography-section {
+    background-color: white;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.typography-inner {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    max-width: 1400px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.typography-image {
+    flex: 1 1 45%;
+    box-sizing: border-box;
+}
+
+.typography-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    object-fit: cover;
+}
+
+.typography-text {
+    flex: 1 1 50%;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+.typography-title {
+    color: #0b3f88;
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.typography-description {
+    color: black;
+    font-size: 16px;
+    font-weight: 320;
+    line-height: 1.6;
+}
+
+/* ===================== ICONES ===================== */
+
+.icons-section {
+    background-color: #f5f8fc;
+    padding: 80px 40px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.icons-title {
+    color: #0b3f88;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 20px;
+}
+
+.icons-description {
+    color: black;
+    font-size: 16px;
+    font-weight: 320;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.6;
+    max-width: 700px;
+    margin: 0 auto 40px auto;
+}
+
+.icons-image {
+    max-width: 700px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.icons-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    margin: 0 auto;
+}
+
+.icons-external-link {
+    color: #3f97fb;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.icons-external-link:hover {
+    color: #0b3f88;
+}
+
+/* ===================== WIREFRAMES ===================== */
+
+.wireframes-section {
+    background-color: white;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.wireframes-inner {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    max-width: 1400px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.wireframes-image {
+    flex: 1 1 50%;
+    box-sizing: border-box;
+}
+
+.wireframes-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+}
+
+.wireframes-text {
+    flex: 1 1 55%;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+.wireframes-title {
+    color: #0b3f88;
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.wireframes-description {
+    color: black;
+    font-size: 16px;
+    font-weight: 320;
+    line-height: 1.6;
+}
+
+/* ===================== MOCKUPS ===================== */
+
+.mockups-section {
+    background-color: #f5f8fc;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.mockups-inner {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    max-width: 1400px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.mockups-text {
+    flex: 1 1 55%;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+.mockups-title {
+    color: #0b3f88;
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.mockups-description {
+    color: black;
+    font-size: 16px;
+    font-weight: 320;
+    line-height: 1.6;
+}
+
+.mockups-image {
+    flex: 1 1 50%;
+    box-sizing: border-box;
+}
+
+.mockups-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    object-fit: contain;
+}
+
+/* ===================== HERO / BANNER ===================== */
+
+.fitnessfriend-hero {
+    background-color: white;
+    width: 100%;
+    padding: 100px 40px;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-top: 150px;
+}
+
+.fitnessfriend-hero-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0px;
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.fitnessfriend-hero-text {
+    flex: 1 1 50%;
+    max-width: 600px;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+.fitnessfriend-hero-title {
+    font-family: "Poppins", sans-serif;
+    color: #0b3f88;
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 1.15;
+    margin: 0 0 24px 0;
+}
+
+.fitnessfriend-hero-paragraph {
+    font-family: "Poppins", sans-serif;
+    color: black;
+    font-weight: 320;
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: 520px;
+    margin: 0 0 36px 0;
+}
+
+.fitnessfriend-hero-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    /*background-color: red;*/
+}
+
+.Fitness-quote-button-about {
+    position: relative;
+    z-index: 3;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-family: "Figtree", sans-serif;
+    border-radius: 60px;
+    background-color: #3f97fb;
+    /*border: 2px solid #3f97fb;*/
+    font-size: 16px;
+    font-weight: 600;
+
+    display: flex;
+    width: fit-content; /* 👈 AJOUTE CECI */
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+
+.Fitness-quote-button-about:hover {
+    /*transform: scale(1.1);*/
+    background-color: #0b3f88;
+}
+
+
+/* Force les deux boutons du hero à partager le même alignement vertical,
+   quelles que soient les propriétés de la classe Drone-quote-button-about
+   définie ailleurs dans le projet. */
+
+.fitnessfriend-hero-buttons > a {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    box-sizing: border-box;
+    line-height: 1.2;
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.hero-btn-secondary {
+    font-size: 15px;
+    font-weight: 500;
+    color: #0b3f88;
+    background-color: transparent;
+    border: 2px solid #0b3f88;
+    border-radius: 30px;
+    padding: 14px 28px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.hero-btn-secondary:hover {
+    background-color: #0b3f88;
+    color: white;
+}
+
+.fitnessfriend-hero-image {
+    flex: 1 1 45%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.fitness-image-desktop {
+    display: block;
+    width: 100%;
+    max-width: 720px;
+    height: auto;
+    object-fit: contain;
+}
+
+.fitness-image-mobile {
+    display: none;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+/* ===================== RESPONSIVE — TABLETTE ===================== */
+
+@media (max-width: 1024px) {
+    .action-plan-content {
+        gap: 40px;
+    }
+
+    .methods-grid,
+    .techniques-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .typography-inner,
+    .wireframes-inner,
+    .mockups-inner {
+        gap: 40px;
+    }
+
+    .typography-section,
+    .wireframes-section,
+    .mockups-section {
+        padding: 60px 30px;
+    }
+
+    .logo-fitnessfriend-text,
+    .logo-fitnessfriend-image {
+        padding: 60px 30px;
+    }
+
+    .fitnessfriend-hero {
+        padding: 70px 30px;
+        margin-top: 0px;
+    }
+
+    .fitnessfriend-hero-content {
+        gap: 40px;
+    }
+
+    .fitnessfriend-hero-title {
+        font-size: 40px;
+    }
+
+    .fitness-image-desktop {
+        max-width: 400px;
+    }
+}
+
+/* ===================== RESPONSIVE — MOBILE ===================== */
+
+@media (max-width: 768px) {
+    .action-plan-section,
+    .methods-section,
+    .techniques-section,
+    .application-requirements-section,
+    .visual-design-section,
+    .color-scheme-section,
+    .icons-section,
+    .typography-section,
+    .wireframes-section,
+    .mockups-section {
+        padding: 50px 20px;
+    }
+
+    .action-plan-content {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .action-plan-text,
+    .action-plan-image {
+        max-width: 100%;
+        flex: 1 1 100%;
+    }
+
+    .action-plan-title,
+    .methods-title,
+    .techniques-title {
+        font-size: 28px;
+    }
+
+    .methods-grid,
+    .techniques-grid {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .application-requirements-title,
+    .visual-design-title,
+    .color-scheme-title,
+    .logo-fitnessfriend-title,
+    .typography-title,
+    .icons-title,
+    .wireframes-title,
+    .mockups-title {
+        font-size: 28px;
+    }
+
+    .application-requirements-inner,
+    .visual-design-inner {
+        max-width: 100%;
+    }
+
+    /* Logo : texte puis logo */
+    .logo-fitnessfriend-section {
+        flex-direction: column;
+    }
+
+    .logo-fitnessfriend-text,
+    .logo-fitnessfriend-image {
+        flex: 1 1 100%;
+        padding: 50px 20px;
+    }
+
+    /* Typographie : image puis texte */
+    .typography-inner {
+        flex-direction: column;
+    }
+
+    .typography-image,
+    .typography-text {
+        flex: 1 1 100%;
+    }
+
+    /* Wireframes : image puis texte */
+    .wireframes-inner {
+        flex-direction: column;
+    }
+
+    .wireframes-image,
+    .wireframes-text {
+        flex: 1 1 100%;
+    }
+
+    /* Mockups : texte puis image */
+    .mockups-inner {
+        flex-direction: column;
+    }
+
+    .mockups-text,
+    .mockups-image {
+        flex: 1 1 50%;
+    }
+
+    .color-scheme-grid {
+        gap: 24px;
+    }
+
+    .color-item {
+        width: 100px;
+    }
+
+    .color-box {
+        width: 80px;
+        height: 80px;
+    }
+
+    /* Hero */
+    .fitnessfriend-hero {
+        padding: 50px 20px;
+        margin-top: 0px;
+    }
+
+    .fitnessfriend-hero-content {
+        flex-direction: column;
+        gap: 30px;
+        text-align: left;
+    }
+
+    .fitnessfriend-hero-text,
+    .fitnessfriend-hero-image {
+        flex: 1 1 100%;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .fitnessfriend-hero-title {
+        font-size: 32px;
+    }
+
+    .fitnessfriend-hero-paragraph {
+        max-width: 100%;
+    }
+
+    .fitness-image-desktop {
+        display: none;
+    }
+
+    .fitness-image-mobile {
+        display: block;
+    }
+
+    .fitnessfriend-hero-buttons {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 14px;
+    }
+
+    .fitnessfriend-hero-buttons > a {
+        justify-content: center;
+        width: 100%;
+    }
+}
+
+/* ===================== RESPONSIVE — PETIT MOBILE ===================== */
+
+@media (max-width: 480px) {
+
+    .fitnessfriend-hero {
+
+        margin-top: 0px;
+    }
+
+    .fitnessfriend-hero-title {
+        font-size: 28px;
+    }
+
+    .fitnessfriend-hero-paragraph {
+        font-size: 15px;
+    }
+
+    .mockups-image {
+        flex: 1 1 50%;
+    }
+}

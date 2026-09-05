@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    z-index: -1000;
+}
+
+.Section-WhoAreWe {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    background-color: black;
+    padding: 70px 5%;
+    gap: 100px;
+    box-sizing: border-box;
+}
+
+.WhoAreWe-left {
+    width: clamp(280px, 30%, 500px);
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.WhoAreWe-left h1 {
+    font-size: clamp(28px, 3vw, 48px);
+    font-weight: 400;
+    font-family: Poppins, sans-serif;
+    line-height: 1.2;
+    color: white;
+    /*background: linear-gradient(135deg, #44c3fa, #8f8cfc, #8f8cfc);*/
+    /*-webkit-background-clip: text;*/
+    /*-webkit-text-fill-color: transparent;*/
+}
+
+.WhoAreWe-right {
+    width: clamp(280px, 55%, 750px);
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.WhoAreWe-title {
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    /*font-family: "Poppins", sans-serif;*/
+    font-family: Poppins, sans-serif;
+    line-height: 1.6;
+}
+
+.WhoAreWe-text {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 20px 0;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+}
+
+.checklist-item2 {
+    display: flex;
+    gap: 15px;
+    font-size: clamp(13px, 1.1vw, 17px);
+    line-height: 1.6;
+    /*color: #465af9;*/
+}
+
+.checklist-item3 strong {
+    /*background: linear-gradient(135deg, #3b9ac5, #8f8dfc);*/
+    /*-webkit-background-clip: text;*/
+    /*-webkit-text-fill-color: transparent;*/
+    color: white;
+}
+
+.checklist-item2 i {
+    color: #3f97fb;
+    font-size: 30px;
+    flex-shrink: 0;
+    margin-top: 3px;
+}
+
+.checklist-item2 div {
+    font-weight: 300;
+    color: white;
+}
+
+/* Tablet */
+@media screen and (max-width: 940px) {
+    .Section-WhoAreWe {
+        padding: 50px 5%;
+        gap: 30px;
+    }
+
+    .WhoAreWe-left {
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    .WhoAreWe-left h1 {
+        font-size: clamp(28px, 5vw, 40px);
+    }
+
+    .WhoAreWe-right {
+        width: 100%;
+    }
+
+    .WhoAreWe-title {
+        font-size: 18px;
+    }
+
+    .checklist-item2 {
+        font-size: 16px;
+    }
+
+    .checklist-item2 i {
+        font-size: 24px;
+    }
+}
+
+/* Mobile */
+@media screen and (max-width: 480px) {
+    .Section-WhoAreWe {
+        padding: 40px 5%;
+        gap: 20px;
+    }
+
+    .WhoAreWe-left h1 {
+        font-size: 35px;
+    }
+
+    .WhoAreWe-title {
+        font-size: 16px;
+    }
+
+    .checklist-item2 {
+        font-size: 15px;
+        gap: 12px;
+    }
+
+    .checklist-item2 i {
+        font-size: 22px;
+    }
+
+    .checklist-item2 div {
+        font-size: 15px;
+        line-height: 1.6;
+    }
+}

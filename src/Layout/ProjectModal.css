@@ -1,0 +1,474 @@
+.project-modal-overlay {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(11, 63, 136, 0.65);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: clamp(12px, 3vw, 40px);
+    box-sizing: border-box;
+    z-index: 2000;
+    opacity: 0;
+    transition: opacity 0.25s ease;
+}
+
+.project-modal-overlay--open {
+    opacity: 1;
+}
+
+.project-modal {
+    position: relative;
+    width: 95vw;
+    max-width: 1400px;
+    height: 90vh;
+    max-height: 90vh;
+    background-color: #ffffff;
+    border-radius: 32px;
+    box-sizing: border-box;
+    overflow: hidden;
+    transform: scale(0.96) translateY(12px);
+    opacity: 0;
+    transition: transform 0.28s ease, opacity 0.28s ease;
+}
+
+.project-modal--open {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+}
+
+.project-modal__close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 2px solid var(--service-blue, #3f97fb);
+    background: #ffffff;
+    color: var(--service-blue, #3f97fb);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+    z-index: 10;
+}
+
+.project-modal__close:hover {
+    background-color: var(--service-blue, #3f97fb);
+    color: #ffffff;
+    transform: scale(1.05);
+}
+
+.project-modal__scroll {
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    padding: clamp(24px, 4vw, 56px);
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+/* ---- Header ---- */
+
+.project-modal__header {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-right: 48px;
+}
+
+.project-modal__eyebrow {
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--service-blue, #3f97fb);
+    font-family: "Poppins", sans-serif;
+}
+
+.project-modal__title {
+    font-size: clamp(1.8rem, 3.2vw, 2.6rem);
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    color: var(--service-text, #0b3f88);
+    line-height: 1.2;
+    margin: 0;
+}
+
+.project-modal__description {
+    font-size: clamp(0.95rem, 1.2vw, 1.1rem);
+    line-height: 1.6;
+    color: #333333;
+    font-family: "Poppins", sans-serif;
+    max-width: 900px;
+    margin: 0;
+}
+
+/* ---- Body : sections empilées, chacune sa propre carte ---- */
+
+.project-modal__body {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+.project-modal__section {
+    background-color: var(--service-blue-light, #d6eaff);
+    border-radius: 24px;
+    padding: clamp(20px, 2.6vw, 32px);
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    box-sizing: border-box;
+    min-width: 0;
+}
+
+.project-modal__section-title {
+    font-size: clamp(1.15rem, 1.7vw, 1.4rem);
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: var(--service-text, #0b3f88);
+    margin: 0;
+}
+
+.project-modal__section-subtitle {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--service-text, #0b3f88);
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}
+
+/* ---- Duo : Logo & Typographies + Cover, côte à côte sur desktop ---- */
+
+.project-modal__duo {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+}
+
+.project-modal__duo-column {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    min-width: 0;
+}
+
+/* ---- Grille média : bannières, covers, captures, vêtements ---- */
+
+.project-modal__grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.project-modal__grid-item {
+    flex: 1 1 240px;
+    max-width: 100%;
+    min-width: 0;
+    border-radius: 16px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.project-modal__grid-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 16px;
+}
+
+.project-modal__grid-item--framed {
+    background-color: #ffffff;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+.project-modal__grid-item--framed img {
+    width: auto;
+    max-width: 100%;
+    max-height: 360px;
+    object-fit: contain;
+    border-radius: 8px;
+}
+
+.project-modal__grid-item--device {
+    background-color: transparent;
+    flex: 1 1 200px;
+}
+
+.project-modal__grid-item--device img {
+    width: auto;
+    max-width: 100%;
+    max-height: 320px;
+    object-fit: contain;
+    border-radius: 0;
+}
+
+.project-modal__grid-caption {
+    font-size: 0.9rem;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: var(--service-text, #0b3f88);
+    text-align: center;
+}
+
+/* ---- Logos / cartes de visite ---- */
+
+.project-modal__logo-showcase {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.project-modal__logo-box {
+    flex: 1 1 220px;
+    max-width: 320px;
+    min-width: 180px;
+    border-radius: 18px;
+    padding: 28px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.project-modal__logo-box img {
+    width: 100%;
+    height: auto;
+    max-height: 140px;
+    object-fit: contain;
+}
+
+.project-modal__logo-box--light {
+    background-color: #ffffff;
+}
+
+.project-modal__logo-box--dark {
+    background-color: #0b0b0f;
+}
+
+.project-modal__logo-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #8a8f98;
+    text-align: center;
+}
+
+/* ---- Palette de couleurs ---- */
+
+.project-modal__palette {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+}
+
+.project-modal__color-card {
+    flex: 0 1 140px;
+    min-width: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    padding: 14px;
+    box-sizing: border-box;
+}
+
+.project-modal__color-swatch {
+    width: 100%;
+    height: 70px;
+    border-radius: 12px;
+    border: 1px solid rgba(11, 63, 136, 0.15);
+}
+
+.project-modal__color-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.project-modal__color-name {
+    font-size: 0.9rem;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: var(--service-text, #0b3f88);
+}
+
+.project-modal__color-hex {
+    font-size: 0.8rem;
+    font-family: "Poppins", sans-serif;
+    color: #6d7686;
+    text-transform: uppercase;
+}
+
+/* ---- Hero artiste : extrait du clip ---- */
+
+.project-modal__hero-video-frame {
+    width: 100%;
+    border-radius: 18px;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+.project-modal__hero-video {
+    width: 100%;
+    height: auto;
+    max-height: 520px;
+    display: block;
+    object-fit: cover;
+}
+
+.project-modal__hero-footer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+}
+
+.project-modal__hero-logo {
+    height: 48px;
+    width: auto;
+    object-fit: contain;
+}
+
+.project-modal__hero-info {
+    flex: 1 1 220px;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--service-text, #0b3f88);
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}
+
+.project-modal__hero-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 12px 28px;
+    border: 2px solid var(--service-blue, #3f97fb);
+    background: var(--service-blue, #3f97fb);
+    font-size: 0.95rem;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease, border-color 0.3s ease;
+}
+
+.project-modal__hero-button:hover {
+    background-color: var(--service-blue-dark, #0b3f88);
+    border-color: var(--service-blue-dark, #0b3f88);
+    transform: scale(1.05);
+}
+
+/* ---- Tablet ---- */
+
+@media (max-width: 1024px) {
+    .project-modal {
+        width: 94vw;
+        height: 92vh;
+    }
+
+    .project-modal__scroll {
+        padding: 28px;
+        gap: 24px;
+    }
+
+    .project-modal__duo {
+        grid-template-columns: 1fr;
+    }
+
+    .project-modal__grid-item {
+        flex: 1 1 200px;
+    }
+}
+
+/* ---- Mobile ---- */
+
+@media (max-width: 768px) {
+    .project-modal-overlay {
+        padding: 0;
+    }
+
+    .project-modal {
+        width: 100vw;
+        height: 100vh;
+        max-height: 100vh;
+        border-radius: 0;
+    }
+
+    .project-modal__scroll {
+        padding: 20px;
+        gap: 20px;
+    }
+
+    .project-modal__header {
+        padding-right: 44px;
+    }
+
+    .project-modal__body {
+        gap: 20px;
+    }
+
+    .project-modal__section {
+        padding: 18px;
+        border-radius: 20px;
+        gap: 14px;
+    }
+
+    .project-modal__close {
+        top: 12px;
+        right: 12px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .project-modal__hero-video {
+        max-height: 320px;
+    }
+
+    .project-modal__grid-item {
+        flex: 1 1 100%;
+    }
+
+    .project-modal__logo-box {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+
+    .project-modal__color-card {
+        flex: 1 1 45%;
+    }
+}
+
+@media (max-width: 480px) {
+    .project-modal__scroll {
+        padding: 16px;
+    }
+
+    .project-modal__section {
+        padding: 14px;
+        border-radius: 16px;
+    }
+
+    .project-modal__hero-video {
+        max-height: 240px;
+    }
+
+    .project-modal__color-card {
+        flex: 1 1 100%;
+    }
+}

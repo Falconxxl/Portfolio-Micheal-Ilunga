@@ -1,0 +1,828 @@
+/* ==========================================================================
+   SkillsDetail.css
+   ========================================================================== */
+
+.skills-page {
+    --sk-blue: #3f97fb;
+    --sk-blue-deep: #0b3f88;
+    --sk-blue-text: #0a3e89;
+    --sk-track: #dceaff;
+    --sk-track-soft: #eaf3fe;
+    --sk-white: #ffffff;
+    --sk-ink-soft: #4d5b73;
+    --sk-radius-lg: 24px;
+    --sk-radius-md: 14px;
+    --sk-radius-pill: 999px;
+    --sk-font-display: "Sora", "Segoe UI", system-ui, sans-serif;
+    --sk-font-body: "Poppins", "Segoe UI", system-ui, sans-serif;
+
+    font-family: var(--sk-font-body);
+    font-size: 17px;
+    font-weight: 500;
+    color: var(--sk-blue-text);
+    background: var(--sk-white);
+
+    overflow-x: hidden;
+}
+
+.skills-page * {
+    box-sizing: border-box;
+}
+
+.skills-page img {
+    max-width: 100%;
+    display: block;
+}
+
+
+/* ==========================================================================
+   GENERAL SECTIONS
+   ========================================================================== */
+
+.skills-section {
+    padding: clamp(48px, 7vw, 96px) clamp(20px, 6vw, 96px);
+    width: 100%;
+}
+
+.skills-section__inner {
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+
+/* ==========================================================================
+   BANNER
+   ========================================================================== */
+
+.skills-banner {
+    width: 100%;
+
+    background-color: #0b3f88;
+
+    padding-top: 200px;
+    padding-bottom: 90px;
+    padding-left: clamp(20px, 6vw, 96px);
+    padding-right: clamp(20px, 6vw, 96px);
+
+    box-sizing: border-box;
+
+    overflow: visible;
+}
+
+.skills-banner__inner {
+    width: 100%;
+    max-width: 1240px;
+
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+
+    align-items: center;
+
+    gap: clamp(32px, 5vw, 64px);
+
+    box-sizing: border-box;
+}
+
+.skills-banner__title {
+    font-family: var(--sk-font-display);
+
+    font-weight: 400;
+
+    font-size: clamp(32px, 4vw, 60px);
+
+    line-height: 1.15;
+
+    color: white;
+
+    margin: 0 0 18px 0;
+}
+
+.skills-banner__text {
+    width: 100%;
+    max-width: 850px;
+
+    font-size: 17px;
+
+    font-weight: 400;
+
+    line-height: 1.65;
+
+    color: white;
+
+    margin: 0;
+}
+
+.skills-banner__media {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+}
+
+.skills-banner-image {
+    width: 100%;
+    max-width: 440px;
+
+    border-radius: var(--sk-radius-lg);
+
+    object-fit: cover;
+}
+
+
+/* ==========================================================================
+   EDUCATION & TRAINING
+   ========================================================================== */
+
+.skills-education__intro {
+    max-width: 760px;
+
+    font-size: 17px;
+
+    line-height: 1.7;
+
+    margin: 0 0 clamp(40px, 5vw, 64px);
+}
+
+.skills-education__heading {
+    font-family: var(--sk-font-display);
+
+    font-weight: 700;
+
+    font-size: clamp(26px, 3vw, 34px);
+
+    color: var(--sk-blue-deep);
+
+    margin: 0 0 20px;
+}
+
+.education-row {
+    display: grid;
+
+    grid-template-columns: 260px 1fr;
+
+    gap: clamp(24px, 4vw, 56px);
+
+    padding: 32px 0;
+
+    border-top: 1px solid var(--sk-track);
+}
+
+.education-row:last-child {
+    padding-bottom: 0;
+}
+
+.education-row__label {
+    font-family: var(--sk-font-display);
+
+    font-weight: 600;
+
+    font-size: 14px;
+
+    letter-spacing: 0.04em;
+
+    text-transform: uppercase;
+
+    color: var(--sk-blue);
+}
+
+.education-row__title {
+    font-family: var(--sk-font-display);
+
+    font-weight: 700;
+
+    font-size: clamp(20px, 2.4vw, 26px);
+
+    color: var(--sk-blue-deep);
+
+    margin: 0 0 4px;
+}
+
+.education-row__subtitle {
+    font-size: 14.5px;
+
+    font-weight: 600;
+
+    color: var(--sk-ink-soft);
+
+    margin: 0 0 12px;
+}
+
+.education-row__text {
+    font-size: 16px;
+
+    line-height: 1.7;
+
+    color: var(--sk-blue-text);
+
+    margin: 0 0 10px;
+}
+
+.education-row__tags {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 8px;
+
+    margin-top: 14px;
+}
+
+.education-tag {
+    font-size: 12.5px;
+
+    font-weight: 600;
+
+    color: var(--sk-blue-deep);
+
+    background: var(--sk-track-soft);
+
+    border: 1px solid var(--sk-track);
+
+    border-radius: var(--sk-radius-pill);
+
+    padding: 6px 14px;
+}
+
+
+/* ==========================================================================
+   SKILLS BY FIELD
+   ========================================================================== */
+
+.skills-fields {
+    background-color: #f6faff;
+}
+
+.skills-fields__intro {
+    max-width: 760px;
+
+    margin: 0 0 clamp(36px, 5vw, 56px);
+}
+
+.skills-fields__note {
+    display: inline-block;
+
+    font-size: 13.5px;
+
+    font-weight: 600;
+
+    color: var(--sk-blue);
+
+    background: rgba(63, 151, 251, 0.1);
+
+    border-radius: var(--sk-radius-pill);
+
+    padding: 6px 16px;
+
+    margin-top: 10px;
+}
+
+.skill-category {
+    margin-bottom: clamp(40px, 5vw, 64px);
+}
+
+.skill-category:last-child {
+    margin-bottom: 0;
+}
+
+.skill-category__title {
+    font-family: var(--sk-font-display);
+
+    font-weight: 700;
+
+    font-size: clamp(22px, 2.6vw, 28px);
+
+    color: var(--sk-blue-deep);
+
+    margin: 0 0 24px;
+}
+
+.skill-group {
+    margin-bottom: 32px;
+}
+
+.skill-group:last-child {
+    margin-bottom: 0;
+}
+
+.skill-group__title {
+    font-family: var(--sk-font-display);
+
+    font-weight: 600;
+
+    font-size: 16px;
+
+    color: var(--sk-blue);
+
+    margin: 0 0 16px;
+
+    padding-bottom: 8px;
+
+    border-bottom: 1px solid var(--sk-track);
+}
+
+.skill-grid {
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 28px 24px;
+}
+
+.skill-bar-item {
+    min-width: 0;
+}
+
+.skill-bar-track {
+    width: 100%;
+
+    height: 34px;
+
+    background: var(--sk-track);
+
+    border-radius: var(--sk-radius-pill);
+
+    overflow: visible;
+
+    position: relative;
+}
+
+.skill-bar-fill {
+    height: 100%;
+
+    background: var(--sk-blue);
+
+    border-radius: var(--sk-radius-pill);
+
+    display: flex;
+
+    align-items: center;
+
+    min-width: 42px;
+}
+
+.skill-bar-pct {
+    font-family: var(--sk-font-display);
+
+    font-size: 13px;
+
+    font-weight: 700;
+
+    color: var(--sk-white);
+
+    padding-left: 12px;
+
+    white-space: nowrap;
+}
+
+.skill-bar-name {
+    font-family: var(--sk-font-display);
+
+    font-weight: 600;
+
+    font-size: 15px;
+
+    color: var(--sk-blue-text);
+
+    margin: 10px 0 0;
+}
+
+
+/* ==========================================================================
+   RESPONSIVE
+   ========================================================================== */
+
+
+/* ==========================================================================
+   <= 1080px
+   ========================================================================== */
+
+@media screen and (max-width: 1080px) {
+
+    .skill-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+}
+
+
+/* ==========================================================================
+   <= 860px
+   ========================================================================== */
+
+@media screen and (max-width: 860px) {
+
+    .skills-banner {
+        padding-top: 120px;
+        padding-bottom: 80px;
+    }
+
+    .skills-banner__inner {
+        grid-template-columns: 1fr;
+
+        text-align: center;
+
+        gap: 40px;
+    }
+
+    .skills-banner__text {
+        width: 100%;
+        max-width: 750px;
+
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .skills-banner__media {
+        order: -1;
+    }
+
+    .skills-banner-image {
+        max-width: 320px;
+    }
+
+    .education-row {
+        grid-template-columns: 1fr;
+
+        gap: 10px;
+    }
+
+    .skill-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+/* ==========================================================================
+   MOBILE
+   <= 768px
+   ========================================================================== */
+
+@media screen and (max-width: 768px) {
+
+    .skills-page {
+        font-size: 17px;
+    }
+
+
+    /* -------------------------
+       BANNER
+       ------------------------- */
+
+    .skills-banner {
+
+        width: 100%;
+
+        padding-top: 200px;
+        padding-bottom: 100px;
+
+        padding-left: 20px;
+        padding-right: 20px;
+
+        min-height: auto;
+
+        overflow: visible;
+    }
+
+    .skills-banner__inner {
+
+        width: 100%;
+
+        display: flex;
+
+        flex-direction: column;
+
+        align-items: center;
+
+        justify-content: center;
+
+        gap: 35px;
+
+        padding: 0;
+
+        margin: 0 auto;
+
+        text-align: center;
+    }
+
+    .skills-banner__title {
+
+        width: 100%;
+
+        font-size: 36px;
+
+        line-height: 1.15;
+
+        margin: 0 0 20px 0;
+
+        word-break: normal;
+
+        overflow-wrap: break-word;
+    }
+
+    .skills-banner__text {
+
+        width: 100%;
+
+        max-width: 100%;
+
+        font-size: 17px;
+
+        line-height: 1.7;
+
+        margin: 0;
+
+        padding: 0;
+
+        word-break: normal;
+
+        overflow-wrap: break-word;
+    }
+
+    .skills-banner__media {
+
+        width: 100%;
+
+        order: -1;
+
+        display: flex;
+
+        justify-content: center;
+
+        align-items: center;
+    }
+
+    .skills-banner-image {
+
+        width: 100%;
+
+        max-width: 320px;
+
+        height: auto;
+    }
+
+
+    /* -------------------------
+       EDUCATION
+       ------------------------- */
+
+    .skills-section {
+
+        width: 100%;
+
+        padding-top: 70px;
+        padding-bottom: 70px;
+
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .education-row {
+
+        width: 100%;
+
+        grid-template-columns: 1fr;
+
+        gap: 12px;
+
+        padding: 28px 0;
+    }
+
+    .education-row__text {
+
+        font-size: 15px;
+
+        line-height: 1.7;
+    }
+
+    .education-row__tags {
+
+        gap: 7px;
+    }
+
+
+    /* -------------------------
+       SKILLS
+       ------------------------- */
+
+    .skills-fields {
+
+        width: 100%;
+
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .skill-grid {
+
+        grid-template-columns: 1fr;
+
+        gap: 22px;
+    }
+
+    .skill-bar-track {
+
+        height: 30px;
+    }
+
+    .skill-bar-pct {
+
+        font-size: 12px;
+
+        padding-left: 10px;
+    }
+
+    .skill-bar-name {
+
+        font-size: 14px;
+
+        margin-top: 8px;
+    }
+
+}
+
+
+/* ==========================================================================
+   SMALL MOBILE
+   <= 480px
+   ========================================================================== */
+
+@media screen and (max-width: 480px) {
+
+    .skills-page {
+        font-size: 15px;
+    }
+
+
+    /* -------------------------
+       BANNER
+       ------------------------- */
+
+    .skills-banner {
+
+        padding-top: 200px;
+        padding-bottom: 100px;
+
+        padding-left: 20px;
+        padding-right: 20px;
+
+        min-height: auto;
+    }
+
+    .skills-banner__inner {
+
+        width: 100%;
+
+        gap: 30px;
+
+        text-align: center;
+    }
+
+    .skills-banner__title {
+
+        width: 100%;
+
+        font-size: 31px;
+
+        line-height: 1.15;
+
+        margin-bottom: 20px;
+    }
+
+    .skills-banner__text {
+
+        width: 100%;
+
+        max-width: none;
+
+        font-size: 15px;
+
+        line-height: 1.7;
+
+        margin: 0;
+
+        padding: 0;
+    }
+
+    .skills-banner-image {
+
+        width: 100%;
+
+        max-width: 280px;
+    }
+
+
+    /* -------------------------
+       EDUCATION
+       ------------------------- */
+
+    .skills-section {
+
+        padding-top: 60px;
+        padding-bottom: 60px;
+
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .skills-education__intro {
+
+        font-size: 17px;
+
+        line-height: 1.7;
+    }
+
+    .education-row {
+
+        padding: 25px 0;
+
+        gap: 10px;
+    }
+
+    .education-row__label {
+
+        font-size: 17px;
+    }
+
+    .education-row__title {
+
+        font-size: 21px;
+    }
+
+    .education-row__subtitle {
+
+        font-size: 17px;
+        color: #ff109d;
+    }
+
+    .education-row__text {
+
+        font-size: 17px;
+
+        line-height: 1.7;
+    }
+
+    .education-tag {
+
+        font-size: 11.5px;
+
+        padding: 5px 12px;
+    }
+
+
+    /* -------------------------
+       SKILLS
+       ------------------------- */
+
+    .skills-fields {
+
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .skill-category__title {
+
+        font-size: 23px;
+
+        margin-bottom: 20px;
+    }
+
+    .skill-group__title {
+
+        font-size: 15px;
+
+        margin-bottom: 14px;
+    }
+
+    .skill-grid {
+
+        grid-template-columns: 1fr;
+
+        gap: 20px;
+    }
+
+    .skill-bar-track {
+
+        height: 30px;
+    }
+
+    .skill-bar-pct {
+
+        font-size: 11px;
+
+        padding-left: 10px;
+    }
+
+    .skill-bar-name {
+
+        font-size: 13.5px;
+
+        margin-top: 8px;
+    }
+
+}

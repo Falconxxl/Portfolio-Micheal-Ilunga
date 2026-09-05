@@ -1,0 +1,277 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap');
+
+/* ensuite seulement tes styles */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-banner {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Background images */
+.hero-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.desktop-image { display: block; }
+.mobile-image { display: none; }
+
+/* Hero content */
+.hero-content {
+    position: absolute;
+    top: 35%;               /* placé à 40% du haut */
+    left: 100px;            /* 250px depuis la gauche */
+    color: black;
+    height: auto;
+    /*width: 1vw;*/
+
+    /*background-color: blue;*/
+    /*max-width: calc(100% - 250px - 120px); !* laisse un espace à droite *!*/
+}
+
+.logo-falcon-banner {
+    width: 60%;
+    margin-bottom: 30px;
+}
+
+.hero-content h1 {
+    /*font-family:"Poppins", sans-serif;*/
+    /*font-family:"Montserrat", sans-serif;*/
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 58px;      /* ou 7vw si tu veux responsive */
+    font-weight: 500;     /* ultra-thin */
+    /*color: #3f97fb;*/
+    color: #3f97fb;
+    line-height: 1.0;
+    margin-bottom: 30px;
+}
+
+.hero-content p {
+    /*font-family: "Figtree", sans-serif;*/
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.6;
+    /*color: #f1f1f1;*/
+    color: #0b3f88;
+    margin-bottom: 50px;   /* espace entre p et bouton */
+    font-weight: 400;
+    width:50%;
+    /*margin-top: 50px;*/
+}
+
+.cta-container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.hero-content .cta-btn {
+    position: relative;
+    z-index: 3;
+
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-family: "Figtree", sans-serif;
+    border-radius: 60px;
+
+    border: 2px solid transparent;
+
+    background-color: #11b61d;
+
+    /*background:*/
+    /*        linear-gradient(black, black) padding-box,*/
+    /*        linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;*/
+
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.hero-content .cta-btn2 {
+    position: relative;
+    z-index: 3;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;        /* même que cta-btn */
+    font-family: "Figtree", sans-serif;
+    border-radius: 60px;
+    background-color: #3f97fb;
+    border: 2px solid #3f97fb;
+    /*border: 2px solid #7856f4;*/
+    font-size: 16px;           /* même que cta-btn */
+    font-weight: 600;          /* même que cta-btn */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.hero-content .cta-btn2:hover {
+    background-color: #0b3f88;
+    /*background-color:black;*/
+    color: white;
+    border: 2px solid #0b3f88;
+
+    /*background:*/
+    /*        linear-gradient(black, black) padding-box,*/
+    /*        linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;*/
+
+    /*transform: scale(1.1);*/
+    /*border: 3px solid black;*/
+}
+
+/* Scroll button */
+.scroll-down {
+    position: absolute;
+    bottom: 100px;
+    left: 95%;
+    transform: translateX(-50%);
+    font-size: 1.5rem;
+    color: white;
+
+    border-radius: 50px;
+    text-decoration: none;
+
+    border: 2px solid transparent;
+
+    background:
+            linear-gradient(#3f97fb, #3f97fb) padding-box,
+            linear-gradient(90deg, #3f97fb, #3f97fb, #3f97fb) border-box;
+
+    height: 50px;
+    width: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    animation: bounce 2s infinite;
+}
+
+.scroll-down:hover {
+    background-color: #3f97fb;
+    transform: translateX(-50%) scale(1.1);
+    /*background-color: black;*/
+    /*color: white;*/
+    /*border: 2px solid #f3bb2f;*/
+}
+
+/* Animation */
+@keyframes bounce {
+    0%, 100% { transform: translate(-50%, 0); }
+    50% { transform: translate(-50%, -10px); }
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .hero-content {
+        left: 80px;
+        right: 80px;
+        top: 20%;
+    }
+    .hero-content h1 {
+        font-size: 4rem;
+        margin-bottom: 50px;
+        /*background-color: red;*/
+    }
+    .hero-content p {
+        font-size: 1.2rem;
+        margin-bottom: 80px;
+        /*background-color: green;*/
+    }
+}
+
+@media (max-width: 768px) {
+    .desktop-image { display: none; }
+    .mobile-image { display: block;
+        background-color: #3f97fb;
+    }
+
+    .cta-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px}
+
+    .hero-content {
+        top: 17%;
+        left: 10%;
+        right: 10%;
+        margin-bottom: 30px;
+    }
+
+    .logo-falcon-banner {
+        width: 70%;
+        margin-bottom: 20px;
+    }
+
+    .hero-content h1 {
+        font-size: 2.5rem;
+        white-space: normal;
+        margin-bottom: 30px;
+        margin-top: 10px;
+        /*background-color: red;*/
+    }
+
+    .hero-content p {
+        font-size: 1.1rem;
+        margin-bottom: 40px;
+        width:100%;
+        /*background-color: green;*/
+    }
+
+    .hero-content .cta-btn {
+        padding: 14px 35px;
+        font-size: 14px;
+    }
+
+    /*.hero-content .cta-btn2 {*/
+    /*    padding: 14px 35px;        !* même que cta-btn *!*/
+    /*    font-size: 14px;           !* même que cta-btn *!*/
+    /*    background-color: #7856f4;*/
+    /*    border: 2px solid #7856f4;*/
+    /*}*/
+
+    .hero-content .cta-btn2 {
+        display: none;       /* même que cta-btn */
+    }
+}
+
+@media (max-width: 480px) {
+
+    .hero-content h1 { font-size: 2.4rem; }
+    .hero-content .cta-btn {
+        font-size: 13px;
+        padding: 14px 35px;
+    }
+
+    /*.hero-content .cta-btn2 {*/
+    /*    font-size: 14px;           !* même que cta-btn *!*/
+    /*    padding: 14px 35px;        !* même que cta-btn *!*/
+    /*}*/
+
+    .hero-content .cta-btn2 {
+        display: none;       /* même que cta-btn */
+    }
+
+}

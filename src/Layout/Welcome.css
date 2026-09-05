@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800;900&display=swap');
+
+/* ─── Reset ─────────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* ─── Wrapper page ───────────────────────────────────────────────
+   Fond blanc, centré horizontalement, padding top pour que le
+   background (et Mike qui dépasse) ne soit pas coupé par le bord.
+──────────────────────────────────────────────────────────────── */
+.welcome-wrapper {
+    font-family: 'Poppins', sans-serif;
+    background: #ffffff;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 60px 40px 40px; /* padding-top : espace pour que Mike dépasse en haut */
+}
+
+/* ─── Conteneur background desktop ──────────────────────────────
+   - background-image : le PNG qui contient Mike + forme noire + forme jaune
+   - background-size: contain pour que toute l'image soit visible
+   - height calée sur le ratio naturel de l'image (708 / 3360 ≈ 21%)
+   - display flex horizontal pour aligner les deux zones côte à côte
+   - overflow: visible (Mike dépasse intentionnellement en haut dans le design)
+──────────────────────────────────────────────────────────────── */
+.welcome-bg {
+    width: 100%;
+    max-width: 2000px;
+    /* Ratio hauteur/largeur de l'image PNG : 708 / 3360 = 21.07% */
+    aspect-ratio: 3360 / 708;
+    background-image: url('../Images/mike_veste_background.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    /* Flex horizontal pour aligner zone noire et zone jaune */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    /* Pas de overflow hidden ici : Mike dépasse intentionnellement vers le haut */
+    position: relative;
+}
+
+/* ─── ZONE NOIRE ─────────────────────────────────────────────────
+   Occupe ~75% de la largeur (toute la forme noire).
+   padding-left important pour laisser la place à Mike (~22% de largeur).
+   overflow: hidden — aucun texte ne dépasse du rectangle noir.
+──────────────────────────────────────────────────────────────── */
+.welcome-black-zone {
+    /* La zone noire commence à ~0% et se termine à ~76% de la largeur totale du bg */
+    width: 76%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 32px;
+
+    /* padding-left : espace pour Mike (~22% de la largeur totale) */
+    padding-left: 24%;
+    padding-right: 40px;
+
+    /* Sécurité : aucun contenu ne sort de cette zone */
+    overflow: hidden;
+}
+
+/* ─── Titre ──────────────────────────────────────────────────── */
+.welcome-title {
+    color: #ffffff;
+    font-size: clamp(0.9rem, 1.6vw, 1.5rem);
+    font-weight: 900;
+    line-height: 1.15;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+/* ─── Description ────────────────────────────────────────────── */
+.welcome-description {
+    color: #ffffff;
+    font-size: clamp(0.65rem, 1vw, 0.9rem);
+    font-weight: 400;
+    line-height: 1.65;
+}
+
+/* Mots en jaune + gras */
+.highlight {
+    color: #f5c518;
+    font-weight: 700;
+}
+
+/* ─── ZONE JAUNE ─────────────────────────────────────────────────
+   Occupe le reste de la largeur (~24%) — alignée sur le rectangle jaune.
+   overflow: hidden — aucun élément ne déborde vers la zone noire.
+──────────────────────────────────────────────────────────────── */
+.welcome-yellow-zone {
+    width: 24%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 20px;
+
+    /* Sécurité : aucun élément ne sort de cette zone */
+    overflow: hidden;
+}
+
+/* ─── Titre social ───────────────────────────────────────────── */
+.welcome-social-title {
+    color: #111111;
+    font-size: clamp(0.8rem, 1.4vw, 1.25rem);
+    font-weight: 800;
+    margin-bottom: 10px;
+    white-space: nowrap;
+}
+
+/* ─── Icônes sociales ────────────────────────────────────────── */
+.welcome-social-icons {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* Taille en clamp pour s'adapter au conteneur */
+    width: clamp(28px, 3.2vw, 42px);
+    height: clamp(28px, 3.2vw, 42px);
+    background: #111111;
+    border-radius: 50%;
+    text-decoration: none;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    flex-shrink: 0;
+}
+
+.social-icon:hover {
+    transform: scale(1.1);
+    opacity: 0.85;
+}

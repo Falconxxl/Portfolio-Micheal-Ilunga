@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Container-Navbar2 {
+    width: 100%;
+    height: 50px;
+
+    background: linear-gradient(
+            90deg,
+            #455afa 0%,
+            #7357eb 100%
+    );
+
+
+    /*background-color: #7357eb;*/
+
+    box-sizing: border-box;
+
+    top: 14vh;
+    left: 0;
+    position: fixed;
+    z-index: 300;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Container-buttons-Navbar2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 250px;
+    font-size: 20px;
+    list-style-type: none;
+    font-family:  "Montserrat", sans-serif;
+    text-decoration: none;
+}
+
+.Menu-button-navbar2 {
+    list-style-type: none;
+    font-family:  "Montserrat", sans-serif;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+}
+
+.Menu-button-navbar2:hover {
+    color: #45c3fa;
+
+}
+
+.Menu-button-navbar2.active {
+    color: #45c3fa;
+}
+
+/*-------------------------------------------*/
+
+@media screen and (max-width:1225px) {
+
+
+    .Container-buttons-Navbar2 {
+        gap: 150px;
+        font-size: 18px;
+    }
+}
+
+
+/*-------------------------------------------*/
+
+@media screen and (max-width:1000px) {
+
+
+    .Container-Navbar2 {
+        display: none;
+        padding: 20px;
+    }
+
+    .Container-buttons-Navbar2 {
+        margin-top: 97px;
+        gap: 36px;
+        font-size: 15px;
+    }
+
+}

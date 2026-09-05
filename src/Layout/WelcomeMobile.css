@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800;900&display=swap');
+
+/* ─── Reset ─────────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* ─── Wrapper page ───────────────────────────────────────────────
+   Fond blanc, colonne centrée, largeur limitée à 480px (mobile).
+──────────────────────────────────────────────────────────────── */
+.wm-wrapper {
+    font-family: 'Poppins', sans-serif;
+    background: #ffffff;
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 16px 40px;
+    gap: 24px;
+}
+
+/* ─── Conteneur background mobile ───────────────────────────────
+   - background-image : PNG mobile (1163 × 1858)
+   - aspect-ratio calé sur le ratio naturel : 1163 / 1858 ≈ 0.626
+   - background-size: 100% 100% pour que l'image couvre exactement
+   - display flex vertical pour séparer zone jaune (haut) et noire (bas)
+   - overflow: hidden — rien ne dépasse du conteneur
+──────────────────────────────────────────────────────────────── */
+.wm-bg {
+    width: 100%;
+    /* Ratio 1163 / 1858 */
+    aspect-ratio: 1163 / 1858;
+    background-image: url('../Images/mike_veste_background_mobile.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+    /* Sécurité absolue : rien ne sort du conteneur */
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+/* ─── ZONE JAUNE (haut) ─────────────────────────────────────────
+   Occupe ~54% de la hauteur de l'image (zone dégradé jaune + Mike).
+   Aucun contenu texte ici — Mike est dans le background PNG.
+──────────────────────────────────────────────────────────────── */
+.wm-yellow-zone {
+    /* ~54% de la hauteur totale de l'image = espace pour Mike */
+    flex: 0 0 54%;
+    /* overflow: hidden — aucun élément accidentel ne peut s'y glisser */
+    overflow: hidden;
+}
+
+/* ─── ZONE NOIRE (bas) ──────────────────────────────────────────
+   Occupe ~46% de la hauteur de l'image (rectangle noir arrondi).
+   Contient UNIQUEMENT titre + description.
+   overflow: hidden — aucun texte ne dépasse du rectangle noir.
+──────────────────────────────────────────────────────────────── */
+.wm-black-zone {
+    flex: 0 0 46%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 16px;
+    padding: 20px 24px 24px;
+
+    /* Sécurité : aucun texte ne sort du rectangle noir */
+    overflow: hidden;
+}
+
+/* ─── Titre ──────────────────────────────────────────────────── */
+.wm-title {
+    color: #ffffff;
+    font-size: clamp(1.6rem, 7vw, 2.4rem);
+    font-weight: 900;
+    line-height: 1.1;
+    text-align: center;
+}
+
+/* ─── Description ────────────────────────────────────────────── */
+.wm-description {
+    color: #ffffff;
+    font-size: clamp(0.78rem, 3.5vw, 1rem);
+    font-weight: 400;
+    line-height: 1.65;
+    text-align: left;
+}
+
+/* Mots en jaune + gras */
+.wm-highlight {
+    color: #f5c518;
+    font-weight: 700;
+}
+
+/* ─── CARTE SOCIALE ──────────────────────────────────────────────
+   Séparée du background (bloc indépendant en dessous).
+   Fond jaune, overflow: hidden — aucun élément ne dépasse.
+──────────────────────────────────────────────────────────────── */
+.wm-social-card {
+    width: 100%;
+    background: #f5c518;
+    border-radius: 20px;
+    padding: 22px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+
+    /* Sécurité : aucun élément ne dépasse du cadre jaune */
+    overflow: hidden;
+}
+
+/* ─── Titre social ───────────────────────────────────────────── */
+.wm-social-title {
+    font-size: clamp(1.1rem, 5vw, 1.5rem);
+    font-weight: 800;
+    color: #111111;
+}
+
+/* ─── Icônes sociales ────────────────────────────────────────── */
+.wm-social-icons {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.wm-social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    background: #111111;
+    border-radius: 50%;
+    text-decoration: none;
+    flex-shrink: 0;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.wm-social-icon:hover {
+    transform: scale(1.1);
+    opacity: 0.85;
+}

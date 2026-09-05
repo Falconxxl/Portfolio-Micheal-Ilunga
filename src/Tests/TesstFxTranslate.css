@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*---------Basic Package------------------*/
+
+.container-test {
+    background-color: #fe609e;
+    height: 100vh;
+    width: 100%;
+    color: #f3bb2f;
+}
+
+.text-try {
+    background-color: #fe609e;
+    height: 100vh;
+    width: 100%;
+    color: red;
+}

@@ -1,0 +1,82 @@
+/* 📁 src/pages/CollaborationWrapper/CollaborationWrapper.css */
+
+/*
+  Slide transition system:
+  - phase: idle          → position 0 (visible, in place)
+  - phase: exit-main     → slides out to the LEFT  (-100%)
+  - phase: enter-details → slides in FROM the right (starts at +100%, ends at 0)
+  - phase: exit-details  → slides out to the RIGHT (+100%)
+  - phase: enter-main    → slides in FROM the left (starts at -100%, ends at 0)
+*/
+
+.collab-wrapper {
+    overflow: hidden;
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+}
+
+.collab-wrapper__scene {
+    width: 100%;
+    min-height: 100vh;
+    transition: transform 400ms cubic-bezier(0.4, 0, 0.2, 1),
+    opacity 400ms ease;
+    will-change: transform, opacity;
+}
+
+/* ── Idle: in place, fully visible ── */
+.collab-wrapper__scene--idle {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+/* ── Exit main → slide to the left ── */
+.collab-wrapper__scene--exit-main {
+    transform: translateX(-100%);
+    opacity: 0;
+}
+
+/* ── Enter details → comes from the right, ends at 0 ── */
+.collab-wrapper__scene--enter-details {
+    transform: translateX(0);
+    opacity: 1;
+    /* The starting position is set by JS switching the DOM before this class,
+       so the browser transitions from translateX(+100%) to 0.
+       We trick it by starting with a small translateX and letting it animate to 0.
+       If you want the "from right" effect on enter, use the keyframe approach below. */
+    animation: slideInFromRight 400ms cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* ── Exit details → slide to the right ── */
+.collab-wrapper__scene--exit-details {
+    transform: translateX(100%);
+    opacity: 0;
+}
+
+/* ── Enter main → comes from the left, ends at 0 ── */
+.collab-wrapper__scene--enter-main {
+    animation: slideInFromLeft 400ms cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* ── Keyframes ── */
+@keyframes slideInFromRight {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideInFromLeft {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Pages principales -->
+    <url>
+        <loc>https://www.nexteclat.com/</loc>
+        <priority>1.0</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Services</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Projects</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/About</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Prices</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Contact</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/News</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Shop</loc>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Trainings</loc>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Collaboration</loc>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- Pages services (Links) -->
+    <url>
+        <loc>https://www.nexteclat.com/AudioVisual</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Photography</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Webdesign</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/BrandIdentity</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Music</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/DigitalMarketing</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- Pages légales -->
+    <url>
+        <loc>https://www.nexteclat.com/PrivacyPolicy</loc>
+        <priority>0.4</priority>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/ConditionsOfSale</loc>
+        <priority>0.4</priority>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.nexteclat.com/Faq</loc>
+        <priority>0.5</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+</urlset>

@@ -1,0 +1,371 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Container-TestTwo {
+    width: 100%;
+    height: 90vh;
+    /*background-color: greenyellow;*/
+    box-sizing: border-box;
+    /*background-image: url("../Assets/banner19.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Base */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+.navbar-hamburger {
+    position: relative;
+    /*z-index: 2000;*/
+}
+
+
+/* Icône hamburger */
+.menu-icon {
+    font-size: 1.8rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 1rem;
+    /*z-index: 2100;*/
+    z-index: 1100;
+    position: relative;
+    color: #0b3f88;
+}
+
+
+/* Menu plein écran */
+.menu {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    height: 100vh;
+    width: 100%;
+    /*background: #f3bb2f; !* blanc *!*/
+    /*background-color: red;*/
+    color: #0b3f88;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* commencer depuis le haut */
+    padding-top: 40px;
+    transition: left 0.2s ease-in-out;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 100px;
+    z-index: 900;
+}
+
+.menu.open {
+    left: 0;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.menu ul li {
+    width: 100%;
+}
+
+
+/* Boutons du menu principal */
+.menu-button {
+    width: 100%;
+    text-align: left;
+    padding: 14px 20px;  /* marge interne à gauche */
+    font-size: 20px;
+    font-weight: 600;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #0b3f88;
+    font-family: "Montserrat", sans-serif;
+}
+
+.menu-button:hover {
+    /*background: #f2f2f2;*/
+    /*color: #1c6077;*/
+}
+
+
+/* Sous-menu */
+.submenu {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-in-out;
+    /*background: white;*/
+}
+
+.submenu.open {
+    max-height: 400px;
+}
+
+.submenu li {
+    padding: 10px 40px; /* indenté par rapport au menu principal */
+    font-size: 15px;
+    font-weight: 500;
+    /*color: #1c6077;*/
+}
+
+.submenu li:hover {
+    /*color: #799da9;*/
+    /*background: #e0e0e0;*/
+}
+
+
+/*-------------------------------------------*/
+
+@media screen and (max-width:940px) {
+
+
+    .dropdown-container {
+        /*z-index: 2100; !* au-dessus de l'overlay à 1999 *!*/
+        position: relative;
+    }
+
+
+    .Container-TestTwo {
+        /*width: 100%;*/
+        /*height: 80vh;*/
+        /*!*background-color: yellow;*!*/
+        /*box-sizing: border-box;*/
+        /*!*background-image: url("../Assets/banner_mobile3.jpg");*!*/
+        /*!*background-repeat: no-repeat;*!*/
+        /*!*background-size: cover;*!*/
+        /*display: flex;*/
+        /*flex-direction: column;*/
+        /*padding-top: 150px;*/
+        /*!*justify-content: center;*!*/
+    }
+
+
+    .navbar-hamburger {
+        position: relative;
+        z-index: 2000;
+    }
+
+
+    /* Icône hamburger */
+    .menu-icon {
+        /*font-size: 1.8rem;*/
+        background: none;
+        border: none;
+        cursor: pointer;
+        /*padding: 1rem;*/
+        /*z-index: 2100;*/
+        z-index: 1100;
+        position: relative;
+        color: #0b3f88;
+        font-weight: 400;
+    }
+
+
+    /* Menu plein écran */
+    .menu {
+        position: fixed;
+        top: 0;
+        left: -100%;
+        height: 200vh;
+        width: 100%;
+        background: #0b7cfd; /* blanc */
+        color: #111;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start; /* commencer depuis le haut */
+        padding-top: 30px;
+        transition: left 0.3s ease-in-out;
+        font-family: 'Montserrat', sans-serif;
+        margin-top: 100px;
+        z-index: 900;
+    }
+
+
+    .menu {
+        position: fixed;
+        top: 12vh;        /* ← commence exactement sous la navbar */
+        margin-top: 0;    /* ← supprimez le margin-top */
+        height: calc(100vh - 12vh);
+        z-index: 900;     /* ← en dessous de la navbar (1000) */
+    }
+
+
+    .menu.open {
+        left: 0;
+    }
+
+
+    .menu ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+
+
+    .menu ul li {
+        width: 100%;
+    }
+
+
+    /* Boutons du menu principal */
+    .menu-button {
+        width: 100%;
+        text-align: left;
+        padding: 14px 20px;  /* marge interne à gauche */
+        font-size: 20px;
+        font-weight: 600;
+        /*background: none;*/
+        border: none;
+        cursor: pointer;
+        color: #111;
+        font-family: "Montserrat", sans-serif;
+        list-style: none;
+    }
+
+
+    .menu-button,
+    .menu-button:link,
+    .menu-button:visited {
+        display: block;          /* pour qu’ils se comportent comme des boutons */
+        width: 100%;
+        text-align: left;
+        padding: 14px 20px;
+        font-size: 20px;
+        font-weight: 600;
+        background: none;
+        border: none;
+        cursor: pointer;
+        /*color: #111;*/
+        color: white;
+        font-family: "Montserrat", sans-serif;
+        text-decoration: none;   /* enlève le soulignement des liens */
+    }
+
+
+    .menu-button:hover {
+        /*background: #1c1c1c;*/
+        /*color: #f3bb2f;*/
+    }
+
+
+    /* Sous-menu */
+    /*.submenu {*/
+    /*    max-height: 0;*/
+    /*    overflow: hidden;*/
+    /*    transition: max-height 0.4s ease-in-out;*/
+    /*    background: #1c1c1c;*/
+    /*    color: white;*/
+    /*    height: 35vh;*/
+    /*}*/
+
+
+    .submenu {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.4s ease-in-out;
+        background: #1c1c1c;
+        color: white;
+        height: auto; /* ← changez 35vh en auto */
+    }
+
+
+    .submenu li:first-child {
+        margin-top: 15px;
+        /*margin-bottom: 15px;*/
+    }
+
+
+    .submenu li:first-child {
+        margin-top: 15px; /* ← ajustez cette valeur */
+    }
+
+
+    .submenu li:last-child {
+        margin-bottom: 15px; /* ← même valeur qu'en haut */
+    }
+
+
+    .submenu.open {
+        max-height: 600px;
+        padding-bottom: 5px;
+    }
+
+
+    /*========================================================
+      SOUS-MENU : LIENS + BOUTONS PDF
+      Même apparence pour tous les éléments du dropdown
+    ========================================================*/
+
+    .Submenu-button-hamburger {
+        display: block;
+        width: 100%;
+        padding: 10px 40px;
+        font-size: 15px;
+        font-weight: 500;
+        color: white;
+        list-style-type: none;
+        text-decoration: none;
+        background: none;
+        border: none;
+        outline: none;
+        box-shadow: none;
+        cursor: pointer;
+        font-family: "Montserrat", sans-serif;
+        text-align: left;
+        box-sizing: border-box;
+        appearance: none;
+        -webkit-appearance: none;
+    }
+
+
+    /* Supprime l'apparence native du bouton PDF
+       lorsqu'on clique dessus ou qu'il reçoit le focus */
+    .Submenu-button-hamburger:hover,
+    .Submenu-button-hamburger:focus,
+    .Submenu-button-hamburger:active {
+        background: none;
+        border: none;
+        outline: none;
+        box-shadow: none;
+        color: white;
+    }
+
+
+    .submenu li:hover {
+        color: #111;
+        /*background: #e0e0e0;*/
+    }
+
+
+    /*.menu-overlay {*/
+    /*    position: fixed;*/
+    /*    top: 0;*/
+    /*    left: 70%;           !* commence là où le menu s’arrête *!*/
+    /*    width: 30%;*/
+    /*    height: 100vh;*/
+    /*    background: rgba(0, 0, 0, 0.0); !* totalement transparent *!*/
+    /*    z-index: 1999;*/
+    /*}*/
+
+
+    .menu-overlay {
+        position: fixed;
+        top: 0;
+        left: 70%;
+        width: 30%;
+        height: 100vh;
+        background: rgba(0, 0, 0, 0.0);
+        z-index: 1999;
+        pointer-events: none; /* ← ne capte plus les clics */
+    }
+
+
+}

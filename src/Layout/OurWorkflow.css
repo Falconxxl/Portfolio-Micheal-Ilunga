@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Container-OurWorkflow {
+    width: 100%;
+    background-color: #eff4fd;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 20px 100px;
+}
+
+.Container-OurWorkflow h1 {
+    font-size: clamp(35px, 4vw, 50px);
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    color: #3f97fb;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.OurWorkflow-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+.Container-OurWorkflow-content {
+    width: 330px;
+    background-color: white;
+    border-radius: 35px;
+    padding: 30px;
+
+    transition: 0.3s ease;
+    /*box-shadow: 0 5px 20px rgba(0,0,0,0.15);*/
+}
+
+.Container-OurWorkflow-content:hover {
+    transform: translateY(-6px);
+    /*box-shadow: 0 20px 40px rgba(142, 100, 255, 0.25);*/
+}
+
+.icon_home_workflow {
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+.Container-OurWorkflow-content h2 {
+    font-size: clamp(20px, 4vw, 28px);
+    font-family: Poppins, sans-serif;
+    color: #0b3f88;
+
+    /*background: linear-gradient(135deg, #4ae3ff, #aaa7ff, #8e64ff);*/
+    /*-webkit-background-clip: text;*/
+    /*-webkit-text-fill-color: transparent;*/
+
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+/* LIST */
+
+.checklist {
+    list-style: none;
+}
+
+.checklist-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.checklist-item .icon {
+    flex-shrink: 0;
+    margin-top: 3px;
+}
+
+.checklist-item .text {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    color: #0b3f88;
+}
+
+/* ICON GRADIENT */
+
+.checklist-item .fa-circle {
+    background-color: #3f97fb;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.checklist-item .fa-check {
+    color: white;
+    font-weight: 800;
+    font-size: 1em; /* réduit la taille du check */
+}
+
+/* HOVER ICON */
+
+.checklist-item .fa-stack {
+    transition: transform 0.25s ease;
+}
+
+.checklist-item:hover .fa-stack {
+    transform: scale(1.1);
+}
+
+/* MOBILE */
+
+@media (max-width: 768px) {
+    .OurWorkflow-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .Container-OurWorkflow-content {
+        width: 100%;
+        max-width: 500px;
+        border-radius: 25px;
+        padding: 25px;
+    }
+
+    .Container-OurWorkflow h1 {
+        /*font-size: clamp(35px, 4vw, 50px);*/
+        /*font-weight: 800;*/
+        /*font-family: 'Orbitron', sans-serif !important;*/
+        /*color: black;*/
+        /*text-align: center;*/
+        margin-bottom: 20px;
+    }
+}

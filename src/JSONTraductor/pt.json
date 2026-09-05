@@ -1,0 +1,1384 @@
+{
+  "HelmetSEO": {
+    "Home": {
+      "title": "NextÉclat — Estúdio Criativo | Audiovisual, Foto, Web & Música",
+      "description": "NextÉclat é um estúdio criativo sediado nos Países Baixos. Audiovisual, fotografia, web design, branding, marketing digital e produção musical. Disponível na Europa e África francófona."
+    },
+    "About": {
+      "title": "NextÉclat — Sobre Nós | Nossa História & Nossa Equipa",
+      "description": "Descubra a história da NextÉclat, um estúdio criativo fundado nos Países Baixos. A nossa equipa acompanha-o em audiovisual, foto, web design e música na Europa e África."
+    },
+    "Contact": {
+      "title": "NextÉclat — Contacte-nos | Orçamento & Informações",
+      "description": "Entre em contacto com a NextÉclat para obter um orçamento ou tirar dúvidas. Estúdio criativo nos Países Baixos, disponível para projetos na Europa e África francófona."
+    },
+    "News": {
+      "title": "NextÉclat — Notícias & Atualizações",
+      "description": "Siga as últimas notícias da NextÉclat: novos projetos, parcerias e eventos. Estúdio criativo ativo nos Países Baixos, Bélgica e África francófona."
+    },
+    "Prices": {
+      "title": "NextÉclat — Tarifas | Audiovisual, Foto, Web, Música",
+      "description": "Consulte as tarifas da NextÉclat: produção audiovisual, fotografia, web design, branding, marketing digital e música. Soluções para todos os orçamentos."
+    },
+    "Projects": {
+      "title": "NextÉclat — Nossos Projetos & Realizações",
+      "description": "Descubra o trabalho da NextÉclat: videoclipes, galerias de fotos, web design e branding. Portfólio de um estúdio criativo nos Países Baixos, ativo na Europa e África."
+    },
+    "Services": {
+      "title": "NextÉclat — Nossos Serviços Criativos",
+      "description": "A NextÉclat oferece serviços completos: audiovisual, fotografia, web design, branding, marketing digital e produção musical. Sediada nos Países Baixos."
+    },
+    "Shop": {
+      "title": "NextÉclat — Loja | Disponível Brevemente",
+      "description": "A loja NextÉclat estará disponível brevemente. Fique atento aos nossos produtos e ofertas exclusivas."
+    },
+    "Trainings": {
+      "title": "NextÉclat — Formações | Disponível Brevemente",
+      "description": "As formações da NextÉclat estarão disponíveis brevemente. Audiovisual, fotografia, web design e muito mais. Disponível na Europa e África francófona."
+    },
+
+    "ConditionsOfSale": {
+      "title": "NextÉclat — Condições Gerais de Venda",
+      "description": "Consulte as condições gerais de venda da NextÉclat. Estúdio criativo baseado nos Países Baixos, especializado em audiovisual, fotografia, webdesign e produção musical."
+    },
+    "ContactUs": {
+      "title": "NextÉclat — Contacte-Nos",
+      "description": "Contacte a equipa NextÉclat para qualquer questão. Estúdio criativo baseado nos Países Baixos, disponível na Europa e em África francófona."
+    },
+    "PrivacyPolicy": {
+      "title": "NextÉclat — Política de Privacidade",
+      "description": "Leia a política de privacidade da NextÉclat. Os seus dados pessoais estão protegidos de acordo com o RGPD."
+    },
+    "Faq": {
+      "title": "NextÉclat — FAQ | Perguntas Frequentes",
+      "description": "Encontre respostas às perguntas frequentes sobre os serviços da NextÉclat: audiovisual, fotografia, webdesign, branding e música."
+    },
+
+    "AudioVisual": {
+      "title": "NextÉclat — Produção Audiovisual | Clips & Filmes",
+      "description": "NextÉclat oferece produção audiovisual profissional: videoclipes, filmes corporativos e drone 4K. Estúdio baseado nos Países Baixos, disponível na Europa e em África francófona."
+    },
+    "BrandIdentity": {
+      "title": "NextÉclat — Identidade de Marca & Branding",
+      "description": "NextÉclat cria a sua identidade visual: logótipo, manual de identidade, embalagem e materiais de marketing. Estúdio nos Países Baixos, disponível na Europa e em África francófona."
+    },
+    "DigitalMarketing": {
+      "title": "NextÉclat — Marketing Digital | SEO, Redes Sociais & Anúncios",
+      "description": "NextÉclat impulsiona a sua presença online: estratégia digital, gestão de redes sociais, SEO e publicidade online. Estúdio nos Países Baixos, disponível na Europa e em África francófona."
+    },
+    "Music": {
+      "title": "NextÉclat — Produção Musical | Beats & Estúdio de Gravação",
+      "description": "NextÉclat oferece produção musical profissional: beats, gravação, mistura e masterização. Estúdio nos Países Baixos, também disponível em falconbeat.nl."
+    },
+    "Photography": {
+      "title": "NextÉclat — Fotografia Profissional | Retrato & Eventos",
+      "description": "NextÉclat captura os seus momentos: retrato, eventos, moda e fotografia corporativa. Estúdio fotográfico nos Países Baixos, disponível na Europa e em África francófona."
+    },
+    "Webdesign": {
+      "title": "NextÉclat — Webdesign & Desenvolvimento Web | Sites Personalizados",
+      "description": "NextÉclat cria sites modernos, rápidos e otimizados para SEO. Webdesign personalizado para empresas e criadores. Estúdio nos Países Baixos, disponível na Europa e em África francófona."
+    },
+    "RequestAQuote": {
+      "title": "NextÉclat — Pedir Orçamento | Contacte-Nos",
+      "description": "Peça um orçamento personalizado à NextÉclat para os seus projetos audiovisuais, fotografia, webdesign, branding, marketing digital ou produção musical. Estúdio nos Países Baixos."
+    }
+  },
+
+  "NavbarMenu": {
+    "Services": "Serviços",
+    "Projects": "Projectos",
+    "About": "Sobre",
+    "News": "Notícias",
+    "Prices": "Preços",
+    "Contact": "Contacto",
+    "ContactUs": "Contacte-nos",
+    "Training": "Treinamentos",
+    "Shop": "Camprar",
+    "PrivacyPolicy": "Política de Privacidade",
+    "ConditionsOfSale": "Condições de Venda",
+    "FAQ": "FAQ",
+
+    "Service": {
+      "Audiovisual": "Audiovisual",
+      "Photography": "Fotografia",
+      "Webdesign": "Web Design",
+      "Branding": "Branding",
+      "Digital Marketing": "Marketing Digital",
+      "Music Production": "Produção Musical",
+      "Music": "Musica"
+    }
+  },
+  "ContainerBanner2": {
+    "Title": "Sua imagem não impacta",
+    "Subtitleline1": "Ajudamos empreendedores, artistas e influenciadores a construir uma imagem forte, visível e credível. Através de soluções digitais em branding, web design, produção audiovisual e criação de conteúdo, damos vida a marcas com significado.",
+    "Subtitleline2": "",
+    "Subtitleline3": "",
+    "CatBouton": "Solicitar um orçamento",
+    "CatBouton2": "Descubra"
+  },
+
+  "HomeFalconXXL": {
+    "Title": "Dê uma nova dimensão ao seu negócio",
+    "SubtitleLine1": "Apoiamos empreendedores, artistas e influenciadores na construção de uma imagem forte e no desenvolvimento da sua visibilidade, através de soluções digitais completas e eficazes:",
+    "SubtitleLine2": "",
+
+    "ContentLine1": "Branding & identidade visual",
+    "ContentLine1a": "Criamos uma imagem de marca única, profissional e memorável, alinhada com a sua visão.",
+    "ContentLine2": "Web design & desenvolvimento",
+    "ContentLine2a": "Criamos sites modernos, eficazes e otimizados para converter os seus visitantes em clientes.",
+    "ContentLine3": "Audiovisual & fotografia",
+    "ContentLine3a": "Produzimos conteúdos visuais cativantes que valorizam a sua imagem e contam a sua história.",
+    "ContentLine4": "Redes sociais & conteúdo digital",
+    "ContentLine4a": "Desenvolvemos uma presença online consistente, envolvente e adaptada ao seu público.",
+    "ContentLine5": "Marketing digital",
+    "ContentLine5a": "Implementamos estratégias eficazes para atrair, converter e fidelizar o seu público.",
+    "ContentLine6": "Produção musical",
+    "ContentLine6a": "Realizamos produções musicais profissionais de alta qualidade para artistas, empreendedores e particulares."
+  },
+
+  "Modal1": {
+    "Title": "Audiovisual",
+    "notification": "O seu navegador não suporta a reprodução de vídeos.",
+    "ContentLine0": "Criamos conteúdos audiovisuais impactantes com criatividade e estilo.",
+    "ContentLine1": "Damos vida às ideias através de visuais inspiradores.",
+    "ContentLine2": "De videoclipes a filmes de casamento de luxo.",
+    "ContentLine3": "Capturamos cada história com emoção e precisão.",
+    "BtnLine": "Ver Serviço Audiovisual"
+  },
+  "ServiceHomeExplore": {
+    "BigTitleLine1": "Descubra os nossos serviços que",
+    "BigTitleLine2": "elevam os seus projetos",
+    "BigTitleMobile": "Descubra os nossos serviços que elevam os seus projetos",
+
+    "Audiovisual": {
+      "Title": "Audiovisual",
+      "SubtitleLine1": "Vídeos que captam atenção e deixam impacto.",
+      "ContentLine1": "Criamos conteúdos audiovisuais de alta qualidade combinando criatividade, tecnologia e storytelling. Videoclipes, anúncios publicitários, vídeos de marketing, cobertura de eventos e muito mais para captar atenção e valorizar a sua imagem.",
+      "CAT": "Descubra"
+    },
+
+    "Photography": {
+      "Title": "Fotografia",
+      "SubtitleLine1": "Imagens que contam a sua história.",
+      "ContentLine1": "Realizamos serviços de fotografia desde moda até desporto, incluindo lifestyle, eventos e casamentos. Cada momento é transformado numa imagem intemporal, ideal para posters, revistas, capas de álbuns, redes sociais e muito mais.",
+      "CAT": "Descubra"
+    },
+
+    "Webdesign": {
+      "Title": "Web Design",
+      "SubtitleLine1": "Sites modernos que atraem e convertem.",
+      "ContentLine1": "Desenvolvemos sites modernos, dinâmicos e responsivos, combinando design, usabilidade e inovação. Uma experiência fluida que atrai, envolve e transforma visitantes em clientes.",
+      "CAT": "Descubra"
+    },
+    "Branding": {
+      "Title": "Branding",
+      "SubtitleLine1": "Uma identidade visual forte e memorável.",
+      "ContentLine1": "Criamos uma identidade visual consistente: logotipo, guia de marca e design web. Uma imagem profissional que reforça a credibilidade e chama a atenção.",
+      "CAT": "Descubra"
+    },
+
+    "DigitalMarketing": {
+      "Title": "Marketing Digital",
+      "SubtitleLine1": "Aumente a sua visibilidade e crescimento online.",
+      "ContentLine1": "Ajudamos empresas a melhorar a sua visibilidade e acelerar o crescimento através do marketing digital. Apoiamos a gestão de redes sociais, criação de conteúdos, campanhas publicitárias e estratégia digital para transformar a sua presença online em resultados reais.",
+      "CAT": "Descubra"
+    },
+
+    "MusicProduction": {
+      "Title": "Produção musical",
+      "SubtitleLine1": "Dê vida ao seu som com produção profissional.",
+      "ContentLine1": "Produzimos música profissional e de alta qualidade para artistas e particulares.\nAtravés da nossa",
+      "ContentLine2": "plataforma, os nossos instrumentais estão disponíveis em todo o mundo para todos os seus projetos musicais e digitais.",
+      "CAT": "Descubra"
+    }
+  },
+  "OurRealisation": {
+    "Title": "Nossas realizações",
+    "Audiovisual": {
+      "Title2": "Audiovisual",
+      "SubtitleLine1": "Estes vídeos foram criados há mais de dez anos e refletem a nossa criatividade inicial.\nHoje, com equipamentos avançados e uma maior experiência, a qualidade das nossas produções atingiu um nível muito mais elevado.",
+      "CaughtUp": {
+        "ContentLine1": "Aqui está um excerto do videoclipe CAUGHT UP, produzido para o artista SENECA em 2016.\nPartilhamos alguns dos nossos projetos anteriores para lhe dar uma visão da nossa criatividade e experiência."
+      },
+      "Bouton": "Explorar mais projectos",
+      "Bouton2": "Ver nosso trabalho"
+    },
+    "Webdesign": {
+      "Title2": "2. Web Design",
+      "SubtitleLine1": "O site oficial da NextÉclat é o nosso primeiro projeto de web design.\nEle marca o início da nossa jornada na criação de websites modernos e funcionais.\nAtualmente, estamos a desenvolver novos sites para os nossos futuros clientes, combinando criatividade, usabilidade e desempenho."
+    },
+    "Branding": {
+      "Title2": "3. Branding",
+      "SubtitleLine1": "Na NextÉclat, criamos identidades de marca criativas e consistentes que fazem a sua empresa destacar-se.\nDesde materiais corporativos e publicitários até branding digital, produtos promocionais, sinalização e stands de exposição, desenhamos cada detalhe para fortalecer a sua imagem e criar uma ligação forte com o seu público."
+    },
+    "Music": {
+      "Title2": "4. Produção musical",
+      "SubtitleLine1": "Na NextÉclat, produzimos música que inspira e conecta.\nDesde a composição até à masterização, entregamos faixas profissionais prontas para elevar a sua marca, projeto ou identidade artística.",
+      "DreamGirl": {
+        "ContentLine1": "Aqui está um excerto da música Dream Girl, produzida e interpretada por ILUNGA.\nEsta faixa reflete a nossa paixão pela produção musical, combinando emoção, criatividade e design de som profissional para oferecer uma experiência sonora intemporal.",
+        "ContentLine2": "Abaixo, encontra o link para o videoclipe oficial de Dream Girl no YouTube."
+      }
+    }
+  },
+  "OurWorkflow": {
+    "BigTitle": "Nosso fluxo de trabalho",
+    "GettingInTouch": {
+      "Title": "Contacto inicial",
+      "ContentLine1": "O cliente entra em contacto através do formulário, e-mail ou telefone.",
+      "ContentLine2": "Confirmamos o pedido de forma clara e objetiva.",
+      "ContentLine3": "Agendamos uma reunião inicial para compreender as necessidades."
+    },
+    "Debriefing": {
+      "Title": "Briefing",
+      "ContentLine1": "Discussão dos objetivos do projeto, estilo e público-alvo.",
+      "ContentLine2": "Confirmação do orçamento e do prazo.",
+      "ContentLine3": "Preparação de uma proposta clara com orçamento e plano de ação."
+    },
+    "Producing": {
+      "Title": "Produção",
+      "ContentLine1": "Execução do projeto (vídeo, fotografia, web ou música).",
+      "ContentLine2": "Supervisão de cada etapa para garantir qualidade e criatividade.",
+      "ContentLine3": "Garantia de consistência ao longo de todo o projeto."
+    },
+    "DeliveringResult": {
+      "Title": "Entrega do resultado",
+      "ContentLine1": "Apresentação do produto final para aprovação.",
+      "ContentLine2": "Realização de ajustes finais, se necessário.",
+      "ContentLine3": "Entrega dos ficheiros finais e suporte pós-entrega."
+    }
+  },
+
+  "Experience": {
+    "years": "Anos de experiência criativa",
+    "experts": "Expertises criativas reunidas",
+    "solutions": "Soluções sob medida",
+    "projects": "Ferramentas & tecnologias dominadas"
+  },
+
+  "WhyUs": {
+    "Title": "Por que escolher a NextEclat?",
+    "Audiovisual": {
+      "Subtitle": "Audiovisual",
+      "ContentLine1": "Transformamos ideias em conceitos fortes com uma abordagem criativa.",
+      "ContentLine2": "Analisamos tendências e referências para oferecer soluções personalizadas.",
+      "ContentLine3": "A nossa equipa experiente trabalha com equipamentos de alta qualidade para resultados excecionais.",
+      "ContentLine4": "Ouvimos, adaptamos e refinamos cada detalhe até alcançar um resultado final perfeito."
+    },
+    "Webdesign": {
+      "Subtitle": "Web Design",
+      "ContentLine1": "Construímos websites seguros que protegem o seu negócio e transmitem confiança.",
+      "ContentLine2": "O seu website evolui com novas funcionalidades, páginas e atualizações.",
+      "ContentLine3": "Trabalhamos consigo para criar um site que responda às suas necessidades reais.",
+      "ContentLine4": "Otimizado desde a base para o Google, de forma a atrair visitantes qualificados."
+    },
+    "Branding": {
+      "Subtitle": "Branding",
+      "ContentLine1": "Ajudamos os clientes a definir a sua marca e a construir uma identidade forte e coerente.",
+      "ContentLine2": "Criamos logótipos, cores, tipografia e elementos visuais que se destacam.",
+      "ContentLine3": "Produzimos flyers, cartões de visita, brochuras e outros materiais promocionais.",
+      "ContentLine4": "Garantimos que todos os elementos, digitais ou físicos, contem uma história profissional e consistente."
+    },
+
+    "SocialMedia": {
+      "Subtitle": "Redes Sociais",
+      "ContentLine1": "Melhoramos a identidade visual das suas redes sociais para um aspeto profissional e consistente.",
+      "ContentLine2": "Criamos uma estratégia de conteúdo adaptada ao seu público e aos seus objetivos.",
+      "ContentLine3": "Aconselhamos sobre campanhas de anúncios para aumentar a sua visibilidade e resultados.",
+      "ContentLine4": "Otimizamos as suas redes sociais para melhorar o envolvimento e o crescimento da marca."
+    },
+
+    "DigitalMarketing": {
+      "Subtitle": "Marketing Digital",
+      "ContentLine1": "Desenvolvimento de estratégias de marketing personalizadas para atingir os seus objetivos e público-alvo.",
+      "ContentLine2": "Criação de conteúdo digital para aumentar a notoriedade da marca e gerar leads qualificados.",
+      "ContentLine3": "Criação de sites otimizados para melhorar a sua presença online e converter visitantes em clientes.",
+      "ContentLine4": "Publicidade online e email marketing automatizado para aumentar as vendas e fidelizar o seu público."
+    },
+    "Music": {
+      "Subtitle": "Produção musical",
+      "ContentLine1": "Produzimos música totalmente alinhada com a visão dos nossos clientes.",
+      "ContentLine2": "A nossa equipa especializada utiliza equipamento profissional para garantir a melhor qualidade sonora.",
+      "ContentLine3": "Analisamos tendências e referências para oferecer música relevante e personalizada.",
+      "ContentLine4": "O feedback do cliente é integrado em cada etapa para aperfeiçoar o resultado final."
+    }
+  },
+
+  "Testimony": {
+    "eyebrow": "Depoimentos dos nossos clientes",
+    "subtitle": "Descubra os relatos de empresas que escolheram a Jupiter Safe para fortalecer o seu desempenho QHSE e a conformidade regulatória.",
+    "items": {
+      "id1": {
+        "city": "Países Baixos",
+        "project": "Branding + Website",
+        "review": "Estamos muito satisfeitos com o resultado alcançado pela NextÉclat. O branding e o website refletem perfeitamente a nossa atividade e imagem profissional. A equipa soube compreender as nossas necessidades e criar uma presença digital moderna, clara e adaptada aos nossos clientes."
+      },
+      "id2": {
+        "city": "Países Baixos",
+        "project": "Branding + Plataforma",
+        "review": "Estamos muito satisfeitos com o design e o desenvolvimento da nossa plataforma Falcon Beats. A NextÉclat criou uma identidade visual profissional e uma experiência de utilizador adaptada à venda dos nossos beats. Desde o seu lançamento, a plataforma permite-nos apresentar e vender as nossas criações de forma eficaz."
+      },
+      "id3": {
+        "city": "RD Congo",
+        "project": "Branding + Website",
+        "review": "Estamos muito satisfeitos com o website concebido pela NextÉclat. O projeto permitiu valorizar a nossa experiência, os nossos serviços e as nossas soluções QHSE junto dos clientes. A equipa traduziu perfeitamente a nossa visão com um design profissional e uma apresentação clara das nossas atividades."
+      },
+      "id4": {
+        "city": "Reino Unido",
+        "project": "Videoclip",
+        "review": "Estamos muito satisfeitos com o resultado final do clip realizado pela NextÉclat. A qualidade de produção, o profissionalismo da equipa e o cumprimento dos prazos superaram largamente as nossas expectativas. Cada detalhe foi cuidadosamente executado para criar um conteúdo à altura da nossa visão."
+      },
+      "id5": {
+        "city": "Países Baixos",
+        "project": "Videoclip",
+        "review": "Estamos muito satisfeitos com o clip realizado pela NextÉclat. O conceito imaginado foi perfeitamente transposto para o ecrã e o resultado corresponde exatamente às nossas expectativas. Um grande obrigado à equipa pelo seu profissionalismo, criatividade e empenho ao longo de todo o projeto."
+      },
+      "id6": {
+        "city": "Portugal",
+        "project": "Videoclip",
+        "review": "Estamos muito satisfeitos com o resultado final do clip realizado pela NextÉclat. Aproveitar a nossa estadia nos Países Baixos durante as férias para realizar este projeto num prazo curto foi uma excelente oportunidade. A equipa demonstrou um grande profissionalismo para alcançar o resultado pretendido."
+      },
+      "id7": {
+        "city": "Países Baixos",
+        "project": "Videoclip",
+        "review": "Estamos muito satisfeitos com o clip realizado pela NextÉclat. A qualidade do resultado final, a criatividade e o profissionalismo da equipa deram vida à nossa visão. O projeto foi realizado com rigor e cada detalhe foi trabalhado com cuidado."
+      }
+    }
+  },
+
+  "Footer": {
+    "CatTitle": "Obtenha agora o seu orçamento personalizado",
+    "Services": "Serviços",
+    "Links": "Links",
+    "Extra": "Extras",
+    "Contacts": "Contactos",
+    "SocialMedia": "Redes sociais",
+    "WebsiteDevelopedBy": "Website desenvolvido pela",
+    "AllRightsAreReserved": "Todos os direitos reservados",
+    "Tel": "+31 685 53 31 24 (Holanda)",
+    "Soon1": "Soon (França)",
+    "Soon2": "+32 492 96 39 39 (Bélgica)",
+    "Soon3": "Soon (RDC/Kinshasa)"
+  },
+  "AudiovisualPage": {
+    "Description": {
+      "Title": "Dê vida à sua visão. Valorize a sua imagem.",
+      "Subtitle": "Crie conteúdo visual poderoso que atrai, envolve e faz crescer a sua imagem. Destaque-se com produções modernas, profissionais e impactantes.",
+      "Content": "A NEXTÉCLAT apoia empreendedores, artistas e criadores na produção de conteúdos visuais de alto impacto: videoclipes, anúncios, conteúdos para redes sociais, produções lifestyle, conteúdos de marca, eventos de alto nível e videoconferências profissionais."
+    }
+  },
+  "TypeVideos": {
+    "Title": "As nossas criações audiovisuais",
+    "MusicVideosAndTeaser": {
+      "Subtitle": "Videoclipes musicais e teasers",
+      "ContentLine1": "Vídeos de atores",
+      "ContentLine2": "Vídeos de comediantes e criadores de conteúdo",
+      "ContentLine3": "Vídeos de criadores de moda",
+      "ContentLine4": "Vídeos de músicos",
+      "ContentLine5": "Vídeos de dançarinos"
+    },
+    "WeddingLuxuriousAndEvents": {
+      "Subtitle": "Beauty & Fashion Creators",
+      "ContentLine1": "Casamentos, luxo e eventos",
+      "ContentLine2": "Galas e eventos de luxo",
+      "ContentLine3": "Eventos artísticos e culturais"
+    },
+    "ContentCreatorsLifestyle": {
+      "Subtitle": "Criadores de conteúdo & lifestyle",
+      "ContentLine1": "Vídeos de influenciadores gastronómicos",
+      "ContentLine2": "Vídeos de influenciadores e modelos",
+      "ContentLine3": "Vídeos de empreendedores e marcas pessoais",
+      "ContentLine4": "Vídeos de coaches de desenvolvimento pessoal"
+    },
+    "BeautyFashionCreators": {
+      "Subtitle": "Criadores de beleza & moda",
+      "ContentLine1": "Vídeos de criadores de maquilhagem",
+      "ContentLine2": "Fashion / Outfit – Vídeos de criadores",
+      "ContentLine3": "Vídeos de criadores stylist"
+    },
+    "BusinessPromotionalVideos": {
+      "Subtitle": "Vídeos promocionais & corporativos",
+      "ContentLine1": "Vídeos promocionais imobiliários",
+      "ContentLine2": "Vídeos de hotéis e resorts",
+      "ContentLine3": "Vídeos de cafés e restaurantes",
+      "ContentLine4": "Vídeos corporativos e de escritórios"
+    }
+  },
+  "PricingVideo": {
+    "BigTitle": "Os nossos pacotes de produção de vídeo",
+    "BasicPackage": {
+      "Title": "Pacote Básico (Essencial)",
+      "ContentLine1": "2 a 3 horas de gravação",
+      "ContentLine2": "1 local (interior ou exterior)",
+      "ContentLine3": "Aluguer de local e adereços não incluído (disponível mediante pedido)",
+      "ContentLine4": "Iluminação natural",
+      "ContentLine5": "1 câmara profissional, até 2 takes",
+      "ContentLine6": "Conceito simples sem storyboard",
+      "ContentLine7": "Correção de cor básica",
+      "ContentLine8": "Edição simples",
+      "ContentLine9": "IA e efeitos especiais não incluídos, pequenos efeitos disponíveis sob pedido",
+      "ContentLine10": "Entrega em 3 a 5 dias",
+      "ContentLine11": "1 revisão",
+      "ContentLine12": "Teaser não incluído",
+      "ContentLine13": "Ideal para vídeos musicais simples, criadores de conteúdo ou pequenas apresentações"
+    },
+    "StandardPackage": {
+      "Title": "Pacote Standard (Criativo)",
+      "ContentLine1": "Gravação de dia inteiro (6 a 8 horas)",
+      "ContentLine2": "Até 2 locais diferentes",
+      "ContentLine3": "Aluguer de local e adereços disponível sob pedido",
+      "ContentLine4": "Iluminação profissional",
+      "ContentLine5": "1 câmara profissional + estabilizador",
+      "ContentLine6": "Conceito criativo com mini storyboard",
+      "ContentLine7": "Correção de cor cinematográfica",
+      "ContentLine8": "Edição profissional",
+      "ContentLine9": "IA e efeitos especiais: correções avançadas, títulos e atmosferas",
+      "ContentLine10": "Entrega em 7 a 10 dias",
+      "ContentLine11": "2 revisões",
+      "ContentLine12": "Teaser incluído",
+      "ContentLine13": "Ideal para videoclipes, eventos, marcas ou vídeos profissionais"
+    },
+    "GoldPackage": {
+      "Title": "Pacote Gold (Premium)",
+      "ContentLine1": "2 a 3 dias de gravação",
+      "ContentLine2": "Vários locais ou estúdio",
+      "ContentLine3": "Aluguer de local e adereços incluído conforme o conceito",
+      "ContentLine4": "Configuração completa de iluminação cinematográfica",
+      "ContentLine5": "2 câmaras cinema 4K + drone",
+      "ContentLine6": "Storyboard completo e direção artística",
+      "ContentLine7": "Correção de cor de alto nível",
+      "ContentLine8": "Edição com efeitos visuais e transições artísticas",
+      "ContentLine9": "IA e efeitos especiais: integração avançada",
+      "ContentLine10": "Entrega em 14 a 21 dias",
+      "ContentLine11": "3 revisões",
+      "ContentLine12": "Teaser + versão vertical (Insta/TikTok)",
+      "ContentLine13": "Ideal para videoclipes premium, marcas, empresas ou eventos de luxo"
+    }
+  },
+  "ArchiveVideoReel": {
+    "Title": "Descubra os nossos arquivos",
+    "Content": "Aqui está uma compilação dos nossos melhores videoclipes criados entre 2012 e 2016.\nNovos clipes serão lançados em breve com equipamento atualizado, mas estes arquivos demonstram a nossa evolução e o nosso trabalho clássico."
+  },
+  "DroneShot": {
+    "Title": "Imagens aéreas cinematográficas",
+    "Subtitle": "Dê uma nova dimensão ao seu projeto com imagens impressionantes em 4K",
+    "Content": "Dê ao seu projeto uma perspetiva única e cinematográfica vista do céu. Os nossos drones 4K profissionais capturam imagens aéreas suaves, imersivas e visualmente impressionantes que elevam o seu conteúdo e captam imediatamente a atenção do seu público."
+  },
+  "WhereCreativityMeets": {
+    "Title": "Onde a criatividade ganha vida",
+    "Content": "Cada projeto é guiado por uma visão artística precisa, onde o domínio técnico encontra a intuição criativa. Criamos visuais poderosos e autênticos que revelam a identidade única dos artistas e dão vida ao seu universo."
+  },
+  "Photography": {
+    "Banner": {
+      "Title": "Fotografia, paixão, perfeição",
+      "ContentLine1": "Da moda ao desporto, lifestyle, eventos e casamentos, transformamos cada",
+      "ContentLine2": "momento \nem uma imagem intemporal, para cartazes, revistas,",
+      "ContentLine3": "capas de álbuns e muito mais."
+    }
+  },
+  "TypePhotos": {
+    "Title": "Produzimos fotografia para:",
+    "ArtistsMusiciansPerformers": {
+      "Subtitle": "Artistas, Músicos e Performers",
+      "ContentLine1": "Capas de álbuns e singles",
+      "ContentLine2": "Imagens promocionais para teasers ou lançamentos de vídeos",
+      "ContentLine3": "Retratos editoriais e para revistas (impresso ou digital)",
+      "ContentLine4": "Conteúdos visuais para redes sociais (Instagram, Facebook, TikTok, YouTube)",
+      "ContentLine5": "Retratos profissionais para atores e performers",
+      "ContentLine6": "Cartazes e campanhas visuais para projetos musicais ou artísticos"
+    },
+    "WeddingsLuxuryEvents": {
+      "Subtitle": "Casamentos, Luxo e Eventos",
+      "ContentLine1": "Casamentos e noivados",
+      "ContentLine2": "Eventos de luxo e galas",
+      "ContentLine3": "Eventos culturais e artísticos",
+      "ContentLine4": "Eventos corporativos e de celebridades",
+      "ContentLine5": "Sessões fotográficas exclusivas para casais e VIPs"
+    },
+    "LifestyleSportsContentCreators": {
+      "Subtitle": "Lifestyle, Desporto e Criadores de Conteúdo",
+      "ContentLine1": "Modelos e influenciadores",
+      "ContentLine2": "Personalidades de fitness e desporto",
+      "ContentLine3": "Fotografias de branding para redes sociais (Instagram, TikTok, YouTube)",
+      "ContentLine4": "Retratos de marca pessoal que expressam estilo de vida e visão"
+    },
+    "BeautyFashion": {
+      "Subtitle": "Beleza e Moda",
+      "ContentLine1": "Maquiadores e criadores de beleza",
+      "ContentLine2": "Estilistas e designers de moda",
+      "ContentLine3": "Campanhas de moda para revistas e lojas online",
+      "ContentLine4": "Fotografia de portfólio para modelos"
+    },
+    "BusinessHospitalityRealEstate": {
+      "Subtitle": "Negócios, Hotelaria e Imobiliário",
+      "ContentLine1": "Hotéis, cafés e restaurantes",
+      "ContentLine2": "Apartamentos e anúncios imobiliários",
+      "ContentLine3": "Escritórios corporativos e espaços de trabalho",
+      "ContentLine4": "Fotografia de produtos para empresas",
+      "ContentLine5": "Retratos corporativos e fotografia de equipas"
+    }
+  },
+  "PricingPhotography": {
+    "BigTitle": "Nossos pacotes de fotografia",
+    "BasicPackage": {
+      "Title": "Pacote Básico (Essencial)",
+      "ContentLine1": "1 a 2 horas de sessão fotográfica",
+      "ContentLine2": "1 local (interior ou exterior)",
+      "ContentLine3": "Local, adereços e maquiagem não incluídos (disponíveis sob solicitação)",
+      "ContentLine4": "Iluminação natural",
+      "ContentLine5": "Até 30 fotos capturadas",
+      "ContentLine6": "10 fotos editadas profissionalmente (correção de cor e luz)",
+      "ContentLine7": "Conceito simples, sem styling complexo",
+      "ContentLine8": "Entrega em 3 a 5 dias",
+      "ContentLine9": "1 revisão incluída",
+      "ContentLine10": "Ideal para retratos, pequenos negócios ou sessões pessoais"
+    },
+    "StandardPackage": {
+      "Title": "Pacote Standard (Criativo)",
+      "ContentLine1": "3 a 4 horas de sessão fotográfica",
+      "ContentLine2": "Até 2 locais (interior / exterior)",
+      "ContentLine3": "Local, adereços e maquiagem não incluídos (disponíveis sob solicitação)",
+      "ContentLine4": "Mistura de iluminação natural e artificial",
+      "ContentLine5": "Até 60 fotos capturadas",
+      "ContentLine6": "20 fotos editadas profissionalmente (color grading, retoques, atmosfera)",
+      "ContentLine7": "Direção criativa incluída",
+      "ContentLine8": "Entrega em 5 a 7 dias",
+      "ContentLine9": "2 revisões incluídas",
+      "ContentLine10": "Ideal para influencers, artistas ou projetos promocionais"
+    },
+    "GoldPackage": {
+      "Title": "Pacote Gold (Premium)",
+      "ContentLine1": "Dia completo de sessão fotográfica (até 6 horas)",
+      "ContentLine2": "Até 3 locais diferentes",
+      "ContentLine3": "Styling e maquiador incluídos para um visual profissional",
+      "ContentLine4": "Iluminação profissional e equipamento de estúdio",
+      "ContentLine5": "Preparação prévia do conceito e moodboard",
+      "ContentLine6": "Galeria privada online",
+      "ContentLine7": "Entrega em 7 a 10 dias",
+      "ContentLine8": "3 revisões incluídas",
+      "ContentLine9": "Ideal para projetos de alto nível, marcas, empresas ou eventos de luxo"
+    }
+  },
+  "PhotographyGallery": {
+    "BigTitle": "Transforme a sua visão em imagens excecionais",
+    "Lifestyle": {
+      "Title": "Lifestyle",
+      "Content": "Aqui estão alguns momentos autênticos que capturámos durante as nossas sessões fotográficas."
+    },
+    "Fashion": {
+      "Title": "Moda",
+      "Content": "Estilo, elegância e expressão."
+    },
+    "Wedding": {
+      "Title": "Casamento",
+      "Content": "Um vislumbre de alguns dos momentos autênticos e cheios de emoção que capturámos em dias de casamento."
+    },
+    "Music": {
+      "Title": "Música",
+      "Content": "Concertos ao vivo, artistas e performances."
+    },
+    "EmotivePortraits": {
+      "Title": "Retratos Emotivos",
+      "Content": "Cada olhar, cada toque, cada sorriso — congelamos emoções que contam a sua história."
+    }
+  },
+  "WhereEmotionMeets": {
+    "Title": "Onde a emoção se torna imagem",
+    "Content": "A fotografia é mais do que luz e composição, é conexão. Procuramos compreender a essência por trás de cada imagem."
+  },
+  "WhereEmotionBecomes": {
+    "Title": "Onde os sentimentos ganham forma",
+    "Content": "Através da criatividade e da precisão, transformamos momentos comuns em imagens inesquecíveis."
+  },
+  "WhyChooseFalconXXL": {
+    "BigTitle": "Por que escolher a NEXTÉCLAT, Fotografia",
+    "ContentLine1a": "Identidade visual única: ",
+    "ContentLine1b": "Cada imagem reflete a verdadeira essência da sua marca.",
+    "ContentLine2a": "Direção criativa incluída: ",
+    "ContentLine2b": "Conceito e encenação cuidadosamente pensados para reforçar a sua mensagem.",
+    "ContentLine3a": "Equipamento profissional de qualidade: ",
+    "ContentLine3b": "Qualidade de imagem excecional em cada captura.",
+    "ContentLine4a": "Resultados orientados para impacto: ",
+    "ContentLine4b": "Visuais criados para atrair, envolver e deixar uma impressão duradoura."
+  },
+  "PageWebdesign": {
+    "BannerWebdesign": {
+      "Title": "Web Design, Inovação, Experiência",
+      "Content1": "A NEXTÉCLAT cria sites personalizados, desde portfolios criativos a lojas de e-commerce,",
+      "Content2": " combinando UX/UI design e web design para transformar os seus visitantes em clientes."
+    },
+    "WhatOurWebsite": {
+      "BigTitle": "O que os nossos websites e aplicações oferecem",
+      "Title": "Soluções digitais personalizadas concebidas para valorizar a sua marca",
+      "ContentLine1": "Websites adaptados ao seu público, escaláveis e alinhados com as suas necessidades.",
+      "ContentLine2": "Visibilidade imediata no Google graças ao SEO integrado.",
+      "ContentLine3": "Planos de preços flexíveis adaptados aos seus projetos.",
+      "ContentLine4": "Websites totalmente responsivos, otimizados para todos os seus dispositivos (mobile, tablet, desktop).",
+      "ContentLine5": "Um design UX/UI moderno e estratégico que reflete a identidade da sua marca, melhora a experiência do utilizador e maximiza as conversões.",
+      "ContentLine6": "Websites dinâmicos com imagens e vídeos de alta qualidade, concebidos para captar a atenção do seu público e maximizar o impacto visual."
+    }
+  },
+
+  "OurWebDesignProjects": {
+    "title": "Nossos projetos",
+    "subtitle": "Projetos web que dão vida às ideias",
+    "contentTitle": "Descubra 3 dos nossos projetos recentes, cada um cuidadosamente desenvolvido para responder a necessidades específicas. Outros projetos estão atualmente em desenvolvimento. Seja um site institucional, um site para artistas ou influenciadores, uma loja online ou uma solução digital personalizada, criamos sem limites.",
+    "btnRealisation": "Nossos projetos",
+    "project": {
+      "title1": "NextÉclat",
+      "contentLine1": "A NextÉclat é uma agência digital que acompanha empreendedores, artistas e influenciadores na criação de uma imagem forte. Desenvolvemos este site para destacar a nossa experiência em branding, web design, produção audiovisual e criação de conteúdo digital.",
+
+      "title2": "FalconBeat",
+      "contentLine2": "A Falcon Beats é uma plataforma musical que criámos para artistas e criadores à procura de beats profissionais de alta qualidade. Permite explorar, comprar e descarregar instrumentais variados adaptados a diferentes estilos musicais, acessíveis em todo o mundo.",
+
+      "title3": "Cyrus FP",
+      "contentLine3": "A Cirus FP é uma empresa especializada em soluções visuais de grande formato. Criámos o seu site para destacar a sua experiência na produção e distribuição de bandeiras e soluções de comunicação visual em grande escala.",
+
+      "title4": "Pasha Bouw",
+      "contentLine4": "Criámos o site institucional da Pasha Bouw, uma empresa especializada em renovação e projetos personalizados. O site destaca a sua experiência em renovação de casas, casas de banho e cozinhas, bem como o seu compromisso com a qualidade e soluções adaptadas a cada cliente.",
+
+      "title5": "Jupiter Safe Consulting",
+      "contentLine5": "Criámos o site institucional da Jupiter Safe Consulting, uma empresa especializada em consultoria QHSE. O site destaca a sua experiência em conformidade, prevenção de riscos e melhoria contínua, com soluções adaptadas às necessidades das empresas.",
+
+      "btn1": "Ver projeto"
+    }
+  },
+
+  "PricingWebdesign": {
+    "BigTitle": "Os nossos pacotes de webdesign",
+    "StarterBasic": {
+      "Title": "Starter / Básico",
+      "ContentLine1": "1 a 3 páginas (Landing Page, Sobre, Contacto)",
+      "ContentLine2": "Design personalizado e responsivo",
+      "ContentLine3": "Formulário de contacto",
+      "ContentLine4": "Configuração de alojamento e domínio",
+      "ContentLine5": "SEO básico (visibilidade no Google)",
+      "ContentLine6": "Entrega rápida",
+      "ContentLine7a": "Ideal para:",
+      "ContentLine7b": "Pequenas empresas, freelancers, criativos ou influenciadores que desejam um site simples, limpo e elegante."
+    },
+    "BusinessStandard": {
+      "Title": "Negócios / Padrão",
+      "ContentLine1": "5 a 8 páginas (Início, Serviços, Portfólio, Blog, Contacto, etc.)",
+      "ContentLine2": "Design UX personalizado com base na análise do público e concorrência",
+      "ContentLine3": "CMS ou painel administrativo (atualizações fáceis de conteúdo)",
+      "ContentLine4": "Loja online básica (até 20 produtos)",
+      "ContentLine5": "Integração avançada de SEO + Google Analytics",
+      "ContentLine6": "Integração de sistema de reservas (se necessário)",
+      "ContentLine7": "Formação básica para gestão do site",
+      "ContentLine8a": "Ideal para:",
+      "ContentLine8b": "PME, startups, lojas ou agências que procuram uma presença online completa e dinâmica."
+    },
+    "PremiumDeluxe": {
+      "Title": "Premium / Deluxe",
+      "ContentLine1": "Website completo ou plataforma avançada (e-commerce, educação, SaaS, etc.)",
+      "ContentLine2": "Loja online ilimitada com gestão de stock e sistemas de pagamento (Stripe, PayPal, etc.)",
+      "ContentLine3": "Animações e transições suaves (React.js)",
+      "ContentLine4": "Branding completo (logótipo, identidade visual, guias da marca)",
+      "ContentLine5": "Criação de conteúdo visual (foto, vídeo, música, etc.)",
+      "ContentLine6": "Otimização SEO premium + campanhas de marketing digital",
+      "ContentLine7": "Manutenção contínua e atualizações",
+      "ContentLine8": "Suporte prioritário e acompanhamento personalizado",
+      "ContentLine9a": "Ideal para:",
+      "ContentLine9b": "Marcas, startups tecnológicas, escolas ou empresas que procuram uma plataforma de alto nível."
+    }
+  },
+  "Branding": {
+    "Banner": {
+      "Title": "Branding, Identidade, Impacto",
+      "ContentLine1": "Criamos identidades de marca criativas e consistentes que fazem o seu negócio destacar-se. Desde logótipos até branding digital, cada detalhe fortalece a sua imagem e a ligação com o seu público.",
+      "ContentLine2": "",
+      "ContentLine3": ""
+    },
+    "Descsription": {
+      "Title": "Nossas soluções de branding",
+      "Subtitle": "Ajudamos empresas a criar identidades visuais fortes. Ao combinar criatividade,\nestratégia e design, damos vida à sua marca e tornamo-la memorável.\n",
+
+      "ContentLine1": "Na NextEclat, criamos identidades de marca criativas e consistentes que ajudam o seu negócio a destacar-se. Desde materiais corporativos até branding digital e materiais promocionais, cada detalhe é pensado para fortalecer a sua imagem e criar uma ligação forte com o seu público.",
+      "ContentLineBold1": "",
+      "ContentLine2": "",
+      "ContentLineBold2": "",
+      "ContentLine3": ""
+    },
+    "TypeBranding": {
+      "BigTitle": "Criamos identidades visuais para:",
+      "1ArtistsMusiciansPerformers": {
+        "Title": "1. Artistas, músicos e performers",
+        "ContentLine1": "Logótipo de artista e identidade de marca pessoal",
+        "ContentLine2": "Visuais promocionais para teasers ou lançamentos de vídeo",
+        "ContentLine3": "Design de capas de álbuns e singles (digital e impresso)",
+        "ContentLine4": "Design de campanhas visuais para lançamentos (cartazes, banners, flyers)",
+        "ContentLine5": "Kit de redes sociais (imagens de perfil, destaques, templates de posts, banners YouTube/TikTok)",
+        "ContentLine6": "Visuais de branding para websites",
+        "ContentLine7": "Cartazes de concertos e digressões",
+        "ContentLine8": "Papelaria e materiais de marca (papel timbrado, envelopes, pastas)",
+        "ContentLine9": "Design de merchandising (T-shirts, sacos tote, canecas, bonés, pins, autocolantes)",
+        "ContentLine10": "Materiais impressos: cartões de visita, cartões de artista, cartazes, brochuras"
+      },
+      "2WeddingsLuxuryEvents": {
+        "Title": "2. Casamentos, luxo e eventos",
+        "ContentLine1": "Logótipo de casamento e design de monograma",
+        "ContentLine2": "Save-the-date e convites (impresso e digital)",
+        "ContentLine3": "Cartazes e banners para eventos",
+        "ContentLine4": "Menus, cartões de mesa e cartões de agradecimento",
+        "ContentLine5": "Envelopes e pastas personalizadas",
+        "ContentLine6": "Sinalização de eventos e painéis de boas-vindas",
+        "ContentLine7": "Templates de anúncios para redes sociais",
+        "ContentLine8": "Visuais para websites de casamento ou eventos",
+        "ContentLine9": "Lembranças impressas (sacos, cadernos, canecas, T-shirts)",
+        "ContentLine10": "Brochuras e pastas elegantes para eventos de luxo",
+        "ContentLine11": "Branding para eventos culturais (kits visuais, flyers, bilhetes)"
+      },
+      "3LifestyleSportsContentCreators": {
+        "Title": "3. Lifestyle, desporto e criadores de conteúdo",
+        "ContentLine1": "Logótipo pessoal e identidade visual",
+        "ContentLine2": "Kit de branding para redes sociais (banners Instagram/Facebook/TikTok/YouTube, destaques, templates de posts e reels)",
+        "ContentLine3": "Cartazes e visuais promocionais",
+        "ContentLine4": "Vestuário e acessórios personalizados (T-shirts, sacos tote, cadernos)",
+        "ContentLine5": "Kit de redes sociais (imagens de perfil, destaques, templates de posts, banners YouTube/TikTok)",
+        "ContentLine6": "Cartões de visita e cartão digital (compatível com NFC)",
+        "ContentLine7": "Design de e-books ou produtos digitais (guias, lookbooks, templates)",
+        "ContentLine8": "Campanhas impressas para colaborações lifestyle e desporto",
+        "ContentLine9": "Branding de website ou blog"
+      },
+      "4BeautyFashionStyleBrand": {
+        "Title": "4. Marcas de beleza, moda e estilo",
+        "ContentLine1": "Logótipo de marca e identidade visual",
+        "ContentLine2": "Design de embalagens e rótulos de produtos",
+        "ContentLine3": "Design de lookbooks e catálogos",
+        "ContentLine4": "Identidade visual para redes sociais (templates, stories, destaques, banners)",
+        "ContentLine5": "Cartazes e campanhas para lançamentos de produtos",
+        "ContentLine6": "Convites para desfiles de moda e materiais de backstage",
+        "ContentLine7": "Cartões de visita, brochuras e flyers",
+        "ContentLine8": "Papelaria personalizada (papel timbrado, envelopes, pastas)",
+        "ContentLine9": "Visuais para e-commerce e branding web",
+        "ContentLine10": "Design de brindes promocionais (sacos, copos, cadernos, vestuário)"
+      },
+      "5BusinessHospitalityRealEstate": {
+        "Title": "5. Empresas, hotelaria e imobiliário",
+        "ContentLine1": "Logótipo empresarial e sistema de marca",
+        "ContentLine2": "Papelaria corporativa (papel timbrado, cartões de visita, envelopes, pastas)",
+        "ContentLine3": "Brochuras, catálogos e fichas de produtos",
+        "ContentLine4": "Sinalização e materiais de exposição (banners, outdoors, stands)",
+        "ContentLine5": "Branding para hotéis, cafés e restaurantes (menus, uniformes, embalagens)",
+        "ContentLine6": "Templates imobiliários e apresentação fotográfica personalizada",
+        "ContentLine7": "Branding para websites e redes sociais",
+        "ContentLine8": "Templates de email marketing e newsletters personalizadas",
+        "ContentLine9": "Merchandising promocional (canecas, canetas, sacos tote, cadernos)",
+        "ContentLine10": "Visuais de branding para escritórios (sinalização, impressões de parede, retratos de equipa)"
+      }
+    },
+    "OurBrandingDivisions": {
+      "BigTitle": "As nossas divisões de branding",
+      "BrandIdentityCoreDesign": {
+        "Title": "Identidade de marca & design essencial",
+        "ContentLine1": "Logotipo da marca & identidade visual",
+        "ContentLine2": "Papelaria corporativa (papel timbrado, envelopes, pastas)",
+        "ContentLine3": "Cartões de visita, brochuras & folhetos"
+      },
+      "ProductPackagingDesign": {
+        "Title": "Design de produto & embalagem",
+        "ContentLine1": "Design de embalagens e rótulos de produtos",
+        "ContentLine2": "Design de brindes promocionais (sacos, canecas, cadernos, vestuário)"
+      },
+      "DigitalOnlineBranding": {
+        "Title": "Branding digital & online",
+        "ContentLine1": "Identidade visual para redes sociais (templates, stories, destaques, banners)",
+        "ContentLine2": "Supervisão de cada etapa para garantir qualidade e criatividade",
+        "ContentLine3": "Visuais para e-commerce & branding web"
+      },
+      "MarketingCampaignDesign": {
+        "Title": "Marketing & design de campanhas",
+        "ContentLine1": "Design de posters e campanhas para lançamentos de produtos",
+        "ContentLine2": "Design de lookbooks & catálogos",
+        "ContentLine3": "Branding de lojas & design de sinalização",
+        "ContentLine4": "Convites para desfiles de moda & materiais de bastidores"
+      }
+    },
+    "PricingBranding": {
+      "BigTitle": "Os nossos pacotes de branding",
+      "BasicPackage": {
+        "Title": "Pacote Básico (Starter)",
+        "ContentLine1": "Criação do logótipo principal",
+        "ContentLine2": "Paleta de cores & tipografia",
+        "ContentLine3": "Cartão de visita & papelaria básica",
+        "ContentLine4": "Visuais para perfis de redes sociais (perfil, banner, template de post)"
+      },
+      "StandardPackage": {
+        "Title": "Pacote Standard (Profissional)",
+        "ContentLine1": "Tudo incluído no pacote Starter",
+        "ContentLine2": "Variações de logótipo & conjunto de ícones",
+        "ContentLine3": "Papelaria alargada (papel timbrado, envelopes, pastas)",
+        "ContentLine4": "Templates para redes sociais & capas de destaques"
+      },
+      "GoldPackage": {
+        "Title": "Pacote Gold (Elite)",
+        "ContentLine1": "Tudo incluído no pacote Profissional",
+        "ContentLine2": "Brand book completo (sistema visual & diretrizes)",
+        "ContentLine3": "Design de embalagens & posters",
+        "ContentLine4": "Visuais de campanhas e publicidade",
+        "ContentLine5": "Sessão fotográfica de produto ou equipa",
+        "ContentLine6": "Direção criativa & consultoria"
+      }
+    },
+    "WhyOurBranding": {
+      "Title": "Por que nossos serviços de branding se destacam",
+      "ContentLine1a": "Exclusivo para si: ",
+      "ContentLine1b": "100% original, sem modelos.",
+      "ContentLine2a": "Inteligente & criativo: ",
+      "ContentLine2b": "Design que gera resultados.",
+      "ContentLine3a": "Visual consistente: ",
+      "ContentLine3b": "Em todas as plataformas.",
+      "ContentLine4a": "Equipa tudo-em-um: ",
+      "ContentLine4b": "Design, fotografia, vídeo, marketing.",
+      "ContentLine5a": "Acabamento premium: ",
+      "ContentLine5b": "Criado com precisão.",
+      "ContentLine6a": "Impacto forte: ",
+      "ContentLine6b": "Visuais que criam conexão.",
+      "ContentLine7a": "Posicionamento estratégico: ",
+      "ContentLine7b": "Defina a sua história e destaque-se."
+    }
+  },
+  "DigitalMarketing": {
+    "Banner": {
+      "Title": "Marketing Digital, Estratégia e Crescimento",
+      "Content": "Ajudamos marcas a crescer e a destacar-se online. As nossas estratégias digitais atraem, convertem e fidelizam o seu público. Das redes sociais ao SEO, aumentamos a sua visibilidade e impacto. Criativos, orientados por dados e focados em resultados, fazemos o digital trabalhar para si.",
+      "Content1": "Ajudamos marcas a crescer e a destacar-se online. As nossas estratégias digitais atraem,",
+      "Content2": "convertem e fidelizam o seu público. Das redes sociais ao SEO, aumentamos a sua visibilidade",
+      "Content3": "e impacto. Criatividade e dados ao serviço de resultados."
+    },
+    "Description": {
+      "Title": "Na NextEclat, utilizamos o marketing digital para elevar marcas, empresas e criadores online.",
+      "Content": "Criamos estratégias poderosas para promover os seus produtos, serviços ou imagem e maximizar o seu impacto nas plataformas digitais. Desenvolvemos estratégias eficazes para aumentar a sua visibilidade online, atrair potenciais clientes, convertê-los em clientes e construir fidelização a longo prazo."
+    },
+    "TypeServicesDigitalMarketing": {
+      "Title": "Nossos serviços de marketing digital",
+      "1igitalStrategyConsulting": {
+        "Title": "1. Estratégia Digital & Consultoria",
+        "ContentLine1": "Identidade de marca pessoal e logotipo",
+        "ContentLine2": "Auditoria digital completa (site, redes sociais, SEO, etc.)",
+        "ContentLine3": "Desenvolvimento de estratégias de marketing personalizadas",
+        "ContentLine4": "Posicionamento de marca e definição do público-alvo",
+        "ContentLine5": "Plano de ação multicanal (SEO, anúncios, conteúdo, e-mail marketing…)",
+        "ContentLine6": "Análise da concorrência",
+        "ContentLine7": "OBJETIVO: Construir um roteiro claro e eficaz para expandir sua presença digital."
+      },
+      "2SocialediaManagement": {
+        "Title": "2. Gestão de Redes Sociais",
+        "ContentLine1": "Criação e gestão de contas (Instagram, Facebook, TikTok, LinkedIn, X, etc.)",
+        "ContentLine2": "Auditoria digital completa (site, redes sociais, SEO, etc.)",
+        "ContentLine3": "Planejamento e publicação de conteúdo",
+        "ContentLine4": "Gestão de comunidade e engajamento",
+        "ContentLine5": "Plano de ação multicanal (SEO, anúncios, conteúdo, e-mail marketing…)",
+        "ContentLine6": "Monitoramento de desempenho e relatórios",
+        "ContentLine7": "Campanhas Meta Ads (Facebook & Instagram)",
+        "ContentLine8": "OBJECTIVO: Construir uma comunidade ativa, fiel e em crescimento em torno da sua marca."
+      },
+      "3DigitalContentCreation": {
+        "Title": "3. Criação de Conteúdo Digital",
+        "ContentLine1": "Visuais profissionais (Adobe Photoshop, Premiere Pro, DaVinci Resolve, etc.)",
+        "ContentLine2": "Redação de conteúdo envolvente (posts, artigos, newsletters)",
+        "ContentLine3": "Vídeos promocionais, stories e reels",
+        "ContentLine4": "Posicionamento de marca e definição do público-alvo",
+        "ContentLine5": "Sessões de foto e vídeo para marcas",
+        "ContentLine6": "Roteirização e storytelling para marketing",
+        "ContentLine7": "Direção criativa para uma narrativa de marca consistente",
+        "ContentLine8": "OBJECTIVO: Criar visuais e histórias que conectem emocionalmente e impulsionem a ação."
+      },
+      "4SearchEngineOptimization": {
+        "Title": "4. Otimização para Motores de Busca (SEO)",
+        "ContentLine1": "Auditoria SEO completa",
+        "ContentLine2": "Pesquisa e integração de palavras-chave",
+        "ContentLine3": "Otimização de conteúdo e meta tags",
+        "ContentLine4": "Melhorias técnicas (velocidade, estrutura, links internos)",
+        "ContentLine5": "Criação de blogs otimizados para SEO",
+        "ContentLine6": "Monitoramento de desempenho e otimização contínua",
+        "ContentLine7": "OBJECTIVO: Alcançar melhores posições no Google e atrair tráfego orgânico qualificado."
+      },
+      "5OnlineAdvertising": {
+        "Title": "5. Publicidade Online (Paid Ads)",
+        "ContentLine1": "Campanhas Google Ads (Search, Display, YouTube)",
+        "ContentLine2": "Meta Ads (Facebook & Instagram)",
+        "ContentLine3": "TikTok Ads / LinkedIn Ads",
+        "ContentLine4": "Remarketing e segmentação avançada",
+        "ContentLine5": "Otimização de orçamento e acompanhamento de ROI",
+        "ContentLine6": "",
+        "ContentLine7": "OBJETIVO: Gerar leads e vendas rapidamente através de anúncios direcionados e de alto desempenho."
+      },
+      "6EmailMarketingAutomation": {
+        "Title": "6. Email Marketing & Automação",
+        "ContentLine1": "Criação de campanhas promocionais e de fidelização",
+        "ContentLine2": "Fluxos de automação (boas-vindas, carrinho abandonado, acompanhamento de clientes)",
+        "ContentLine3": "Design profissional de templates de email",
+        "ContentLine4": "Monitoramento de taxas de abertura e conversão",
+        "ContentLine5": "OBJETIVO: Fortalecer o relacionamento com clientes e aumentar a retenção."
+      },
+      "7BrandingDigitalIdentity": {
+        "Title": "7. Branding & Identidade Digital",
+        "ContentLine1": "Criação de logotipo e identidade visual",
+        "ContentLine2": "Imagem de marca consistente em todos os canais",
+        "ContentLine3": "Desenvolvimento da voz e storytelling da marca",
+        "ContentLine4": "Consistência visual em site, redes sociais e anúncios",
+        "ContentLine5": "OBJETIVO: Construir uma marca forte, reconhecível e confiável."
+      },
+      "8AnalyticsOptimization": {
+        "Title": "8. Análise & Otimização",
+        "ContentLine1": "Monitoramento de desempenho (Google Analytics, Meta Insights, etc.)",
+        "ContentLine2": "Dashboards personalizados e relatórios",
+        "ContentLine3": "Otimização contínua para maximizar conversões",
+        "ContentLine4": "Testes A/B para melhorar resultados",
+        "ContentLine5": "OBJETIVO: Transformar dados em ações para maximizar o desempenho."
+      },
+      "9ContentMarketing": {
+        "Title": "9. Marketing de Conteúdo",
+        "ContentLine1": "Estratégia de conteúdo (calendário editorial, temas, formatos, objetivos)",
+        "ContentLine2": "Criação de blogs otimizados para SEO",
+        "ContentLine3": "Criação de guias, eBooks, newsletters e fichas de produto",
+        "ContentLine4": "Storytelling de marca (destacando sua história ou a dos clientes)",
+        "ContentLine5": "Roteirização para vídeos, podcasts ou anúncios",
+        "ContentLine6": "Reaproveitamento de conteúdo — transformar um conteúdo em vários formatos",
+        "ContentLine7": "OBJETIVO: Construir confiança, aumentar visibilidade e gerar leads com conteúdo impactante."
+      }
+    },
+    "PricingDigitalMarketing": {
+      "BigTitle": "Nossos pacotes de marketing digital",
+      "BasicPackage": {
+        "Title": "Pacote Básico (Plano Fundação)",
+        "ContentLine1": "Auditoria digital (site + redes sociais)",
+        "ContentLine2": "Mini estratégia digital personalizada",
+        "ContentLine3": "Configuração de redes sociais (1–2 plataformas)",
+        "ContentLine4": "4 publicações por mês (visuais + legendas)",
+        "ContentLine5": "Otimização básica de SEO",
+        "ContentLine6": "Relatório mensal de desempenho",
+        "ContentLine7": "Para startups ou pequenos negócios que estão começando sua jornada online."
+      },
+      "StandardPackage": {
+        "Title": "Pacote Standard (Plano de Crescimento)",
+        "ContentLine1": "Estratégia digital completa & consultoria",
+        "ContentLine2": "Gestão de redes sociais (até 3 plataformas)",
+        "ContentLine3": "8–12 publicações por mês + gestão de comunidade",
+        "ContentLine4": "Otimização de SEO (palavras-chave, meta, configuração de blog)",
+        "ContentLine5": "Uma campanha de anúncios pagos (Meta ou Google Ads)",
+        "ContentLine6": "Análise mensal e otimização",
+        "ContentLine7": "Para marcas que desejam crescimento e engajamento consistentes."
+      },
+      "GoldPackage": {
+        "Title": "Pacote Gold (Plano de Expansão Premium)",
+        "ContentLine1": "Estratégia digital completa & consultoria",
+        "ContentLine2": "Gestão de redes sociais (todas as principais plataformas)",
+        "ContentLine3": "Criação de conteúdo (vídeos, reels, artigos de blog, newsletters)",
+        "ContentLine4": "SEO + anúncios pagos (Google, Meta, TikTok, LinkedIn)",
+        "ContentLine5": "Configuração de email marketing & automação",
+        "ContentLine6": "Otimização de branding & storytelling",
+        "ContentLine7": "Dashboard personalizado + revisão mensal de desempenho",
+        "ContentLine8": "Para marcas consolidadas prontas para escalar e dominar seu mercado."
+      }
+    }
+  },
+  "MusicPage": {
+    "Banner": {
+      "Title": "Música, Produção, Criatividade",
+      "ContentLine1": "Criamos sons poderosos e profissionais que dão vida à sua história.",
+      "ContentLine2": "Ouça, sinta e aproprie-se dos nossos beats profissionais no Falcon Beats. O som que faz a diferença começa aqui.",
+      "BtnLine": "Ouvir nossos beats"
+    },
+    "DescriptionMusic": {
+      "Title": "Nossos Serviços de Produção Musical",
+      "Subtitle": "Transformamos ideias em som. Da produção de beats à masterização, criamos música que inspira, conecta e valoriza a sua mensagem.",
+      "Content": "Produzimos música profissional para artistas e marcas, desde a criação de beats até à mistura e masterização completas. O nosso estúdio oferece um som limpo e poderoso, adaptado ao seu estilo e à sua mensagem. Também criamos música original para anúncios, podcasts, vídeos e conteúdos digitais."
+    },
+    "TypeVideo": {
+      "BigTitle": "Produzimos música para:",
+      "1ArtistsMusiciansPerformers": {
+        "Title": "1. Artistas, Músicos & Performers",
+        "ContentLine1": "Produção de beats (beats personalizados, instrumentais)",
+        "ContentLine2": "Gravação, mixagem & masterização",
+        "ContentLine3": "Arranjo musical & edição vocal",
+        "ContentLine4": "Produção de álbuns & singles"
+      },
+      "2BusinessesEntrepreneurs": {
+        "Title": "2. Empresas & Empreendedores",
+        "ContentLine1": "Música de fundo para comerciais e vídeos promocionais",
+        "ContentLine2": "Jingles corporativos & identidade sonora",
+        "ContentLine3": "Intros / outros de podcasts e sound design",
+        "ContentLine4": "Música para storytelling de marca ou apresentações"
+      },
+      "3ContentCreatorsInfluencers": {
+        "Title": "3. Criadores de Conteúdo & Influenciadores",
+        "ContentLine1": "Música para vídeos de redes sociais, Reels, YouTube & TikTok",
+        "ContentLine2": "Trilhas sonoras lifestyle e de viagem",
+        "ContentLine3": "Edições curtas e loops para conteúdo digital"
+      },
+      "4ForFilmmakersCreators": {
+        "Title": "4. Para Cineastas & Criadores",
+        "ContentLine1": "Trilhas sonoras & composições cinematográficas",
+        "ContentLine2": "Música para trailers e documentários",
+        "ContentLine3": "Sound design ambiente e emocional"
+      }
+    },
+    "MusicPackage": {
+      "BigTitle": "Nossos Pacotes de Produção Musical",
+      "Beat": {
+        "Title": "Beat",
+        "ProfessionalLicense": {
+          "Title": "Licença Profissional",
+          "ContentLine1": "Arquivos WAV + MP3 (qualidade de estúdio)",
+          "ContentLine2": "Trackouts / Stems (faixas separadas para mixagem profissional)",
+          "ContentLine3": "Direitos de monetização no Spotify, YouTube, Apple Music, Deezer, etc.",
+          "ContentLine4": "Número limitado de streams (ex.: até 500k ou 1M de streams)",
+          "ContentLine5": "Licença não exclusiva — o produtor pode revender o mesmo beat",
+          "ContentLine6": "Objetivo:",
+          "ContentLine7": "Uma licença não exclusiva avançada para artistas sérios que desejam monetizar suas músicas."
+        },
+        "MonetizationStreaming": {
+          "Title": "Licença de Monetização & Streaming",
+          "ContentLine1": "Arquivos WAV + MP3 (qualidade de estúdio)",
+          "ContentLine2": "Trackouts / Stems (faixas separadas para mixagem profissional)",
+          "ContentLine3": "Direitos de monetização no Spotify, YouTube, Apple Music, Deezer, etc.",
+          "ContentLine4": "Número limitado de streams (ex.: até 500k ou 1M de streams)",
+          "ContentLine5": "Direitos para shows ao vivo e rádios locais",
+          "ContentLine6": "Licença não exclusiva — o produtor pode revender o beat",
+          "ContentLine7": "Objetivo:",
+          "ContentLine8": "Uma licença avançada para artistas que desejam monetizar sua música nas plataformas digitais."
+        },
+        "EliteCreatorLicense": {
+          "Title": "Licença Elite Creator",
+          "ContentLine1": "Todos os arquivos incluídos: WAV + MP3 + stems",
+          "ContentLine2": "Direitos amplos ou ilimitados — streams ilimitados, rádio nacional, TV e sincronização (anúncios, filmes, jogos, etc.)",
+          "ContentLine3": "Direitos de coletar royalties ou revender como proprietário",
+          "ContentLine4": "Licença exclusiva (beat vendido apenas uma vez)",
+          "ContentLine5": "Recursos Pro possíveis: contrato completo, transferência parcial de direitos autorais, acesso direto ao produtor",
+          "ContentLine6": "Crédito oficial de produção (“Prod by NEXTÉCLAT”)",
+          "ContentLine7": "Objetivo:",
+          "ContentLine8": "Uma licença premium com direitos profissionais avançados e opções exclusivas."
+        }
+      },
+      "VocalRecording": {
+        "Title": "2. Pacotes de Gravação Vocal",
+        "BasicPackageVocal": {
+          "Title": "Pacote Básico (Apenas Gravação Vocal)",
+          "ContentLine1": "Sessão de gravação vocal em estúdio",
+          "ContentLine2": "Microfone profissional (Neumann U87 ou Brauner Phantom Classic)",
+          "ContentLine3": "Entrega do arquivo WAV em alta resolução",
+          "ContentLine4": "Assistência de engenheiro de som durante a sessão",
+          "ContentLine5": "Opcional: escolha do tipo de microfone (estúdio classe 1 ou classe 2) — influencia o preço",
+          "ContentLine6": "Objetivo:",
+          "ContentLine7": "Para artistas, influenciadores ou criadores que desejam uma gravação vocal limpa e de alta qualidade para mixagem externa."
+        },
+        "StandardVocal": {
+          "Title": "Pacote Standard (Vocal + Mix & Master)",
+          "ContentLine1": "Sessão de gravação vocal",
+          "ContentLine2": "Mixagem profissional das vozes com o instrumental",
+          "ContentLine3": "Masterização disponível sob pedido",
+          "ContentLine4": "Entrega final em formatos WAV + MP3",
+          "ContentLine5": "Direitos para apresentações ao vivo e rádio local",
+          "ContentLine6": "Não exclusivo — o produtor pode revender o mesmo beat",
+          "ContentLine7": "Objetivo:",
+          "ContentLine8": "Um pacote avançado para artistas sérios que desejam monetizar suas músicas no Spotify, YouTube e Apple Music."
+        },
+        "PremiumVocal": {
+          "Title": "Pacote Premium (Direção Artística Completa)",
+          "ContentLine1": "Sessão de gravação vocal",
+          "ContentLine2": "Mixagem e masterização profissionais",
+          "ContentLine3": "Direção artística e coaching vocal durante a sessão",
+          "ContentLine4": "Orientação sobre tom, emoção e interpretação",
+          "ContentLine5": "Acesso à rede do estúdio (produtores, influenciadores, etc.)",
+          "ContentLine6": "Arquivo final em WAV + MP3 (qualidade rádio e streaming)",
+          "ContentLine7": "Objetivo:",
+          "ContentLine8": "Para artistas que querem mais do que apenas gravar — orientação criativa, som premium e uma experiência profissional completa."
+        }
+      },
+      "FullProduction": {
+        "Title": "3. Pacotes de Produção Completa (Beat + Vozes + Mix & Master)",
+        "FullProduction1": {
+          "Title": "Pacote de Produção Completa (Beat + Vozes + Mix & Master)",
+          "ContentLine1": "Beat personalizado ou pré-produzido (WAV + MP3)",
+          "ContentLine2": "Sessão de gravação vocal em estúdio",
+          "ContentLine3": "Microfone profissional (Neumann U87 ou Brauner Phantom Classic)",
+          "ContentLine4": "Entrega dos arquivos separados (beat + vocais prontos para mixagem)",
+          "ContentLine5": "Licença de beat não exclusiva (até 250k streams)",
+          "ContentLine6": "Opcional: preço varia conforme o tempo de gravação e tipo de beat",
+          "ContentLine7": "Objetivo:",
+          "ContentLine8": "Para artistas que desejam um beat personalizado e gravação vocal limpa para desenvolver o projeto e mixar externamente."
+        },
+        "ProfessionalPackage": {
+          "Title": "Pacote Profissional (Beat + Mix & Master)",
+          "ContentLine1": "Beat personalizado (WAV + MP3 + stems)",
+          "ContentLine2": "Sessão de gravação vocal",
+          "ContentLine3": "Mixagem profissional de beat e vocais",
+          "ContentLine4": "Masterização (pronto para Spotify / Apple Music)",
+          "ContentLine5": "Licença não exclusiva ou semi-exclusiva (até 1M streams)",
+          "ContentLine6": "Crédito de produção (“Prod by NEXTÉCLAT”)",
+          "ContentLine7": "Opcional: preço conforme exclusividade e complexidade do projeto",
+          "ContentLine8": "Objetivo:",
+          "ContentLine9": "Para artistas sérios que querem uma faixa totalmente mixada e pronta para streaming."
+        },
+        "ElitePackage": {
+          "Title": "Pacote Elite (Produção Artística Completa)",
+          "ContentLine1": "Beat exclusivo (criado sob medida para a sua visão)",
+          "ContentLine2": "Sessão de gravação vocal com direção artística",
+          "ContentLine3": "Mixagem e masterização profissionais",
+          "ContentLine4": "Coaching de performance vocal e interpretação",
+          "ContentLine5": "Direção criativa (conceito, vibe, hook, identidade sonora)",
+          "ContentLine6": "Acesso à rede Falcon XXL (engenheiros, influenciadores, mídia)",
+          "ContentLine7": "Direitos completos de monetização e distribuição (streams ilimitados)",
+          "ContentLine8": "Contrato opcional para gestão de direitos autorais e royalties",
+          "ContentLine9": "Objetivo:",
+          "ContentLine10": "Para artistas ou marcas que procuram uma produção premium com orientação artística e som de nível industrial."
+        }
+      }
+    },
+    "WhyChoose": {
+      "Title": "Por que escolher nossos serviços musicais",
+      "ContentLine1": "Produção atual: Criamos sons alinhados com as tendências musicais de hoje — modernos, atuais e prontos para rádio.",
+      "ContentLine2": "Criatividade versátil: Do Afrobeat ao R&B ou Trap, adaptamo-nos ao seu público-alvo e entregamos exatamente o que o seu nicho procura.",
+      "ContentLine3": "Engenheiros de alto nível: Trabalhamos com artistas de sucesso certificados com disco de ouro.",
+      "ContentLine4": "Equipe especializada: Beatmakers e engenheiros de mixagem com experiência real na indústria musical.",
+      "ContentLine5": "Direção artística: Ajudamos a moldar e aprimorar a sua visão criativa.",
+      "ContentLine6": "Estúdio completo: Produção de beats, gravação vocal, mixagem e masterização em um só lugar.",
+      "ContentLine7": "Rede forte: Conexões com artistas, influenciadores e empreendedores."
+    }
+  },
+  "Prices": {
+    "Title": "Nossos preços",
+    "Content": "Exibimos claramente os preços dos nossos principais serviços: audiovisual, fotografia, web design, branding, marketing digital e produção musical. Clique em um dos serviços abaixo para ver os detalhes de preços. Para orçamentos personalizados, entre em contato conosco diretamente.",
+    "Button1": "Preços Audiovisuais",
+    "Button2": "Preços de Fotografia",
+    "Button3": "Preços de Web Design",
+    "Button4": "Preços de Branding",
+    "Button5": "Preços de Marketing Digital",
+    "Button6": "Preços de Produção Musical"
+  },
+  "RequestQuote": {
+    "BigTitle1": "Uma pergunta?",
+    "BigTitle2": "Um projeto?",
+    "SubtitleLeft1": "Obrigado!",
+    "SubtitleLeft2": "NEXTÉCLAT",
+    "SubtitleLeft3": "está pronto para ajudá-lo",
+    "SubtitleRight1": "A sua solicitação diz respeito a quê?",
+    "Form1": "Nome*",
+    "Form2": "Sobrenome*",
+    "Form3": "Função na empresa (opcional)",
+    "Form4": "Empresa (opcional)",
+    "Form5": "Email*",
+    "Form6": "Número de telefone (se preferir ser contactado por telefone)",
+    "Form7": "Cidade / País*",
+    "Form8": "Website (opcional)",
+    "FormServices": {
+      "drop1": "Selecione o serviço desejado",
+      "drop2": "Vídeo / Clipe / Filme corporativo",
+      "drop3": "Fotografia",
+      "drop4": "Website",
+      "drop5": "Branding (logo, identidade visual, diretrizes…)",
+      "drop6": "Marketing digital / Redes sociais",
+      "drop7": "Produção musical / Beatmaking",
+      "drop8": "Ainda não sei, preciso de aconselhamento"
+    },
+    "FormBudget": {
+      "drop1": "Selecione o seu orçamento estimado",
+      "drop2": "€200 – €500",
+      "drop3": "€500 – €1.000",
+      "drop4": "€1.000 – €3.000",
+      "drop5": "€3.000 – €10.000",
+      "drop6": "Acima de €10.000",
+      "drop7": "Ainda não sei"
+    },
+    "Form11": "Descreva o seu projeto...",
+    "Form12": "Prazo (opcional):",
+    "ButtonSend": "Enviar pedido"
+  },
+
+
+  "ContactForm": {
+    "BigTitle": "Conheça-nos melhor",
+    "Subtitle": "Aconselhamento sem compromisso. Sempre honesto.",
+    "Content": "Estamos aqui para ajudá-lo. Vamos sempre um passo além \nna nossa comunicação. Diga-nos qual é a sua preferência.",
+    "TitleLeft": "Um serviço de retorno de chamada prático",
+    "ContentLeft": "Deixe os seus dados e entraremos em contacto \nnos dias úteis o mais rápido possível. É simples assim.",
+    "TitleRight": "Tem perguntas? Fale com a equipa NEXTÉCLAT",
+    "ContentRight1": "Ligue para nós:",
+    "ContentRight2": "Envie-nos um e-mail:",
+    "Form1": "Nome*",
+    "Form2": "Sobrenome*",
+    "Form3": "Função na empresa (opcional)",
+    "Form4": "Empresa (opcional)",
+    "Form5": "Email*",
+    "Form6": "Número de telefone (se preferir ser contactado por telefone)",
+    "Form7": "Cidade / País*",
+    "Form8": "Descreva o seu projeto...",
+    "ButtonContact": "Contacte-nos"
+  },
+  "About": {
+    "Banner": {
+      "Title": "Construímos o seu sonho",
+      "Content": "Todo empreendedor começa com um sonho. Na NextEclat, ajudamos você a transformar esse sonho em realidade. Através da nossa criatividade e experiência, construímos uma identidade visual que o diferencia, fortalece a sua marca e torna o seu negócio imparável. Ajudamos você a destacar-se, crescer e alcançar os seus objetivos com confiança."
+    },
+    "WhoAreWe": {
+      "Title": "Quem somos?",
+      "Subtitle1": "NextEclat",
+      "Subtitle2": " é uma agência criativa multidisciplinar que oferece serviços premium de produção audiovisual, web design, branding, marketing digital e produção musical.",
+      "ContentLine1a": "Audiovisual:",
+      "ContentLine1b": " Produção de vídeo de alto nível e fotografia profissional para elevar a sua imagem.",
+      "ContentLine2a": "Web Design:",
+      "ContentLine2b": " Sites modernos, rápidos e adaptados ao seu setor.",
+      "ContentLine3a": "Branding:",
+      "ContentLine3b": " Identidades visuais únicas: logótipos, guias de marca e designs de marketing.",
+      "ContentLine4a": "Marketing Digital:",
+      "ContentLine4b": " Estratégias digitais para aumentar a visibilidade e atrair mais clientes.",
+      "ContentLine5a": "Produção Musical:",
+      "ContentLine5b": " Beatmaking, gravação vocal e apoio criativo para artistas e criadores."
+    }
+  },
+  "FounderMichael": {
+    "BigTitle": "Conheça o fundador da NEXTÉCLAT",
+    "Paragraphe1": "Michael Ilunga, fundador da NEXTÉCLAT, nasceu na República Democrática do Congo e mudou-se mais tarde para os Países Baixos, onde cresceu entre duas culturas. Essa dupla identidade moldou a sua visão criativa e permitiu-lhe dominar o neerlandês, o inglês e o francês.",
+    "Paragraphe2": "Ele estudou Marketing no ROC Zeeland e obteve o grau de Bachelor of Science (BSc) em Communication Multimedia Design na Universidade de Haia, especializando-se na resolução de problemas digitais através de websites, aplicações, design visual e produção de vídeo. Posteriormente, reforçou a sua experiência técnica ao formar-se como Desenvolvedor Front-End na Universidade Novi, com domínio de React, HTML e CSS.",
+    "Paragraphe3": "Paralelamente aos seus estudos, Michael explorou a música, desenvolvendo fortes competências em produção de vídeo, storytelling criativo e edição digital com ferramentas como Adobe Premiere Pro, After Effects e DaVinci Resolve.",
+    "Paragraphe4": "Como membro da diáspora africana na Europa, Michael observou que muitos empreendedores e influenciadores africanos talentosos não tinham acesso a branding visual de alta qualidade. Essa percepção inspirou a criação da FalconXXL, uma empresa dedicada a capacitar a diáspora africana com branding profissional, ferramentas digitais poderosas e identidades visuais que os ajudam a destacar-se, crescer e causar impacto."
+  },
+  "Certification": {
+    "BigTitle": "Suas certificações e especializações",
+    "Cmd": {
+      "Title": "Universidade de Haia (Haia, Países Baixos)",
+      "Content": "Certificado em Communication Multimedia Design pela Universidade de Haia, onde obteve um Bacharelado em Tecnologia da Informação com forte foco na resolução de problemas digitais e na produção de mídia criativa.",
+      "ContentLine1a": "Comunicação : ",
+      "ContentLine1b": "Comunicação eficaz com o público-alvo através de meios digitais.",
+      "ContentLine2a": "UX/UI Design : ",
+      "ContentLine2b": "Criação de interfaces intuitivas (UI) e experiências do utilizador fluidas (UX).",
+      "ContentLine3a": "Design de Interação : ",
+      "ContentLine3b": "Desenvolvimento da forma como os utilizadores interagem com produtos digitais através de ações e feedback.",
+      "ContentLine4a": "Design de Produtos Digitais : ",
+      "ContentLine4b": "Criação de produtos digitais completos combinando estratégia, usabilidade e design visual."
+    },
+    "Novi": {
+      "Title": "Universidade Novi (Utrecht, Países Baixos)",
+      "Content": "Certificado em Desenvolvimento Front-End pela Universidade Novi, onde aprendeu a criar aplicações web modernas e de alto desempenho, especialmente Single Page Applications (SPA).",
+      "ContentLine1a": "React : ",
+      "ContentLine1b": "Criação de interfaces dinâmicas e aplicações baseadas em componentes.",
+      "ContentLine2a": "JavaScript : ",
+      "ContentLine2b": "Adição de lógica, interatividade e funcionalidades às aplicações web.",
+      "ContentLine3a": "HTML : ",
+      "ContentLine3b": "Estruturação de conteúdo web com marcação semântica limpa.",
+      "ContentLine4a": "CSS : ",
+      "ContentLine4b": "Estilização de interfaces e criação de layouts responsivos.",
+      "ContentLine5a": "Git & GitHub : ",
+      "ContentLine5b": "Controle de versões, colaboração e gestão de projetos.",
+      "ContentLine6a": "WebStorm & IntelliJ (IDEs) : ",
+      "ContentLine6b": "Trabalho com ambientes profissionais de desenvolvimento para programação eficiente.",
+      "ContentLine7a": "Figma (Wireframes & Protótipos) : ",
+      "ContentLine7b": "Criação de wireframes, layouts UI e protótipos interativos."
+    },
+    "Sae": {
+      "Title": "SAE Institute (Roterdão, Países Baixos)",
+      "Content": "Certificado em produção musical pelo SAE Institute, com foco na criação musical moderna, gravação e produção de áudio profissional.",
+      "ContentLine1a": "Produção de música eletrónica : ",
+      "ContentLine1b": "Compreensão de sound design, arranjos, síntese e composição criativa.",
+      "ContentLine2a": "Beatmaking : ",
+      "ContentLine2b": "Criação de padrões rítmicos, grooves e estruturas musicais.",
+      "ContentLine3a": "Gravação vocal : ",
+      "ContentLine3b": "Captação de vocais limpos e de alta qualidade com técnicas de estúdio.",
+      "ContentLine4a": "Uso de plugins : ",
+      "ContentLine4b": "Trabalho com sintetizadores, plugins de mixagem e ferramentas de processamento de áudio.",
+      "ContentLine5a": "Logic Pro / FL Studio / Cubase : ",
+      "ContentLine5b": "Criação de beats, produção, arranjo e mixagem de faixas completas.",
+      "ContentLine6a": "Pro Tools : ",
+      "ContentLine6b": "Utilização de um ambiente profissional de áudio para produção musical."
+    }
+  },
+  "OurTeam": {
+    "Title": "Nossa equipe",
+    "Fonction1": "Diretor de Marketing e Comunicação",
+    "Fonction2": "Gestor de Relações Públicas (PR Manager)",
+    "Fonction3": "CEO – Diretor Executivo",
+    "Fonction4": "Diretor de Operações"
+  },
+  "MissionVision": {
+    "OurMission": "Nossa missão",
+    "Subtitle1": "Curto prazo",
+    "Content1": "Nossa missão é capacitar empreendedores, influenciadores e criadores africanos com branding poderoso, identidades visuais profissionais e ferramentas digitais de alta qualidade que os ajudem a alcançar seus objetivos de forma mais rápida e eficaz. Queremos inspirá-los a sonhar mais alto, superar limitações e apresentar seu talento com confiança e excelência.",
+    "Subtitle2": "Longo prazo",
+    "Content2": "Nossa missão de longo prazo é fortalecer o talento africano em escala global, oferecendo soluções digitais sólidas e identidades visuais impactantes que elevem suas marcas. Queremos ajudá-los a vender seus serviços com mais facilidade, conectar-se com seu público e se posicionar como atores fortes e competitivos no mercado global.",
+    "OurVision": "Nossa visão",
+    "Subtitle3": "Curto prazo",
+    "Content3": "A NEXTÉCLAT tem como objetivo causar um forte impacto dentro da diáspora africana que vive nos Países Baixos, Bélgica, França, Luxemburgo e Alemanha. Nosso objetivo é permitir que empreendedores e criadores dessas regiões tenham acesso a branding de alta qualidade, ferramentas de marketing profissionais e recursos criativos que os ajudem a crescer, atender melhor seus clientes e demonstrar seu potencial com confiança.",
+    "Subtitle4": "Longo prazo",
+    "Content4": "A longo prazo, a NEXTÉCLAT busca se tornar uma potência criativa global, expandindo sua influência por toda a Europa e, posteriormente, para a África. Nosso objetivo é apoiar empreendedores e criadores africanos em todo o mundo com soluções digitais, identidades visuais e ferramentas criativas que os tornem fortes, competitivos e imparáveis."
+  },
+  "PrivacyPolicy": {
+    "Title": "Política de Privacidade – NEXTÉCLAT",
+    "Subtitle1": "1. Introdução",
+    "ContentLine1": "A NEXTÉCLAT valoriza a proteção da sua privacidade. Esta política de privacidade explica como coletamos e utilizamos os seus dados pessoais quando você visita o nosso site ou entra em contato conosco.",
+    "Subtitle2": "2. Dados coletados",
+    "ContentLine2": "Coletamos apenas os dados necessários, incluindo:",
+    "ContentLine3": "Nome e sobrenome",
+    "ContentLine4": "Endereço de e-mail",
+    "ContentLine5": "Número de telefone (se fornecido)",
+    "ContentLine6": "Mensagem enviada através do formulário de contato",
+    "ContentLine6a": "Esses dados são fornecidos voluntariamente pelo usuário.",
+    "Subtitle3": "3. Uso dos dados",
+    "ContentLine7": "Os dados coletados são utilizados exclusivamente para:",
+    "ContentLine8": "responder às suas solicitações,",
+    "ContentLine9": "entrar em contato com você no âmbito de nossos serviços,",
+    "ContentLine10": "garantir o bom funcionamento do site.",
+    "ContentLine11": "A NEXTÉCLAT não vende nem compartilha seus dados com terceiros para fins comerciais.",
+    "Subtitle4": "4. Armazenamento dos dados",
+    "ContentLine12": "Os dados são armazenados apenas pelo tempo necessário para o processamento da sua solicitação ou conforme exigido por lei.",
+    "Subtitle5": "5. Segurança",
+    "ContentLine13": "A NEXTÉCLAT adota medidas razoáveis para proteger seus dados pessoais contra acesso não autorizado ou uso indevido.",
+    "Subtitle6": "6. Seus direitos",
+    "ContentLine14": "De acordo com a legislação aplicável, você tem direito a:",
+    "ContentLine15": "acesso,",
+    "ContentLine16": "retificação,",
+    "ContentLine17": "exclusão de seus dados pessoais.",
+    "ContentLine18": "Para exercer esses direitos, você pode entrar em contato conosco através de:",
+    "button1": "falconxxl.mail@gmail.com",
+    "Subtitle7": "Cookies",
+    "ContentLine19": "O site da NEXTÉCLAT pode utilizar cookies para fins funcionais e analíticos. Você pode configurar seu navegador para recusar cookies.",
+    "Subtitle8": "Contato",
+    "ContentLine20": "Para qualquer dúvida relacionada a esta política de privacidade, você pode entrar em contato conosco através de",
+    "button2": "falconxxl.mail@gmail.com"
+  },
+  "News": {
+    "Title": "Atualização da página em andamento",
+    "Subtitle": "Esta página estará disponível em breve",
+    "ContentLine": "Estamos atualizando esta seção para fornecer as informações mais precisas e úteis. Por favor, volte em breve, o novo conteúdo estará disponível em breve. Informe-nos sobre suas preferências."
+  },
+  "Ads-Falcon-Beat": {
+    "Title": "A plataforma de beats que você precisa",
+    "ContentLine1": "Falcon Beats é uma plataforma dedicada a artistas em busca de",
+    "ContentLine2": "beats profissionais e de alta qualidade.",
+    "ContentLine3": "Ouça, escolha e compre instrumentais de diferentes gêneros, acessíveis em todo o mundo a um preço acessível.",
+    "BtnLine": "Acessar Falcon Beats"
+  },
+  "Page-news": {
+    "Newspartenair": {
+      "Title": "Colabore com a NextÉclat",
+      "ContentLine1": "A NextÉclat procura parceiros, colaboradores e voluntários para contribuir para os seus projetos e evoluir num ambiente criativo, colaborativo e focado no desenvolvimento de competências.",
+      "Contact": "Contacto :",
+      "ContactTitle1": "Email :",
+      "ContactLine1": "falconxxl.mail@gmail.com",
+      "ContactTitle2": "Tel :",
+      "ContactLine2": "+31 685 533 124",
+      "BtnInfo": "Mais informações",
+      "BtnWhatsapp": "WhatsApp"
+    },
+
+    "GotFlow": {
+      "ContentLine1": "You Got Flow é um conceito musical onde",
+      "ContentLine2": "a Falcon Beats partilha instrumentais originais no YouTube e nas redes sociais. Os artistas são convidados a cantar ou rimar sobre eles e a enviar as suas versões para aparecer nos próximos episódios.",
+      "BtnLine": "Ver You Got Flow"
+    },
+
+    "Kinshasa": {
+      "Title": "Apoiar os empreendedores de Kinshasa",
+      "ContentLine1": "Apoiamos talentos locais a dominar ferramentas digitais e a desenvolver a sua visibilidade. O objetivo é criar oportunidades concretas e sustentáveis para os empreendedores congoleses.",
+      "ContentLine2": "Ao promover o seu crescimento, queremos ajudar estes talentos a divulgar os seus projetos a nível local e internacional, gerando um impacto real no seu sucesso e reconhecimento. Este projeto está previsto para um futuro próximo e representa uma etapa fundamental da nossa missão em África."
+    },
+
+
+    "Relook": {
+      "ContentLine0":"RELOOK TON BUSINESS",
+      "ContentLine1": " é um conteúdo educativo destinado a empreendedores africanos da diáspora que desejam dominar as ferramentas digitais, desenvolver o seu negócio e alcançar o sucesso.",
+      "BtnLine": "Seguir REELOOK TON BUSINESS"
+    }
+  }
+}

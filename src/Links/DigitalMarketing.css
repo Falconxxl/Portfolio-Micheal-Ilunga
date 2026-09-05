@@ -1,0 +1,634 @@
+/* =========================================================
+   FITNESS FRIEND - RESPONSIVE PROJECT CARD
+   ========================================================= */
+
+.Pixam-section {
+    width: 100%;
+    /*padding: 50px;*/
+
+    padding: 100px 20px 100px 20px;
+
+    background-color: white;
+    height: auto;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECTION TITLE
+   ========================================================= */
+
+.Pixam-section h1 {
+    width: 70%;
+
+    color: #0091ff;
+
+    font-family: Sora, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+
+    padding-left: 100px;
+    padding-bottom: 20px;
+
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   INTRODUCTION TEXT
+   IMPORTANT :
+   On cible uniquement le paragraphe d'introduction.
+   ========================================================= */
+
+.text-intro-fitness {
+    width: 100%;
+
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+
+    margin: 0;
+
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.6;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   MAIN PROJECT CARD
+   ========================================================= */
+
+.Pixam-element {
+    width: min(67%, 1000px);
+    min-height: 470px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    display: flex;
+    flex-direction: row;
+
+    overflow: hidden;
+
+    text-decoration: none;
+    list-style: none;
+
+    border-radius: 25px;
+
+    box-sizing: border-box;
+
+    transition: opacity 0.2s ease;
+}
+
+.Pixam-element:hover {
+    opacity: 0.9;
+}
+
+
+/* =========================================================
+   LEFT / TEXT CONTAINER
+   ========================================================= */
+
+.container-info-Pixam {
+    width: 45%;
+    min-width: 0;
+    min-height: 470px;
+    height: auto;
+
+    background-color: #0385db;
+
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   INNER TEXT CONTAINER
+   ========================================================= */
+
+.container-info-Pixam2 {
+    width: 100%;
+    height: 100%;
+
+    padding: 50px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    box-sizing: border-box;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   TITLE
+   ========================================================= */
+
+.container-info-Pixam h,
+.container-info-Pixam h2 {
+    width: 100%;
+
+    font-family: Sora, sans-serif;
+
+    font-size: clamp(28px, 3vw, 40px);
+    font-weight: 800;
+    line-height: 1.1;
+
+    color: white;
+
+    margin: 0 0 20px 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   DESCRIPTION INSIDE CARD
+   IMPORTANT :
+   Aucun padding gauche/droite supplémentaire.
+   ========================================================= */
+
+.container-info-Pixam2 p {
+    width: 100%;
+    max-width: 100%;
+
+    padding: 0;
+    margin: 0 0 30px 0;
+
+    font-family: Poppins, sans-serif;
+
+    font-size: clamp(13px, 1.3vw, 16px);
+    font-weight: 400;
+    line-height: 1.6;
+
+    color: white;
+
+    box-sizing: border-box;
+
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+
+/* =========================================================
+   BUTTON
+   ========================================================= */
+
+.button-info-pixam {
+    font-family: Poppins, sans-serif;
+
+    font-size: 16px;
+    font-weight: bold;
+
+    color: white;
+    background-color: #005c98;
+
+    padding: 14px 24px;
+
+    border-radius: 30px;
+
+    width: fit-content;
+    min-width: 140px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-decoration: none;
+
+    box-sizing: border-box;
+
+    transition: background-color 0.3s ease;
+}
+
+.button-info-pixam:hover {
+    background-color: #44b5ff;
+}
+
+
+/* =========================================================
+   IMAGE CONTAINER
+   ========================================================= */
+
+.container-image-Pixam {
+    width: 55%;
+    min-width: 0;
+    min-height: 470px;
+
+    padding: 40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-sizing: border-box;
+
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+    background-image: linear-gradient(
+            to right,
+            #0385da,
+            #97d3fb
+    );
+}
+
+
+/* =========================================================
+   IMAGE
+   ========================================================= */
+
+.image-pixam1 {
+    width: min(85%, 420px);
+    max-width: 100%;
+
+    height: auto;
+
+    display: block;
+
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   TABLET
+   <= 1040px
+   ========================================================= */
+
+@media screen and (max-width: 1040px) {
+
+    .Pixam-element {
+        width: 82%;
+        min-height: 450px;
+    }
+
+
+    .container-info-Pixam {
+        width: 45%;
+        min-height: 450px;
+    }
+
+
+    .container-image-Pixam {
+        width: 55%;
+        min-height: 450px;
+
+        padding: 30px;
+    }
+
+
+    .container-info-Pixam2 {
+        padding: 40px;
+    }
+
+
+    .image-pixam1 {
+        width: 90%;
+    }
+}
+
+
+/* =========================================================
+   TABLET / SMALL LAPTOP
+   <= 940px
+   ========================================================= */
+
+@media screen and (max-width: 940px) {
+
+    .Pixam-element {
+        width: 82%;
+        min-height: 750px;
+
+        flex-direction: column-reverse;
+
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    /* SECTION TITLE */
+
+    .Pixam-section h1 {
+        width: 100%;
+
+        padding-left: 20px;
+        padding-bottom: 20px;
+
+        font-size: 40px;
+    }
+
+
+    /* INTRODUCTION */
+
+    .text-intro-fitness {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 50px;
+    }
+
+
+    /* IMAGE */
+
+    .container-image-Pixam {
+        width: 100%;
+
+        height: 470px;
+        min-height: 470px;
+
+        padding: 30px;
+
+        border-radius: 25px 25px 0 0;
+
+        background-image: linear-gradient(
+                to bottom,
+                #0385da,
+                #97d3fb
+        );
+    }
+
+
+    /* TEXT CONTAINER */
+
+    .container-info-Pixam {
+        width: 100%;
+
+        min-height: 280px;
+        height: auto;
+
+        border-radius: 0 0 25px 25px;
+    }
+
+
+    .container-info-Pixam2 {
+        width: 100%;
+        height: auto;
+
+        padding: 40px;
+    }
+
+
+    /* CARD TEXT */
+
+    .container-info-Pixam2 p {
+        width: 100%;
+        max-width: 100%;
+
+        padding: 0;
+        margin: 0 0 30px 0;
+
+        font-size: 15px;
+        line-height: 1.6;
+    }
+
+
+    .image-pixam1 {
+        width: min(65%, 350px);
+    }
+}
+
+
+/* =========================================================
+   MOBILE
+   <= 768px
+   ========================================================= */
+
+@media screen and (max-width: 768px) {
+
+    .Pixam-section {
+        padding: 30px 20px 70px 20px;
+    }
+
+
+    .Pixam-element {
+        width: 90%;
+        min-height: auto;
+
+        flex-direction: column-reverse;
+
+        margin-left: auto;
+        margin-right: auto;
+
+        border-radius: 20px;
+    }
+
+
+    /* SECTION TITLE */
+
+    .Pixam-section h1 {
+        width: 100%;
+
+        padding-left: 0;
+        padding-bottom: 15px;
+
+        font-size: 34px;
+    }
+
+
+    /* INTRODUCTION */
+
+    .text-intro-fitness {
+        width: 100%;
+
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 40px;
+
+        font-size: 16px;
+        line-height: 1.6;
+    }
+
+
+    /* IMAGE */
+
+    .container-image-Pixam {
+        width: 100%;
+
+        height: 400px;
+        min-height: 400px;
+
+        padding: 25px;
+
+        border-radius: 20px 20px 0 0;
+    }
+
+
+    /* TEXT CONTAINER */
+
+    .container-info-Pixam {
+        width: 100%;
+
+        min-height: 300px;
+        height: auto;
+
+        border-radius: 0 0 20px 20px;
+    }
+
+
+    .container-info-Pixam2 {
+        width: 100%;
+        height: auto;
+
+        padding: 35px;
+    }
+
+
+    /* TITLE */
+
+    .container-info-Pixam h,
+    .container-info-Pixam h2 {
+        width: 100%;
+
+        font-size: 30px;
+
+        margin: 0 0 15px 0;
+    }
+
+
+    /* CARD DESCRIPTION */
+
+    .container-info-Pixam2 p {
+        width: 100%;
+        max-width: 100%;
+
+        padding: 0;
+        margin: 0 0 25px 0;
+
+        font-size: 13px;
+        line-height: 1.6;
+
+        overflow-wrap: break-word;
+    }
+
+
+    /* BUTTON */
+
+    .button-info-pixam {
+        font-size: 15px;
+
+        padding: 13px 22px;
+
+        min-width: 140px;
+    }
+
+
+    /* IMAGE */
+
+    .image-pixam1 {
+        width: 70%;
+        max-width: 300px;
+    }
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+   <= 480px
+   ========================================================= */
+
+/* =========================================================
+   SMALL MOBILE
+   <= 480px
+   ========================================================= */
+
+@media screen and (max-width: 480px) {
+
+    .Pixam-element {
+        width: calc(100% - 30px);
+        min-height: auto;
+
+        margin-left: 15px;
+        margin-right: 15px;
+
+        border-radius: 0;
+    }
+
+    .container-image-Pixam {
+        width: 100%;
+        height: 330px;
+        min-height: 330px;
+
+        padding: 20px;
+
+        border-radius: 20px 20px 0 0;
+    }
+
+    .container-info-Pixam {
+        width: 100%;
+        min-height: 290px;
+
+        border-radius: 0 0 20px 20px;
+
+        /* Important : le contenu peut grandir */
+        height: auto;
+        box-sizing: border-box;
+    }
+
+    /* =====================================================
+       CONTENU TEXTE MOBILE
+       ===================================================== */
+
+    .container-info-Pixam2 {
+        width: 100%;
+        height: auto;
+
+        padding-top: 100px;
+        padding-bottom: 100px;
+        padding-left: 20px;
+        padding-right: 20px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        box-sizing: border-box;
+    }
+
+    .container-info-Pixam h,
+    .container-info-Pixam h2 {
+        font-size: 28px;
+        margin: 0 0 15px 0;
+
+        line-height: 1.2;
+    }
+
+    .container-info-Pixam p {
+        font-size: 12px;
+        line-height: 1.6;
+
+        margin: 0 0 25px 0;
+
+        padding: 0;
+
+        width: 100%;
+        max-width: 100%;
+
+        box-sizing: border-box;
+    }
+
+    .button-info-pixam {
+        width: 100%;
+        max-width: 230px;
+
+        margin: 0 auto;
+
+        font-size: 15px;
+    }
+
+    .image-pixam1 {
+        width: 80%;
+        max-width: 280px;
+    }
+}

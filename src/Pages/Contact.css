@@ -1,0 +1,399 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* ================================
+   BASE
+================================ */
+.contact-page {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-accent {
+    color: #3f97fb;
+}
+
+/* ================================
+   HERO HEADER
+================================ */
+.contact-hero {
+    width: 100%;
+    /*background-color: #f3f3f3;*/
+    background-color: #3f97fb;
+    padding: 270px 160px 70px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.contact-eyebrow {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #3f97fb;
+    background-color: rgba(214, 40, 40, 0.08);
+    padding: 5px 14px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+.contact-main-title {
+    font-size: clamp(42px, 6vw, 80px);
+    font-weight: 500;
+    color: white;
+    line-height: 1.05;
+    margin-bottom: 16px;
+}
+
+.contact-hero-sub {
+    font-size: clamp(16px, 2vw, 22px);
+    font-weight: 300;
+    color: #555555;
+}
+
+/* ================================
+   MAIN WRAPPER (2 columns)
+================================ */
+.contact-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    padding: 80px 60px 100px;
+    max-width: 1300px;
+    margin: 0 auto;
+    align-items: start;
+}
+
+/* ================================
+   LEFT COLUMN
+================================ */
+.contact-left {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+}
+
+/* ── Intro text ── */
+.contact-intro {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contact-intro-text {
+    font-size: 16px;
+    font-weight: 300;
+    color: #333333;
+    line-height: 1.8;
+}
+
+.contact-intro-sub {
+    font-size: 17px;
+    font-weight: 300;
+    color: #0b3f88;
+    line-height: 1.6;
+}
+
+/* ── Contact details ── */
+.contact-details {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+.contact-detail-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease;
+}
+
+a.contact-detail-row:hover {
+    transform: translateX(4px);
+}
+
+a.contact-detail-row:hover .contact-detail-icon {
+    background-color: #3f97fb;
+    color: #ffffff;
+}
+
+.contact-detail-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    background-color: rgba(63, 151, 251, 0.08);
+    color: #3f97fb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+    transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.contact-detail-text {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.contact-detail-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #999999;
+}
+
+.contact-detail-value {
+    font-size: 15px;
+    font-weight: 400;
+    color: #111111;
+    line-height: 1.6;
+}
+
+/* ── Hours ── */
+.contact-hours {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 2px;
+}
+
+.contact-hours-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #333333;
+}
+
+.contact-hours-time {
+    font-weight: 500;
+    color: #111111;
+}
+
+.contact-hours-closed {
+    font-weight: 400;
+    color: #3f97fb;
+}
+
+/* ── Social media ── */
+.contact-social-block {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.contact-social-label {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #999999;
+}
+
+.contact-socials {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.contact-social-btn {
+    width: 46px;
+    height: 46px;
+    border-radius: 12px;
+    background-color: #3f97fb;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    text-decoration: none;
+    transition: background-color 0.25s ease, color 0.25s ease, transform 0.2s ease;
+}
+
+.contact-social-btn:hover {
+    background-color: black;
+    /*background-color: rgba(214, 40, 40, 0.08);*/
+    color: white;
+
+    /*transform: translateY(-3px);*/
+}
+
+/* ================================
+   RIGHT COLUMN — CTA CARD
+================================ */
+.contact-right {
+    position: sticky;
+    top: 100px;
+}
+
+.contact-cta-card {
+    background-color: #f3f3f3;
+    border-radius: 20px;
+    padding: 52px 44px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    border: 1px solid #e8e8e8;
+}
+
+.contact-cta-icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 14px;
+    background-color: #3f97fb;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+}
+
+.contact-cta-title {
+    font-size: clamp(22px, 3vw, 32px);
+    font-weight: 700;
+    color: #111111;
+    line-height: 1.2;
+}
+
+.contact-cta-text {
+    font-size: 15px;
+    font-weight: 300;
+    color: #555555;
+    line-height: 1.7;
+}
+
+.contact-cta-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contact-cta-list li {
+    font-size: 14px;
+    font-weight: 400;
+    color: #333333;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contact-cta-list li i {
+    color: #3f97fb;
+    font-size: 13px;
+    flex-shrink: 0;
+}
+
+.contact-cta-btn {
+    width: 100%;
+    height: 54px;
+    background-color: #3f97fb;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 8px;
+    transition: background-color 0.25s ease, transform 0.2s ease, box-shadow 0.25s ease;
+}
+
+.contact-cta-btn:hover {
+    background-color: black;
+    /*transform: translateY(-2px);*/
+    /*box-shadow: 0 8px 24px rgba(214, 40, 40, 0.25);*/
+}
+
+.contact-cta-btn:active {
+    /*transform: translateY(0);*/
+    box-shadow: none;
+    background-color: black;
+}
+
+/* ================================
+   RESPONSIVE — TABLET (max 1024px)
+================================ */
+@media (max-width: 1024px) {
+    .contact-hero {
+        padding: 200px 24px 48px;
+
+    }
+
+    .contact-wrapper {
+        grid-template-columns: 1fr;
+        gap: 48px;
+        padding: 60px 40px 80px;
+    }
+
+    .contact-right {
+        position: static;
+    }
+}
+
+/* ================================
+   RESPONSIVE — MOBILE (max 768px)
+================================ */
+@media (max-width: 768px) {
+    .contact-hero {
+        padding: 170px 24px 48px;
+    }
+
+    .contact-hero {
+        padding: 270px 160px 70px;
+    }
+
+    .contact-wrapper {
+        padding: 48px 24px 64px;
+        gap: 40px;
+    }
+
+    .contact-cta-card {
+        padding: 36px 28px;
+    }
+
+    .contact-hours-row {
+        flex-direction: column;
+        gap: 2px;
+    }
+}
+
+/* ================================
+   RESPONSIVE — SMALL MOBILE (max 480px)
+================================ */
+@media (max-width: 480px) {
+    .contact-hero {
+        /*padding: 90px 16px 40px;*/
+        padding: 200px 24px 48px;
+    }
+
+    .contact-wrapper {
+        padding: 36px 16px 56px;
+    }
+
+    .contact-main-title {
+        font-size: clamp(34px, 10vw, 52px);
+    }
+
+    .contact-cta-card {
+        padding: 28px 20px;
+        border-radius: 16px;
+    }
+
+    .contact-social-btn {
+        width: 42px;
+        height: 42px;
+        font-size: 16px;
+    }
+}

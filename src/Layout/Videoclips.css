@@ -1,0 +1,301 @@
+/* ==========================================================
+   VIDEOCLIPS SECTION
+   Flexbox based gallery + modal player
+   ========================================================== */
+
+.Videoclips {
+    width: 100%;
+    padding: 100px 24px;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.Videoclips-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* -------------------- HEADER -------------------- */
+
+.Videoclips-header {
+    text-align: center;
+    margin-bottom: 56px;
+}
+
+.Videoclips-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 3.2rem;
+    letter-spacing: -0.02em;
+    margin: 0 0 16px;
+    color: #0b3f88;
+}
+
+.Videoclips-description {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: black;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* -------------------- GALLERY (FLEXBOX) -------------------- */
+
+.Videoclips-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 32px;
+}
+
+.Videoclip-card {
+    flex: 1 1 320px;
+    max-width: 360px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+}
+
+.Videoclip-thumbnail-button {
+    display: block;
+    width: 100%;
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font: inherit;
+}
+
+.Videoclip-thumbnail {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+.Videoclip-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+.Videoclip-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.15);
+    transition: background 0.3s ease;
+}
+
+.Videoclip-play {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.55);
+    color: #ffffff;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.Videoclip-thumbnail-button:hover .Videoclip-thumbnail img,
+.Videoclip-thumbnail-button:focus-visible .Videoclip-thumbnail img {
+    transform: scale(1.05);
+}
+
+.Videoclip-thumbnail-button:hover .Videoclip-overlay,
+.Videoclip-thumbnail-button:focus-visible .Videoclip-overlay {
+    background: rgba(0, 0, 0, 0.35);
+}
+
+.Videoclip-thumbnail-button:hover .Videoclip-play,
+.Videoclip-thumbnail-button:focus-visible .Videoclip-play {
+    background: #ff0000;
+    transform: scale(1.08);
+}
+
+.Videoclip-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 0;
+    word-wrap: break-word;
+}
+
+/* -------------------- MODAL -------------------- */
+
+.Videoclip-modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.82);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    z-index: 1000;
+    animation: Videoclip-fade-in 0.25s ease;
+    box-sizing: border-box;
+}
+
+.Videoclip-modal-content {
+    position: relative;
+    width: 100%;
+    max-width: 860px;
+    max-height: 90vh;
+    overflow-y: auto;
+    background: #0d0d0d;
+    border-radius: 12px;
+    padding: 56px 32px 32px;
+    box-sizing: border-box;
+    animation: Videoclip-scale-in 0.25s ease;
+    -webkit-overflow-scrolling: touch;
+}
+
+.Videoclip-modal-close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(255, 255, 255, 0.08);
+    color: #ffffff;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.Videoclip-modal-close:hover,
+.Videoclip-modal-close:focus-visible {
+    background: rgba(255, 255, 255, 0.18);
+}
+
+.Videoclip-modal-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #ffffff;
+    text-align: center;
+    margin: 0 0 20px;
+    line-height: 1.4;
+}
+
+.Videoclip-modal-title--bottom {
+    margin: 20px 0 0;
+    font-weight: 500;
+    font-size: 0.95rem;
+    color: #cfcfcf;
+}
+
+.Videoclip-modal-video {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #000000;
+}
+
+.Videoclip-modal-video iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.Videoclip-youtube-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: #ff3b3b;
+    text-decoration: none;
+}
+
+.Videoclip-youtube-link:hover,
+.Videoclip-youtube-link:focus-visible {
+    text-decoration: underline;
+}
+
+@keyframes Videoclip-fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes Videoclip-scale-in {
+    from {
+        opacity: 0;
+        transform: scale(0.96);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* -------------------- RESPONSIVE -------------------- */
+
+/* Tablet */
+@media (max-width: 900px) {
+    .Videoclips {
+        padding: 72px 20px;
+    }
+
+    .Videoclip-card {
+        flex: 1 1 260px;
+    }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+    .Videoclips {
+        padding: 56px 16px;
+    }
+
+    .Videoclips-title {
+        font-size: 1.7rem;
+    }
+
+    .Videoclips-list {
+        flex-direction: column;
+        align-items: center;
+        gap: 24px;
+    }
+
+    .Videoclip-card {
+        flex: 1 1 auto;
+        width: 100%;
+        max-width: 420px;
+    }
+
+    .Videoclip-modal-content {
+        padding: 48px 16px 24px;
+        max-height: 95vh;
+    }
+
+    .Videoclip-modal-close {
+        top: 10px;
+        right: 10px;
+    }
+}

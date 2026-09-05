@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.photography-wrapper.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.photography-wrapper.visible {
+    opacity: 1;
+    transition: opacity 0.4s ease;
+}
+
+.Container-Photography {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.desktop-image{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    border-bottom: 1px solid #d6eaff;
+}
+
+.hero-content-photography {
+    position: absolute;
+    top: 34%;               /* placé à 40% du haut */
+    left: 100px;            /* 250px depuis la gauche */
+    color: black;
+    height: auto;
+    /*width: 1vw;*/
+
+    /*background-color: blue;*/
+    /*max-width: calc(100% - 250px - 120px); !* laisse un espace à droite *!*/
+}
+
+.hero-content-photography h1 {
+    /*font-family:"Poppins", sans-serif;*/
+    font-family: Poppins, sans-serif;
+    font-size: 65px;      /* ou 7vw si tu veux responsive */
+    font-weight: 300;     /* ultra-thin */
+    /*color: black;*/
+    color: white;
+    line-height: 1.0;
+    margin-bottom: 50px;
+    /*color: white;*/
+
+    /*max-width: 600px;*/
+    /*margin-bottom: 80px;*/
+    /*white-space: nowrap;*/
+}
+
+.hero-content-photography p {
+    /*font-family: "Figtree", sans-serif;*/
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.4rem;
+    line-height: 1.6;
+    color: #f1f1f1;
+    margin-bottom: 70px;   /* espace entre p et bouton */
+    font-weight: 500;
+    width: 65%;
+    /*margin-top: 50px;*/
+}
+
+.hero-content-photography .cta-btn {
+    position: relative;
+    z-index: 3;
+
+    color: #0b3f88;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-family: "Figtree", sans-serif;
+    border-radius: 60px;
+
+    border: 2px solid transparent;
+    background-color: white;
+
+    /*background:*/
+    /*        linear-gradient(black, black) padding-box,*/
+    /*        linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;*/
+
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    /*transition: transform 0.3s ease, background-color 0.3s ease;*/
+}
+
+.cta-btn:hover {
+    /*background-color: #799da9;*/
+    background: #d6eaff;
+    color: black;
+    border: 2px solid #d6eaff;
+
+}
+
+/* Scroll button */
+.scroll-down {
+    position: absolute;
+    bottom: 30px;
+    left: 92%;
+    transform: translateX(-50%);
+    font-size: 1.5rem;
+    border-radius: 50px;
+    text-decoration: none;
+    animation: bounce 2s infinite;
+    /*background-color: white;*/
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+}
+
+.scroll-down:hover {
+    /*background-color: #799da9;*/
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+
+{/*-------------------discover our photography-----------------*/}
+
+.container-discover-photography {
+    width:100%;
+    height: auto;
+    background-color: #d6eaff;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    /*border-top: 1px solid #f3bb2f;*/
+}
+
+.container-discover-photography h1{
+    font-weight: 800;
+    font-size: 48px;
+    color:white;
+    padding-left: 80px;
+}
+
+
+.discover-photography-wedding {
+    width: 100%;
+}
+
+.image-photography-wedding1 {
+    width: 100%;
+}
+
+/*-----------photogallerie----------------------------*/
+
+
+
+{/*------------------------------------*/}
+
+/* Animation */
+@keyframes bounce {
+    0%, 100% { transform: translate(-50%, 0); }
+    50% { transform: translate(-50%, -10px); }
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .hero-content-photography {
+        left: 80px;
+        right: 80px;
+        top: 30%;
+    }
+    .hero-content-photography h1 { font-size: 4rem; margin-bottom: 50px; }
+    .hero-content-photography p { font-size: 1.2rem; margin-bottom: 80px; }
+}
+
+
+@media (max-width: 768px) {
+    .desktop-image {
+        display: none;
+    }
+
+    /* Image mobile */
+    .mobile-image {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        z-index: -1;
+        border-bottom: 1px solid #d6eaff;
+    }
+
+    /* Contenu principal du banner */
+    .hero-content-photography {
+        top: 20%;
+        left: 0;
+        right: 0;
+        width: 100%;
+        padding: 0 10px;
+        box-sizing: border-box;
+        margin-bottom: 30px;
+    }
+
+    .logo-falcon-banner {
+        width: 70%;
+        margin-bottom: 20px;
+    }
+
+    /* Titre */
+    .hero-content-photography h1 {
+        font-size: 3rem;
+        white-space: normal;
+        margin-bottom: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+
+    /* Paragraphe */
+    .hero-content-photography p {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+
+        font-size: 1.2rem;
+        line-height: 1.6;
+        margin-bottom: 60px;
+    }
+
+    /* Bouton CTA */
+    .hero-content-photography .cta-btn {
+        display: inline-flex;
+        width: auto;
+        padding: 20px 60px;
+        font-size: 1.2rem;
+        margin-left: 10px;
+        box-sizing: border-box;
+    }
+}
+
+
+/* Très petits écrans */
+@media (max-width: 480px) {
+
+    .hero-content-photography h1 {
+        font-size: 3rem;
+    }
+
+    .hero-content-photography .cta-btn {
+        display: inline-flex;
+        width: auto;
+        padding: 14px 35px;
+        font-size: 14px;
+        margin-left: 10px;
+        box-sizing: border-box;
+    }
+
+    .scroll-down {
+        left: 90%;
+        bottom: 100px;
+        font-size: 1.2rem;
+    }
+}

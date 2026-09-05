@@ -1,0 +1,458 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Container-Contact {
+    width: 100%;
+    height: 100vh;
+    /*background-color:red;*/
+    box-sizing: border-box;
+    /*background-image: url("../Assets/banner19.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.AudioVisual-banner-news {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    margin-bottom: -50px;
+    /*background-color: red;*/
+    /*background-color: black;*/
+}
+
+/* Vidéos */
+.AudioVisual-video-news {
+    position: absolute;
+    /*top: 19vh;*/
+    left: 0;
+    width: 100%;
+    height: 76%;
+    object-fit: cover;
+    z-index: -1;
+    /*background-color: black;*/
+}
+
+.desktop-video {
+    display: block;
+}
+.mobile-video { display: none; }
+
+/* Contenu desktop */
+
+.AudioVisual-content {
+    position: absolute;
+    top: 65%;              /* centre verticalement */
+    left: 20%;             /* centre horizontalement */
+    transform: translate(-50%, -50%);
+    color: black;
+    z-index: 2;
+    /* >>> Passe devant la vidéo */
+    text-align: center;
+}
+
+{/*----------------Section (Who got Bars)-----------------*/}
+
+/* SECTION BLANCHE */
+.gotflow-wrapper {
+    background-color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* CONTENEUR POUR GÉRER LES MARGES */
+.gotflow-container {
+    margin-left: 7cm;
+    margin-right: 7cm;
+}
+
+.gotflow-flyer {
+    position: relative;
+    width: 100%;
+    height: 700px;
+
+    background-image: url("../Images/who-got-bars2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border-radius: 60px;
+    overflow: hidden;
+}
+
+/* TEXTE SUR L’IMAGE */
+.gotflow-content {
+    position: absolute;
+    bottom: 50px;          /* descend le texte vers le bas */
+    left: 100px;            /* décale vers la gauche */
+    max-width: 600px;
+    top: 400px;
+}
+
+/* PARAGRAPHE */
+.gotflow-text {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 50px;
+    text-align: left;
+
+}
+
+/* BOUTON */
+.gotflow-btn {
+    background-color: #f9db4d;
+    color: black;
+    /*border: none;*/
+    margin-top: 40px;
+    padding: 16px 35px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 30px;
+    cursor: pointer;
+    /*border-color: #f9db4d;*/
+    text-decoration: none;
+    border: 2px solid #f9db4d;
+    transition: background-color 0.3s ease;
+}
+
+.gotflow-btn:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid #f9db4d;
+
+}
+
+/*--------------Kinshasa----------------*/
+
+/* SECTION GLOBALE */
+.kinshasa-wrapper {
+    background-color: #ffffff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+/* CONTENEUR — pour gérer les marges */
+.kinshasa-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 3cm;   /* marge gauche */
+    margin-right: 3cm;  /* marge droite */
+    gap: 40px;           /* espace entre image et texte */
+}
+
+/* IMAGE */
+.kinshasa-image img {
+    width: 900px;       /* largeur fixe comme indiqué */
+    height: 521px;      /* hauteur fixe */
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+/* CONTENU TEXTE */
+.kinshasa-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 600px;   /* limite largeur texte pour lisibilité */
+}
+
+/* TITRE */
+.kinshasa-title {
+    font-size: 4rem;
+    font-weight: 900;
+    margin-bottom: 20px;
+    line-height: 1.2;
+    font-family: 'Orbitron', sans-serif !important;
+    color: #1359c2;     /* couleur du texte */
+}
+
+/* PARAGRAPHES */
+.kinshasa-text {
+    font-size: 1.1rem;
+    line-height: 1.4;
+    margin-bottom: 15px;
+    /*color: #333333;*/
+    font-weight: 400;
+    text-align: left;
+    color: #424243;
+}
+
+
+{/*----------------Relook ton Bussiness-----------------*/}
+
+/* SECTION BLANCHE */
+.Relook-wrapper {
+    background-color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* CONTENEUR POUR GÉRER LES MARGES */
+.Relook-container {
+    margin-left: 7cm;
+    margin-right: 7cm;
+}
+
+.Relook-flyer {
+    position: relative;
+    width: 100%;
+    height: 700px;
+
+    background-image: url("../Images/Relook_ton_Business2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border-radius: 60px;
+    overflow: hidden;
+}
+
+/* TEXTE SUR L’IMAGE */
+.Relook-content {
+    position: absolute;
+    bottom: 50px;          /* descend le texte vers le bas */
+    left: 460px;            /* décale vers la gauche */
+    max-width: 600px;
+    top: 320px;
+}
+
+/* PARAGRAPHE */
+.Relook-text {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 70px;
+    text-align: left;
+
+}
+
+/* BOUTON */
+.Relook-btn {
+    background-color: #f3bb2f;
+    color: black;
+    /*border: none;*/
+    margin-top: 30px;
+    margin-left: 160px;
+    padding: 16px 35px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 30px;
+    cursor: pointer;
+    /*border-color: #f9db4d;*/
+    text-decoration: none;
+    border: 2px solid #f9db4d;
+    transition: background-color 0.3s ease;
+}
+
+.Relook-btn:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid #f9db4d;
+
+}
+
+/*-------------------------------------------*/
+
+@media screen and (max-width: 1024px) {
+    .kinshasa-container {
+        flex-direction: column;
+        margin-left: 2cm;
+        margin-right: 2cm;
+    }
+
+    .kinshasa-image img {
+        width: 100%;
+        height: auto;
+    }
+
+    .kinshasa-content {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width:768px) {
+
+    .Container-Contact {
+        width: 100%;
+        height: 80vh;
+        background-color: yellow;
+        box-sizing: border-box;
+        /*background-image: url("../Assets/banner_mobile3.jpg");*/
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        padding-top: 150px;
+        /*justify-content: center;*/
+    }
+
+    .AudioVisual-banner {
+        margin-bottom: -99px;
+        /*background-color: red;*/
+        /*background-color: black;*/
+    }
+
+    .desktop-video {
+        display: none;
+    }
+    .mobile-video { display: block;
+        top: 12vh;}
+
+    /* SECTION */
+    .gotflow-wrapper {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    /* CONTENEUR */
+    .gotflow-container {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    /*!* FLYER *!*/
+    /*.gotflow-flyer {*/
+    /*    height: 1000px;*/
+    /*    border-radius: 30px;*/
+    /*}*/
+
+    /* CONTENU TEXTE */
+    .gotflow-content {
+        position: absolute;
+        left: 20px;
+        right: 20px;
+        bottom: 40px;
+        top: 270px;
+        max-width: 100%;
+    }
+
+    /* TEXTE */
+    .gotflow-text {
+        font-size: 17px;
+        line-height: 1.5;
+    }
+
+    /* BOUTON */
+    .gotflow-btn {
+        width: fit-content;
+        padding: 12px 25px;
+        font-size: 15px;
+    }
+
+    .gotflow-flyer {
+            height: 600px;
+            /*width: 380px;*/
+            /*height: auto;*/
+            /*border-radius: 30px;*/
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: none;
+
+            background-image: url("../Images/who-got-bars-mobile3.jpg");
+            background-position: center;
+    }
+
+    .kinshasa-wrapper {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .kinshasa-container {
+        margin-left: 20px;
+        margin-right: 20px;
+            gap: 0px;           /* espace entre image et texte */
+
+    }
+
+    .kinshasa-title {
+        font-size: 2.5rem;
+        line-height: 1.2;
+    }
+
+    .kinshasa-text {
+        font-size: 1.1rem;
+    }
+
+    /* SECTION */
+    .Relook-wrapper {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+    /* CONTENEUR */
+    .Relook-container {
+        margin-left: 20px;
+        margin-right: 20px;
+        /*background-color: red;*/
+        padding-bottom: 30px;
+        padding-top: 10px;
+    }
+
+    /*!* FLYER *!*/
+    /*.gotflow-flyer {*/
+    /*    height: 1000px;*/
+    /*    border-radius: 30px;*/
+    /*}*/
+
+    /* CONTENU TEXTE */
+    .Relook-content {
+        position: absolute;
+        left: 20px;
+        right: 20px;
+        bottom: 40px;
+        top: 480px;
+        max-width: 100%;
+        padding-bottom: 50px;
+    }
+
+    /* TEXTE */
+    .Relook-text {
+        font-size: 17px;
+        line-height: 1.5;
+        /*padding-top: 0px;*/
+    }
+
+    /* BOUTON */
+    .Relook-btn {
+        width: fit-content;
+        padding: 14px 28px;
+        font-size: 17px;
+        margin-left: 20px;
+        /*margin-bottom: 100px;*/
+    }
+
+    .Relook-flyer {
+        height: 750px;
+        /*border-radius: 30px;*/
+        padding-left: 20px;
+        padding-right: 20px;
+        width: auto;
+        background-image: url("../Images/Relook_ton_Business_mobile4.png");
+        background-position: center;
+        border-radius: 30px;
+    }
+
+    /*height: 600px;*/
+    /*!*width: 380px;*!*/
+    /*!*height: auto;*!*/
+    /*!*border-radius: 30px;*!*/
+    /*padding-left: 20px;*/
+    /*padding-right: 20px;*/
+
+    /*background-image: url("../Images/who-got-bars-mobile3.jpg");*/
+    /*background-position: center;*/
+
+
+}

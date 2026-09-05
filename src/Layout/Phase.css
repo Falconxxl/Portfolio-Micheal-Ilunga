@@ -1,0 +1,624 @@
+/* ==========================================================================
+   Phase.css
+   Palette derived from the existing portfolio (light sky-blue accents) and
+   the QHSE/renovation client projects (deep navy, warm red) for a page that
+   reads as part of the same design system while feeling structurally distinct.
+   ========================================================================== */
+
+.phase-page {
+    --phase-navy: #071c34;
+    --phase-navy-soft: #0e2c4d;
+    --phase-blue: #4a90e2;
+    --phase-blue-deep: #2f6fc4;
+    --phase-blue-bg: #eaf3fe;
+    --phase-blue-bg-soft: #f4f9ff;
+    --phase-red: #d64550;
+    --phase-gold: #e8a33d;
+    --phase-ink: #16233a;
+    --phase-ink-soft: #4d5b73;
+    --phase-white: #ffffff;
+    --phase-border: rgba(74, 144, 226, 0.22);
+    --phase-shadow: 0 18px 40px -22px rgba(7, 28, 52, 0.35);
+    --phase-radius-lg: 28px;
+    --phase-radius-md: 18px;
+    --phase-radius-sm: 12px;
+    --phase-font-display: "Poppins", "Segoe UI", system-ui, sans-serif;
+    --phase-font-body: "Inter", "Segoe UI", system-ui, sans-serif;
+
+    font-family: var(--phase-font-body);
+    color: var(--phase-ink);
+    background: var(--phase-white);
+    overflow-x: hidden;
+}
+
+.phase-page * {
+    box-sizing: border-box;
+}
+
+.phase-page img {
+    max-width: 100%;
+}
+
+.phase-section {
+    padding: clamp(56px, 8vw, 108px) clamp(20px, 6vw, 96px);
+}
+
+.phase-section__inner {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.phase-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: Poppins, sans-serif;
+    /*font-family: var(--phase-font-display);*/
+    font-size: 50px;
+    font-weight: 800;
+    /*letter-spacing: 0.14em;*/
+    /*text-transform: uppercase;*/
+    /*color: var(--phase-blue);*/
+    color: #198bf9;
+    /*background: var(--phase-blue-bg);*/
+    padding: 7px 16px;
+    border-radius: 999px;
+    margin-bottom: 18px;
+}
+
+.phase-section--dark .phase-eyebrow {
+    color: #9cc4f5;
+    /*background: rgba(156, 196, 245, 0.12);*/
+    /*background-color: #1c1c1c;*/
+}
+
+.phase-title {
+    font-family: var(--phase-font-display);
+    font-weight: 500;
+    font-size: clamp(28px, 3.6vw, 44px);
+    line-height: 1.15;
+    margin: 0 0 16px;
+    color: var(--phase-ink);
+}
+
+.phase-section--dark .phase-title {
+    color: var(--phase-white);
+}
+
+.phase-subtitle {
+    font-size: clamp(15px, 1.6vw, 18px);
+    line-height: 1.65;
+    /*color: var(--phase-ink-soft);*/
+    max-width: 720px;
+    margin: 0 0 8px;
+}
+
+.phase-section--dark .phase-subtitle {
+    color: white;
+}
+
+.phase-header {
+    margin-bottom: clamp(36px, 5vw, 64px);
+}
+
+/* ---------- Intro / page header ---------- */
+
+.phase-intro {
+    background: linear-gradient(180deg, var(--phase-blue-bg-soft) 0%, var(--phase-white) 100%);
+    text-align: center;
+    padding-bottom: clamp(32px, 5vw, 56px);
+}
+
+.phase-intro .phase-header {
+    margin: 0 auto;
+}
+
+.phase-intro .phase-subtitle {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ==========================================================================
+   SECTION 1 — Phases du projet (timeline + cards)
+   ========================================================================== */
+
+.phase-section--dark {
+    /*background: radial-gradient(circle at 15% 0%, var(--phase-navy-soft) 0%, var(--phase-navy) 55%);*/
+    background-color: black;
+}
+
+.phase-timeline {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 8px;
+    position: relative;
+    padding-top: 8px;
+}
+
+.phase-timeline::before {
+    content: "";
+    position: absolute;
+    top: 27px;
+    left: 6%;
+    right: 6%;
+    height: 2px;
+    background: linear-gradient(90deg, rgba(74, 144, 226, 0.15), var(--phase-blue), rgba(74, 144, 226, 0.15));
+    z-index: 0;
+}
+
+.phase-timeline__item {
+    position: relative;
+    z-index: 1;
+    flex: 1 1 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    min-width: 0;
+    padding: 0 6px;
+}
+
+.phase-timeline__bubble {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: var(--phase-navy-soft);
+    border: 2px solid var(--phase-blue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--phase-blue);
+    margin-bottom: 16px;
+    flex-shrink: 0;
+}
+
+.phase-timeline__bubble svg {
+    width: 24px;
+    height: 24px;
+}
+
+.phase-timeline__number {
+    position: absolute;
+    top: -6px;
+    right: -2px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--phase-white);
+    color: var(--phase-navy);
+    font-family: var(--phase-font-display);
+    font-size: 11px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.phase-timeline__label {
+    font-family: var(--phase-font-display);
+    font-weight: 600;
+    font-size: 13.5px;
+    color: var(--phase-white);
+    line-height: 1.35;
+}
+
+.phase-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 22px;
+    margin-top: clamp(44px, 6vw, 72px);
+}
+
+.phase-card {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid #3f97fb;
+    border-radius: var(--phase-radius-md);
+    padding: 28px 26px;
+    display: flex;
+    gap: 18px;
+    transition: transform 0.25s ease, border-color 0.25s ease, background 0.25s ease;
+}
+
+.phase-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(156, 196, 245, 0.4);
+    background: rgba(255, 255, 255, 0.06);
+}
+
+.phase-card__index {
+    font-family: var(--phase-font-display);
+    font-weight: 700;
+    font-size: 26px;
+    /*color: var(--phase-blue);*/
+    color: #71b6f9;
+    flex-shrink: 0;
+    line-height: 1;
+}
+
+.phase-card__title {
+    font-family: var(--phase-font-display);
+    font-weight: 600;
+    font-size: 17px;
+    color: #71b6f9;
+    margin: 0 0 8px;
+}
+
+.phase-card__text {
+    font-size: 14.5px;
+    line-height: 1.7;
+    color: white;
+    margin: 0;
+}
+
+.phase-card__list {
+    margin: 10px 0 0;
+    padding-left: 18px;
+    color: white;
+    font-size: 14.5px;
+    line-height: 1.7;
+}
+
+/* ==========================================================================
+   SECTION 2 — Phase de conception (Garrett planes)
+   ========================================================================== */
+
+.phase-planes {
+    background: var(--phase-white);
+}
+
+.phase-planes__flow {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0;
+    margin-top: clamp(36px, 5vw, 56px);
+}
+
+.plane-card {
+    position: relative;
+    /*background: var(--phase-blue-bg-soft);*/
+    /*border: 1px solid var(--phase-border);*/
+    border: 1px solid #198bf9;
+    border-radius: var(--phase-radius-md);
+    padding: 26px 20px 24px;
+    margin: 0 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.phase-planes__flow .plane-card:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    top: 32px;
+    right: -18px;
+    width: 20px;
+    height: 2px;
+    background: var(--phase-blue);
+    z-index: 2;
+}
+
+.plane-card:not(:last-child)::before {
+    content: "";
+    position: absolute;
+    top: 27px;
+    right: -20px;
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid var(--phase-blue);
+    border-top: 2px solid var(--phase-blue);
+    transform: rotate(45deg);
+    z-index: 2;
+}
+
+.plane-card__step {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: #198bf9;
+    color: var(--phase-white);
+    font-family: var(--phase-font-display);
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.plane-card__icon {
+    width: 30px;
+    height: 30px;
+    /*color: var(--phase-blue-deep);*/
+    color: #198bf9;
+}
+
+.plane-card__name-en {
+    font-family: var(--phase-font-display);
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--phase-navy);
+    margin: 4px 0 0;
+}
+
+.plane-card__name-fr {
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    /*color: var(--phase-blue-deep);*/
+    margin: 0 0 6px;
+    text-transform: uppercase;
+}
+
+.plane-card__text {
+    font-size: 14px;
+    line-height: 1.65;
+    color: #0b3f88;
+    /*color: var(--phase-ink-soft);*/
+    margin: 0;
+}
+
+/* ==========================================================================
+   SECTION 3 — Methodes utilisees
+   ========================================================================== */
+
+.phase-methods {
+    background: var(--phase-navy);
+    position: relative;
+}
+
+.phase-methods::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle at 85% 20%, rgba(74, 144, 226, 0.14), transparent 55%);
+    pointer-events: none;
+}
+
+.phase-methods .phase-section__inner {
+    position: relative;
+    color: white;
+}
+
+.method-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+    margin-top: clamp(36px, 5vw, 56px);
+}
+
+.method-card {
+    background: rgba(255, 255, 255, 0.035);
+    border: 1px solid #198bf9;
+    border-radius: var(--phase-radius-md);
+    padding: 30px 26px;
+    color: white;
+
+
+}
+
+.method-card__head {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 14px;
+}
+
+.method-card__dot {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.method-card__dot--p6 { background: var(--phase-blue); }
+.method-card__dot--verhoeven { background: var(--phase-gold); }
+.method-card__dot--garrett { background: var(--phase-red); }
+
+.method-card__title {
+    font-family: var(--phase-font-display);
+    font-weight: 600;
+    font-size: 16.5px;
+    color: var(--phase-white);
+    margin: 0;
+}
+
+.method-card__text {
+    font-size: 14.5px;
+    line-height: 1.7;
+    /*color: #c3d3e8;*/
+    margin: 0;
+    color: white;
+}
+
+/* ==========================================================================
+   SECTION 4 — Techniques utilisees
+   ========================================================================== */
+
+.phase-techniques {
+    background: var(--phase-blue-bg-soft);
+}
+
+.technique-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+    margin-top: clamp(36px, 5vw, 56px);
+}
+
+.technique-card {
+    background: var(--phase-white);
+    border: 1px solid #0091ff;
+    border-radius: var(--phase-radius-md);
+    padding: 26px 24px;
+    /*box-shadow: var(--phase-shadow);*/
+}
+
+.technique-card__head {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+}
+
+.technique-card__check {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    /*background: var(--phase-blue);*/
+    background-color: #0091ff;
+    color: var(--phase-white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.technique-card__check svg {
+    width: 14px;
+    height: 14px;
+}
+
+.technique-card__title {
+    font-family: var(--phase-font-display);
+    font-weight: 600;
+    font-size: 16px;
+    color: var(--phase-navy);
+    margin: 0;
+}
+
+.technique-card__text {
+    font-size: 14px;
+    line-height: 1.7;
+    color: var(--phase-ink-soft);
+    margin: 0;
+}
+
+/* ---- Principles sub-block ---- */
+
+.phase-principles {
+    margin-top: clamp(40px, 6vw, 60px);
+    /*background: var(--phase-navy);*/
+    border-radius: var(--phase-radius-lg);
+    padding: clamp(28px, 4vw, 44px);
+    background-color: black;
+}
+
+.phase-principles__title {
+    font-family: var(--phase-font-display);
+    font-weight: 700;
+    font-size: clamp(20px, 2.2vw, 26px);
+    /*color: var(--phase-white);*/
+    color: #fe609e;
+    margin: 0 0 8px;
+}
+
+.phase-principles__subtitle {
+    font-size: 14px;
+    color: white;
+    margin: 0 0 28px;
+    max-width: 640px;
+    line-height: 1.6;
+}
+
+.principle-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.principle-card {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid white;
+    border-radius: var(--phase-radius-sm);
+    padding: 20px 22px;
+}
+
+.principle-card__title {
+    font-family: var(--phase-font-display);
+    font-weight: 600;
+    font-size: 14.5px;
+    color: #fe609e;
+    margin: 0 0 8px;
+}
+
+.principle-card__text {
+    font-size: 13.5px;
+    line-height: 1.65;
+    color: white;
+    margin: 0;
+}
+
+/* ==========================================================================
+   RESPONSIVE
+   ========================================================================== */
+
+@media (max-width: 1080px) {
+    .phase-planes__flow {
+        grid-template-columns: repeat(3, 1fr);
+        row-gap: 40px;
+    }
+
+    .phase-planes__flow .plane-card:nth-child(3)::after,
+    .phase-planes__flow .plane-card:nth-child(3)::before {
+        display: none;
+    }
+}
+
+@media (max-width: 860px) {
+    .phase-timeline {
+        flex-wrap: wrap;
+        row-gap: 28px;
+    }
+
+    .phase-timeline::before {
+        display: none;
+    }
+
+    .phase-timeline__item {
+        flex: 1 1 30%;
+    }
+
+    .phase-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .method-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .technique-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .principle-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 640px) {
+    .phase-timeline__item {
+        flex: 1 1 45%;
+    }
+
+    .phase-planes__flow {
+        grid-template-columns: 1fr;
+    }
+
+    .plane-card {
+        margin: 0;
+    }
+
+    .phase-planes__flow .plane-card::after,
+    .phase-planes__flow .plane-card::before {
+        display: none;
+    }
+
+    .technique-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .phase-card {
+        flex-direction: column;
+        gap: 8px;
+    }
+}

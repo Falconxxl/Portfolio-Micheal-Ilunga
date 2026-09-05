@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+
+.return-button {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    /* Empêche les éléments enfants de provoquer un débordement */
+    max-width: 100%;
+}
+
+
+.Container-buttons-NavbarMenu2 {
+    display: flex;
+    color: white;
+    gap: clamp(10px, 2.5vw, 25px);
+    font-size: clamp(12px, 1.1vw, 16px);
+    list-style-type: none;
+    font-family: "Montserrat", sans-serif;
+    justify-content: center;
+    align-items: center;
+    /*margin-top: 100px;*/
+}
+
+
+.BackButton {
+    display: inline-flex;
+    align-items: center;
+
+    /* Espace responsive entre la flèche et le texte */
+    gap: clamp(4px, 0.7vw, 10px);
+
+    font-family: "Poppins", sans-serif;
+
+    /* 17px desktop → environ 14-15px tablette → 12px mobile */
+    font-size: clamp(12px, 1.15vw, 17px);
+
+    font-weight: 500;
+    color: #3f97fb;
+
+    text-decoration: none;
+    border: none;
+    background: transparent;
+
+    cursor: pointer;
+
+    transition: 0.3s ease;
+
+    /* Évite qu'un élément trop large crée un overflow horizontal */
+    max-width: 100%;
+}
+
+
+.BackButton i {
+    /* Icône proportionnelle au texte */
+    font-size: clamp(12px, 1.15vw, 17px);
+
+    /* Évite que l'icône se compresse */
+    flex-shrink: 0;
+}
+
+
+.BackButton span {
+    /* Permet au texte de rester dans la largeur disponible */
+    min-width: 0;
+}
+
+
+.BackButton:hover {
+    color: #0b3f88;
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+    .return-button {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .BackButton {
+        /*
+         * La valeur clamp() fait déjà le travail principal.
+         * Cette règle garantit simplement que le bouton
+         * ne dépasse jamais la largeur disponible.
+         */
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+}

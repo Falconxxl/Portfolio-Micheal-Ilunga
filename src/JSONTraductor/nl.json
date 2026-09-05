@@ -1,0 +1,1828 @@
+{
+  "HelmetSEO": {
+    "Home": {
+      "title": "Michael Ilunga — Portfolio | Front-end Development, UX/UI & Creatief Design",
+      "description": "Michael Ilunga is Front-End Developer, UX Designer en Visual Identity Designer, gespecialiseerd in webontwikkeling en audiovisuele productie."
+    },
+    "About": {
+      "title": "Michael Ilunga — Over mij | Mijn achtergrond & ontwikkeling",
+      "description": "Ontdek de academische en professionele achtergrond van Michael Ilunga, zijn opleiding en ervaring in webontwikkeling, UX/UI en creatief design."
+    },
+    "Contact": {
+      "title": "Michael Ilunga — Contact | Neem contact op",
+      "description": "Neem contact op met Michael Ilunga voor professionele aanvragen, samenwerkingen, webprojecten, UX/UI-design of creatieve opdrachten."
+    },
+    "Projects": {
+      "title": "Michael Ilunga — Opleiding, Training & Vaardigheden",
+      "description": "Ontdek de opleidingen, trainingen en vaardigheden van Michael Ilunga op het gebied van webontwikkeling, UX/UI-design, front-end development en creatief design."
+    },
+    "Services": {
+      "title": "Michael Ilunga — Vaardigheden & Diensten | Web, UX/UI & Creatief",
+      "description": "Ontdek de vaardigheden en professionele diensten van Michael Ilunga op het gebied van front-end development, UX/UI-design, visuele identiteit, webdesign en audiovisuele productie."
+    },
+    "Shop": {
+      "title": "Michael Ilunga — Shop | Binnenkort beschikbaar",
+      "description": "De shop van Michael Ilunga komt binnenkort beschikbaar. Blijf op de hoogte van digitale producten, resources en creatieve aanbiedingen."
+    },
+    "Trainings": {
+      "title": "Michael Ilunga — Trainingen & Cursussen | Binnenkort beschikbaar",
+      "description": "Trainingen en educatieve resources van Michael Ilunga komen binnenkort beschikbaar. Blijf op de hoogte van cursussen over webontwikkeling, UX/UI en creatief design."
+    },
+    "ConditionsOfSale": {
+      "title": "Michael Ilunga — Algemene voorwaarden",
+      "description": "Lees de algemene voorwaarden die van toepassing zijn op de diensten en producten die via het portfolio van Michael Ilunga worden aangeboden."
+    },
+    "ContactUs": {
+      "title": "Michael Ilunga — Contact | Neem contact op",
+      "description": "Neem contact op met Michael Ilunga voor professionele vragen, samenwerkingen, webprojecten, UX/UI-design en creatieve opdrachten."
+    },
+    "PrivacyPolicy": {
+      "title": "Michael Ilunga — Privacybeleid",
+      "description": "Lees het privacybeleid van Michael Ilunga en ontdek hoe je persoonsgegevens worden verwerkt en beschermd volgens de AVG."
+    },
+    "Faq": {
+      "title": "Michael Ilunga — FAQ | Veelgestelde vragen",
+      "description": "Vind antwoorden op veelgestelde vragen over de diensten, projecten, vaardigheden en professionele samenwerkingen van Michael Ilunga."
+    },
+    "AudioVisual": {
+      "title": "Michael Ilunga — Audiovisuele Productie",
+      "description": "Ontdek de audiovisuele expertise van Michael Ilunga, waaronder videoproductie, fotografie, visuele content en creatieve projecten."
+    },
+    "BrandIdentity": {
+      "title": "Michael Ilunga — Visuele Identiteit & Branding",
+      "description": "Ontdek de expertise van Michael Ilunga op het gebied van visuele identiteit, branding, logo-ontwerp en creatieve richting."
+    },
+    "DigitalMarketing": {
+      "title": "Michael Ilunga — Digitale Marketing",
+      "description": "Ontdek de vaardigheden van Michael Ilunga op het gebied van digitale marketing, waaronder contentstrategie, social media en online communicatie."
+    },
+    "Music": {
+      "title": "Michael Ilunga — Muziekproductie",
+      "description": "Ontdek de ervaring van Michael Ilunga in muziekproductie, waaronder beatmaking, opname, mixing en creatieve audioprojecten."
+    },
+    "Photography": {
+      "title": "Michael Ilunga — Fotografie",
+      "description": "Bekijk het fotografiewerk van Michael Ilunga, waaronder portretten, evenementen, creatieve fotografie en visuele content."
+    },
+    "Webdesign": {
+      "title": "Michael Ilunga — Webdesign & Webontwikkeling",
+      "description": "Ontdek het werk van Michael Ilunga op het gebied van webdesign en front-end development, met moderne, responsive en gebruiksvriendelijke digitale ervaringen."
+    },
+    "RequestAQuote": {
+      "title": "Michael Ilunga — Offerte aanvragen | Laten we samenwerken",
+      "description": "Vraag een persoonlijke offerte aan bij Michael Ilunga voor webontwikkeling, UX/UI-design, visuele identiteit, audiovisuele of creatieve projecten."
+    }
+  },
+
+
+"NavbarMenu": {
+    "Projects": "Projecten",
+    "Skills": "Vaardigheden",
+    "Education": "Opleidingen",
+    "News": "Nieuws",
+    "Prices": "Resumé/Cv",
+    "Contact": "Contact",
+    "HireMe": "Neem mij aan",
+    "Training": "Trainingen",
+    "Shop": "Winkel",
+    "PrivacyPolicy": "Privacybeleid",
+    "ConditionsOfSale": "Verkoopvoorwaarden",
+    "FAQ": "FAQ",
+
+    "Service": {
+      "Webdesign": "Webdesign",
+      "UxUiDesign": "Ux/UI-Design",
+      "Branding": "Merkidentiteit",
+      "Audiovisual": "Audiovisueel",
+      "Photography": "Fotografie",
+
+      "Digital Marketing": "Digitale Marketing",
+      "Music Production": "Muziekproductie",
+      "Music": "Musique"
+    },
+
+    "Cv": {
+      "Dutch": "CV - Nederlands (PDF)",
+      "English": "CV - Engels (PDF)",
+      "French": "CV - Frans (PDF)"
+    }
+  },
+  "ContainerBanner2": {
+    "Title": "Creatief, Designer & Developer",
+    "Subtitleline1": "Ik ben Michael Ilunga, Front-End Developer, UX Designer en ontwerper van visuele identiteiten, met expertise in audiovisuele productie.\n\nOntdek via dit portfolio mijn expertise en een selectie van projecten die ik door de jaren heen heb gerealiseerd.",
+    "Subtitleline2": "",
+    "Subtitleline3": "",
+    "CatBouton": "Offerte aanvragen",
+    "CatBouton2": "Mijn projecten bekijken"
+  },
+
+  "HomeFalconXXL": {
+    "Title": "Geef uw bedrijf een nieuwe dimensie",
+    "SubtitleLine1": "Wij begeleiden ondernemers, artiesten en influencers bij het opbouwen van een sterk imago en het vergroten van hun zichtbaarheid, via complete en krachtige digitale oplossingen:",
+    "SubtitleLine2": "",
+
+    "ContentLine1": "Branding & visuele identiteit",
+    "ContentLine1a": "Wij ontwerpen een uniek, professioneel en gedenkwaardig merkimago, afgestemd op uw visie.",
+    "ContentLine2": "Webdesign & ontwikkeling",
+    "ContentLine2a": "Wij bouwen moderne, krachtige websites die geoptimaliseerd zijn om bezoekers in klanten te converteren.",
+    "ContentLine3": "Audiovisueel & fotografie",
+    "ContentLine3a": "Wij produceren boeiende visuele content die uw imago versterkt en uw verhaal vertelt.",
+    "ContentLine4": "Social media & digitale content",
+    "ContentLine4a": "Wij ontwikkelen een consistente, aansprekende online aanwezigheid, afgestemd op uw doelgroep.",
+    "ContentLine5": "Digitale marketing",
+    "ContentLine5a": "Wij implementeren effectieve strategieën om uw doelgroep aan te trekken, te converteren en te behouden.",
+    "ContentLine6": "Muziekproductie",
+    "ContentLine6a": "Wij realiseren professionele muziekproducties van hoge kwaliteit voor artiesten, ondernemers en particulieren."
+  },
+
+  "Modal1": {
+    "Title": "Audiovisueel",
+    "notification": "Uw browser ondersteunt geen videoweergave.",
+    "ContentLine0": "Wij creëren impactvolle audiovisuele content met creativiteit en stijl.",
+    "ContentLine1": "Wij brengen ideeën tot leven met inspirerende visuals.",
+    "ContentLine2": "Van muziekvideo's tot luxe trouwfilms.",
+    "ContentLine3": "Wij leggen elk verhaal vast met emotie en precisie.",
+    "BtnLine": "Bekijk de audiovisuele dienst"
+  },
+
+  "ServiceHomeExplore": {
+    "BigTitleLine1": "Ontdek mijn projecten",
+    "BigTitleLine2": "",
+    "BigTitleMobile": "",
+
+    "Webdesign": {
+      "Title": "Webdesign",
+      "SubtitleLine1": "Moderne websites die bezoekers aantrekken en converteren.",
+      "ContentLine1": "Ontdek een selectie van webprojecten die ik heb gerealiseerd voor ondernemers en bedrijven. Moderne, dynamische en responsive websites, ontworpen voor een soepele gebruikerservaring, een sterke online aanwezigheid en het omzetten van bezoekers in klanten.",
+      "CAT": "Ontdek mijn projecten"
+    },
+
+    "UxDesign": {
+      "Title": "UX/UI-Design",
+      "SubtitleLine1": "Intuïtieve interfaces ontworpen voor een optimale gebruikerservaring.",
+      "ContentLine1": "Ontdek een selectie van UX/UI-projecten waarin elk ontwerp begint met het begrijpen van de context en het definiëren van het probleem. Van concept, use cases, system requirements en benchmarkonderzoek tot wireframes, visual design, kleuren, typografie en logo’s: elk project brengt functionaliteit, gebruiksgemak en een sterke visuele identiteit samen.",
+      "CAT": "Ontdek mijn projecten"
+    },
+
+    "Branding": {
+      "Title": "Branding",
+      "SubtitleLine1": "Visuele identiteiten die merken karakter geven.",
+      "ContentLine1": "Ontdek een selectie van brandingprojecten die zijn gerealiseerd om sterke en consistente identiteiten te creëren. Logo’s, huisstijlen, posters, communicatiemiddelen en covers: creatieve ontwerpen die de merkidentiteit versterken en een onderscheidend karakter geven.",
+      "CAT": "Ontdek mijn projecten"
+    },
+
+    "Audiovisual": {
+      "Title": "Audiovisueel",
+      "SubtitleLine1": "Beelden die verhalen vertellen en emoties creëren.",
+      "ContentLine1": "Ontdek een selectie van audiovisuele projecten die ik heb gerealiseerd rond muziek en visuele creatie. Muziekvideo’s, videoproducties en creatieve beelden: projecten die ideeën tot leven brengen en zorgen voor krachtige, dynamische en memorabele beelden.",
+      "CAT": "Ontdek mijn projecten"
+    },
+
+    "Photography": {
+      "Title": "Fotografie",
+      "SubtitleLine1": "Momenten vastleggen, beelden versterken.",
+      "ContentLine1": "Ontdek een selectie van foto’s die ik heb gemaakt in verschillende omgevingen en contexten. Portretten, evenementen, lifestyle en creatieve fotografie: beelden die met zorg zijn gemaakt om mensen, momenten en de verhalen erachter in de spotlight te zetten.",
+      "CAT": "Ontdek mijn projecten"
+    },
+
+    "DigitalMarketing": {
+      "Title": "Digitale Marketing",
+      "SubtitleLine1": "Vergroot je zichtbaarheid en online groei.",
+      "ContentLine1": "Wij helpen bedrijven hun zichtbaarheid te verbeteren en hun groei te versnellen via digitale marketing. We ondersteunen social media beheer, contentcreatie, advertentiecampagnes en digitale strategie om je online aanwezigheid om te zetten in echte resultaten.",
+      "CAT": "Ontdek onze diensten"
+    },
+
+    "MusicProduction": {
+      "Title": "Muziekproductie",
+      "SubtitleLine1": "Breng je sound tot leven met professionele productie.",
+      "ContentLine1": "Wij produceren professionele, hoogwaardige muziek voor artiesten en particulieren.\nVia ons",
+      "ContentLine2": "-platform zijn onze instrumentals wereldwijd beschikbaar voor al uw muziek- en digitale projecten..",
+      "CAT": "Ontdek onze diensten"
+    }
+  },
+  "OurRealisation": {
+    "Title": "Onze realisaties",
+    "Audiovisual": {
+      "Title2": "Audiovisueel",
+      "SubtitleLine1": "Deze clips zijn meer dan tien jaar geleden gemaakt en tonen onze vroege creativiteit.\nVandaag, dankzij geavanceerde apparatuur en uitgebreide expertise, heeft onze productiekwaliteit een veel hoger niveau bereikt.",
+      "CaughtUp": {
+        "ContentLine1": "Hier ziet u een fragment uit de videoclip CAUGHT UP, geproduceerd voor artiest SENECA in 2016.\nWij delen enkele van onze eerdere projecten om u een inkijk te geven in onze creativiteit en vakmanschap."
+      },
+      "Bouton": "Descubra os nossos serviços",
+      "Bouton2": "Bekijk onze werk"
+    },
+    "Webdesign": {
+      "Title2": "2. Webdesign",
+      "SubtitleLine1": "De officiële website van NextÉclat is ons allereerste webdesignproject.\nHet markeert het begin van onze reis in het creëren van moderne en functionele websites.\nMomenteel ontwikkelen wij nieuwe websites voor onze toekomstige klanten, waarbij creativiteit, gebruiksvriendelijkheid en prestaties worden gecombineerd."
+    },
+    "Branding": {
+      "Title2": "3. Branding",
+      "SubtitleLine1": "Bij NextÉclat creëren wij creatieve en consistente merkidentiteiten die uw bedrijf laten opvallen.\nVan huisstijlmaterialen en reclame-uitingen tot digitale branding, promotionele producten, signalisatie en beursstanden: wij ontwerpen elk detail om uw merk te versterken en een krachtige connectie met uw doelgroep te creëren."
+    },
+    "Music": {
+      "Title2": "4. Muziekproductie",
+      "SubtitleLine1": "Bij NextÉclat produceren wij muziek die inspireert en verbindt.\nVan songwriting tot mastering leveren wij professionele tracks die uw merk, project of artistieke identiteit versterken.",
+      "DreamGirl": {
+        "ContentLine1": "Hier vindt u een fragment van het nummer Dream Girl, geproduceerd en uitgevoerd door ILUNGA.\nDit nummer weerspiegelt onze passie voor muziekproductie, waarin emotie, creativiteit en professioneel sound design samenkomen voor een tijdloze luisterervaring.",
+        "ContentLine2": "Hieronder vindt u de link naar de officiële Dream Girl-videoclip op YouTube."
+      }
+    }
+  },
+
+
+  "OurWorkflow": {
+    "BigTitle": "Mijn werkwijze",
+    "GettingInTouch": {
+      "Title": "Kennismaking",
+      "ContentLine1": "De aanvraag en doelstellingen van het project begrijpen.",
+      "ContentLine2": "Verwachtingen en benodigde elementen verduidelijken.",
+      "ContentLine3": "De behoeften bespreken en de volgende stappen bepalen."
+    },
+    "Debriefing": {
+      "Title": "Briefing",
+      "ContentLine1": "De doelstellingen, stijl en doelgroep bepalen.",
+      "ContentLine2": "De benodigde functies, content en elementen bepalen.",
+      "ContentLine3": "Het project structureren en de volgende stappen bepalen."
+    },
+    "Producing": {
+      "Title": "Productie",
+      "ContentLine1": "Het project creëren en ontwikkelen volgens de gemaakte afspraken.",
+      "ContentLine2": "De markt, doelgroep en relevante sectorreferenties analyseren.",
+      "ContentLine3": "Het project opvolgen om kwaliteit en consistentie te waarborgen."
+    },
+    "DeliveringResult": {
+      "Title": "Projectoplevering",
+      "ContentLine1": "Het eindresultaat presenteren ter goedkeuring.",
+      "ContentLine2": "De laatste aanpassingen uitvoeren indien nodig.",
+      "ContentLine3": "De definitieve bestanden opleveren en indien nodig verdere ondersteuning bieden."
+    }
+  },
+
+  "Experience": {
+    "years": "Jaar creatieve ervaring",
+    "experts": "Gecombineerde creatieve expertise",
+    "solutions": "Oplossingen op maat",
+    "projects": "Beheerste tools & technologieën"
+  },
+
+  "WhyUs": {
+    "Title": "Wat kan ik bijdragen aan uw team?",
+
+    "Webdesign": {
+      "Subtitle": "Web Design",
+      "ContentLine1": "Ik ontwerp en ontwikkel moderne, responsieve websites die gericht zijn op een soepele gebruikerservaring.",
+      "ContentLine2": "Ik kan interfaces verder ontwikkelen door nieuwe functies, pagina’s en verbeteringen te integreren.",
+      "ContentLine3": "Ik werk samen met designers en teams om behoeften te vertalen naar concrete weboplossingen.",
+      "ContentLine4": "Ik zorg voor interfaces die vanaf de basis performant, toegankelijk en goed geoptimaliseerd zijn."
+    },
+
+    "UxDesign": {
+      "Subtitle": "UX/UI Design",
+      "ContentLine1": "Ik ontwerp eenvoudige, intuïtieve digitale ervaringen die gericht zijn op de behoeften van gebruikers.",
+      "ContentLine2": "Ik werk aan user flows, wireframes, prototypes en interfaces.",
+      "ContentLine3": "Ik baseer mijn ontwerpkeuzes op onderzoek, benchmarks en functionele behoeften.",
+      "ContentLine4": "Ik streef naar interfaces die duidelijkheid, esthetiek, toegankelijkheid en gebruiksgemak combineren."
+    },
+
+    "Branding": {
+      "Subtitle": "Branding",
+      "ContentLine1": "Ik kan bijdragen aan een sterke en consistente visuele identiteit van een product of merk.",
+      "ContentLine2": "Ik beheers de principes van kleur, typografie, compositie en visuele hiërarchie.",
+      "ContentLine3": "Ik kan een visuele identiteit vertalen naar verschillende digitale toepassingen en interfaces.",
+      "ContentLine4": "Ik breng een creatieve visie waarmee ik identiteit, consistentie en functionaliteit combineer."
+    },
+
+    "Audiovisual": {
+      "Subtitle": "Audiovisueel",
+      "ContentLine1": "Ik breng een creatieve aanpak om ideeën te vertalen naar consistente en impactvolle visuele content.",
+      "ContentLine2": "Ik kan trends en referenties analyseren om concepten te ontwikkelen die passen bij verschillende projecten.",
+      "ContentLine3": "Mijn ervaring in audiovisuele productie helpt mij om de verschillende fases van een creatief project te begrijpen.",
+      "ContentLine4": "Ik besteed aandacht aan details en feedback om de kwaliteit van het eindresultaat voortdurend te verbeteren."
+    },
+
+    "SocialMedia": {
+      "Subtitle": "Social Media",
+      "ContentLine1": "Ik kan bijdragen aan een consistente en professionele digitale aanwezigheid op social media.",
+      "ContentLine2": "Ik kan visuele content creëren die is afgestemd op een specifieke doelgroep en doelstellingen.",
+      "ContentLine3": "Ik begrijp het belang van consistentie tussen visuele identiteit, content en digitale ervaring.",
+      "ContentLine4": "Ik kan bijdragen aan meer zichtbaarheid en engagement door een creatieve en gestructureerde aanpak."
+    },
+
+    "DigitalMarketing": {
+      "Subtitle": "Digitale Marketing",
+      "ContentLine1": "Ik begrijp hoe design en development kunnen bijdragen aan de marketingdoelstellingen van een bedrijf.",
+      "ContentLine2": "Ik kan digitale ervaringen ontwerpen die gericht zijn op informeren, engageren en converteren van gebruikers.",
+      "ContentLine3": "Ik houd rekening met zowel de bedrijfsdoelstellingen als de behoeften van gebruikers bij mijn ontwerpkeuzes.",
+      "ContentLine4": "Ik streef naar digitale oplossingen die zichtbaarheid, prestaties en gebruikerservaring combineren."
+    },
+
+    "Music": {
+      "Subtitle": "Muziekproductie",
+      "ContentLine1": "Mijn ervaring in muziekproductie versterkt mijn creativiteit en mijn gevoel voor visuele en auditieve concepten.",
+      "ContentLine2": "Ik kan de creatieve behoeften van een project begrijpen en bijdragen aan de ontwikkeling van een consistente art direction.",
+      "ContentLine3": "Ik ben gewend om met verschillende creatieve tools te werken en veel aandacht te besteden aan details.",
+      "ContentLine4": "Deze ervaring stelt mij in staat om een aanvullende creatieve dimensie te bieden naast mijn vaardigheden in UX/UI en webdevelopment."
+    }
+  },
+
+  "Testimony": {
+    "eyebrow": "Getuigenissen van onze klanten",
+    "subtitle": "Ontdek de reacties van bedrijven die voor Jupiter Safe kozen om hun QHSE-prestaties en regelgevingsconformiteit te versterken.",
+    "items": {
+      "id1": {
+        "city": "Nederland",
+        "project": "Branding + Website",
+        "review": "We zijn zeer tevreden over het resultaat van NextÉclat. De branding en de website weerspiegelen perfect onze activiteit en professionele uitstraling. Het team begreep onze behoeften en creëerde een moderne, duidelijke digitale aanwezigheid die aansluit bij onze klanten."
+      },
+      "id2": {
+        "city": "Nederland",
+        "project": "Branding + Platform",
+        "review": "We zijn zeer tevreden over het ontwerp en de ontwikkeling van ons Falcon Beats-platform. NextÉclat creëerde een professionele visuele identiteit en een gebruikerservaring afgestemd op de verkoop van onze beats. Sinds de lancering kunnen we onze creaties efficiënt presenteren en verkopen."
+      },
+      "id3": {
+        "city": "DR Congo",
+        "project": "Branding + Website",
+        "review": "We zijn zeer tevreden over de website ontworpen door NextÉclat. Het project belichtte onze expertise, diensten en QHSE-oplossingen voor onze klanten. Het team vertaalde onze visie perfect met een professioneel ontwerp en een duidelijke presentatie van onze activiteiten."
+      },
+      "id4": {
+        "city": "Verenigd Koninkrijk",
+        "project": "Videoclip",
+        "review": "We zijn zeer tevreden over het eindresultaat van de clip die door NextÉclat is gemaakt. De productiekwaliteit, het professionalisme van het team en het respecteren van de deadlines overtroffen onze verwachtingen ruimschoots. Elk detail werd zorgvuldig uitgevoerd om content te creëren die aansluit bij onze visie."
+      },
+      "id5": {
+        "city": "Nederland",
+        "project": "Videoclip",
+        "review": "We zijn zeer blij met de clip gemaakt door NextÉclat. Het bedachte concept werd perfect vertaald naar het scherm en het resultaat komt exact overeen met onze verwachtingen. Veel dank aan het team voor hun professionalisme, creativiteit en inzet gedurende het hele project."
+      },
+      "id6": {
+        "city": "Portugal",
+        "project": "Videoclip",
+        "review": "We zijn zeer tevreden over het eindresultaat van de clip gemaakt door NextÉclat. Gebruikmaken van onze aanwezigheid in Nederland tijdens de vakantie om dit project op korte termijn te realiseren was een uitstekende kans. Het team toonde groot professionalisme om het gewenste resultaat te behalen."
+      },
+      "id7": {
+        "city": "Nederland",
+        "project": "Videoclip",
+        "review": "We zijn zeer tevreden over de clip gemaakt door NextÉclat. De kwaliteit van het eindresultaat, de creativiteit en het professionalisme van het team gaven onze visie leven. Het project werd zorgvuldig uitgevoerd en elk detail werd nauwkeurig bewerkt."
+      }
+    }
+  },
+
+
+  "Footer": {
+    "CatTitle": "What if we worked together?",
+    "Services": "Projecten",
+    "Links": "Links",
+    "Extra": "CV",
+    "Contacts": "Contacten",
+    "SocialMedia": "Sociale media",
+    "WebsiteDevelopedBy": "Website ontwikkeld door",
+    "AllRightsAreReserved": "Alle rechten voorbehouden",
+    "Tel": "+31 685 53 31 24",
+    "Soon1": "Soon (Frankrijk)",
+    "Soon2": "+32 492 96 39 39 (België)",
+    "Soon3": "Soon (DRC/Kinshasa)"
+  },
+
+
+  "AudiovisualPage": {
+    "Description": {
+      "Title": "Ik creëer beelden die impact maken.",
+      "Subtitle": "Ik creëer moderne, creatieve en professionele audiovisuele content voor uiteenlopende projecten en platforms.",
+      "Content": "Muziekvideo’s, reclamevideo’s, content voor sociale media, lifestylevideo’s, interviews, evenementen en branded content. Van concept tot montage zet ik ideeën om in professionele en aantrekkelijke visuele producties.",
+      "CtaBtn": "Ontdek mijn videoclips"
+
+    }
+  },
+  "TypeVideos": {
+    "Title": "Mijn audiovisuele creaties",
+    "MusicVideosAndTeaser": {
+      "Subtitle": "Muziekvideo’s en teasers",
+      "ContentLine1": "Acteursvideo’s",
+      "ContentLine2": "Video’s van comedians en content creators",
+      "ContentLine3": "Video’s van modecreators",
+      "ContentLine4": "Video’s van muzikanten",
+      "ContentLine5": "Video’s van dansers"
+    },
+    "WeddingLuxuriousAndEvents": {
+      "Subtitle": "Huwelijken, luxe en evenementen",
+      "ContentLine1": "Cinematografische huwelijken",
+      "ContentLine2": "Luxe gala’s en evenementen",
+      "ContentLine3": "Artistieke en culturele evenementen"
+    },
+    "ContentCreatorsLifestyle": {
+      "Subtitle": "Content creators & lifestyle",
+      "ContentLine1": "Food influencer video’s",
+      "ContentLine2": "Influencer- en modellenvideo’s",
+      "ContentLine3": "Ondernemers en personal brand video’s",
+      "ContentLine4": "Persoonlijke ontwikkelingscoaches video’s"
+    },
+    "BeautyFashionCreators": {
+      "Subtitle": "Beauty & Fashion Creators",
+      "ContentLine1": "Make-up creator video’s",
+      "ContentLine2": "Fashion / Outfit – Creator video’s",
+      "ContentLine3": "Stylisten creator video’s"
+    },
+    "BusinessPromotionalVideos": {
+      "Subtitle": "Promotionele & zakelijke video’s",
+      "ContentLine1": "Vastgoed promotievideo’s",
+      "ContentLine2": "Hotel- en resortvideo’s",
+      "ContentLine3": "Café- en restaurantvideo’s",
+      "ContentLine4": "Bedrijven- en kantoorvideo’s"
+    }
+  },
+  "PricingVideo": {
+    "BigTitle": "Onze videoproductiepakketten",
+    "BasicPackage": {
+      "Title": "Basic Pakket (Essentieel)",
+      "ContentLine1": "2 tot 3 uur opname",
+      "ContentLine2": "1 locatie (binnen of buiten)",
+      "ContentLine3": "Locatie- en rekwisietenhuur niet inbegrepen (beschikbaar op aanvraag)",
+      "ContentLine4": "Natuurlijk licht",
+      "ContentLine5": "1 professionele camera, tot 2 takes",
+      "ContentLine6": "Eenvoudig concept zonder storyboard",
+      "ContentLine7": "Basis kleurcorrectie",
+      "ContentLine8": "Eenvoudige montage",
+      "ContentLine9": "AI en special effects niet inbegrepen, kleine effecten mogelijk op aanvraag",
+      "ContentLine10": "Levering binnen 3 tot 5 dagen",
+      "ContentLine11": "1 revisie",
+      "ContentLine12": "Teaser niet inbegrepen",
+      "ContentLine13": "Ideaal voor eenvoudige muziekvideo’s, content creators of kleine presentaties"
+    },
+    "StandardPackage": {
+      "Title": "Standaard Pakket (Creatief)",
+      "ContentLine1": "Volledige draaidag (6 tot 8 uur)",
+      "ContentLine2": "Tot 2 verschillende locaties",
+      "ContentLine3": "Locatie- en rekwisietenhuur beschikbaar op aanvraag",
+      "ContentLine4": "Professionele belichting",
+      "ContentLine5": "1 professionele camera + stabilisator",
+      "ContentLine6": "Creatief concept met mini storyboard",
+      "ContentLine7": "Cinematische kleurcorrectie",
+      "ContentLine8": "Professionele montage",
+      "ContentLine9": "AI en special effects: geavanceerde correcties, titels en sferen",
+      "ContentLine10": "Levering binnen 7 tot 10 dagen",
+      "ContentLine11": "2 revisies",
+      "ContentLine12": "Teaser inbegrepen",
+      "ContentLine13": "Ideaal voor muziekvideo’s, evenementen, merken of professionele video’s"
+    },
+    "GoldPackage": {
+      "Title": "Gold Pakket (Premium)",
+      "ContentLine1": "2 tot 3 dagen opname",
+      "ContentLine2": "Meerdere locaties of studio",
+      "ContentLine3": "Locatie- en rekwisietenhuur inbegrepen afhankelijk van het concept",
+      "ContentLine4": "Volledige cinema-belichtingssetup",
+      "ContentLine5": "2 cinema 4K-camera’s + drone",
+      "ContentLine6": "Volledig storyboard en artistieke regie",
+      "ContentLine7": "Hoogwaardige kleurcorrectie",
+      "ContentLine8": "Montage met visuele effecten en artistieke overgangen",
+      "ContentLine9": "AI en special effects: geavanceerde integratie",
+      "ContentLine10": "Levering binnen 14 tot 21 dagen",
+      "ContentLine11": "3 revisies",
+      "ContentLine12": "Teaser + verticale versie (Insta/TikTok)",
+      "ContentLine13": "Ideaal voor high-end muziekvideo’s, merken, bedrijven of luxe-evenementen"
+    }
+  },
+  "ArchiveVideoReel": {
+    "Title": "Bekijk mijn videoarchief",
+    "Content": "Een selectie van muziekvideo’s die ik tussen 2012 en 2016 heb gemaakt. Deze archieven laten mijn ervaring in regie, filmen en montage zien, evenals mijn ontwikkeling binnen de audiovisuele sector."
+  },
+  "DroneShot": {
+    "Title": "Cinematische luchtbeelden",
+    "Subtitle": "Ik maak 4K-luchtbeelden om projecten een uniek en meeslepend perspectief te geven.",
+    "Content": "Ik heb ervaring met het maken van vloeiende en cinematische luchtbeelden met 4K-drones voor reclamecontent, evenementen, branded video’s, muziekvideo’s en creatieve projecten."
+  },
+
+  "WhereCreativityMeets": {
+    "Title": "Waar creativiteit tot leven komt",
+    "Content": "Elk project wordt geleid door een duidelijke artistieke visie, waar technische precisie en creatieve intuïtie samenkomen. Wij creëren krachtige en authentieke visuals die de unieke identiteit van artiesten onthullen en hun wereld tot leven brengen."
+  },
+
+  "MusicVideos": {
+    "Title": "Mijn gerealiseerde videoclips",
+    "Content": "Een overzicht van de videoclips die sinds 2010 voor verschillende artiesten zijn gerealiseerd."
+  },
+
+  "Photography": {
+    "Banner": {
+      "Title": "Fotografie, creativiteit, emotie",
+      "ContentLine1": "Ontdek een selectie fotografieprojecten die ik heb gerealiseerd binnen verschillende werelden, van mode en lifestyle tot evenementen en portretten. Elk project weerspiegelt mijn creatieve visie en mijn aandacht voor licht, compositie en details."
+    }
+  },
+
+
+  "SkillsPage": {
+    "Banner": {
+      "Title": "Vaardigheden, Opleiding en Ervaring",
+      "ContentLine": "Een overzicht van mijn multidisciplinaire profiel: mijn technische, creatieve en multimediale vaardigheden, mijn beheersingsniveau per vakgebied en het academische, professionele en praktische traject waarin ik deze vaardigheden heb ontwikkeld.",
+      "ContentLine2": "Mijn vaardigheden zijn het resultaat van mijn academische opleiding, professionele trainingen en jarenlange praktijkervaring via persoonlijke projecten en creatieve samenwerkingen."
+    },
+
+    "EducationTraining": {
+      "SectionTitle": "Opleiding & Training",
+
+      "Title1": "Multimedia Communicatie & Design",
+      "Subtitle1": "The Hague University of Applied Sciences — Nederland",
+      "Paragraphe1": "Deze opleiding gaf mij een multidisciplinaire basis in communicatie, design, UX/UI, digitaal ontwerp en het creëren van multimedia-inhoud. De projecten konden verschillende vormen aannemen: websites, mobiele applicaties, intranetten, infographics, digitale ervaringen, video's of multimediaconcepten. Deze opleiding legde de basis voor mijn huidige profiel, op het kruispunt van design, communicatie en de ontwikkeling van digitale projecten.",
+
+      "Title2": "Front-end Development",
+      "Subtitle2": "Novi Hogeschool — Utrecht, Nederland",
+      "Paragraphe2": "Deze opleiding stelde mij in staat om verder te gaan dan alleen het ontwerp en een visueel concept om te zetten in een volledig functionele webapplicatie. Ik ontwikkelde mijn vaardigheden in HTML, CSS, JavaScript, React en responsive design, evenals in Git, GitHub, API-integratie en deployment. Vervolgens heb ik deze vaardigheden in de praktijk gebracht door mijn eigen portfolio en verschillende webprojecten voor klanten te ontwikkelen.",
+
+      "Title3": "Electronic Music Production",
+      "Subtitle3": "SAE Institute Rotterdam — Nederland",
+      "Paragraphe3": "Met dit certificaat heb ik de basisprincipes van elektronische muziekproductie geleerd: beatmaking, compositie, arrangement, sound design, MIDI, sampling, opname en de basisprincipes van mixing en mastering.",
+
+      "Title4": "Leren door Praktijkervaring",
+      "Subtitle4": "Persoonlijke projecten, samenwerkingen & praktijkervaring",
+      "Paragraphe4": "Een belangrijk deel van mijn vaardigheden komt niet alleen voort uit mijn academische opleidingen, maar ook uit regelmatige praktijkervaring via verschillende projecten: muziekvideo's, reclamespots, producties voor artiesten, bruiloften, workshops en voortdurende zelfstudie."
+    },
+
+    "SkillsByField": {
+      "Title": "Vaardigheden per vakgebied",
+      "Description": "De onderstaande percentages geven een zelf ingeschat beheersingsniveau weer en zijn geen officiële certificering.",
+      "Note": "Zelf ingeschatte vaardigheidsniveaus"
+    }
+  },
+
+
+  "Contact": {
+    "Banner": {
+      "Title": "Wat kan ik voor uw team betekenen?",
+      "LeftLine1": "Bent u op zoek naar een creatieve professional die design, technologie en innovatie weet te verbinden? Bekijk mijn portfolio en ontdek mijn werk en expertise. Ik kom graag met u in contact om te bespreken wat ik voor uw organisatie kan betekenen.",
+      "LeftLine2": "NEEM CONTACT MET MIJ OP",
+
+      "RightLine1": "Laten we samenwerken",
+      "RightLine2": "Bent u op zoek naar iemand die design, technologie en creativiteit kan combineren? Bekijk mijn portfolio en ontdek hoe mijn ervaring en aanpak een waardevolle aanvulling kunnen zijn voor uw team.",
+
+      "RightLine3": "Modern en responsive Webdesign",
+      "RightLine4": "Sterk en gebruiksvriendelijk UX/UI-Design",
+      "RightLine5": "Sterke en consistente Merkidentiteit",
+      "RightLine5": "Creatieve en professionele Audiovisuele content",
+      "RightLine7": "Professionele en creatieve Fotografie"
+    }
+  },
+
+
+  "TypePhotos": {
+    "Title": "Wij produceren fotografie voor:",
+    "ArtistsMusiciansPerformers": {
+      "Subtitle": "Artiesten, Muzikanten & Performers",
+      "ContentLine1": "Album- en singlecovers",
+      "ContentLine2": "Promotionele beelden voor teasers of videoreleases",
+      "ContentLine3": "Redactionele en magazineportretten (print of digitaal)",
+      "ContentLine4": "Visuals voor sociale media (Instagram, Facebook, TikTok, YouTube)",
+      "ContentLine5": "Professionele headshots voor acteurs en performers",
+      "ContentLine6": "Posters en visuele campagnes voor muzikale of artistieke projecten"
+    },
+    "WeddingsLuxuryEvents": {
+      "Subtitle": "Bruiloften, Luxe & Evenementen",
+      "ContentLine1": "Bruiloften en verlovingen",
+      "ContentLine2": "Luxe evenementen en gala’s",
+      "ContentLine3": "Culturele en artistieke evenementen",
+      "ContentLine4": "Corporate en celebrity bijeenkomsten",
+      "ContentLine5": "Exclusieve fotosessies voor koppels en VIP’s"
+    },
+    "LifestyleSportsContentCreators": {
+      "Subtitle": "Lifestyle, Sport & Content Creators",
+      "ContentLine1": "Modellen en influencers",
+      "ContentLine2": "Fitness- en sportpersoonlijkheden",
+      "ContentLine3": "Brandingfoto’s voor sociale media (Instagram, TikTok, YouTube)",
+      "ContentLine4": "Personal branding portretten die lifestyle en visie uitstralen"
+    },
+    "BeautyFashion": {
+      "Subtitle": "Beauty & Mode",
+      "ContentLine1": "Make-up artists en beauty creators",
+      "ContentLine2": "Stylisten en modeontwerpers",
+      "ContentLine3": "Modecampagnes voor magazines en online winkels",
+      "ContentLine4": "Portfoliofotografie voor modellen"
+    },
+    "BusinessHospitalityRealEstate": {
+      "Subtitle": "Bedrijven, Hospitality & Vastgoed",
+      "ContentLine1": "Hotels, cafés en restaurants",
+      "ContentLine2": "Appartementen en vastgoedadvertenties",
+      "ContentLine3": "Bedrijfskantoren en werkruimtes",
+      "ContentLine4": "Productfotografie voor bedrijven",
+      "ContentLine5": "Corporate branding portretten en teamfotografie"
+    }
+  },
+  "PricingPhotography": {
+    "BigTitle": "Onze fotografie pakketten",
+    "BasicPackage": {
+      "Title": "Basic Pakket (Essentieel)",
+      "ContentLine1": "1 tot 2 uur fotoshoot",
+      "ContentLine2": "1 locatie (binnen of buiten)",
+      "ContentLine3": "Locatie, props en make-up niet inbegrepen (beschikbaar op aanvraag)",
+      "ContentLine4": "Natuurlijk licht",
+      "ContentLine5": "Tot 30 foto’s genomen",
+      "ContentLine6": "10 professioneel bewerkte foto’s (kleur- en lichtcorrectie)",
+      "ContentLine7": "Eenvoudig concept, geen complexe styling",
+      "ContentLine8": "Levering binnen 3 tot 5 dagen",
+      "ContentLine9": "1 revisie inbegrepen",
+      "ContentLine10": "Ideaal voor portretten, kleine zakelijke content of persoonlijke shoots"
+    },
+    "StandardPackage": {
+      "Title": "Standaard Pakket (Creatief)",
+      "ContentLine1": "3 tot 4 uur fotoshoot",
+      "ContentLine2": "Tot 2 locaties (binnen / buiten)",
+      "ContentLine3": "Locatie, props en make-up niet inbegrepen (beschikbaar op aanvraag)",
+      "ContentLine4": "Combinatie van natuurlijk en kunstlicht",
+      "ContentLine5": "Tot 60 foto’s genomen",
+      "ContentLine6": "20 professioneel bewerkte foto’s (color grading, retouchering, sfeer)",
+      "ContentLine7": "Creatieve begeleiding inbegrepen",
+      "ContentLine8": "Levering binnen 5 tot 7 dagen",
+      "ContentLine9": "2 revisies inbegrepen",
+      "ContentLine10": "Ideaal voor influencers, artiesten of promotionele projecten"
+    },
+    "GoldPackage": {
+      "Title": "Gold Pakket (Premium)",
+      "ContentLine1": "Volledige dag fotoshoot (tot 6 uur)",
+      "ContentLine2": "Tot 3 verschillende locaties",
+      "ContentLine3": "Styling en make-up artist inbegrepen voor een professionele uitstraling",
+      "ContentLine4": "Professionele belichting en studioapparatuur",
+      "ContentLine5": "Voorbereiding van concept en moodboard vooraf",
+      "ContentLine6": "Privé online galerij",
+      "ContentLine7": "Levering binnen 7 tot 10 dagen",
+      "ContentLine8": "3 revisies inbegrepen",
+      "ContentLine9": "Ideaal voor high-end projecten, merken, bedrijven of luxe evenementen"
+    }
+  },
+  "PhotographyGallery": {
+    "BigTitle": "Transformeer uw visie in uitzonderlijke beelden",
+    "Lifestyle": {
+      "Title": "Lifestyle",
+      "Content": "Hier zijn enkele authentieke momenten die we hebben vastgelegd tijdens onze fotoshoots."
+    },
+    "Fashion": {
+      "Title": "Mode",
+      "Content": "Stijl, elegantie en expressie."
+    },
+    "Wedding": {
+      "Title": "Huwelijk",
+      "Content": "Een blik op enkele authentieke en oprechte momenten die we hebben vastgelegd tijdens huwelijksdagen."
+    },
+    "Music": {
+      "Title": "Muziek",
+      "Content": "Live shows, artiesten en optredens."
+    },
+    "EmotivePortraits": {
+      "Title": "Emotionele Portretten",
+      "Content": "Elke blik, elke aanraking, elke glimlach, wij bevriezen emoties die jouw verhaal vertellen."
+    }
+  },
+  "WhereEmotionMeets": {
+    "Title": "Waar emotie beeld wordt",
+    "Content": "Fotografie is meer dan licht en compositie, het is verbinding. We streven ernaar de ziel achter elk beeld te begrijpen."
+  },
+  "WhereEmotionBecomes": {
+    "Title": "Waar gevoelens vorm krijgen",
+    "Content": "Door creativiteit en precisie transformeren we gewone momenten in onvergetelijke beelden."
+  },
+  "WhyChooseFalconXXL": {
+    "BigTitle": "Waarom kiezen voor NEXTÉCLAT, Fotografie",
+    "ContentLine1a": "Unieke visuele identiteit: ",
+    "ContentLine1b": "Elke afbeelding weerspiegelt de ware essentie van uw merk.",
+    "ContentLine2a": "Creatieve regie inbegrepen: ",
+    "ContentLine2b": "Doordachte concepten en enscenering om uw boodschap te versterken.",
+    "ContentLine3a": "Professionele kwaliteitsapparatuur: ",
+    "ContentLine3b": "Uitstekende beeldkwaliteit bij elke opname.",
+    "ContentLine4a": "Impactgerichte resultaten: ",
+    "ContentLine4b": "Visuals ontworpen om aan te trekken, te engageren en een blijvende indruk achter te laten."
+  },
+
+  "PageWebdesign": {
+    "BannerWebdesign": {
+      "Title": "Websites die het verschil maken",
+      "Content1": "Ontdek een selectie van projecten die ik heb gerealiseerd voor ondernemers en bedrijven: moderne, dynamische en responsieve websites, ontworpen om een soepele gebruikerservaring te bieden, hun online aanwezigheid te versterken en bezoekers om te zetten in klanten."
+    },
+
+    "WhatOurWebsite": {
+      "BigTitle": "Wat mijn projecten laten zien",
+      "Title": "Digitale ervaringen ontworpen voor echte behoeften",
+      "ContentLine1": "Moderne, responsieve en schaalbare websites, afgestemd op de specifieke behoeften van elk project.",
+      "ContentLine2": "Een structuur die is ontworpen om de online zichtbaarheid te verbeteren en SEO-best practices toe te passen.",
+      "ContentLine3": "Interfaces ontworpen voor een duidelijke, intuïtieve navigatie, afgestemd op verschillende gebruikers.",
+      "ContentLine4": "Een responsive design dat zorgt voor een consistente ervaring op mobiel, tablet en desktop.",
+      "ContentLine5": "Een UX/UI-aanpak die visuele identiteit, gebruiksvriendelijkheid en gebruikerservaring combineert voor consistente en aantrekkelijke interfaces.",
+      "ContentLine6": "Visuele content met hoogwaardige afbeeldingen en video's om de visuele impact en identiteit van projecten te versterken."
+    }
+  },
+
+  "OurWebDesignProjects": {
+    "title": "Onze projecten",
+    "subtitle": "Webprojecten die ideeën tot leven brengen",
+    "contentTitle": "Ontdek 3 van onze recente projecten, elk zorgvuldig ontworpen om aan specifieke behoeften te voldoen. Andere projecten zijn momenteel in ontwikkeling. Of het nu gaat om een bedrijfswebsite, een website voor artiesten of influencers, een webshop of een digitale oplossing op maat, wij creëren zonder grenzen.",
+    "btnRealisation": "Onze projecten",
+    "project": {
+      "title1": "NextÉclat",
+      "contentLine1": "NextÉclat is een digitaal bureau dat ondernemers, artiesten en influencers begeleidt bij het creëren van een sterk imago. We hebben deze website ontworpen om onze expertise in branding, webdesign, audiovisuele productie en digitale contentcreatie te tonen.",
+
+      "title2": "FalconBeat",
+      "contentLine2": "Falcon Beats is een muziekplatform dat we hebben ontwikkeld voor artiesten en creators die op zoek zijn naar professionele beats van hoge kwaliteit. Gebruikers kunnen verschillende instrumentals ontdekken, kopen en downloaden, geschikt voor diverse muziekstijlen en wereldwijd toegankelijk.",
+
+      "title3": "Cyrus FP",
+      "contentLine3": "Ik heb de website van Cyrus FP ontworpen, een bedrijf gespecialiseerd in het plaatsen van vlaggen van verschillende afmetingen. De website benadrukt hun expertise in het plaatsen van grote vlaggen en hun oplossingen voor visuele communicatie.",
+
+      "title4": "Pasha Bouw",
+      "contentLine4": "We hebben de bedrijfswebsite van Pasha Bouw ontworpen, een bedrijf gespecialiseerd in renovatie en maatwerkprojecten. De website benadrukt hun vakkennis in woningrenovaties, badkamers en keukens, evenals hun inzet voor kwaliteit en oplossingen op maat voor elke klant.",
+
+      "title5": "Jupiter Safe Consulting",
+      "contentLine5": "We hebben de bedrijfswebsite van Jupiter Safe Consulting ontworpen, een bedrijf gespecialiseerd in QHSE-consultancy. De website benadrukt hun expertise in regelgeving, risicopreventie en continue verbetering, met oplossingen aangepast aan de behoeften van bedrijven.",
+
+      "title6": "Mijn Portfolio",
+      "contentLine6": "Persoonlijk portfolio waarin ik mijn vaardigheden op het gebied van UX Design, Front-End Development, visuele identiteit en branding presenteer, met expertise in audiovisuele productie. Via deze selectie krijgt u een overzicht van mijn parcours, mijn creatieve aanpak en de verschillende projecten die ik door de jaren heen heb ontwikkeld.\n",
+
+      "btn1": "Bekijk project"
+    }
+  },
+
+  "PricingWebdesign": {
+    "BigTitle": "Onze webdesignpakketten",
+    "StarterBasic": {
+      "Title": "Starter / Basis",
+      "ContentLine1": "1 tot 3 pagina’s (Landing Page, Over ons, Contact)",
+      "ContentLine2": "Aangepast en responsief design",
+      "ContentLine3": "Contactformulier",
+      "ContentLine4": "Hosting- en domeinconfiguratie",
+      "ContentLine5": "Basis SEO (Google-zichtbaarheid)",
+      "ContentLine6": "Snelle oplevering",
+      "ContentLine7a": "Ideaal voor:",
+      "ContentLine7b": "Kleine bedrijven, freelancers, creatievelingen of influencers die een eenvoudige, strakke en elegante website willen."
+    },
+    "BusinessStandard": {
+      "Title": "Zakelijk / Standaard",
+      "ContentLine1": "5 tot 8 pagina’s (Home, Diensten, Portfolio, Blog, Contact, enz.)",
+      "ContentLine2": "UX-design op maat op basis van doelgroep- en concurrentieanalyse",
+      "ContentLine3": "CMS of beheerpaneel (eenvoudige contentupdates)",
+      "ContentLine4": "Basis webshop (tot 20 producten)",
+      "ContentLine5": "Geavanceerde SEO-integratie + Google Analytics",
+      "ContentLine6": "Integratie van een boekingssysteem (indien nodig)",
+      "ContentLine7": "Basisopleiding voor websitebeheer",
+      "ContentLine8a": "Ideaal voor:",
+      "ContentLine8b": "Kmo’s, startups, winkels of agentschappen die een complete en dynamische online aanwezigheid zoeken."
+    },
+    "PremiumDeluxe": {
+      "Title": "Premium / Deluxe",
+      "ContentLine1": "Volledige website of geavanceerd platform (e-commerce, educatie, SaaS, enz.)",
+      "ContentLine2": "Onbeperkte webshop met voorraadbeheer en betaalsystemen (Stripe, PayPal, enz.)",
+      "ContentLine3": "Vloeiende animaties en overgangen (React.js)",
+      "ContentLine4": "Volledige branding (logo, huisstijl, visuele identiteit)",
+      "ContentLine5": "Creatie van visuele content (foto, video, muziek, enz.)",
+      "ContentLine6": "Premium SEO-optimalisatie + digitale marketingcampagnes",
+      "ContentLine7": "Doorlopend onderhoud en updates",
+      "ContentLine8": "Prioritaire ondersteuning en persoonlijke opvolging",
+      "ContentLine9a": "Ideaal voor:",
+      "ContentLine9b": "Merken, tech-startups, scholen of bedrijven die een high-end platform zoeken."
+    }
+  },
+  "Branding": {
+    "Banner": {
+      "Title": "Branding, Identiteit, Impact",
+      "ContentLine1": "Hier presenteer ik een selectie van mijn projecten op het gebied van branding en visuele identiteit. Met deze projecten laat ik mijn vermogen zien om samenhangende, creatieve en onderscheidende visuele werelden te creëren, waarbij ik zowel aan het logo als aan de verschillende elementen van een merkidentiteit werk.",
+      "buttonCta": "Projecten ontdekken",
+      "ContentLine3": ""
+    },
+    "Descsription": {
+      "Title": "Onze brandingoplossingen",
+      "Subtitle": "Wij helpen bedrijven sterke visuele identiteiten te creëren. Door creativiteit,\nstrategie en design te combineren, brengen we uw merk tot leven en maken we het onvergetelijk.\n",
+
+      "ContentLine1": "Bij NextEclat creëren we creatieve en consistente merkidentiteiten die uw bedrijf laten opvallen. Van corporate huisstijl tot digitale branding en promotiemateriaal, elk detail is ontworpen om uw imago te versterken en een sterke band met uw doelgroep op te bouwen.",
+      "ContentLineBold1": "",
+      "ContentLine2": "",
+      "ContentLineBold2": "",
+      "ContentLine3": ""
+    },
+    "TypeBranding": {
+      "BigTitle": "Ik creëer visuele identiteiten voor:",
+      "1ArtistsMusiciansPerformers": {
+        "Title": "1. Artiesten, muzikanten & performers",
+        "ContentLine1": "Artiestenlogo & persoonlijke merkidentiteit",
+        "ContentLine2": "Promotionele visuals voor teasers of videoreleases",
+        "ContentLine3": "Ontwerp van album- & singlecovers (digitaal & print)",
+        "ContentLine4": "Visuele campagneontwerpen voor releases (posters, banners, flyers)",
+        "ContentLine5": "Social media kit (profielafbeeldingen, highlights, posttemplates, YouTube/TikTok-banners)",
+        "ContentLine6": "Website branding visuals",
+        "ContentLine7": "Concert- & tourposters",
+        "ContentLine8": "Briefpapier & branded assets (briefhoofden, enveloppen, mappen)",
+        "ContentLine9": "Merchandise ontwerp (T-shirts, tote bags, mokken, petten, badges, stickers)",
+        "ContentLine10": "Drukwerk: visitekaartjes, artiestenkaarten, posters, brochures"
+      },
+      "2WeddingsLuxuryEvents": {
+        "Title": "2. Bruiloften, luxe & evenementen",
+        "ContentLine1": "Bruiloftslogo & monogramontwerp",
+        "ContentLine2": "Save-the-date & uitnodigingen (print & digitaal)",
+        "ContentLine3": "Evenementposters & banners",
+        "ContentLine4": "Menukaarten, tafelkaarten & bedankkaartjes",
+        "ContentLine5": "Gepersonaliseerde enveloppen & mappen",
+        "ContentLine6": "Evenementsignalisatie & welkomstborden",
+        "ContentLine7": "Social media aankondigingstemplates",
+        "ContentLine8": "Website visuals voor bruiloften of evenementen",
+        "ContentLine9": "Gedrukte souvenirs (tassen, notitieboeken, mokken, T-shirts)",
+        "ContentLine10": "Elegante brochures & mappen voor luxe evenementen",
+        "ContentLine11": "Branding voor culturele evenementen (visuele kits, flyers, tickets)"
+      },
+      "3LifestyleSportsContentCreators": {
+        "Title": "3. Lifestyle, sport & content creators",
+        "ContentLine1": "Persoonlijk logo & identiteit",
+        "ContentLine2": "Social media branding kit (Instagram/Facebook/TikTok/YouTube banners, highlights, post- & reeltemplates)",
+        "ContentLine3": "Posters & promotionele visuals",
+        "ContentLine4": "Branded kleding & accessoires (T-shirts, tote bags, notitieboeken)",
+        "ContentLine5": "Social media kit (profielafbeeldingen, highlights, posttemplates, YouTube/TikTok-banners)",
+        "ContentLine6": "Visitekaartjes & digitale visitekaart (NFC-compatibel)",
+        "ContentLine7": "Ontwerp van e-books of digitale producten (gidsen, lookbooks, templates)",
+        "ContentLine8": "Printcampagnes voor lifestyle- en sportcollabs",
+        "ContentLine9": "Website- of blogbranding"
+      },
+      "4BeautyFashionStyleBrand": {
+        "Title": "4. Beauty-, mode- & stijlmerken",
+        "ContentLine1": "Merklogo & visuele identiteit",
+        "ContentLine2": "Productverpakking & labelontwerp",
+        "ContentLine3": "Lookbook- & catalogusontwerp",
+        "ContentLine4": "Social media visuele identiteit (templates, stories, highlights, banners)",
+        "ContentLine5": "Posters & campagneontwerpen voor productlanceringen",
+        "ContentLine6": "Uitnodigingen voor modeshows & backstage-materiaal",
+        "ContentLine7": "Visitekaartjes, brochures & flyers",
+        "ContentLine8": "Branded briefpapier (briefhoofden, enveloppen, mappen)",
+        "ContentLine9": "E-commerce visuals & webbranding",
+        "ContentLine10": "Promotionele geschenkontwerpen (tassen, bekers, notitieboeken, kleding)"
+      },
+      "5BusinessHospitalityRealEstate": {
+        "Title": "5. Bedrijven, hospitality & vastgoed",
+        "ContentLine1": "Bedrijfslogo & merksysteem",
+        "ContentLine2": "Corporate briefpapier (briefhoofden, visitekaartjes, enveloppen, mappen)",
+        "ContentLine3": "Brochures, catalogi & productfiches",
+        "ContentLine4": "Signalisatie & displaymateriaal (banners, billboards, stands)",
+        "ContentLine5": "Branding voor hotels, cafés & restaurants (menu’s, uniformen, verpakking)",
+        "ContentLine6": "Vastgoedtemplates & branded fotopresentaties",
+        "ContentLine7": "Website- & socialmediabranding",
+        "ContentLine8": "E-mailmarketingtemplates & branded nieuwsbrieven",
+        "ContentLine9": "Promotionele merchandising (mokken, pennen, tote bags, notitieboeken)",
+        "ContentLine10": "Kantoorbranding visuals (deurborden, muurprints, teamportretten)"
+      }
+    },
+    "OurBrandingDivisions": {
+      "BigTitle": "Onze brandingafdelingen",
+      "BrandIdentityCoreDesign": {
+        "Title": "Merkidentiteit & basisontwerp",
+        "ContentLine1": "Merklogo & visuele identiteit",
+        "ContentLine2": "Bedrijfsdrukwerk (briefpapier, enveloppen, mappen)",
+        "ContentLine3": "Visitekaartjes, brochures & flyers"
+      },
+      "ProductPackagingDesign": {
+        "Title": "Product- & verpakkingsdesign",
+        "ContentLine1": "Productverpakkingen & labelontwerp",
+        "ContentLine2": "Ontwerp van promotionele producten (tassen, mokken, notitieboeken, kleding)"
+      },
+      "DigitalOnlineBranding": {
+        "Title": "Digitale & online branding",
+        "ContentLine1": "Visuele identiteit voor sociale media (templates, stories, highlights, banners)",
+        "ContentLine2": "Begeleiding van elke stap voor kwaliteit en creativiteit",
+        "ContentLine3": "E-commerce visuals & webbranding"
+      },
+      "MarketingCampaignDesign": {
+        "Title": "Marketing- & campagnedesign",
+        "ContentLine1": "Poster- en campagnedesign voor productlanceringen",
+        "ContentLine2": "Lookbook- & catalogusontwerp",
+        "ContentLine3": "Winkelbranding & bewegwijzeringsontwerp",
+        "ContentLine4": "Mode-event uitnodigingen & backstage materialen"
+      }
+    },
+    "PricingBranding": {
+      "BigTitle": "Onze brandingpakketten",
+      "BasicPackage": {
+        "Title": "Basispakket (Starter)",
+        "ContentLine1": "Ontwerp van primair logo",
+        "ContentLine2": "Kleurenpalet & typografie",
+        "ContentLine3": "Visitekaartje & basisbedrijfsdrukwerk",
+        "ContentLine4": "Social media profielvisuals (profielfoto, banner, post-template)"
+      },
+      "StandardPackage": {
+        "Title": "Standaardpakket (Professioneel)",
+        "ContentLine1": "Alles uit het Starterpakket",
+        "ContentLine2": "Logovariaties & iconenset",
+        "ContentLine3": "Uitgebreide huisstijl (briefpapier, enveloppen, mappen)",
+        "ContentLine4": "Social media templates & highlight covers"
+      },
+      "GoldPackage": {
+        "Title": "Gold Pakket (Elite)",
+        "ContentLine1": "Alles uit het Professionele pakket",
+        "ContentLine2": "Volledig brand book (visueel systeem & richtlijnen)",
+        "ContentLine3": "Verpakkings- & posterontwerp",
+        "ContentLine4": "Campagne- en advertentievisuals",
+        "ContentLine5": "Product- of teamfotoshoot",
+        "ContentLine6": "Creatieve begeleiding & consulting"
+      }
+    },
+    "WhyOurBranding": {
+      "Title": "Waarom onderscheiden mijn brandingprojecten zich?",
+      "ContentLine1a": "Uniek voor jou: ",
+      "ContentLine1b": "100% origineel, geen templates.",
+      "ContentLine2a": "Slim & creatief: ",
+      "ContentLine2b": "Design dat presteert.",
+      "ContentLine3a": "Consistente uitstraling: ",
+      "ContentLine3b": "Op alle platformen.",
+      "ContentLine4a": "Alles-in-één team: ",
+      "ContentLine4b": "Design, foto, video, marketing.",
+      "ContentLine5a": "Premium afwerking: ",
+      "ContentLine5b": "Met precisie ontworpen.",
+      "ContentLine6a": "Krachtige impact: ",
+      "ContentLine6b": "Visuals die verbinden.",
+      "ContentLine7a": "Strategische positionering: ",
+      "ContentLine7b": "Definieer je verhaal en onderscheid je."
+    }
+  },
+
+  "DigitalMarketing": {
+    "Banner": {
+      "Title": "UX/UI Design: interfaces ontworpen voor de gebruiker",
+      "Content1": "Ontdek een selectie van UX/UI-projecten die ik heb ontworpen: moderne, intuïtieve en responsieve interfaces, ontwikkeld voor een soepele gebruikerservaring, afgestemd op de behoeften van een specifieke doelgroep en de doelstellingen van de klant."
+    },
+
+    "Description": {
+      "Title": "UX/UI Design: interfaces ontworpen voor de gebruiker.",
+      "Content": "Ik ontwerp digitale concepten op basis van de behoeften van het project en de verwachtingen van de doelgroep. Van structuur tot visuele identiteit creëer ik samenhangende oplossingen waarin gebruiksvriendelijkheid, creativiteit en de doelstellingen van de klant samenkomen."
+    },
+
+    "FitnessFriend1": {
+      "Content1": "FitnessFriends is een mobiele applicatie die fitnessliefhebbers helpt om trainingspartners te ontmoeten en deel te nemen aan groepssessies in de sportschool van hun keuze. Het concept speelt in op een eenvoudig probleem: het kan soms moeilijk zijn om gemotiveerd te blijven wanneer je alleen traint. Door mensen met vergelijkbare interesses en sportieve doelen met elkaar in contact te brengen, maakt FitnessFriends sporten socialer, leuker en motiverender. Tegelijkertijd stimuleert de app gebruikers om actief te blijven en regelmatig te sporten.",
+      "Content2": "Dit is het resultaat van een project dat ik heb uitgevoerd tijdens mijn studie Communication and Multimedia Design aan De Haagse Hogeschool.",
+      "CtaView": "Bekijk het project"
+    },
+    
+
+
+    "TypeServicesDigitalMarketing": {
+      "Title": "Een UX-aanpak, van idee tot oplossing",
+
+      "DigitalPlatforms": {
+        "Title": "1. Digitale platforms",
+        "ContentLine1": "Socialmediaplatforms",
+        "ContentLine2": "Communityplatforms",
+        "ContentLine3": "Videoplatforms",
+        "ContentLine4": "SaaS-platforms",
+        "ContentLine5": "Marktplaatsen en e-commerceplatforms",
+        "ContentLine6": "Educatieve en overheidsplatforms",
+        "ContentLine7": "Administratieve portalen, klantenportalen en bedrijfsintranetten",
+        "ContentLine8": "Boekingsplatforms en professionele platforms"
+      },
+
+      "DigitalProducts": {
+        "Title": "2. Digitale producten & applicaties",
+        "ContentLine1": "Mobiele applicaties",
+        "ContentLine2": "Webapplicaties en Web Apps",
+        "ContentLine3": "Software en professionele applicaties",
+        "ContentLine4": "Dashboards en beheerinterfaces",
+        "ContentLine5": "SaaS-tools",
+        "ContentLine6": "Klantenportalen en ledenomgevingen",
+        "ContentLine7": "Managementsystemen",
+        "ContentLine8": "Interfaces met authenticatie en gebruikersaccounts"
+      },
+
+      "WebsitesExperiences": {
+        "Title": "3. Websites & Web Experiences",
+        "ContentLine1": "Websites en informatieve websites",
+        "ContentLine2": "Corporate en institutionele websites",
+        "ContentLine3": "Bedrijfswebsites",
+        "ContentLine4": "Grote webportalen en strategische websites",
+        "ContentLine5": "Portfolio’s en blogs / magazines",
+        "ContentLine6": "Evenementenwebsites en landingspagina’s",
+        "ContentLine7": "Websites op maat met complexe gebruikersflows"
+      },
+
+      "Ecommerce": {
+        "Title": "4. E-commerce",
+        "ContentLine1": "Webshops en online winkels",
+        "ContentLine2": "E-commercewebsites en marketplaces",
+        "ContentLine3": "Productcatalogi",
+        "ContentLine4": "Aankoopprocessen",
+        "ContentLine5": "Checkout- en betaalsystemen",
+        "ContentLine6": "E-commerce klantomgevingen"
+      },
+
+      "Other": {
+        "Title": "5. Andere creatieve media",
+        "ContentLine1": "Infographics",
+        "ContentLine2": "Reclameposters",
+        "ContentLine3": "Digitale communicatiemiddelen",
+        "ContentLine4": "Visuele identiteiten en branding",
+        "ContentLine5": "Audiovisuele producties en video’s",
+        "ContentLine6": "Motion design",
+        "ContentLine7": "Content voor sociale media",
+        "ContentLine8": "Evenementmaterialen en visuele presentaties"
+      },
+
+
+      "6EmailMarketingAutomation": {
+        "Title": "6. E-mailmarketing & Automatisering",
+        "ContentLine1": "Creatie van promotionele en loyaliteitscampagnes",
+        "ContentLine2": "Geautomatiseerde workflows (welkomstreeksen, verlaten winkelwagen, klantopvolging)",
+        "ContentLine3": "Professioneel ontwerp van e-mailsjablonen",
+        "ContentLine4": "Opvolging van open- en conversieratio’s",
+        "ContentLine5": "DOEL: Klantrelaties versterken en loyaliteit verhogen via slimme communicatie."
+      },
+      "7BrandingDigitalIdentity": {
+        "Title": "7. Branding & Digitale Identiteit",
+        "ContentLine1": "Logo- en visuele identiteitsontwerp",
+        "ContentLine2": "Consistente merkuitstraling over alle kanalen",
+        "ContentLine3": "Ontwikkeling van merkstem en storytelling",
+        "ContentLine4": "Visuele consistentie op website, sociale media en advertenties",
+        "ContentLine5": "DOEL: Een herkenbaar, betrouwbaar en sterk merk opbouwen."
+      },
+      "8AnalyticsOptimization": {
+        "Title": "8. Analyse & Optimalisatie",
+        "ContentLine1": "Prestatieopvolging (Google Analytics, Meta Insights, enz.)",
+        "ContentLine2": "Aangepaste dashboards en rapportages",
+        "ContentLine3": "Continue optimalisatie voor maximale conversies",
+        "ContentLine4": "A/B-testen om campagneresultaten te verbeteren",
+        "ContentLine5": "DOEL: Data omzetten in concrete acties om prestaties te verbeteren."
+      },
+      "9ContentMarketing": {
+        "Title": "9. Contentmarketing",
+        "ContentLine1": "Contentstrategie (redactionele kalender, thema’s, formats, doelen)",
+        "ContentLine2": "SEO-geoptimaliseerde blogartikelen",
+        "ContentLine3": "Creatie van gidsen, eBooks, nieuwsbrieven en productfiches",
+        "ContentLine4": "Merkstorytelling (het verhaal van jouw merk of klanten)",
+        "ContentLine5": "Scriptwriting voor video’s, podcasts of advertenties",
+        "ContentLine6": "Content hergebruik, één contentstuk omzetten in meerdere formats",
+        "ContentLine7": "DOEL: Vertrouwen opbouwen, merkbekendheid vergroten en leads genereren via impactvolle content."
+      }
+    },
+
+
+
+
+
+    "PricingDigitalMarketing": {
+      "BigTitle": "Onze digitale marketingpakketten",
+      "BasicPackage": {
+        "Title": "Basis Pakket (Fundamentplan)",
+        "ContentLine1": "Digitale audit (website + sociale media)",
+        "ContentLine2": "Mini digitale strategie op maat",
+        "ContentLine3": "Opzet van sociale media (1–2 platformen)",
+        "ContentLine4": "4 posts per maand (visuals + captions)",
+        "ContentLine5": "Basis SEO-optimalisatie",
+        "ContentLine6": "Maandelijks prestatierapport",
+        "ContentLine7": "Voor startups of kleine bedrijven die hun online reis starten."
+      },
+      "StandardPackage": {
+        "Title": "Standaard Pakket (Groeiplan)",
+        "ContentLine1": "Volledige digitale strategie & consulting",
+        "ContentLine2": "Beheer van sociale media (tot 3 platformen)",
+        "ContentLine3": "8–12 posts per maand + communitybeheer",
+        "ContentLine4": "SEO-optimalisatie (zoekwoorden, meta, blogopzet)",
+        "ContentLine5": "Eén betaalde advertentiecampagne (Meta of Google Ads)",
+        "ContentLine6": "Maandelijkse analyse en optimalisatie",
+        "ContentLine7": "Voor merken die streven naar consistente groei en engagement."
+      },
+      "GoldPackage": {
+        "Title": "Gold Pakket (Premium Uitbreidingsplan)",
+        "ContentLine1": "Volledige digitale strategie & consulting",
+        "ContentLine2": "Beheer van sociale media (alle grote platformen)",
+        "ContentLine3": "Contentcreatie (video’s, reels, blogposts, nieuwsbrieven)",
+        "ContentLine4": "SEO + betaalde advertenties (Google, Meta, TikTok, LinkedIn)",
+        "ContentLine5": "E-mailmarketing & automatisatie opzet",
+        "ContentLine6": "Optimalisatie van branding & storytelling",
+        "ContentLine7": "Aangepast dashboard + maandelijkse prestatie-evaluatie",
+        "ContentLine8": "Voor gevestigde merken die klaar zijn om te schalen en hun markt te domineren."
+      }
+    }
+  },
+
+
+  "Phase": {
+    "Intro": {
+      "Eyebrow": "Mijn aanpak",
+      "Title": "Fasen & ontwerpmethodologie",
+      "Subtitle": "Van het eerste idee tot de lancering volgt elk project een gestructureerd kader: de zes fasen van de P6-methode, de UX-aanpak van Jesse James Garrett, en de onderzoeksmethoden en -technieken die de kwaliteit van elke ontwerpbeslissing waarborgen."
+    },
+
+    "Section1": {
+      "Eyebrow": "01 — Projectfasen",
+      "Title": "Een gestructureerde aanpak met de P6-methode",
+      "Intro1": "Bij het ontwikkelen van de concepten voor mijn applicaties gebruik ik de P6-methode van Roel Grit om elk project op een duidelijke en methodische manier te structureren. Deze aanpak geeft me een totaalbeeld van het project, waarmee ik de verschillende uitvoeringsstappen kan bepalen en de voortgang ervan kan volgen, van ontwerp tot implementatie.",
+      "Intro2": "Elke fase vormt een referentiekader dat me helpt om gedurende het hele ontwikkelproces een duidelijke lijn aan te houden. Dankzij de P6-methode kan ik een idee omzetten in een concreet project, stap voor stap, met steeds een samenhangend beeld van de doelstellingen, behoeften en verwachte resultaten."
+    },
+
+
+    "Phases": {
+      "Phase1": {
+        "Title": "Initiatieffase",
+        "Text": "Tijdens de initiatieffase wordt een probleem of idee vastgesteld en wordt besloten dat er actie moet worden ondernomen. In deze fase vinden de volgende activiteiten plaats:",
+        "List1": "Analyse van de huidige situatie",
+        "List2": "Definitie van het probleem",
+        "List3": "Bepaling van het doel en het verwachte resultaat van het project"
+      },
+      "Phase2": {
+        "Title": "Definitiefase",
+        "Text": "In de definitiefase wordt duidelijk vastgesteld wat er van het project wordt verwacht. Aan het einde van deze fase wordt een actieplan opgesteld waarin het project nauwkeurig wordt omschreven."
+      },
+      "Phase3": {
+        "Title": "Ontwerpfase",
+        "Text": "Tijdens de ontwerpfase wordt bepaald hoe de oplossing eruit moet zien en hoe deze moet functioneren. Om te controleren of de bedachte oplossing aan de gestelde eisen voldoet, kan indien nodig een prototype worden gemaakt."
+      },
+      "Phase4": {
+        "Title": "Voorbereidingsfase",
+        "Text": "Tijdens de voorbereidingsfase wordt het product uit de ontwerpfase klaargemaakt voor de realisatie ervan. Het product wordt in dit stadium nog niet ontwikkeld; het doel is om alle voorwaarden te scheppen zodat de realisatie soepel kan verlopen."
+      },
+      "Phase5": {
+        "Title": "Realisatiefase",
+        "Text": "In deze fase begint het eigenlijke ontwikkelwerk. Het uiteindelijke product wordt gerealiseerd volgens de plannen en specificaties die in de voorgaande fasen zijn vastgelegd."
+      },
+      "Phase6": {
+        "Title": "Opvolgingsfase (na realisatie)",
+        "Text": "Tijdens deze fase wordt het resultaat van het project in gebruik genomen. Omdat omstandigheden en behoeften in de loop van de tijd kunnen veranderen, kunnen ook de eisen ten aanzien van het product wijzigen. Aanpassingen en verbeteringen kunnen dan noodzakelijk worden."
+      }
+    },
+
+    "Section2": {
+      "Eyebrow": "02 — Ontwerpfase",
+      "Title": "User Experience Design",
+      "Intro1": "Voor de ontwikkeling van mijn applicaties gebruik ik de User Experience-ontwerpmethode van Jesse James Garrett. Hiermee kan ik applicaties ontwerpen die zijn afgestemd op de gebruiker, rekening houdend met diens behoeften, verwachtingen en doelen.",
+      "Intro2": "Deze aanpak begeleidt me van het bepalen van de vereisten tot het ontwerpen van de uiteindelijke interface. Ze stelt me in staat elke stap van het UX-proces te structureren en intuïtieve, toegankelijke en samenhangende ervaringen te creëren. De methode is opgebouwd uit vijf aanvullende niveaus — Strategy, Scope, Structure, Skeleton en Surface — waarmee ik geleidelijk overga van strategisch denken naar de visuele vormgeving van de applicatie."
+    },
+
+    "Planes": {
+      "Plane1": {
+        "NameLocal": "Strategisch niveau",
+        "Text": "De behoeften en verwachtingen van gebruikers worden in kaart gebracht via onderzoek naar gebruikersbehoeften en een analyse van de doelgroep. Het doel is de applicatie af te stemmen op de behoeften en verwachtingen van gebruikers. Ook de doelstellingen van de applicatie worden bepaald, om duidelijk vast te leggen wat de gebruiker ermee moet kunnen bereiken."
+      },
+      "Plane2": {
+        "NameLocal": "Bereikniveau",
+        "Text": "De systeemvereisten worden vastgesteld om duidelijk te bepalen welke functionaliteiten en inhoudelijke specificaties de applicatie moet bevatten."
+      },
+      "Plane3": {
+        "NameLocal": "Structuurniveau",
+        "Text": "Hier wordt bepaald hoe de verschillende systeemvereisten en functionaliteiten van de applicatie met elkaar samenhangen en hoe ze worden georganiseerd."
+      },
+      "Plane4": {
+        "NameLocal": "Skeletniveau",
+        "Text": "Hier wordt bepaald hoe de gebruiker door de applicatie navigeert. Ook worden de wireframes van de site ontworpen om de structuur en indeling van de verschillende interface-elementen te bepalen."
+      },
+      "Plane5": {
+        "NameLocal": "Oppervlakteniveau",
+        "Text": "Het visuele ontwerp van de applicatie wordt gemaakt om de uiteindelijke uitstraling te bepalen. Deze stap omvat onder meer het kleurenpalet, de iconen, de typografie, de visuele merkidentiteit en de algehele look & feel van de applicatie."
+      }
+    },
+
+    "Section3": {
+      "Eyebrow": "03 — Gebruikte methoden",
+      "Title": "Mijn werkmethoden",
+      "Intro": "Om de kwaliteit en consistentie van mijn projectresultaten te waarborgen, baseer ik me op verschillende methoden die elke stap van mijn werkproces structureren."
+    },
+
+    "Methods": {
+      "Method1": {
+        "Title": "Projectmanagement — P6-methode van Roel Grit",
+        "Text": "Ik gebruik de P6-methode om mijn projecten te structureren, de verschillende stappen te bepalen en een duidelijke opvolging te garanderen, van het eerste idee tot de realisatie."
+      },
+      "Method2": {
+        "Title": "Onderzoeksmethodologie — Nel Verhoeven",
+        "Text": "Voor mijn onderzoek en analyses baseer ik me op de methodologie van Nel Verhoeven, om mijn onderzoek op een gestructureerde en methodische manier uit te voeren."
+      },
+      "Method3": {
+        "Title": "User Experience Design — Jesse James Garrett",
+        "Text": "Voor de ontwikkeling van mijn applicaties gebruik ik de User Experience-methode van Jesse James Garrett. Hiermee kan ik oplossingen ontwerpen die gericht zijn op de gebruiker en afgestemd zijn op de behoeften van een specifieke doelgroep."
+      }
+    },
+
+    "Section4": {
+      "Eyebrow": "04 — Gebruikte technieken",
+      "Title": "Onderzoeks- en evaluatietechnieken",
+      "Intro": "Deze technieken structureren mijn onderzoeks- en testfasen, van het identificeren van gebruikersbehoeften tot het valideren van het prototype."
+    },
+
+    "Techniques": {
+      "Technique1": {
+        "Title": "Expert Review",
+        "Text": "Om usabilityproblemen van de bestaande site vóór het herontwerp te identificeren, wordt een expert review uitgevoerd. Deze analyse helpt de belangrijkste verbeterpunten te identificeren, met de usability-heuristieken van Jakob Nielsen als referentiekader (Nielsen, 1995)."
+      },
+      "Technique2": {
+        "Title": "Semigestructureerd interview",
+        "Text": "Om de behoeften en verwachtingen van gebruikers te identificeren, wordt een semigestructureerd interview afgenomen. Deze methode biedt vrijheid bij het verzamelen van informatie en maakt het mogelijk open vragen te stellen, maar ook bepaalde onderwerpen verder uit te diepen met aanvullende vragen. Zo worden nauwkeurigere en gedetailleerdere inzichten verkregen in de verwachtingen van de doelgroep."
+      },
+      "Technique3": {
+        "Title": "Doelgroeponderzoek",
+        "Text": "Om de gebruikers van de website beter te begrijpen, wordt een doelgroeponderzoek uitgevoerd. Een gesprek met de klant helpt eerst om de bekende kenmerken van gebruikers vast te stellen. Vervolgens wordt de doelgroep geraadpleegd om deze informatie aan te vullen en nog onbekende behoeften en kenmerken te identificeren."
+      },
+      "Technique4": {
+        "Title": "Benchmarking",
+        "Text": "Om relevante functionaliteiten, navigatiepatronen en visuele keuzes voor het prototype te identificeren, wordt een vergelijkende analyse (benchmark) uitgevoerd. Het analyseren van vergelijkbare websites maakt het mogelijk hun sterke punten als inspiratie te gebruiken, maar ook hun zwakke punten als leerpunten voor het ontwerp. Deze aanpak helpt ook concrete manieren te identificeren om de gebruikerservaring en usability van de site te verbeteren."
+      },
+      "Technique5": {
+        "Title": "MoSCoW-methode",
+        "Text": "Om de functionele en technische vereisten van het prototype te prioriteren, wordt de MoSCoW-methode gebruikt. Hiermee kunnen functionaliteiten worden ingedeeld naar belang, waarbij wordt bepaald welke essentieel, wenselijk of uitstelbaar zijn. Deze aanpak houdt het project haalbaar, samenhangend en beheersbaar."
+      },
+      "Technique6": {
+        "Title": "Use cases en scenario's",
+        "Text": "Om de verschillende situaties te anticiperen die zich kunnen voordoen bij het gebruik van de site, worden use cases en scenario's uitgewerkt. Deze hulpmiddelen maken het mogelijk de applicatie te analyseren vanuit het perspectief van de gebruiker en de meest voorkomende situaties te simuleren, ter voorbereiding van de verschillende testfasen van het prototype."
+      },
+      "Technique7": {
+        "Title": "Usabilitytest",
+        "Text": "Om te controleren of het prototype aan de usability-eisen voldoet, wordt een test uitgevoerd bij de doelgroep. Deze test maakt het mogelijk te observeren en te analyseren hoe gebruikers door de site navigeren en de voorgestelde taken uitvoeren. De observaties worden vastgelegd in een observatieformulier en een evaluatiematrix om de analyse te vergemakkelijken. Ook wordt een gesprek gevoerd met de deelnemers om hun indrukken, opmerkingen en suggesties over het prototype te verzamelen."
+      },
+      "Technique8": {
+        "Title": "Enquête",
+        "Text": "Om informatie te verzamelen bij een groter aantal personen, wordt een enquête afgenomen bij de doelgroep. Deze methode maakt het mogelijk op een gestructureerde manier gegevens te verzamelen over de behoeften, verwachtingen, gewoonten en voorkeuren van gebruikers. De enquête kan worden afgenomen met een vragenlijst met zowel gesloten als open vragen. De resultaten helpen de ontwerpkeuzes te sturen en een oplossing te ontwikkelen die beter is afgestemd op de doelgroep."
+      },
+      "Technique9": {
+        "Title": "Desk Research",
+        "Text": "Er wordt ook Desk Research uitgevoerd om reeds beschikbare informatie over het projectonderwerp te verzamelen en te analyseren. Dit onderzoek is gebaseerd op wetenschappelijke artikelen, studies, rapporten, boeken, gespecialiseerde websites en andere betrouwbare bronnen. Desk Research maakt het ook mogelijk verschillende bronnen te vergelijken, bepaalde informatie te verifiëren en trends of best practices te identificeren die relevant zijn voor het project."
+      }
+    },
+
+    "Principles": {
+      "Title": "Onderzoeks- en evaluatieprincipes",
+      "Subtitle": "Om de betrouwbaarheid en kwaliteit van de informatie die gedurende het hele project wordt gebruikt te waarborgen, worden de volgende principes toegepast.",
+      "Principle1": {
+        "Title": "Betrouwbaarheid van bronnen",
+        "Text": "De bronnen die voor het onderzoek worden gebruikt, zijn afkomstig van betrouwbare en relevante referenties, om de kwaliteit van de verzamelde informatie te waarborgen."
+      },
+      "Principle2": {
+        "Title": "Actualiteit van bronnen",
+        "Text": "Waar mogelijk zijn de geraadpleegde artikelen, studies en andere bronnen recent en minder dan tien jaar oud, om te steunen op actuele informatie."
+      },
+      "Principle3": {
+        "Title": "Bronvermelding",
+        "Text": "De verschillende bronnen die tijdens het project zijn geraadpleegd, worden vermeld volgens de APA-normen, om een duidelijke traceerbaarheid van de gebruikte informatie te garanderen."
+      },
+      "Principle4": {
+        "Title": "Evaluatie van de usability",
+        "Text": "Om te beoordelen of de ontworpen interfaces voldoen aan de usability-principes, baseer ik me met name op de usability-heuristieken van Jakob Nielsen (Nielsen, 1995). Deze principes dienen als referentie om mogelijke gebruiksproblemen te identificeren en de gebruikerservaring te verbeteren."
+      }
+    }
+  },
+
+
+
+  "NavbarPageUxDesign": {
+    "Btn1": "Terug naar mijn portfolio",
+    "Btn2": "Terug naar UX/UI Design",
+    "Btn3": "Beschrijving",
+    "Btn4": "Ontwerp",
+    "Btn5": "Actieplan",
+    "Btn6": "Methoden",
+    "Btn7": "Technieken",
+    "Btn8": "Systeem/specificaties",
+    "Btn9": "Wireframes",
+    "Btn10": "Visueel/Design",
+    "Btn11": "Resultaat"
+  },
+
+
+
+
+  "PageFitnessFriend": {
+    "Banner": {
+      "title": "Fitness Friends - Mobiele applicatie",
+      "Content": "Fitness Friends is een mobiele applicatie die is ontworpen om fitnessliefhebbers de mogelijkheid te bieden trainingspartners te ontmoeten en deel te nemen aan groepslessen in de sportschool van hun keuze.",
+      "Btn1": "Project ontdekken",
+      "Btn2": "Resultaat bekijken"
+    },
+
+    "Description": {
+      "title": "Beschrijving",
+      "paragraphe1": "is een mobiele applicatie die ik heb bedacht en ontworpen om fitnessliefhebbers gemakkelijker in contact te brengen met mensen met wie ze kunnen trainen. Het idee is eenvoudig: een trainingspartner vinden die dezelfde doelen deelt, deelnemen aan een groepssessie of gewoon nieuwe mensen ontmoeten in de eigen sportschool.",
+      "paragraphe2": "De applicatie maakt trainingen socialer en motiverender door een verbinding te creëren tussen mensen die samen willen vooruitgaan. Iedereen kan zijn of haar sportschool kiezen, partners in de buurt ontdekken en deelnemen aan trainingen die aansluiten bij zijn of haar wensen.",
+      "paragraphe3": "Voor dit project heb ik gewerkt aan het concept, de gebruikerservaring, de interface en de visuele identiteit van de applicatie, met als doel een ervaring te creëren die eenvoudig, modern en prettig in gebruik is."
+    },
+
+    "Conception": {
+      "title": "Ontwerp",
+      "Subtitle": "Werking van de applicatie",
+      "paragraphe1": "Met FitnessFriend kunnen fitnessliefhebbers hun eigen profiel aanmaken door persoonlijke informatie en foto's toe te voegen om zichzelf aan potentiële trainingspartners voor te stellen. Ze kunnen ook hun voorkeuren, doelen en het type partner met wie ze willen trainen aangeven.",
+      "paragraphe2": "Zodra hun profiel is aangemaakt, kunnen gebruikers andere fitnessliefhebbers op het platform ontdekken en contact opnemen met mensen die vergelijkbare interesses en sportieve doelen hebben. Ze kunnen berichten sturen, verzoeken beantwoorden en met elkaar communiceren om een trainingspartner te vinden die bij hen past.",
+      "paragraphe3": "FitnessFriend maakt het ook mogelijk om de sociale media van een potentiële partner te bekijken, zoals Instagram, Facebook of TikTok, om elkaar beter te leren kennen en een relatie op te bouwen die verder gaat dan de applicatie.",
+      "paragraphe4": "Gebruikers kunnen ook voedingsschema's delen, advies uitwisselen en elkaar ondersteunen bij het behalen van hun doelen. Het doel van FitnessFriend is om een echte fitnesscommunity te creëren waarin iedereen gemotiveerd kan blijven, samen kan trainen en samen vooruitgang kan boeken."
+    },
+
+    "ActionPlan": {
+      "Title": "Actieplan",
+
+      "Content": "Nadat ik het project had gedefinieerd, heb ik een implementatieplan opgesteld om een duidelijk overzicht te hebben van het proces en de stappen die nodig zijn om mijn doel te bereiken. Dit actieplan omvat:",
+      "Line1": "Een overzicht van de activiteiten, fasen en deliverables die tijdens het project moeten worden uitgevoerd en opgeleverd, evenals de gebruikte methoden en technieken,",
+      "Line2": "De vereisten die de kwaliteit van het eindresultaat en van de tussentijdse deliverables waarborgen,",
+      "Line3": "Een overzicht van alle actoren en organisaties die invloed hebben op het project, inclusief de rol van elk teamlid,",
+      "Line4": "Een projectplanning met de verschillende deadlines,",
+      "Line5": "Een beschrijving van de duur, omvang en randvoorwaarden van het project,",
+      "Line6": "De kosten van het project en alle risicofactoren."
+    },
+
+    "UsedMethod": {
+      "Title": "Gebruikte methoden",
+
+      "Subtitle1": "De P6-methode",
+      "Content1": "Om het volledige project te structureren, heb ik gebruikgemaakt van de P6-projectmanagementmethode, ontwikkeld door de Nederlander Roel Grit. Ik heb voor deze methode gekozen omdat deze het mogelijk maakt om een project als geheel te benaderen: elke fase bevat specifieke activiteiten, waardoor gedurende de volledige uitvoering een duidelijk referentiekader ontstaat. De P6-methode bestaat uit zes fasen.",
+      "Subtitle2": "De User Experience-methode",
+      "Content2": "Voor het ontwerpen van deze mobiele applicatie heb ik gebruikgemaakt van de User Experience-methode, ontwikkeld door de Amerikaanse designer Jesse James Garrett. Deze keuze is gebaseerd op het feit dat deze methode mij in staat stelde een applicatie te ontwikkelen die is afgestemd op een specifieke doelgroep, waardoor de app toegankelijk en relevant wordt. Tijdens het project heb ik deze methode toegepast tijdens de ontwerpfase van P6.",
+      "Subtitle3": "De methode van Nel Verhoeven",
+      "Content3": "Ik heb ervoor gekozen om het verschillende onderzoek binnen het project uit te voeren volgens de methode van de Nederlandse Nel Verhoeven, een erkende en gerespecteerde onderzoeksconsultant in Nederland."
+    },
+
+    "UsedTechnic": {
+      "Title": "Gebruikte technieken",
+
+      "Subtitle1": "Semigestructureerd interview",
+      "Content1": "Deze techniek maakt het mogelijk om de behoeften en verwachtingen van gebruikers te bepalen. De techniek biedt meer vrijheid tijdens het verzamelen van informatie door open vragen te stellen die gedetailleerde antwoorden en veel informatie over de doelgroep opleveren.",
+      "Subtitle2": "Documentair onderzoek",
+      "Content2": "Met deze techniek kon ik de mogelijke kenmerken van de daadwerkelijke gebruikers van de applicatie identificeren, zodat ik beter kon bepalen welke profielen ik concreet moest benaderen tijdens de interviewsessies.",
+      "Subtitle3": "Benchmarking",
+      "Content3": "Met deze techniek kon ik de functionaliteiten, navigatie en visuele stijl van de applicatie bepalen door inspiratie te halen uit vergelijkbare applicaties. Dit onderzoek stelde mij ook in staat om de zwakke punten van deze applicaties te identificeren, zodat ik mijn eigen applicatie beter in de markt kon positioneren.",
+
+      "Subtitle4": "MoSCoW-methode",
+      "Content4": "Ik heb ook gebruikgemaakt van de MoSCoW-methode, waarmee de vereisten van de applicatie kunnen worden geprioriteerd door ze op basis van hun belang te groeperen, zodat de essentiële behoeften van het project beter kunnen worden begrepen.",
+      "Subtitle5": "Use case",
+      "Content5": "Een use case maakt het mogelijk om alle alternatieve scenario's te visualiseren die kunnen optreden wanneer een gebruiker zijn of haar doel probeert te bereiken. Het vormt tevens de basis voor de functionele en niet-functionele vereisten.",
+      "Subtitle6": "Usabilitytest",
+      "Content6": "Met deze techniek kon ik beoordelen of het prototype voldeed aan de criteria voor gebruiksvriendelijkheid. Hiermee kan het gedrag van een gebruiker tijdens het navigeren door de applicatie worden getest en geëvalueerd, door te observeren hoe de gebruiker de verschillende stappen van de gebruikersflow doorloopt."
+    },
+
+    "SystemRequirements": {
+      "Title": "Vereisten van de applicatie",
+
+      "Paragraph1": "In deze fase van mijn project heb ik de behoeften en vereisten van de FitnessFriend-applicatie gedefinieerd om duidelijk te bepalen aan welke functionaliteiten en kenmerken de applicatie moest voldoen.",
+      "Paragraph2": "Daarvoor heb ik mij gebaseerd op de resultaten van mijn onderzoeksfase, waaronder de benchmark, de behoeften van de gebruikers en de doelstellingen van de applicatie.",
+      "Paragraph3": "Vervolgens heb ik deze vereisten in twee categorieën ingedeeld: functioneel en niet-functioneel. Functionele vereisten beschrijven de functionaliteiten die de gebruiker moet kunnen gebruiken, terwijl niet-functionele vereisten betrekking hebben op de manier waarop de applicatie moet functioneren, met name op het gebied van prestaties, beveiliging, eenvoud en betrouwbaarheid.",
+      "Paragraph4": "Dit onderscheid stelde mij in staat om de behoeften van het project duidelijker te structureren en de basis van FitnessFriend beter te definiëren."
+    },
+
+    "VisualDeisgn": {
+      "Title": "Visueel ontwerp",
+
+      "Paragraph1": "In deze fase heb ik het visuele ontwerp van de website gecreëerd zoals het er in de uiteindelijke versie uit zal zien. Ik heb de nodige elementen ontworpen om de website naar het uiteindelijke ontwerp te vertalen. Hiervoor heb ik:",
+
+      "Line1": "De typografie bepaald",
+      "Line2": "Het kleurenpalet gedefinieerd",
+      "Line3": "De iconen geselecteerd",
+      "Line4": "Het logo ontworpen",
+      "Line5": "De foto's geselecteerd",
+      "Line6": "De look-and-feel bepaald",
+      "Line7": "De mock-ups van de verschillende pagina's van de applicatie ontworpen",
+
+      "Paragraph2": "Bij het creëren van het visuele ontwerp heb ik mij gebaseerd op de resultaten van het gebruikersonderzoek, de benchmarkstudie en de doelstellingen van de applicatie, zodat het ontwerp hier perfect op aansluit."
+    },
+
+    "ColorScheme": {
+
+      "Title": "Kleurenpalet",
+
+      "Paragraph": "Om het merk FitnessFriend te onderscheiden van de concurrentie, heb ik een nieuw kleurenpalet geselecteerd en een unieke visuele identiteit gecreëerd.",
+
+      "Color1": "Blauw",
+      "Color2": "Lichtblauw",
+      "Color3": "Rood",
+      "Color4": "Groen",
+      "Color5": "Wit"
+    },
+
+    "Logo": {
+      "Title": "FitnessFriend-logo",
+      "Content": "Ik heb ook een logo ontworpen om de FitnessFriend-applicatie een merkidentiteit te geven. Je kunt dit logo bekijken in de afbeelding hiernaast."
+    },
+
+    "Typography": {
+      "Title": "Typografie",
+      "Content": "Voor de FitnessFriend-applicatie heb ik het lettertype Helvetica gebruikt, een goed leesbaar lettertype dat internationaal bekendstaat om zijn veelzijdigheid. Ik heb dit lettertype in verschillende kleuren en groottes gebruikt om contrast te creëren tussen de titels en de inhoudsteksten. In bepaalde delen van de applicatie heb ik lichtere kleuren gebruikt voor secundaire teksten, zodat deze meer op de achtergrond komen te staan en de belangrijkste teksten beter opvallen voor de gebruiker."
+    },
+
+    "Icons": {
+      "Title": "Iconen",
+      "ContentLine1": "Voor de FitnessFriend-applicatie heb ik ervoor gekozen om de iconen",
+      "ContentLine2": "Dit zijn zeer populaire iconen die gemakkelijk herkenbaar zijn voor gebruikers. Een ander voordeel van Font Awesome-iconen is dat sommige ervan gratis beschikbaar zijn."
+    },
+
+    "Wireframes": {
+      "Title": "Wireframes",
+      "Content": "Voor de FitnessFriend-applicatie heb ik wireframes gemaakt om een visualisatie van de indeling van de website te verkrijgen. Deze wireframes gaven mij een referentiekader tijdens het ontwerpen van de mock-ups in de volgende fase."
+    },
+
+    "Mockups": {
+      "Title": "Mock-ups",
+      "Content": "Nadat ik de wireframes van de website had gemaakt, heb ik de mock-ups van FitnessFriend ontworpen. Hiervoor heb ik Figma gebruikt, een platform voor het ontwerpen van digitale producten, zoals interactieve prototypes en websites. Tijdens het ontwerpen van de mock-ups heb ik mij gebaseerd op de wireframes die in de vorige fase waren gemaakt om de vooraf bepaalde designlogica voort te zetten. Ik heb ook rekening gehouden met het kleurenpalet uit mijn stijlgids, zodat ik de verschillende onderdelen van de website gemakkelijk kon inkleuren. Tijdens dit proces heb ik mij ook gebaseerd op de eerder bepaalde typografie."
+    },
+
+    "Result": {
+      "Title": "Resultaten",
+      "Content": "Ontdek de 28 schermen van de FitnessFriend-app. Gebruik de navigatieknoppen of veeg om door alle schermen te bladeren en stap voor stap de ervaring van de applicatie te ontdekken."
+    }
+  },
+
+
+
+
+
+  "MusicPage": {
+    "Banner": {
+      "Title": "Muziek, Productie, Creativiteit",
+      "ContentLine1": "Wij creëren krachtige, professionele sounds die uw verhaal tot leven brengen.",
+      "ContentLine2": "Luister, voel en maak onze professionele beats van jou op Falcon Beats. Het geluid dat het verschil maakt begint hier.",
+      "BtnLine": "Luister naar onze beats"
+    },
+    "DescriptionMusic": {
+      "Title": "Onze Muziekproductiediensten",
+      "Subtitle": "Wij zetten ideeën om in geluid. Van beatproductie tot mastering creëren we muziek die inspireert, verbindt en jouw boodschap versterkt.",
+      "Content": "Wij produceren professionele muziek voor artiesten en merken, van beatcreatie tot volledige mixing en mastering. Onze studio levert een helder en krachtig geluid dat past bij uw stijl en boodschap. We creëren ook originele muziek voor advertenties, podcasts, video’s en digitale content."
+    },
+    "TypeVideo": {
+      "BigTitle": "Wij produceren muziek voor:",
+      "1ArtistsMusiciansPerformers": {
+        "Title": "1. Artiesten, Muzikanten & Performers",
+        "ContentLine1": "Beatproductie (op maat gemaakte beats, instrumentals)",
+        "ContentLine2": "Opname, mixing & mastering",
+        "ContentLine3": "Songarrangement & vocale editing",
+        "ContentLine4": "Album- & singleproductie"
+      },
+      "2BusinessesEntrepreneurs": {
+        "Title": "2. Bedrijven & Ondernemers",
+        "ContentLine1": "Achtergrondmuziek voor commercials en promotievideo’s",
+        "ContentLine2": "Corporate jingles & audio branding",
+        "ContentLine3": "Podcast intro’s / outro’s en sound design",
+        "ContentLine4": "Muziek voor brand storytelling of presentaties"
+      },
+      "3ContentCreatorsInfluencers": {
+        "Title": "3. Content Creators & Influencers",
+        "ContentLine1": "Muziek voor social media video’s, Reels, YouTube & TikTok",
+        "ContentLine2": "Lifestyle- en reissoundtracks",
+        "ContentLine3": "Korte edits en loops voor online content"
+      },
+      "4ForFilmmakersCreators": {
+        "Title": "4. Voor Filmmakers & Creators",
+        "ContentLine1": "Soundtracks & cinematografische composities",
+        "ContentLine2": "Muziek voor trailers en documentaires",
+        "ContentLine3": "Sfeervolle en emotionele sound design"
+      }
+    },
+    "MusicPackage": {
+      "BigTitle": "Onze Muziekproductie Pakketten",
+      "Beat": {
+        "Title": "Beat",
+        "ProfessionalLicense": {
+          "Title": "Professionele Licentie",
+          "ContentLine1": "WAV + MP3-bestanden (studio-kwaliteit)",
+          "ContentLine2": "Trackouts / Stems (gescheiden tracks voor professionele mixing)",
+          "ContentLine3": "Rechten om te monetizen op Spotify, YouTube, Apple Music, Deezer, enz.",
+          "ContentLine4": "Beperkt aantal streams (bijv. tot 500k of 1M streams)",
+          "ContentLine5": "Niet-exclusief — de producer mag dezelfde beat aan andere artiesten verkopen",
+          "ContentLine6": "Doel:",
+          "ContentLine7": "Een geavanceerde niet-exclusieve licentie voor serieuze artiesten die hun muziek willen monetizen."
+        },
+        "MonetizationStreaming": {
+          "Title": "Monetization & Streaming Licentie",
+          "ContentLine1": "WAV + MP3-bestanden (studio-kwaliteit)",
+          "ContentLine2": "Trackouts / Stems (gescheiden tracks voor professionele mixing)",
+          "ContentLine3": "Rechten om te monetizen op Spotify, YouTube, Apple Music, Deezer, enz.",
+          "ContentLine4": "Beperkt aantal streams (bijv. tot 500k of 1M streams)",
+          "ContentLine5": "Rechten voor live optredens en lokale radio-uitzendingen",
+          "ContentLine6": "Niet-exclusief — de producer mag dezelfde beat doorverkopen",
+          "ContentLine7": "Doel:",
+          "ContentLine8": "Een sterke licentie voor artiesten die inkomsten willen genereren via streamingplatforms."
+        },
+        "EliteCreatorLicense": {
+          "Title": "Elite Creator Licentie",
+          "ContentLine1": "Alle bestanden inbegrepen: WAV + MP3 + stems",
+          "ContentLine2": "Uitgebreide of onbeperkte gebruiksrechten — onbeperkte streams, nationale radio, TV en sync (reclame, film, games)",
+          "ContentLine3": "Rechten om royalties te innen of het werk door te verkopen als eigenaar",
+          "ContentLine4": "Exclusieve licentie (beat wordt slechts één keer verkocht)",
+          "ContentLine5": "Mogelijke Pro-opties: volledig contract, gedeeltelijke overdracht van auteursrechten, directe samenwerking met de producer",
+          "ContentLine6": "Officiële productiecredit (“Prod by NEXTÉCLAT”)",
+          "ContentLine7": "Doel:",
+          "ContentLine8": "Een high-end licentie met uitgebreide professionele rechten en premium opties."
+        }
+      },
+      "VocalRecording": {
+        "Title": "2. Vocal Recording Pakketten",
+        "BasicPackageVocal": {
+          "Title": "Basic Pakket (Alleen Vocal Recording)",
+          "ContentLine1": "Vocale opnamesessie in de studio",
+          "ContentLine2": "Professionele microfoon (Neumann U87 of Brauner Phantom Classic)",
+          "ContentLine3": "Levering van high-resolution WAV-bestand",
+          "ContentLine4": "Begeleiding door een recording engineer tijdens de sessie",
+          "ContentLine5": "Optioneel: keuze van microfoontype (1e of 2e klasse studio microfoon) — prijsafhankelijk",
+          "ContentLine6": "Doel:",
+          "ContentLine7": "Voor artiesten, influencers of creators die een schone, hoogwaardige vocale opname willen om elders te laten mixen."
+        },
+        "StandardVocal": {
+          "Title": "Standard Pakket (Vocal + Mix & Master)",
+          "ContentLine1": "Vocale opnamesessie",
+          "ContentLine2": "Professionele mix van vocals met jouw instrumental",
+          "ContentLine3": "Mastering beschikbaar op aanvraag",
+          "ContentLine4": "Eindtrack geleverd in WAV + MP3",
+          "ContentLine5": "Rechten voor live optredens en lokale radio-uitzendingen",
+          "ContentLine6": "Niet-exclusief — de producer mag dezelfde beat doorverkopen",
+          "ContentLine7": "Doel:",
+          "ContentLine8": "Een geavanceerde formule voor serieuze artiesten die hun muziek willen monetizen op Spotify, YouTube en Apple Music."
+        },
+        "PremiumVocal": {
+          "Title": "Premium Pakket (Volledige Artistieke Begeleiding)",
+          "ContentLine1": "Vocale opnamesessie",
+          "ContentLine2": "Professionele mix & mastering",
+          "ContentLine3": "Artistieke begeleiding en vocal coaching tijdens de sessie",
+          "ContentLine4": "Begeleiding in toon, emotie en performance",
+          "ContentLine5": "Toegang tot het studio-netwerk (producers, influencers, enz.)",
+          "ContentLine6": "Eindbestanden in WAV + MP3 (radio- en streamingkwaliteit)",
+          "ContentLine7": "Doel:",
+          "ContentLine8": "Voor artiesten die meer willen dan alleen opname — creatieve begeleiding, premium sound en een volledige professionele ervaring."
+        }
+      },
+      "FullProduction": {
+        "Title": "3. Volledige Productiepakketten (Beat + Vocalen + Mix & Master)",
+        "FullProduction1": {
+          "Title": "Volledig Productiepakket (Beat + Vocalen + Mix & Master)",
+          "ContentLine1": "Custom of vooraf gemaakte beat (WAV + MP3)",
+          "ContentLine2": "Vocale opnamesessie in de studio",
+          "ContentLine3": "Professionele microfoon (Neumann U87 of Brauner Phantom Classic)",
+          "ContentLine4": "Levering van aparte beat- en vocalbestanden (klaar voor mixage)",
+          "ContentLine5": "Niet-exclusieve beatlicentie (tot 250k streams)",
+          "ContentLine6": "Optioneel: prijs afhankelijk van opnametijd en type beat",
+          "ContentLine7": "Doel:",
+          "ContentLine8": "Voor artiesten die een custom beat en een schone vocalopname willen om hun project verder extern te laten mixen."
+        },
+        "ProfessionalPackage": {
+          "Title": "Professioneel Pakket (Beat + Mix & Master)",
+          "ContentLine1": "Custom beat (WAV + MP3 + stems)",
+          "ContentLine2": "Vocale opnamesessie",
+          "ContentLine3": "Professionele mix van beat en vocalen",
+          "ContentLine4": "Mastering (klaar voor Spotify / Apple Music)",
+          "ContentLine5": "Niet-exclusieve of semi-exclusieve licentie (tot 1M streams)",
+          "ContentLine6": "Productievermelding (“Prod by NEXTÉCLAT”)",
+          "ContentLine7": "Optioneel: prijs afhankelijk van exclusiviteit en projectcomplexiteit",
+          "ContentLine8": "Doel:",
+          "ContentLine9": "Voor serieuze artiesten die een volledig gemixte en streaming-klare track willen."
+        },
+        "ElitePackage": {
+          "Title": "Elite Pakket (Volledige Artistieke Productie)",
+          "ContentLine1": "Exclusieve beat (op maat gemaakt volgens jouw visie)",
+          "ContentLine2": "Vocale opnamesessie met artistieke begeleiding",
+          "ContentLine3": "Professionele mix & mastering",
+          "ContentLine4": "Coaching op vocale performance en delivery",
+          "ContentLine5": "Creatieve richting (concept, vibe, hook, sound)",
+          "ContentLine6": "Toegang tot het Falcon XXL-netwerk (engineers, influencers, media)",
+          "ContentLine7": "Volledige rechten voor monetisatie en distributie (onbeperkte streams)",
+          "ContentLine8": "Optioneel contract voor auteursrechten en royaltybeheer",
+          "ContentLine9": "Doel:",
+          "ContentLine10": "Voor artiesten of merken die een complete high-end productie zoeken met artistieke begeleiding en industrieniveau sound."
+        }
+      }
+    },
+    "WhyChoose": {
+      "Title": "Waarom kiezen voor onze muziekdiensten",
+      "ContentLine1": "Trendy producties: Wij creëren sounds die aansluiten bij de huidige muziektrends — fris, modern en radio-klaar.",
+      "ContentLine2": "Veelzijdige creativiteit: Van Afrobeat tot R&B of Trap, wij passen ons aan jouw doelgroep aan en leveren precies wat jouw niche zoekt.",
+      "ContentLine3": "Topniveau engineers: Samengewerkt met succesvolle, goud-gecertificeerde artiesten.",
+      "ContentLine4": "Expert team: Beatmakers en mix engineers met echte ervaring in de muziekindustrie.",
+      "ContentLine5": "Artistieke begeleiding: Wij helpen jouw creatieve visie vorm te geven en te verfijnen.",
+      "ContentLine6": "Alles-in-één studio: Beatproductie, vocale opnames, mix & mastering op één locatie.",
+      "ContentLine7": "Sterk netwerk: Connecties met artiesten, influencers en ondernemers."
+    }
+  },
+  "Prices": {
+    "Title": "Onze prijzen",
+    "Content": "Wij tonen duidelijk de prijzen van onze belangrijkste diensten: audiovisueel, fotografie, webdesign, branding, digitale marketing en muziekproductie. Klik hieronder op een dienst om de gedetailleerde prijsinformatie te bekijken. Voor een offerte op maat kunt u rechtstreeks contact met ons opnemen.",
+    "Button1": "Audiovisuele prijzen",
+    "Button2": "Fotografie prijzen",
+    "Button3": "Webdesign prijzen",
+    "Button4": "Branding prijzen",
+    "Button5": "Digitale marketing prijzen",
+    "Button6": "Muziekproductie prijzen"
+  },
+  "RequestQuote": {
+    "BigTitle1": "Een vraag?",
+    "BigTitle2": "Een project?",
+    "SubtitleLeft1": "Bedankt!",
+    "SubtitleLeft2": "NEXTÉCLAT",
+    "SubtitleLeft3": "staat klaar om u te helpen",
+    "SubtitleRight1": "Waarover gaat uw aanvraag?",
+    "Form1": "Voornaam*",
+    "Form2": "Achternaam*",
+    "Form3": "Functie binnen het bedrijf (optioneel)",
+    "Form4": "Bedrijf (optioneel)",
+    "Form5": "E-mail*",
+    "Form6": "Telefoonnummer (indien u liever telefonisch gecontacteerd wordt)",
+    "Form7": "Stad / Land*",
+    "Form8": "Website (optioneel)",
+    "FormServices": {
+      "drop1": "Selecteer de gewenste dienst",
+      "drop2": "Video / Clip / Bedrijfsfilm",
+      "drop3": "Fotografie",
+      "drop4": "Website",
+      "drop5": "Branding (logo, visuele identiteit, richtlijnen…)",
+      "drop6": "Digitale marketing / Sociale media",
+      "drop7": "Muziekproductie / Beatmaking",
+      "drop8": "Ik weet het nog niet, ik heb advies nodig"
+    },
+    "FormBudget": {
+      "drop1": "Selecteer uw geschatte budget",
+      "drop2": "€200 – €500",
+      "drop3": "€500 – €1.000",
+      "drop4": "€1.000 – €3.000",
+      "drop5": "€3.000 – €10.000",
+      "drop6": "Meer dan €10.000",
+      "drop7": "Ik weet het nog niet"
+    },
+    "Form11": "Beschrijf uw project...",
+    "Form12": "Deadline (optioneel):",
+    "ButtonSend": "Aanvraag verzenden"
+  },
+
+  "ContactForm": {
+    "BigTitle": "Leer ons kennen",
+    "Subtitle": "Vrijblijvend advies. Altijd eerlijk.",
+    "Content": "Wij staan klaar om u te helpen. We gaan altijd net een stap verder \nin onze communicatie. Laat ons weten wat uw voorkeur is.",
+    "TitleLeft": "Een handige terugbelservice",
+    "ContentLeft": "Laat uw gegevens achter en wij nemen op werkdagen \nzo snel mogelijk contact met u op. Zo eenvoudig is het.",
+    "TitleRight": "Vragen? Neem contact op met het NEXTÉCLAT-team",
+    "ContentRight1": "Bel ons :",
+    "ContentRight2": "E-mail ons :",
+    "Form1": "Voornaam*",
+    "Form2": "Achternaam*",
+    "Form3": "Functie binnen het bedrijf (optioneel)",
+    "Form4": "Bedrijf (optioneel)",
+    "Form5": "E-mail*",
+    "Form6": "Telefoonnummer (indien u liever telefonisch gecontacteerd wordt)",
+    "Form7": "Stad / Land*",
+    "Form8": "Beschrijf uw project...",
+    "ButtonContact": "Contacteer ons"
+  },
+  "About": {
+    "Banner": {
+      "Title": "Van Mijn Studie tot Vandaag",
+      "Content": "Ik ben Micheal Ilunga, Front-End Developer, UX Designer en ontwerper van visuele identiteiten, met expertise in audiovisuele productie. Ontdek via dit portfolio mijn expertise en een selectie van projecten die ik door de jaren heen heb gerealiseerd.",
+      "Button": "Ontdek Mij"
+    },
+    "WhoAreWe": {
+      "Title": "Wie ben ik?",
+      "Subtitle1": "MICHAEL ILUNGA",
+      "Subtitle2": " is Front-End Developer, UX Designer en creatief professional met een passie voor het creëren van moderne, functionele en visueel sterke digitale ervaringen.",
+      "ContentLine1a": "Webontwikkeling:",
+      "ContentLine1b": " Het creëren van moderne, responsive en performante websites met Front-end technologieën.",
+      "ContentLine2a": "UX/UI Design:",
+      "ContentLine2b": " Het ontwerpen van intuïtieve interfaces en ervaringen die zijn afgestemd op de behoeften van gebruikers.",
+      "ContentLine3a": "Visuele Identiteit:",
+      "ContentLine3b": " Het creëren van consistente visuele identiteiten door middel van design, logo's en verschillende communicatiemiddelen.",
+      "ContentLine4a": "Audiovisueel:",
+      "ContentLine4b": " Het creëren van visuele content, fotografie en audiovisuele producties om ideeën en projecten tot leven te brengen.",
+      "ContentLine5a": "Creativiteit & Innovatie:",
+      "ContentLine5b": " Een multidisciplinaire aanpak waarin technologie, design en creativiteit samenkomen om unieke digitale ervaringen te creëren."
+    }
+  },
+
+  "FounderMichael": {
+    "BigTitle": "Van mijn studie tot vandaag",
+
+    "Paragraphe1": "Ik ben geboren in Kinshasa, in de Democratische Republiek Congo, waar ik mijn basis- en middelbare opleiding aan het Collège Boboto heb gevolgd. Ik groeide er ook op in een multiculturele en meertalige omgeving, waar ik Frans, de officiële taal van het land, evenals Lingala en Swahili leerde. Deze culturele diversiteit heeft op natuurlijke wijze invloed gehad op de manier waarop ik communiceer, creëer en naar de wereld kijk.",
+
+    "Paragraphe2": "Later verhuisde ik naar Nederland, waar ik mijn academische en professionele ontwikkeling voortzette. Ik begon met de opleiding Marketing en Communicatie aan ROC Zeeland in Middelburg. Vervolgens vervolgde ik mijn studie aan de The Hague University of Applied Sciences in Den Haag, waar ik een Bachelor of Science in Communication & Multimedia Design behaalde. Deze opleidingen hebben mij in staat gesteld mijn vaardigheden te ontwikkelen op het gebied van communicatie, marketing, digital design, UX/UI, multimedia en creatieve probleemoplossing.",
+
+    "Paragraphe3": "Gedreven door mijn passie voor technologie en digitale ervaringen volgde ik vervolgens een opleiding tot Front-End Developer aan de Novi University in Utrecht. Daar heb ik mijn vaardigheden in HTML, CSS, JavaScript en React verder ontwikkeld en geleerd hoe ik concepten en designs kan omzetten in moderne, responsive en functionele webervaringen. Mijn digitale ontwikkeling heeft zich daardoor geleidelijk gevormd op het kruispunt van design, gebruikerservaring en webontwikkeling.",
+
+    "Paragraphe4": "Mijn creatieve ontwikkeling heeft zich ook uitgebreid naar audiovisuele productie en muziek. Ik studeerde elektronische muziekproductie aan het SAE Institute in Rotterdam, waar ik leerde om geluid te creëren, muziek op te nemen en professionele muziek te produceren voor platforms zoals Spotify en Deezer. Daarnaast heb ik ervaring opgedaan als art director door het realiseren van muziekvideo's, reclamespots en visuele projecten voor verschillende merken.",
+
+    "Paragraphe5": "Mijn internationale achtergrond heeft ook mijn taalvaardigheden versterkt. Na mijn komst naar Nederland heb ik Nederlands geleerd en mijn Engels aanzienlijk verbeterd, dat ik daarvoor slechts op een basisniveau beheerste. Mijn verschillende muzikale activiteiten in België en Frankrijk hebben mij daarnaast geholpen om mijn Frans verder te ontwikkelen. Vandaag de dag maken deze taalkundige en culturele diversiteit integraal deel uit van mijn identiteit en mijn manier van werken.",
+
+    "Paragraphe6": "Vandaag combineer ik al deze ervaringen om een multidisciplinair profiel te vormen op het snijvlak van Front-End Development, UX/UI, design, audiovisuele productie en creativiteit. Mijn doel is om moderne, functionele en visueel sterke digitale ervaringen te creëren en tegelijkertijd bij elk project zowel een technische als creatieve visie te bieden."
+  },
+
+  "Certification": {
+    "BigTitle": "Zijn certificeringen en expertises",
+    "Cmd": {
+      "Title": "De Haagse Hogeschool (Den Haag, Nederland)",
+      "Content": "Gecertificeerd in Communication Multimedia Design aan De Haagse Hogeschool, waar hij een Bachelor in Informatietechnologie behaalde met een sterke focus op digitale probleemoplossing en creatieve mediaproductie.",
+      "ContentLine1a": "Communicatie : ",
+      "ContentLine1b": "Effectief communiceren met een doelgroep via digitale media.",
+      "ContentLine2a": "UX/UI Design : ",
+      "ContentLine2b": "Ontwerpen van intuïtieve interfaces (UI) en vloeiende gebruikerservaringen (UX).",
+      "ContentLine3a": "Interaction Design : ",
+      "ContentLine3b": "Ontwerpen van gebruikersinteracties met digitale producten via acties en feedback.",
+      "ContentLine4a": "Digital Product Design : ",
+      "ContentLine4b": "Ontwikkelen van complete digitale producten door strategie, gebruiksvriendelijkheid en visueel design te combineren."
+    },
+    "Novi": {
+      "Title": "Novi Hogeschool (Utrecht, Nederland)",
+      "Content": "Gecertificeerd in Front-End Development aan de Novi Hogeschool, waar hij moderne en krachtige webapplicaties leerde bouwen, met name Single Page Applications (SPA).",
+      "ContentLine1a": "React : ",
+      "ContentLine1b": "Bouwen van dynamische gebruikersinterfaces en component-gebaseerde applicaties.",
+      "ContentLine2a": "JavaScript : ",
+      "ContentLine2b": "Toevoegen van logica, interactiviteit en functionaliteit aan webapplicaties.",
+      "ContentLine3a": "HTML : ",
+      "ContentLine3b": "Structureren van webinhoud met schone, semantische markup.",
+      "ContentLine4a": "CSS : ",
+      "ContentLine4b": "Stylen van interfaces en creëren van responsieve layouts.",
+      "ContentLine5a": "Git & GitHub : ",
+      "ContentLine5b": "Versiebeheer, samenwerking en projectbeheer.",
+      "ContentLine6a": "WebStorm & IntelliJ (IDE’s) : ",
+      "ContentLine6b": "Werken met professionele ontwikkelomgevingen voor efficiënt programmeren.",
+      "ContentLine7a": "Figma (Wireframes & Prototypes) : ",
+      "ContentLine7b": "Ontwerpen van wireframes, UI-layouts en interactieve prototypes."
+    },
+    "Sae": {
+      "Title": "SAE Institute (Rotterdam, Nederland)",
+      "Content": "Gecertificeerd in muziekproductie aan het SAE Institute, met focus op moderne muziekcreatie, opname en professionele audioproductie.",
+      "ContentLine1a": "Elektronische muziekproductie : ",
+      "ContentLine1b": "Inzicht in sound design, arrangement, synthese en creatieve compositie.",
+      "ContentLine2a": "Beatmaking : ",
+      "ContentLine2b": "Creëren van drum­patronen, grooves en ritmische structuren.",
+      "ContentLine3a": "Vocal recording : ",
+      "ContentLine3b": "Opnemen van heldere, hoogwaardige vocals met studiomethoden.",
+      "ContentLine4a": "Gebruik van plugins : ",
+      "ContentLine4b": "Werken met synthesizers, mixing-plugins en geluidsverwerkingstools.",
+      "ContentLine5a": "Logic Pro / FL Studio / Cubase : ",
+      "ContentLine5b": "Beatmaking, produceren, arrangeren en mixen van complete tracks.",
+      "ContentLine6a": "Pro Tools : ",
+      "ContentLine6b": "Gebruik van een professionele audio-omgeving voor muziekproductie."
+    }
+  },
+  "OurTeam": {
+    "Title": "Ons team",
+    "Fonction1": "Directeur Marketing & Communicatie",
+    "Fonction2": "Manager Public Relations (PR Manager)",
+    "Fonction3": "CEO – Algemeen Directeur",
+    "Fonction4": "Operationeel Directeur"
+  },
+
+  "MissionVision": {
+    "OurMission": "Mijn ambities",
+
+    "Subtitle1": "Korte termijn — Een team versterken en bijdragen",
+    "Content1": "Mijn doel op korte termijn is om deel uit te maken van een sterk en professioneel team waarin ik mijn vaardigheden en ervaring kan inzetten voor concrete projecten. Ik wil actief bijdragen aan het behalen van de doelstellingen van het team en de organisatie, mijn kennis delen en mijn creativiteit en expertise inzetten. Tegelijkertijd wil ik blijven leren. Werken met ervaren professionals biedt mij de mogelijkheid om nieuwe methodes te ontdekken, nieuwe vaardigheden te ontwikkelen en mezelf verder te ontplooien door te leren van verschillende expertises.",
+
+    "Subtitle2": "Lange termijn — Groeien binnen de technologie",
+    "Content2": "Op lange termijn is het mijn ambitie om mij verder te ontwikkelen binnen de IT en uit te groeien tot een completere professional. Nadat ik mijn expertise in Front-End Development verder heb ontwikkeld, wil ik mijn kennis van Back-End Development verdiepen en mij vervolgens geleidelijk verdiepen in gebieden zoals cybersecurity en kunstmatige intelligentie. Mijn doel is om stap voor stap een veelzijdig profiel op te bouwen, waarmee ik verschillende fases van het ontwerpen en ontwikkelen van digitale oplossingen kan begrijpen en eraan kan bijdragen."
+  },
+
+  "PrivacyPolicy": {
+    "Title": "Privacybeleid – NEXTÉCLAT",
+    "Subtitle1": "1. Inleiding",
+    "ContentLine1": "NEXTÉCLAT hecht veel waarde aan de bescherming van uw privacy. Dit privacybeleid legt uit hoe wij uw persoonsgegevens verzamelen en gebruiken wanneer u onze website bezoekt of contact met ons opneemt.",
+    "Subtitle2": "2. Verzamelde gegevens",
+    "ContentLine2": "Wij verzamelen uitsluitend de noodzakelijke gegevens, waaronder:",
+    "ContentLine3": "Voor- en achternaam",
+    "ContentLine4": "E-mailadres",
+    "ContentLine5": "Telefoonnummer (indien verstrekt)",
+    "ContentLine6": "Bericht verzonden via het contactformulier",
+    "ContentLine6a": "Deze gegevens worden vrijwillig door de gebruiker verstrekt.",
+    "Subtitle3": "3. Gebruik van gegevens",
+    "ContentLine7": "De verzamelde gegevens worden uitsluitend gebruikt om:",
+    "ContentLine8": "uw vragen te beantwoorden,",
+    "ContentLine9": "contact met u op te nemen in het kader van onze diensten,",
+    "ContentLine10": "de goede werking van de website te garanderen.",
+    "ContentLine11": "NEXTÉCLAT verkoopt of deelt uw gegevens niet met derden voor commerciële doeleinden.",
+    "Subtitle4": "4. Bewaartermijn van gegevens",
+    "ContentLine12": "De gegevens worden alleen bewaard zolang dit nodig is voor de verwerking van uw aanvraag of zoals wettelijk verplicht.",
+    "Subtitle5": "5. Beveiliging",
+    "ContentLine13": "NEXTÉCLAT neemt redelijke maatregelen om uw persoonsgegevens te beschermen tegen ongeoorloofde toegang of misbruik.",
+    "Subtitle6": "6. Uw rechten",
+    "ContentLine14": "Overeenkomstig de geldende wetgeving heeft u het recht op:",
+    "ContentLine15": "inzage,",
+    "ContentLine16": "correctie,",
+    "ContentLine17": "verwijdering van uw persoonsgegevens.",
+    "ContentLine18": "Om deze rechten uit te oefenen, kunt u contact met ons opnemen via:",
+    "button1": "falconxxl.mail@gmail.com",
+    "Subtitle7": "Cookies",
+    "ContentLine19": "De website van NEXTÉCLAT kan cookies gebruiken voor functionele en analytische doeleinden. U kunt uw browser zo instellen dat cookies worden geweigerd.",
+    "Subtitle8": "Contact",
+    "ContentLine20": "Voor vragen over dit privacybeleid kunt u contact met ons opnemen via",
+    "button2": "falconxxl.mail@gmail.com"
+  },
+  "News": {
+    "Title": "Pagina-update in uitvoering",
+    "Subtitle": "Deze pagina is binnenkort beschikbaar",
+    "ContentLine": "We werken momenteel deze sectie bij om u de meest nauwkeurige en nuttige informatie te bieden. Kom binnenkort terug, de nieuwe inhoud zal binnenkort beschikbaar zijn. Laat ons uw voorkeuren weten."
+  },
+  "Ads-Falcon-Beat": {
+    "Title": "Het beatplatform dat je nodig hebt",
+    "ContentLine1": "Falcon Beats is een platform voor artiesten die op zoek zijn naar",
+    "ContentLine2": "professionele, hoogwaardige beats.",
+    "ContentLine3": "Luister, kies en koop instrumentals van verschillende genres, wereldwijd toegankelijk tegen een betaalbare prijs.",
+    "BtnLine": "Ga naar Falcon Beat"
+  },
+  "Page-news": {
+    "Newspartenair": {
+      "Title": "Werk samen met NextÉclat",
+      "ContentLine1": "NextÉclat is op zoek naar partners, medewerkers en vrijwilligers om bij te dragen aan haar projecten en zich te ontwikkelen binnen een creatieve, collaboratieve en vaardigheidsgerichte omgeving.",
+      "Contact": "Contact :",
+      "ContactTitle1": "E-mail :",
+      "ContactLine1": "falconxxl.mail@gmail.com",
+      "ContactTitle2": "Tel :",
+      "ContactLine2": "+31 685 533 124",
+      "BtnInfo": "Meer info",
+      "BtnWhatsapp": "WhatsApp"
+    },
+
+    "GotFlow": {
+      "ContentLine1": "You Got Flow is een muzikaal concept waarin",
+      "ContentLine2": "Falcon Beats originele beats deelt op YouTube en sociale media. Artiesten worden uitgenodigd om erop te zingen of rappen en hun versies te sturen om in de volgende afleveringen te verschijnen.",
+      "BtnLine": "Bekijk You Got Flow"
+    },
+    "Kinshasa": {
+      "Title": "Ondernemers in Kinshasa ondersteunen",
+      "ContentLine1": "Wij ondersteunen lokaal talent bij het beheersen van digitale tools en het vergroten van hun zichtbaarheid. Ons doel is om concrete en duurzame kansen te creëren voor Congolese ondernemers.",
+      "ContentLine2": "Door hun groei te stimuleren willen we deze talenten helpen hun projecten lokaal en internationaal bekend te maken, met een echte impact op hun succes en naamsbekendheid. Dit project is gepland voor de nabije toekomst en vormt een belangrijke stap in onze missie in Afrika."
+    },
+
+
+    "Relook": {
+      "ContentLine0":"RELOOK TON BUSINESS",
+      "ContentLine1": " is educatieve content voor Afrikaanse ondernemers in de diaspora die digitale tools willen beheersen, hun onderneming willen laten groeien en succes willen bereiken.",
+      "BtnLine": "Volg REELOOK TON BUSINESS"
+    }
+  }
+}
+
+

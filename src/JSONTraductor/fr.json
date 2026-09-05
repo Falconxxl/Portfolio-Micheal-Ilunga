@@ -1,0 +1,1969 @@
+{
+  "HelmetSEO": {
+    "Home": {
+      "title": "Michael Ilunga — Portfolio | Développement Front-end, UX/UI & Design Créatif",
+      "description": "Michael Ilunga est développeur Front-End, UX Designer et designer en identité visuelle, spécialisé dans le développement web et la production audiovisuelle."
+    },
+    "About": {
+      "title": "Michael Ilunga — À propos | Mon parcours & mes études",
+      "description": "Découvrez le parcours académique et professionnel de Michael Ilunga, ses études, ses formations et ses expériences en développement web, UX/UI et design créatif."
+    },
+    "Contact": {
+      "title": "Michael Ilunga — Contact | Me contacter",
+      "description": "Contactez Michael Ilunga pour toute demande professionnelle, collaboration, projet web, UX/UI ou création visuelle."
+    },
+    "Projects": {
+      "title": "Michael Ilunga — Études, Formations & Compétences",
+      "description": "Découvrez les études, formations et compétences de Michael Ilunga en développement web, UX/UI, développement Front-end et design créatif."
+    },
+    "Services": {
+      "title": "Michael Ilunga — Compétences & Services | Web, UX/UI & Création",
+      "description": "Découvrez les compétences et services professionnels de Michael Ilunga en développement Front-end, UX/UI, identité visuelle, webdesign et production audiovisuelle."
+    },
+    "Shop": {
+      "title": "Michael Ilunga — Boutique | Bientôt disponible",
+      "description": "La boutique de Michael Ilunga sera bientôt disponible. Découvrez prochainement des produits numériques, ressources et créations."
+    },
+    "Trainings": {
+      "title": "Michael Ilunga — Formations & Cours | Bientôt disponibles",
+      "description": "Les formations et ressources pédagogiques de Michael Ilunga seront bientôt disponibles. Découvrez prochainement des cours sur le développement web, l’UX/UI et le design créatif."
+    },
+    "ConditionsOfSale": {
+      "title": "Michael Ilunga — Conditions Générales",
+      "description": "Consultez les conditions générales applicables aux services et produits proposés via le portfolio de Michael Ilunga."
+    },
+    "ContactUs": {
+      "title": "Michael Ilunga — Contact | Me contacter",
+      "description": "Contactez Michael Ilunga pour toute question professionnelle, collaboration, projet web, UX/UI ou création visuelle."
+    },
+    "PrivacyPolicy": {
+      "title": "Michael Ilunga — Politique de confidentialité",
+      "description": "Consultez la politique de confidentialité de Michael Ilunga et découvrez comment vos données personnelles sont traitées et protégées conformément au RGPD."
+    },
+    "Faq": {
+      "title": "Michael Ilunga — FAQ | Questions fréquentes",
+      "description": "Trouvez les réponses aux questions fréquentes concernant les services, projets, compétences et collaborations professionnelles de Michael Ilunga."
+    },
+    "AudioVisual": {
+      "title": "Michael Ilunga — Production Audiovisuelle",
+      "description": "Découvrez l’expertise audiovisuelle de Michael Ilunga, notamment en production vidéo, photographie, contenu visuel et projets créatifs."
+    },
+    "BrandIdentity": {
+      "title": "Michael Ilunga — Identité Visuelle & Branding",
+      "description": "Découvrez l’expertise de Michael Ilunga en identité visuelle, branding, création de logos et direction artistique."
+    },
+    "DigitalMarketing": {
+      "title": "Michael Ilunga — Marketing Digital",
+      "description": "Découvrez les compétences de Michael Ilunga en marketing digital, notamment en stratégie de contenu, réseaux sociaux et communication en ligne."
+    },
+    "Music": {
+      "title": "Michael Ilunga — Production Musicale",
+      "description": "Découvrez l’expérience de Michael Ilunga en production musicale, notamment en création de beats, enregistrement, mixage et projets audio créatifs."
+    },
+    "Photography": {
+      "title": "Michael Ilunga — Photographie",
+      "description": "Découvrez le travail photographique de Michael Ilunga, notamment en portrait, événementiel, photographie créative et contenu visuel."
+    },
+    "Webdesign": {
+      "title": "Michael Ilunga — Webdesign & Développement Web",
+      "description": "Découvrez les réalisations de Michael Ilunga en webdesign et développement Front-end, avec des expériences digitales modernes, responsive et centrées sur l’utilisateur."
+    },
+    "RequestAQuote": {
+      "title": "Michael Ilunga — Demander un devis | Travaillons ensemble",
+      "description": "Demandez un devis personnalisé à Michael Ilunga pour vos projets de développement web, UX/UI, identité visuelle, audiovisuel ou création digitale."
+    }
+  },
+
+"NavbarMenu": {
+    "Projects": "Projets",
+    "Skills": "Compétences",
+    "Education": "Formations",
+    "News": "Info",
+    "Prices": "Resumé/Cv",
+    "Contact": "Contact",
+    "HireMe": "Engagez-moi",
+    "Training": "Formations",
+    "Shop": "Boutique",
+    "PrivacyPolicy": "Politique de confidentialité",
+    "ConditionsOfSale": "Conditions de vente",
+    "FAQ": "FAQ",
+
+    "Service":{
+      "Webdesign": "Web Design",
+      "UxUiDesign": "Ux/UI-Design",
+      "Branding": "Branding",
+      "Audiovisual": "Audio-visuel",
+      "Photography": "Photographie",
+
+      "Digital Marketing": "Digital Marketing",
+      "Music Production": "Musique",
+      "Music": "Musique"
+    },
+
+    "Cv": {
+      "Dutch": "CV - Néerlandais (PDF)",
+      "English": "CV - Anglais (PDF)",
+      "French": "CV - Français (PDF)"
+    }
+  },
+
+  "ContainerBanner2": {
+    "Title": "Créatif, Designer & Développeur",
+    "Subtitleline1": "Je suis Michael Ilunga, développeur Front-End, UX Designer et créateur \nd’identités visuelles, avec une expertise en réalisation audiovisuelle.\n\nÀ travers ce portfolio, je vous présente mes compétences et une sélection de mes projets développés au fil des années.",
+    "Subtitleline2": "",
+    "Subtitleline3": "",
+    "CatBouton": "Demander un devis",
+    "CatBouton2": "Découvrez mes projets"
+  },
+
+  "HomeFalconXXL": {
+    "Title": "Donnez une nouvelle dimension à votre business",
+    "SubtitleLine1": "Nous accompagnons entrepreneurs, artistes et influenceurs dans la construction d’une image forte et dans le développement de leur visibilité, à travers des solutions digitales complètes et performantes:",
+    "SubtitleLine2": "",
+
+    "ContentLine1": "Branding & identité visuelle",
+    "ContentLine1a": "Nous concevons une image de marque unique, professionnelle et mémorable, alignée avec votre vision.",
+    "ContentLine2": "Web design & développement",
+    "ContentLine2a": "Nous créons des sites modernes, performants et optimisés pour convertir vos visiteurs en clients.",
+    "ContentLine3": "Audiovisuel & photographie",
+    "ContentLine3a": "Nous produisons des contenus visuels captivants qui valorisent votre image et racontent votre histoire.",
+    "ContentLine4": "Social media & contenu digital",
+    "ContentLine4a": "Nous développons une présence en ligne cohérente, engageante et adaptée à votre audience.",
+    "ContentLine5": "Marketing digital",
+    "ContentLine5a": "Nous mettons en place des stratégies efficaces pour attirer, convertir et fidéliser votre audience.",
+    "ContentLine6": "Production musicale",
+    "ContentLine6a": "Nous réalisons des productions musicales professionnelles de haute qualité pour artistes, entrepreneurs et particuliers."
+  },
+
+  "Modal1": {
+    "Title": "Audiovisuel",
+    "notification": "Votre navigateur ne prend pas en charge la lecture de vidéos.",
+    "ContentLine0": "Nous créons des contenus audiovisuels impactants avec créativité et style.",
+    "ContentLine1": "Nous donnons vie aux idées grâce à des visuels inspirants.",
+    "ContentLine2": "Des clips musicaux aux films de mariage de luxe.",
+    "ContentLine3": "Nous capturons chaque histoire avec émotion et précision.",
+    "BtnLine": "Voir le service Audiovisuel"
+  },
+
+
+  "ServiceHomeExplore": {
+    "BigTitleLine1": "Découvrez mes projets",
+    "BigTitleLine2": "",
+    "BigTitleMobile": "",
+
+    "Webdesign": {
+      "Title": "Web Design",
+      "SubtitleLine1": "Des sites modernes qui attirent et convertissent.",
+      "ContentLine1": "Découvrez une sélection de projets web réalisés pour des entrepreneurs et entreprises. Des sites modernes, dynamiques et responsives, conçus pour offrir une expérience utilisateur fluide, renforcer leur présence en ligne et transformer les visiteurs en clients.",
+      "CAT": "Découvrez mes projets"
+    },
+
+    "UxDesign": {
+      "Title": "UX/UI-Design",
+      "SubtitleLine1": "Des interfaces intuitives pensées pour l’expérience.",
+      "ContentLine1": "Découvrez une sélection de projets UX/UI où chaque conception commence par la compréhension du contexte et la définition du problème. Du concept, des cas d’usage et des exigences système à la recherche benchmark, aux wireframes et au design visuel, couleurs, typographie et logo, chaque projet associe fonctionnalité, simplicité d’utilisation et identité visuelle forte.",
+      "CAT": "Découvrez mes projets"
+    },
+
+    "Branding": {
+      "Title": "Branding",
+      "SubtitleLine1": "Des identités visuelles qui donnent du caractère aux marques.",
+      "ContentLine1": "Découvrez une sélection de projets de branding réalisés pour créer des identités fortes et cohérentes. Logos, chartes graphiques, affiches, supports de communication et covers : des créations pensées pour renforcer l’image de marque et lui donner une véritable personnalité.",
+      "CAT": "Découvrez mes projets"
+    },
+
+    "Audiovisual": {
+      "Title": "Audio-visuel",
+      "SubtitleLine1": "Des images qui racontent des histoires et créent des émotions.",
+      "ContentLine1": "Découvrez une sélection de projets audiovisuels réalisés autour de la musique et de la création visuelle. Clips musicaux, prises de vue et productions vidéo : des projets pensés pour donner vie aux idées et créer des images fortes, dynamiques et mémorables.",
+      "CAT": "Découvrez mes projets"
+    },
+
+
+    "Photography": {
+      "Title": "Photographie",
+      "SubtitleLine1": "Capturer l’instant, révéler l’image.",
+      "ContentLine1": "Découvrez une sélection de photographies réalisées dans différents univers et contextes. Portraits, événements, lifestyle et créations visuelles : des images travaillées avec soin pour mettre en valeur les personnes, les moments et les histoires qu’elles racontent.",
+      "CAT": "Découvrez mes projets"
+    },
+
+    "DigitalMarketing": {
+      "Title": "Marketing Digital",
+      "SubtitleLine1": "Développez votre visibilité et votre croissance en ligne.",
+      "ContentLine1": "Nous aidons les entreprises à améliorer leur visibilité et à accélérer leur croissance grâce au marketing digital. Nous accompagnons la gestion des réseaux sociaux, la création de contenu, les campagnes publicitaires et la stratégie digitale pour transformer votre présence en ligne en résultats concrets.",
+      "CAT": "Découvrez mes projets"
+    },
+
+    "MusicProduction": {
+      "Title": "Production Musicale",
+      "SubtitleLine1": "Donnez vie à votre son avec une production professionnelle.",
+
+      "ContentLine1": "Nous produisons de la musique professionnelle et de haute qualité pour artistes et particuliers.\nGrâce à notre",
+      "ContentLine2": "plateforme, nos instrumentaux sont disponibles dans le monde entier pour tous vos projets musicaux et digitaux.",
+
+      "CAT": "Découvrez mes projets"
+
+    }
+  },
+
+  "OurRealisation": {
+    "Title": "Nos realisations",
+
+    "Audiovisual": {
+      "Title2": "Audio-visuel",
+      "SubtitleLine1": "Ces clips ont été réalisés il y a plus de dix ans et témoignent de notre créativité à nos débuts.\nAujourd’hui, grâce à des équipements de pointe et à une expertise renforcée, la qualité de nos productions a atteint un niveau bien supérieur.",
+      "CaughtUp": {
+        "ContentLine1": "Voici un extrait du clip CAUGHT UP, produit pour l’artiste SENECA en 2016.\nNous partageons certains de nos projets passés afin de vous offrir un aperçu de notre créativité et de notre savoir-faire."
+      },
+      "Bouton": "Explorer plus de projets",
+      "Bouton2": "Voir nos réalisation"
+    },
+
+    "Webdesign": {
+      "Title2": "2. Web Design",
+      "SubtitleLine1": "Le site officiel de NextÉclat est notre tout premier projet de web design.\nIl marque le début de notre parcours dans la création de sites modernes et fonctionnels.\nNous développons actuellement de nouveaux sites pour nos futurs clients, en alliant créativité, ergonomie et performance."
+    },
+
+    "Branding": {
+      "Title2": "3. Branding",
+      "SubtitleLine1": "Chez NextÉclat, nous créons des identités de marque créatives et cohérentes qui permettent à votre entreprise de se démarquer.\nDe la papeterie корпоративe et des supports publicitaires au branding digital, en passant par les objets promotionnels, la signalétique et les stands d’exposition, nous concevons chaque détail pour renforcer votre image et créer une connexion forte avec votre public."
+    },
+
+    "Music": {
+      "Title2": "4. Production musicale",
+      "SubtitleLine1": "Chez NextÉclat, nous produisons une musique qui inspire et crée du lien.\nDe l’écriture à la finalisation (mastering), nous livrons des titres professionnels prêts à valoriser votre marque, votre projet ou votre identité artistique.",
+      "DreamGirl": {
+        "ContentLine1": "Voici un extrait du titre DREAM GIRL, produit et interprété par ILUNGA.\nCe morceau reflète notre passion pour la production musicale, mêlant émotion, créativité et sound design professionnel pour offrir une expérience d’écoute intemporelle.",
+        "ContentLine2": "Ci-dessous, vous trouverez le lien vers le clip officiel de DREAM GIRL sur YouTube."
+      }
+    }
+  },
+
+  "OurWorkflow": {
+    "BigTitle": "Mon flux de travail",
+    "GettingInTouch": {
+      "Title": "Prise de contact",
+      "ContentLine1": "Comprendre la demande et les objectifs du projet.",
+      "ContentLine2": "Clarifier les attentes et les éléments nécessaires.",
+      "ContentLine3": "Échanger sur les besoins et définir les prochaines étapes."
+    },
+    "Debriefing": {
+      "Title": "Briefing",
+      "ContentLine1": "Définir les objectifs, le style et le groupe cible.",
+      "ContentLine2": "Identifier les fonctionnalités, contenus et éléments nécessaires.",
+      "ContentLine3": "Structurer le projet et définir les prochaines étapes."
+    },
+    "Producing": {
+      "Title": "Production",
+      "ContentLine1": "Créer et développer le projet selon les besoins définis.",
+      "ContentLine2": "Analyser le marché, la cible et les références du secteur.",
+      "ContentLine3": "Suivre le projet pour garantir qualité et cohérence."
+    },
+    "DeliveringResult": {
+      "Title": "Livraison du projet",
+      "ContentLine1": "Présenter le projet final pour validation.",
+      "ContentLine2": "Apporter les dernières modifications nécessaires.",
+      "ContentLine3": "Livrer les fichiers finaux et assurer le suivi si nécessaire."
+    }
+  },
+
+  "Experience": {
+    "years": "Années d’expérience créative",
+    "experts": "Expertises créatives réunies",
+    "solutions": "Solutions sur mesure",
+    "projects": "Outils & technologies maitrisés"
+  },
+
+  "WhyUs": {
+    "Title": "Qu’est-ce que je peux apporter à votre équipe?",
+
+    "Webdesign": {
+      "Subtitle": "Web Design",
+      "ContentLine1": "Je conçois et développe des sites web modernes, responsifs et pensés pour offrir une expérience utilisateur fluide.",
+      "ContentLine2": "Je peux faire évoluer une interface en intégrant de nouvelles fonctionnalités, pages et améliorations.",
+      "ContentLine3": "Je collabore avec les designers et les équipes pour transformer les besoins en solutions web concrètes.",
+      "ContentLine4": "Je veille à créer des interfaces performantes, accessibles et optimisées dès leur conception."
+    },
+
+    "UxDesign": {
+      "Subtitle": "UX/UI Design",
+      "ContentLine1": "Je conçois des expériences digitales simples, intuitives et centrées sur les besoins des utilisateurs.",
+      "ContentLine2": "Je travaille sur les parcours utilisateurs, les wireframes, les prototypes et les interfaces.",
+      "ContentLine3": "Je m’appuie sur la recherche, les benchmarks et les besoins fonctionnels pour guider mes choix de conception.",
+      "ContentLine4": "Je cherche à créer des interfaces qui combinent clarté, esthétique, accessibilité et facilité d’utilisation."
+    },
+
+    "Branding": {
+      "Subtitle": "Branding",
+      "ContentLine1": "Je peux contribuer à renforcer la cohérence visuelle d’un produit ou d’une marque.",
+      "ContentLine2": "Je maîtrise les principes de couleurs, typographie, composition et hiérarchie visuelle.",
+      "ContentLine3": "Je peux décliner une identité visuelle sur différents supports digitaux et interfaces.",
+      "ContentLine4": "J’apporte une sensibilité créative qui permet de combiner identité, cohérence et fonctionnalité."
+    },
+
+    "Audiovisual": {
+      "Subtitle": "Audio-visuel",
+      "ContentLine1": "J’apporte une approche créative pour transformer des idées en contenus visuels cohérents et impactants.",
+      "ContentLine2": "Je peux analyser les tendances et les références pour développer des concepts adaptés à différents projets.",
+      "ContentLine3": "Mon expérience en production audiovisuelle me permet de comprendre les différentes étapes d’un projet créatif.",
+      "ContentLine4": "Je suis attentif aux détails et aux retours afin d’améliorer progressivement la qualité du résultat final."
+    },
+
+    "SocialMedia": {
+      "Subtitle": "Réseaux sociaux",
+      "ContentLine1": "Je peux contribuer à créer une présence digitale cohérente et professionnelle sur les réseaux sociaux.",
+      "ContentLine2": "Je peux concevoir des contenus visuels adaptés à une audience et à des objectifs spécifiques.",
+      "ContentLine3": "Je comprends l’importance de la cohérence entre identité visuelle, contenu et expérience digitale.",
+      "ContentLine4": "Je peux contribuer à améliorer la visibilité et l’engagement grâce à une approche créative et structurée."
+    },
+
+    "DigitalMarketing": {
+      "Subtitle": "Marketing Digital",
+      "ContentLine1": "Je comprends comment le design et le développement peuvent contribuer aux objectifs marketing d’une entreprise.",
+      "ContentLine2": "Je peux concevoir des expériences digitales pensées pour informer, engager et convertir les utilisateurs.",
+      "ContentLine3": "Je prends en compte les objectifs de l’entreprise et les besoins des utilisateurs dans mes choix de conception.",
+      "ContentLine4": "Je cherche à créer des solutions digitales qui combinent visibilité, performance et expérience utilisateur."
+    },
+
+    "Music": {
+      "Subtitle": "Production musicale",
+      "ContentLine1": "Mon expérience en production musicale nourrit ma créativité et ma sensibilité aux univers visuels et sonores.",
+      "ContentLine2": "Je peux comprendre les besoins créatifs d’un projet et contribuer à développer une direction artistique cohérente.",
+      "ContentLine3": "Je suis habitué à travailler avec différents outils de création et à porter une attention particulière aux détails.",
+      "ContentLine4": "Cette expérience me permet d’apporter une approche créative complémentaire à mes compétences en UX/UI et développement web."
+    }
+  },
+
+
+  "Testimony": {
+    "eyebrow": "Témoignages de nos clients",
+    "subtitle": "Découvrez les retours d'entreprises qui ont choisi Jupiter Safe pour renforcer leur performance QHSE et leur conformité réglementaire.",
+    "items": {
+      "id1": {
+        "city": "Pays-Bas",
+        "project": "Branding + Website",
+        "review": "Nous sommes très satisfaits du résultat réalisé par NextÉclat. Le branding et le site web reflètent parfaitement notre activité et notre image professionnelle. L'équipe a su comprendre nos besoins et créer une présence digitale moderne, claire et adaptée à nos clients."
+      },
+      "id2": {
+        "city": "Pays-Bas",
+        "project": "Branding + Plateforme",
+        "review": "Nous sommes très satisfaits du design et du développement de notre plateforme Falcon Beats. NextÉclat a créé une identité visuelle professionnelle et une expérience utilisateur adaptée à la vente de nos beats. Depuis son lancement, la plateforme nous permet de présenter et vendre nos créations efficacement."
+      },
+      "id3": {
+        "city": "RD Congo",
+        "project": "Branding + Website",
+        "review": "Nous sommes très satisfaits du site web conçu par NextÉclat. Le projet a permis de mettre en valeur notre expertise, nos services et nos solutions QHSE auprès de nos clients. L'équipe a parfaitement traduit notre vision avec un design professionnel et une présentation claire de nos activités."
+      },
+      "id4": {
+        "city": "United Kingdom",
+        "project": "Videoclip",
+        "review": "Nous sommes très satisfaits du résultat final du clip réalisé par NextÉclat. La qualité de production, le professionnalisme de l'équipe et le respect des délais ont largement dépassé nos attentes. Chaque détail a été soigneusement exécuté pour créer un contenu à la hauteur de notre vision."
+      },
+      "id5": {
+        "city": "Pays-Bas",
+        "project": "Videoclip",
+        "review": "Nous sommes très contents du clip réalisé par NextÉclat. Le concept imaginé a été parfaitement retranscrit à l'écran et le résultat correspond exactement à nos attentes. Un grand merci à l'équipe pour son professionnalisme, sa créativité et son engagement tout au long du projet."
+      },
+      "id6": {
+        "city": "Portugal",
+        "project": "Videoclip",
+        "review": "Nous sommes très satisfaits du rendu final du clip réalisé par NextÉclat. Profiter de notre présence aux Pays-Bas pendant les vacances pour réaliser ce projet dans un délai court a été une excellente opportunité. L'équipe a fait preuve d'un grand professionnalisme pour obtenir le résultat souhaité."
+      },
+      "id7": {
+        "city": "Pays-Bas",
+        "project": "Videoclip",
+        "review": "Nous sommes très satisfaits du clip réalisé par NextÉclat. La qualité du rendu final, la créativité et le professionnalisme de l'équipe ont permis de donner vie à notre vision. Le projet a été réalisé avec sérieux et chaque détail a été travaillé avec soin."
+      }
+    }
+  },
+
+  "Footer": {
+    "CatTitle": "Et si nous travaillions ensemble ?",
+    "Services": "Services",
+    "Links": "Liens",
+    "Extra": "CV",
+    "Contacts": "Contacts",
+    "SocialMedia": "Réseaux sociaux",
+    "WebsiteDevelopedBy": "Site web développé par",
+    "AllRightsAreReserved": "Tous droits réservés",
+    "Tel": "+31 685 53 31 24 (Pays-Bas)",
+    "Soon1": "Soon (France)",
+    "Soon2": "+32 492 96 39 39 (Belgique)",
+    "Soon3": "Soon (RDC/Kinshasa)"
+  },
+
+  "AudiovisualPage": {
+    "Description": {
+      "Title": "Je crée des images qui marquent.",
+      "Subtitle": "Je crée des contenus audiovisuels modernes, créatifs et professionnels pour différents projets et supports.",
+      "Content": "Clips musicaux, vidéos publicitaires, contenus pour les réseaux sociaux, vidéos lifestyle, interviews, événements et contenus de marque. De la conception au montage, je transforme les idées en productions visuelles engageantes et professionnelles.",
+      "CtaBtn": "Découvrez mes clips"
+    }
+  },
+
+  "TypeVideos": {
+    "Title": "Mes créations audiovisuelles",
+
+    "MusicVideosAndTeaser": {
+      "Subtitle": "Clips musicaux et teasers",
+
+      "ContentLine1": "Vidéos d’acteurs",
+      "ContentLine2": "Vidéos de comédiens et créateurs de contenu",
+      "ContentLine3": "Vidéos de créateurs de mode",
+      "ContentLine4": "Vidéos de musiciens",
+      "ContentLine5": "Vidéos de danseurs"
+    },
+
+    "WeddingLuxuriousAndEvents": {
+      "Subtitle": "Mariages, luxe et événements",
+
+      "ContentLine1": "Mariages cinématographiques",
+      "ContentLine2": "Galas et événements de luxe",
+      "ContentLine3": "Événements artistiques et culturels"
+    },
+
+    "ContentCreatorsLifestyle": {
+      "Subtitle": "Créateurs de contenu & lifestyle",
+
+      "ContentLine1": "Vidéos d’influenceurs culinaires",
+      "ContentLine2": "Vidéos d’influenceurs et de mannequins",
+      "ContentLine3": "Vidéos d’entrepreneurs et de marques personnelles",
+      "ContentLine4": "Vidéos de coachs en développement personnel"
+    },
+
+    "BeautyFashionCreators": {
+      "Subtitle": "Créateurs beauté & mode",
+
+      "ContentLine1": "Vidéos de créateurs de maquillage",
+      "ContentLine2": "Fashion / Outfit – Vidéos de créateurs",
+      "ContentLine3": "Vidéos de créateurs stylistes"
+    },
+
+    "BusinessPromotionalVideos": {
+      "Subtitle": "Vidéos promotionnelles & corporate",
+
+      "ContentLine1": "Vidéos promotionnelles immobilières",
+      "ContentLine2": "Vidéos d’hôtels et de resorts",
+      "ContentLine3": "Vidéos de cafés et de restaurants",
+      "ContentLine4": "Vidéos d’entreprises et de bureaux"
+    }
+  },
+
+  "PricingVideo": {
+    "BigTitle": "Nos forfaits de production vidéo",
+
+    "BasicPackage": {
+      "Title": "Forfait Basic (Essentiel)",
+      "ContentLine1": "2 à 3 heures de tournage",
+      "ContentLine2": "1 lieu (intérieur ou extérieur)",
+      "ContentLine3": "Location du lieu et des accessoires non incluse (disponible sur demande)",
+      "ContentLine4": "Éclairage naturel",
+      "ContentLine5": "1 caméra professionnelle, jusqu’à 2 prises",
+      "ContentLine6": "Concept simple sans storyboard",
+      "ContentLine7": "Étalonnage colorimétrique basique",
+      "ContentLine8": "Montage simple",
+      "ContentLine9": "IA et effets spéciaux non inclus, petits effets possibles sur demande",
+      "ContentLine10": "Livraison sous 3 à 5 jours",
+      "ContentLine11": "1 révision",
+      "ContentLine12": "Teaser non inclus",
+      "ContentLine13": "Idéal pour des clips simples, créateurs de contenu ou petites présentations"
+    },
+
+    "StandardPackage": {
+      "Title": "Forfait Standard (Créatif)",
+      "ContentLine1": "Tournage sur une journée complète (6 à 8 heures)",
+      "ContentLine2": "Jusqu’à 2 lieux différents",
+      "ContentLine3": "Location du lieu et des accessoires disponible sur demande",
+      "ContentLine4": "Éclairage professionnel",
+      "ContentLine5": "1 caméra professionnelle + stabilisateur",
+      "ContentLine6": "Concept créatif avec mini storyboard",
+      "ContentLine7": "Étalonnage colorimétrique cinématographique",
+      "ContentLine8": "Montage professionnel",
+      "ContentLine9": "IA et effets spéciaux : corrections avancées, titres et ambiances",
+      "ContentLine10": "Livraison sous 7 à 10 jours",
+      "ContentLine11": "2 révisions",
+      "ContentLine12": "Teaser inclus",
+      "ContentLine13": "Idéal pour clips musicaux, événements, marques ou vidéos professionnelles"
+    },
+
+    "GoldPackage": {
+      "Title": "Forfait Gold (Premium)",
+      "ContentLine1": "2 à 3 jours de tournage",
+      "ContentLine2": "Plusieurs lieux ou studio",
+      "ContentLine3": "Location du lieu et des accessoires incluse selon le concept",
+      "ContentLine4": "Installation complète d’éclairage cinéma",
+      "ContentLine5": "2 caméras cinéma 4K + drone",
+      "ContentLine6": "Storyboard complet et direction artistique",
+      "ContentLine7": "Étalonnage haut de gamme",
+      "ContentLine8": "Montage avec effets visuels et transitions artistiques",
+      "ContentLine9": "IA et effets spéciaux : intégration avancée",
+      "ContentLine10": "Livraison sous 14 à 21 jours",
+      "ContentLine11": "3 révisions",
+      "ContentLine12": "Teaser + version verticale (Insta/TikTok)",
+      "ContentLine13": "Idéal pour clips haut de gamme, marques, entreprises ou événements de luxe"
+    }
+  },
+
+  "ArchiveVideoReel" :{
+    "Title": "Découvrez mes archives",
+    "Content" : "Voici une compilation de mes meilleurs clips musicaux réalisés entre 2012 et 2016.\nDe nouveaux clips arrivent prochainement avec un équipement amélioré, mais ces archives illustrent mon évolution et mettent en valeur mes œuvres classiques."
+  },
+
+  "DroneShot": {
+    "Title": "Prises de vue aériennes cinématiques",
+    "Subtitle": "Je réalise des prises de vue aériennes en 4K pour apporter une perspective unique et immersive aux projets.",
+    "Content": "Je maîtrise la réalisation de plans aériens fluides et cinématiques à l’aide de drones 4K, pour des contenus publicitaires, événements, vidéos de marque, clips musicaux et projets créatifs."
+  },
+
+  "WhereCreativityMeets": {
+    "Title": "Là où la créativité prend vie",
+    "Content": "Chaque projet est guidé par une vision artistique précise, où la maîtrise technique rencontre l’intuition créative. Nous créons des visuels puissants et authentiques qui révèlent l’identité unique des artistes et donnent vie à leur univers."
+  },
+
+
+  "MusicVideos": {
+    "Title": "Mes clips réalisés",
+    "Content": "Un aperçu des vidéoclips réalisés pour différents artistes depuis 2010."
+  },
+
+
+  "Photography": {
+    "Banner": {
+      "Title": "Photographie, créativité, émotion",
+      "ContentLine1": "Découvrez une sélection de projets photographiques que j’ai réalisés dans différents univers, de la mode et du lifestyle aux événements et aux portraits. Chaque projet reflète mon approche de l’image, ma sensibilité créative et mon attention portée à la lumière, à la composition et aux détails."
+    }
+  },
+
+
+
+  "SkillsPage": {
+    "Banner": {
+      "Title": "Skills, Education and Experience",
+      "ContentLine": "Un aperçu de mon profil multidisciplinaire : mes compétences techniques, créatives et multimédia, mon niveau de maîtrise dans chaque domaine, et le parcours académique, professionnel et pratique qui les a construites.",
+      "ContentLine2": "Mes compétences sont le fruit de ma formation académique, de formations professionnelles et de plusieurs années de pratique à travers des projets personnels et des collaborations créatives."
+    },
+
+    "EducationTraining": {
+      "SectionTitle": "Formation & Éducation",
+
+      "Title1": "Communication Multimédia & Design",
+      "Subtitle1": "The Hague University of Applied Sciences — Pays-Bas",
+      "Paragraphe1": "Cette formation m’a donné une base multidisciplinaire en communication, design, UX/UI, conception digitale et création de contenus multimédias. Les projets pouvaient prendre des formes très variées : sites web, applications mobiles, intranets, infographies, expériences digitales, vidéos ou concepts multimédias. C’est cette formation qui a posé les fondations de mon profil actuel, à la croisée du design, de la communication et du développement de projets numériques.",
+
+      "Title2": "Développement Front-end",
+      "Subtitle2": "Novi Hogeschool — Utrecht, Pays-Bas",
+      "Paragraphe2": "Cette formation m’a permis d’aller au-delà de la conception pour transformer une maquette en une véritable application web fonctionnelle. J’y ai développé mes compétences en HTML, CSS, JavaScript, React et responsive design, ainsi qu’en Git, GitHub, intégration d’API et déploiement. J’ai ensuite mis ces compétences en pratique en développant mon propre portfolio et plusieurs projets web pour des clients.",
+
+      "Title3": "Electronic Music Production",
+      "Subtitle3": "SAE Institute Rotterdam — Pays-Bas",
+      "Paragraphe3": "Ce certificat m’a permis d’acquérir les fondamentaux de la production musicale électronique : beatmaking, composition, arrangement, sound design, MIDI, sampling, enregistrement, ainsi que les bases du mixage et du mastering.",
+
+      "Title4": "Apprentissage par la pratique",
+      "Subtitle4": "Projets personnels, collaborations & expérience de terrain",
+      "Paragraphe4": "Une partie importante de mes compétences ne vient pas uniquement de mes formations académiques, mais aussi de la pratique régulière à travers différents projets : clips musicaux, spots publicitaires, productions pour des artistes, mariages, workshops et autoformation continue."
+    },
+
+    "SkillsByField": {
+      "Title": "Compétences par domaine",
+      "Description": "Les pourcentages ci-dessous représentent un niveau de maîtrise auto-évalué, et non une certification officielle.",
+      "Note": "Niveaux de maîtrise auto-évalués"
+    }
+  },
+
+
+
+
+
+
+  "Contact": {
+    "Banner": {
+      "Title": "Que puis-je apporter à votre équipe ?",
+      "LeftLine1": "Vous recherchez un professionnel créatif capable de combiner design, technologie et innovation ? Découvrez mon portfolio et explorez mon travail ainsi que mon expertise. Je serais ravi d’échanger avec vous afin de discuter de la manière dont je peux contribuer à votre organisation.",
+      "LeftLine2": "CONTACTEZ-MOI",
+
+      "RightLine1": "Travaillons ensemble",
+      "RightLine2": "Vous recherchez quelqu’un capable de combiner design, technologie et créativité ? Découvrez mon portfolio et voyez comment mon expérience et mon approche peuvent apporter une réelle valeur ajoutée à votre équipe.",
+
+      "RightLine3": "Webdesign moderne et responsive",
+      "RightLine4": "Design UX/UI intuitif et fonctionnel",
+      "RightLine5": "Identité de marque forte et cohérente",
+      "RightLine6": "Contenu audiovisuel créatif et professionnel",
+      "RightLine7": "Photographie professionnelle et créative"
+    }
+  },
+
+
+  "TypePhotos": {
+    "Title": "Nous créons des photos pour:",
+
+    "ArtistsMusiciansPerformers": {
+      "Subtitle": "Artistes, musiciens & performers",
+      "ContentLine1": "Pochettes d’albums et de singles",
+      "ContentLine2": "Images promotionnelles pour teasers ou sorties vidéo",
+      "ContentLine3": "Portraits éditoriaux et magazines (print ou digital)",
+      "ContentLine4": "Visuels pour réseaux sociaux (Instagram, Facebook, TikTok, YouTube)",
+      "ContentLine5": "Photos portrait professionnelles pour acteurs et performers",
+      "ContentLine6": "Affiches et campagnes visuelles pour projets musicaux ou artistiques"
+    },
+
+    "WeddingsLuxuryEvents": {
+      "Subtitle": "Mariages, luxe & événements",
+      "ContentLine1": "Mariages et fiançailles",
+      "ContentLine2": "Événements de luxe et galas",
+      "ContentLine3": "Événements culturels et artistiques",
+      "ContentLine4": "Événements corporate et rassemblements de célébrités",
+      "ContentLine5": "Séances photo exclusives pour couples et VIP"
+    },
+
+    "LifestyleSportsContentCreators": {
+      "Subtitle": "Lifestyle, sport & créateurs de contenu",
+      "ContentLine1": "Mannequins et influenceurs",
+      "ContentLine2": "Personnalités fitness et sportives",
+      "ContentLine3": "Photos de branding pour réseaux sociaux (Instagram, TikTok, YouTube)",
+      "ContentLine4": "Portraits de personal branding exprimant le lifestyle et la vision"
+    },
+
+    "BeautyFashion": {
+      "Subtitle": "Beauté & mode",
+      "ContentLine1": "Maquilleurs et créateurs beauté",
+      "ContentLine2": "Stylistes et designers de mode",
+      "ContentLine3": "Campagnes mode pour magazines et boutiques en ligne",
+      "ContentLine4": "Photographie de portfolio pour mannequins"
+    },
+
+    "BusinessHospitalityRealEstate": {
+      "Subtitle": "Business, hôtellerie & immobilier",
+      "ContentLine1": "Hôtels, cafés et restaurants",
+      "ContentLine2": "Appartements et annonces immobilières",
+      "ContentLine3": "Bureaux d’entreprise et espaces de travail",
+      "ContentLine4": "Photographie de produits pour entreprises",
+      "ContentLine5": "Portraits corporate et photos d’équipe pour le branding professionnel"
+    }
+  },
+
+  "PricingPhotography": {
+    "BigTitle": "Nos forfaits de photographie",
+
+    "BasicPackage": {
+      "Title": "Forfait Basic (Essentiel)",
+      "ContentLine1": "1 à 2 heures de prise de vue",
+      "ContentLine2": "1 lieu (intérieur ou extérieur)",
+      "ContentLine3": "Lieu, accessoires et maquillage non inclus (disponibles sur demande)",
+      "ContentLine4": "Éclairage naturel",
+      "ContentLine5": "Jusqu’à 30 photos prises",
+      "ContentLine6": "10 photos retouchées professionnellement (correction des couleurs et de la lumière)",
+      "ContentLine7": "Concept simple, sans stylisme complexe",
+      "ContentLine8": "Livraison sous 3 à 5 jours",
+      "ContentLine9": "1 révision incluse",
+      "ContentLine10": "Idéal pour les portraits, les petits contenus professionnels ou les séances personnelles"
+    },
+
+    "StandardPackage": {
+      "Title": "Forfait Standard (Créatif)",
+      "ContentLine1": "3 à 4 heures de prise de vue",
+      "ContentLine2": "Jusqu’à 2 lieux (intérieur / extérieur)",
+      "ContentLine3": "Lieu, accessoires et maquillage non inclus (disponibles sur demande)",
+      "ContentLine4": "Mélange d’éclairage naturel et artificiel",
+      "ContentLine5": "Jusqu’à 60 photos prises",
+      "ContentLine6": "20 photos retouchées professionnellement (color grading, retouches, ambiance)",
+      "ContentLine7": "Direction créative incluse",
+      "ContentLine8": "Livraison sous 5 à 7 jours",
+      "ContentLine9": "2 révisions incluses",
+      "ContentLine10": "Idéal pour les influenceurs, artistes ou projets promotionnels"
+    },
+
+    "GoldPackage": {
+      "Title": "Forfait Gold (Premium)",
+      "ContentLine1": "Journée complète de prise de vue (jusqu’à 6 heures)",
+      "ContentLine2": "Jusqu’à 3 lieux différents",
+      "ContentLine3": "Stylisme et maquilleur inclus pour un rendu professionnel",
+      "ContentLine4": "Installation d’éclairage professionnel et équipement studio",
+      "ContentLine5": "Préparation du concept et du moodboard avant la séance",
+      "ContentLine6": "Galerie privée en ligne",
+      "ContentLine7": "Livraison sous 7 à 10 jours",
+      "ContentLine8": "3 révisions incluses",
+      "ContentLine9": "Idéal pour les projets haut de gamme, marques, entreprises ou événements de luxe"
+    }
+  },
+
+  "PhotographyGallery": {
+    "BigTitle": "Découvrez notre photographie",
+
+    "Lifestyle": {
+      "Title": "Lifestyle",
+      "Content": "Voici quelques moments authentiques capturés lors de nos séances photo."
+    },
+
+    "Fashion": {
+      "Title": "Mode",
+      "Content": "Style, élégance et expression."
+    },
+
+    "Wedding": {
+      "Title": "Mariage",
+      "Content": "Un aperçu de moments authentiques et remplis d’émotion que nous avons capturés lors de journées de mariage."
+    },
+
+    "Music": {
+      "Title": "Musique",
+      "Content": "Concerts live, artistes et performances."
+    },
+
+    "EmotivePortraits": {
+      "Title": "Portraits Émotionnels",
+      "Content": "Chaque regard, chaque geste, chaque sourire : nous figeons les émotions qui racontent votre histoire."
+    }
+  },
+
+  "WhereEmotionMeets": {
+    "Title": "Transformez votre vision en images d’exception",
+    "Content": "La photographie est bien plus que la lumière et la composition, c’est une connexion. Nous cherchons à comprendre l’âme derrière chaque image."
+  },
+
+  "WhereEmotionBecomes": {
+    "Title": "Là où les émotions prennent forme",
+    "Content": "À travers la créativité et la précision, nous transformons des moments ordinaires en images inoubliables."
+  },
+
+  "WhyChooseFalconXXL": {
+    "BigTitle": "Pourquoi choisir NEXTÉCLAT, Photographie",
+
+    "ContentLine1a": "Identité visuelle unique : ",
+    "ContentLine1b": "Chaque image reflète la véritable essence de votre marque.",
+    "ContentLine2a": "Direction créative incluse : ",
+    "ContentLine2b": "Concept réfléchi et mise en scène pour renforcer votre message.",
+    "ContentLine3a": "Équipement professionnel de qualité : ",
+    "ContentLine3b": "Une qualité d’image exceptionnelle à chaque prise de vue.",
+    "ContentLine4a": "Résultats orientés impact : ",
+    "ContentLine4b": "Des visuels conçus pour attirer, engager et laisser une impression durable."
+  },
+
+
+  "PageWebdesign": {
+    "BannerWebdesign": {
+      "Title": "Des sites web qui font la différence",
+      "Content1": "Découvrez une sélection de projets que j’ai réalisés pour des entrepreneurs et des entreprises : des sites modernes, dynamiques et responsifs, conçus pour offrir une expérience utilisateur fluide, renforcer leur présence en ligne et transformer leurs visiteurs en clients."
+    },
+
+    "WhatOurWebsite": {
+      "BigTitle": "Ce que mes projets démontrent",
+      "Title": "Des expériences digitales pensées pour répondre à des besoins réels",
+      "ContentLine1": "Des sites web modernes, responsifs et évolutifs, adaptés aux besoins spécifiques de chaque projet.",
+      "ContentLine2": "Une structure pensée pour améliorer la visibilité en ligne et intégrer les bonnes pratiques SEO.",
+      "ContentLine3": "Des interfaces conçues pour offrir une navigation claire, intuitive et adaptée aux différents profils d’utilisateurs.",
+      "ContentLine4": "Un design responsive permettant une expérience cohérente sur mobile, tablette et desktop.",
+      "ContentLine5": "Une approche UX/UI qui combine identité visuelle, ergonomie et expérience utilisateur pour créer des interfaces cohérentes et engageantes.",
+      "ContentLine6": "Des contenus visuels intégrant images et vidéos de qualité pour renforcer l’impact visuel et l’identité des projets."
+    }
+  },
+
+  "OurWebDesignProjects": {
+    "title": "Mes réalisations",
+    "subtitle": "Des projets web qui donnent vie aux idées",
+    "contentTitle": "Découvrez une sélection de projets web que j’ai conçus et développés pour des entrepreneurs et des entreprises. Chaque projet répond à un besoin spécifique et met en évidence mon approche du web design, de l’UX/UI et du développement front-end.",
+
+    "btnRealisation": "Voir mes réalisations",
+
+    "project": {
+
+      "title1": "NextÉclat",
+      "contentLine1": "Site web conçu pour une agence digitale spécialisée dans le branding, le web design et la production audiovisuelle. J’ai travaillé sur la structure, l’expérience utilisateur, l’identité visuelle et le développement de l’interface.",
+
+      "title2": "FalconBeat",
+      "contentLine2": "Plateforme musicale conçue pour permettre aux artistes et créateurs d’explorer, d’écouter et d’acheter des instrumentaux. Le projet met en avant la conception d’une interface dynamique et l’organisation d’un contenu musical riche.",
+
+      "title3": "Cyrus FP",
+      "contentLine3": "J’ai conçu le site web de Cyrus FP, une entreprise spécialisée dans le placement de drapeaux de différentes dimensions. Le site met en valeur leur expertise dans l’installation de drapeaux de grande taille et leurs solutions de communication visuelle.",
+
+      "title4": "Pasha Bouw",
+      "contentLine4": "Site vitrine conçu pour une entreprise spécialisée dans la rénovation et les travaux sur mesure. J’ai développé une interface claire et responsive permettant de présenter ses services, ses réalisations et son savoir-faire.",
+
+      "title5": "Jupiter Safe Consulting",
+      "contentLine5": "Site vitrine conçu pour une société spécialisée en QHSE. Le projet met l’accent sur une présentation structurée des services, une navigation intuitive et une identité visuelle cohérente avec son positionnement professionnel.",
+
+      "title6": "Mon Portfolio",
+      "contentLine6": "Portfolio personnel conçu pour mettre en avant mes compétences en UX Design, développement Front-End, création d’identités visuelles et branding, avec une expertise en réalisation audiovisuelle. À travers cette sélection, je vous propose un aperçu de mon parcours, de mon approche créative et des différents projets que j’ai développés au fil des années.\n",
+
+      "btn1": "Voir le projet"
+    }
+  },
+
+  "PricingWebdesign": {
+    "BigTitle": "Nos offres de webdesign",
+
+    "StarterBasic": {
+      "Title": "Starter / Basique",
+      "ContentLine1": "1 à 3 pages (Landing Page, À propos, Contact)",
+      "ContentLine2": "Design personnalisé et responsive",
+      "ContentLine3": "Formulaire de contact",
+      "ContentLine4": "Configuration de l’hébergement et du nom de domaine",
+      "ContentLine5": "SEO de base (visibilité Google)",
+      "ContentLine6": "Livraison rapide",
+      "ContentLine7a": "Idéal pour:",
+      "ContentLine7b": "Les petites entreprises, freelances, créatifs ou influenceurs souhaitant un site simple, épuré et élégant."
+    },
+
+    "BusinessStandard": {
+      "Title": "Business / Standard",
+      "ContentLine1": "5 à 8 pages (Accueil, Services, Portfolio, Blog, Contact, etc.)",
+      "ContentLine2": "Design UX sur mesure basé sur l’analyse de l’audience et des concurrents",
+      "ContentLine3": "CMS ou panneau d’administration (mise à jour facile du contenu)",
+      "ContentLine4": "Boutique en ligne basique (jusqu’à 20 produits)",
+      "ContentLine5": "Intégration SEO avancée + Google Analytics",
+      "ContentLine6": "Intégration d’un système de réservation (si nécessaire)",
+      "ContentLine7": "Formation de base à la gestion du site",
+      "ContentLine8a": "Idéal pour:",
+      "ContentLine8b": "Les PME, startups, commerces ou agences recherchant une présence en ligne complète et dynamique."
+
+    },
+
+    "PremiumDeluxe": {
+      "Title": "Premium / Deluxe",
+      "ContentLine1": "Site web complet ou plateforme avancée (e-commerce, éducation, SaaS, etc.)",
+      "ContentLine2": "Boutique en ligne illimitée avec gestion des stocks et systèmes de paiement (Stripe, PayPal, etc.)",
+      "ContentLine3": "Animations et transitions fluides (React.js)",
+      "ContentLine4": "Branding complet (logo, charte graphique, identité visuelle)",
+      "ContentLine5": "Création de contenu visuel (photo, vidéo, musique, etc.)",
+      "ContentLine6": "Optimisation SEO premium + campagnes de marketing digital",
+      "ContentLine7": "Maintenance continue et mises à jour",
+      "ContentLine8": "Support prioritaire et accompagnement personnalisé",
+      "ContentLine9a": "Idéal pour :",
+      "ContentLine9b": "Marques, startups tech, écoles ou entreprises recherchant une plateforme haut de gamme."
+    }
+  },
+
+  "Branding": {
+    "Banner": {
+      "Title": "Branding, Identité, Impact",
+      "ContentLine1": "Je vous présente ici une sélection de mes projets en branding et en identité visuelle. À travers ces réalisations, je mets en avant ma capacité à créer des univers visuels cohérents, créatifs et distinctifs, en travaillant aussi bien sur le logo que sur les différents éléments qui construisent l’identité d’une marque.",
+      "buttonCta": "Découvrir les projets",
+      "ContentLine3": ""
+    },
+
+    "Descsription": {
+      "Title": "Nos solutions de branding",
+      "Subtitle": "Nous aidons les entreprises à créer des identités visuelles fortes. En combinant créativité,\nstratégie et design, nous donnons vie à votre marque et la rendons mémorable.\n",
+
+      "ContentLine1": "Chez NextEclat, nous créons des identités de marque créatives et cohérentes qui permettent à votre entreprise de se démarquer. De la papeterie corporate au branding digital et aux supports promotionnels, chaque détail est conçu pour renforcer votre image et créer une connexion forte avec votre audience.",
+      "ContentLineBold1": "",
+      "ContentLine2": "",
+      "ContentLineBold2": "",
+      "ContentLine3": ""
+    },
+
+    "TypeBranding": {
+      "BigTitle": "Je crée des identités visuelles pour:",
+
+      "1ArtistsMusiciansPerformers": {
+        "Title": "1. Artistes, musiciens & performers",
+        "ContentLine1": "Logo d’artiste & identité de marque personnelle",
+        "ContentLine2": "Visuels promotionnels pour teasers ou sorties vidéo",
+        "ContentLine3": "Design de pochettes d’album & de singles (digital & print)",
+        "ContentLine4": "Création de campagnes visuelles pour sorties (affiches, bannières, flyers)",
+        "ContentLine5": "Kit réseaux sociaux (photos de profil, stories à la une, templates de posts, bannières YouTube/TikTok)",
+        "ContentLine6": "Visuels de branding pour site web",
+        "ContentLine7": "Affiches de concerts & tournées",
+        "ContentLine8": "Papeterie & supports brandés (papier à en-tête, enveloppes, dossiers)",
+        "ContentLine9": "Design de merchandising (T-shirts, tote bags, mugs, casquettes, badges, stickers)",
+        "ContentLine10": "Supports imprimés : cartes de visite, cartes artistes, affiches, brochures"
+      },
+
+      "2WeddingsLuxuryEvents": {
+        "Title": "2. Mariages, luxe & événements",
+        "ContentLine1": "Logo de mariage & design de monogramme",
+        "ContentLine2": "Cartes save-the-date & invitations (print & digital)",
+        "ContentLine3": "Affiches & bannières d’événements",
+        "ContentLine4": "Menus, cartes de table & cartes de remerciement",
+        "ContentLine5": "Enveloppes & dossiers personnalisés",
+        "ContentLine6": "Signalétique événementielle & panneaux de bienvenue",
+        "ContentLine7": "Templates d’annonces pour réseaux sociaux",
+        "ContentLine8": "Visuels pour site web de mariage ou d’événement",
+        "ContentLine9": "Souvenirs imprimés (sacs, carnets, mugs, t-shirts)",
+        "ContentLine10": "Brochures & dossiers élégants pour événements de luxe",
+        "ContentLine11": "Branding d’événements culturels (kits visuels, flyers, tickets)"
+      },
+
+      "3LifestyleSportsContentCreators": {
+        "Title": "3. Lifestyle, sport & créateurs de contenu",
+        "ContentLine1": "Logo personnel & identité visuelle",
+        "ContentLine2": "Kit de branding réseaux sociaux (bannières Instagram/Facebook/TikTok/YouTube, stories à la une, templates de posts & reels)",
+        "ContentLine3": "Affiches & visuels promotionnels",
+        "ContentLine4": "Vêtements & accessoires brandés (T-shirts, tote bags, carnets)",
+        "ContentLine5": "Kit réseaux sociaux (photos de profil, stories à la une, templates de posts, bannières YouTube/TikTok)",
+        "ContentLine6": "Cartes de visite & carte de visite digitale (compatible NFC)",
+        "ContentLine7": "Design d’e-books ou de produits digitaux (guides, lookbooks, templates)",
+        "ContentLine8": "Campagnes print pour collaborations lifestyle et sport",
+        "ContentLine9": "Branding de site web ou de blog"
+      },
+
+      "4BeautyFashionStyleBrand": {
+        "Title": "4. Marques beauté, mode & style",
+        "ContentLine1": "Logo de marque & identité visuelle",
+        "ContentLine2": "Design de packaging & d’étiquettes produits",
+        "ContentLine3": "Design de lookbooks & catalogues",
+        "ContentLine4": "Identité visuelle pour réseaux sociaux (templates, stories, highlights, bannières)",
+        "ContentLine5": "Affiches & campagnes pour lancements de produits",
+        "ContentLine6": "Invitations de défilés & supports backstage",
+        "ContentLine7": "Cartes de visite, brochures & flyers",
+        "ContentLine8": "Papeterie brandée (papier à en-tête, enveloppes, dossiers)",
+        "ContentLine9": "Visuels e-commerce & branding web",
+        "ContentLine10": "Design de cadeaux promotionnels (sacs, tasses, carnets, vêtements)"
+      },
+
+      "5BusinessHospitalityRealEstate": {
+        "Title": "5. Entreprises, hôtellerie & immobilier",
+        "ContentLine1": "Logo d’entreprise & système de marque",
+        "ContentLine2": "Papeterie corporate (papier à en-tête, cartes de visite, enveloppes, dossiers)",
+        "ContentLine3": "Brochures, catalogues & fiches produits",
+        "ContentLine4": "Signalétique & supports d’affichage (bannières, panneaux, stands)",
+        "ContentLine5": "Branding pour hôtels, cafés & restaurants (menus, uniformes, packaging)",
+        "ContentLine6": "Templates d’annonces immobilières & présentation photo brandée",
+        "ContentLine7": "Branding site web & réseaux sociaux",
+        "ContentLine8": "Templates d’email marketing & newsletters brandées",
+        "ContentLine9": "Merchandising promotionnel (mugs, stylos, tote bags, carnets)",
+        "ContentLine10": "Visuels de branding pour bureaux (signalétique, impressions murales, portraits d’équipe)"
+      }
+    },
+
+    "OurBrandingDivisions": {
+      "BigTitle": "Nos pôles de branding",
+
+      "BrandIdentityCoreDesign": {
+        "Title": "Identité de marque & design fondamental",
+        "ContentLine1": "Logo de marque & identité visuelle",
+        "ContentLine2": "Papeterie de marque (en-têtes de lettre, enveloppes, dossiers)",
+        "ContentLine3": "Cartes de visite, brochures & flyers"
+      },
+
+      "ProductPackagingDesign": {
+        "Title": "Design produit & packaging",
+        "ContentLine1": "Design d’emballages et d’étiquettes produits",
+        "ContentLine2": "Design d’objets promotionnels (sacs, mugs, carnets, vêtements)"
+      },
+
+      "DigitalOnlineBranding": {
+        "Title": "Branding digital & en ligne",
+        "ContentLine1": "Identité visuelle pour réseaux sociaux (templates, stories, highlights, bannières)",
+        "ContentLine2": "Supervision de chaque étape pour garantir qualité et créativité",
+        "ContentLine3": "Visuels e-commerce & branding web"
+      },
+
+      "MarketingCampaignDesign": {
+        "Title": "Marketing & design de campagnes",
+        "ContentLine1": "Design d’affiches et de campagnes pour lancements de produits",
+        "ContentLine2": "Design de lookbooks & catalogues",
+        "ContentLine3": "Branding de magasins & design de signalétique",
+        "ContentLine4": "Invitations de défilés de mode & supports backstage"
+      }
+    },
+
+    "PricingBranding": {
+      "BigTitle": "Nos offres de branding",
+
+      "BasicPackage": {
+        "Title": "Pack Basique (Starter)",
+        "ContentLine1": "Création de logo principal",
+        "ContentLine2": "Palette de couleurs & typographie",
+        "ContentLine3": "Carte de visite & papeterie de base",
+        "ContentLine4": "Visuels pour profils réseaux sociaux (photo de profil, bannière, template de post)"
+      },
+
+      "StandardPackage": {
+        "Title": "Pack Standard (Professionnel)",
+        "ContentLine1": "Tout ce qui est inclus dans l’offre Starter",
+        "ContentLine2": "Variantes de logo & set d’icônes",
+        "ContentLine3": "Papeterie étendue (en-tête de lettre, enveloppe, dossier)",
+        "ContentLine4": "Templates réseaux sociaux & couvertures de highlights"
+      },
+
+      "GoldPackage": {
+        "Title": "Pack Gold (Élite)",
+        "ContentLine1": "Tout ce qui est inclus dans l’offre Professionnelle",
+        "ContentLine2": "Brand book complet (système visuel & guidelines)",
+        "ContentLine3": "Design de packaging & d’affiches",
+        "ContentLine4": "Visuels de campagnes et publicités",
+        "ContentLine5": "Shooting photo produit ou équipe",
+        "ContentLine6": "Direction créative & consulting"
+      }
+    },
+
+    "WhyOurBranding" : {
+      "Title": "Pourquoi mes projets de branding se démarquent?",
+
+      "ContentLine1a": "Unique pour vous: ",
+      "ContentLine1b": "100 % original, sans modèles.",
+      "ContentLine2a": "Intelligent & créatif: ",
+      "ContentLine2b": "Un design qui performe.",
+      "ContentLine3a": "Image cohérente: ",
+      "ContentLine3b": "Sur toutes les plateformes.",
+      "ContentLine4a": "Équipe tout-en-un: ",
+      "ContentLine4b": "Design, photo, vidéo, marketing.",
+      "ContentLine5a": "Finition premium: ",
+      "ContentLine5b": "Réalisée avec précision.",
+      "ContentLine6a": "Impact fort: ",
+      "ContentLine6b": "Des visuels qui créent une connexion.",
+      "ContentLine7a": "Positionnement stratégique: ",
+      "ContentLine7b": "Définissez votre histoire et démarquez-vous."
+    }
+  },
+
+  "DigitalMarketing": {
+
+      "Banner": {
+        "Title": "UX/UI Design, des interfaces pensées pour l’utilisateur",
+        "Content1": "Découvrez une sélection de projets UX/UI que j’ai conçus : des interfaces modernes, intuitives et responsives, pensées pour offrir une expérience utilisateur fluide, répondre aux besoins d’un groupe cible spécifique et aux objectifs du client."
+      },
+
+    "Description": {
+      "Title": "UX/UI Design : Des interfaces pensées pour l’utilisateur.",
+      "Content": "Je conçois des concepts digitaux en partant des besoins du projet et des attentes du public cible. De la structure à l’identité visuelle, je crée des solutions cohérentes qui allient ergonomie, créativité et objectifs du client."
+    },
+
+
+    "FitnessFriend1": {
+      "Content1": "FitnessFriends est une application mobile conçue pour permettre aux passionnés de fitness de rencontrer des partenaires d’entraînement et de participer à des séances de sport en groupe, dans la salle de leur choix. Le concept répond à une problématique simple : il est parfois difficile de rester motivé lorsqu’on s’entraîne seul. En mettant en relation des personnes partageant les mêmes intérêts et objectifs sportifs, Fitness Friends rend l’entraînement plus social, convivial et motivant, tout en encourageant les utilisateurs à rester actifs et à adopter une routine sportive régulière.",
+      "Content2": "Ceci est le résultat d’un projet que j’ai réalisé dans le cadre de mes études en Communication Multimédia et Design à l’Université de La Haye.",
+      "CtaView": "Découvrez le projet"
+    },
+
+
+
+
+    "TypeServicesDigitalMarketing": {
+      "Title": "Une approche UX, de l’idée à la solution",
+
+      "DigitalPlatforms": {
+        "Title": "1. Digital Platforms",
+        "ContentLine1": "Réseaux sociaux",
+        "ContentLine2": "Plateformes communautaires",
+        "ContentLine3": "Plateformes vidéo",
+        "ContentLine4": "Plateformes SaaS",
+        "ContentLine5": "Marketplaces et plateformes e-commerce",
+        "ContentLine6": "Plateformes éducatives et gouvernementales",
+        "ContentLine7": "Portails administratifs, clients et intranets d’entreprise",
+        "ContentLine8": "Plateformes de réservation et plateformes professionnelles"
+      },
+
+      "DigitalProducts": {
+        "Title": "2. Digitale producten & applicaties",
+        "ContentLine1": "Mobiele applicaties",
+        "ContentLine2": "Webapplicaties en Web Apps",
+        "ContentLine3": "Software en professionele applicaties",
+        "ContentLine4": "Dashboards en beheerinterfaces",
+        "ContentLine5": "SaaS-tools",
+        "ContentLine6": "Klantenportalen en ledenomgevingen",
+        "ContentLine7": "Managementsystemen",
+        "ContentLine8": "Interfaces met authenticatie en gebruikersaccounts"
+      },
+
+      "WebsitesExperiences": {
+        "Title": "3. Websites & Web Experiences",
+        "ContentLine1": "Sites web et sites vitrines",
+        "ContentLine2": "Sites corporate et institutionnels",
+        "ContentLine3": "Sites d’entreprise",
+        "ContentLine4": "Grands portails web et sites stratégiques",
+        "ContentLine5": "Portfolios et blogs / magazines",
+        "ContentLine6": "Sites événementiels et landing pages",
+        "ContentLine7": "Sites personnalisés avec des parcours utilisateurs complexes"
+      },
+
+      "Ecommerce": {
+        "Title": "4. E-commerce",
+        "ContentLine1": "Webshops et boutiques en ligne",
+        "ContentLine2": "Sites e-commerce et marketplaces",
+        "ContentLine3": "Catalogues produits",
+        "ContentLine4": "Parcours d’achat",
+        "ContentLine5": "Checkout et systèmes de paiement",
+        "ContentLine6": "Espaces clients e-commerce"
+      },
+
+      "Other": {
+        "Title": "5. Autres supports créatifs",
+        "ContentLine1": "Infographies",
+        "ContentLine2": "Affiches publicitaires",
+        "ContentLine3": "Supports de communication digitale",
+        "ContentLine4": "Identités visuelles et branding",
+        "ContentLine5": "Produits audiovisuels et vidéos",
+        "ContentLine6": "Motion design",
+        "ContentLine7": "Contenus pour réseaux sociaux",
+        "ContentLine8": "Supports événementiels et présentations visuelles"
+      },
+
+      "6EmailMarketingAutomation": {
+        "Title": "6. Email Marketing & Automatisation",
+        "ContentLine1": "Création de campagnes promotionnelles et de fidélisation",
+        "ContentLine2": "Automatisation des parcours (welcome, panier abandonné, suivi client)",
+        "ContentLine3": "Design professionnel de templates email",
+        "ContentLine4": "Suivi des taux d’ouverture et de conversion",
+        "ContentLine5": "OBJECTIF: Renforcer la relation client et augmenter la fidélité grâce à une communication intelligente."
+      },
+
+      "7BrandingDigitalIdentity": {
+        "Title": "7. Branding & Identité Digitale",
+        "ContentLine1": "Création de logo et d’identité visuelle",
+        "ContentLine2": "Image de marque cohérente sur tous les canaux",
+        "ContentLine3": "Développement de la voix et du storytelling de marque",
+        "ContentLine4": "Cohérence visuelle sur le site, les réseaux sociaux et les publicités",
+        "ContentLine5": "OBJECTIF: Construire une image de marque forte, reconnaissable et digne de confiance."
+      },
+
+      "8AnalyticsOptimization": {
+        "Title": "8. Analyse & Optimisation",
+        "ContentLine1": "Suivi des performances (Google Analytics, Meta Insights, etc.)",
+        "ContentLine2": "Tableaux de bord personnalisés et reporting",
+        "ContentLine3": "Optimisation continue pour maximiser les conversions",
+        "ContentLine4": "Tests A/B pour améliorer les résultats des campagnes",
+        "ContentLine5": "OBJECTIF: Transformer les données en actions concrètes pour booster les performances."
+      },
+
+      "9ContentMarketing": {
+        "Title": "9. Marketing de Contenu",
+        "ContentLine1": "Stratégie de contenu (calendrier éditorial, thématiques, formats, objectifs)",
+        "ContentLine2": "Rédaction d’articles optimisés SEO",
+        "ContentLine3": "Création de guides, eBooks, newsletters et fiches produits",
+        "ContentLine4": "Storytelling de marque (mise en valeur de votre histoire ou de celle de vos clients)",
+        "ContentLine5": "Écriture de scripts pour vidéos, podcasts ou publicités",
+        "ContentLine6": "Réutilisation de contenu (un contenu décliné en plusieurs formats)",
+        "ContentLine7": "OBJECTIF: Créer de la confiance, accroître la notoriété et générer des leads grâce à un contenu impactant."
+      }
+    },
+
+
+
+
+
+
+    "PricingDigitalMarketing": {
+      "BigTitle": "Nos forfaits de marketing digital",
+
+      "BasicPackage": {
+        "Title": "Forfait Basique (Plan Fondation)",
+        "ContentLine1": "Audit digital (site web + réseaux sociaux)",
+        "ContentLine2": "Mini stratégie digitale sur mesure",
+        "ContentLine3": "Mise en place des réseaux sociaux (1 à 2 plateformes)",
+        "ContentLine4": "4 publications par mois (visuels + légendes)",
+        "ContentLine5": "Optimisation SEO basique",
+        "ContentLine6": "Rapport de performance mensuel",
+        "ContentLine7": "Pour les startups ou petites entreprises qui débutent leur présence en ligne."
+      },
+
+      "StandardPackage": {
+        "Title": "Forfait Standard (Plan Croissance)",
+        "ContentLine1": "Stratégie digitale complète & consulting",
+        "ContentLine2": "Gestion des réseaux sociaux (jusqu’à 3 plateformes)",
+        "ContentLine3": "8 à 12 publications par mois + gestion de communauté",
+        "ContentLine4": "Optimisation SEO (mots-clés, métadonnées, mise en place du blog)",
+        "ContentLine5": "Une campagne publicitaire payante (Meta ou Google Ads)",
+        "ContentLine6": "Analyse mensuelle et optimisation",
+        "ContentLine7": "Pour les marques qui souhaitent une croissance et un engagement constants."
+      },
+
+      "GoldPackage": {
+        "Title": "Forfait Gold (Plan Expansion Premium)",
+        "ContentLine1": "Stratégie digitale complète & consulting",
+        "ContentLine2": "Gestion des réseaux sociaux (toutes les plateformes majeures)",
+        "ContentLine3": "Création de contenu (vidéos, reels, articles de blog, newsletters)",
+        "ContentLine4": "SEO + Publicités payantes (Google, Meta, TikTok, LinkedIn)",
+        "ContentLine5": "Mise en place de l’email marketing & automatisation",
+        "ContentLine6": "Optimisation du branding & storytelling",
+        "ContentLine7": "Tableau de bord personnalisé + revue mensuelle des performances",
+        "ContentLine8": "Pour les marques établies prêtes à passer à l’échelle et dominer leur marché."
+      }
+    }
+  },
+
+
+
+  "Phase": {
+    "Intro": {
+      "Eyebrow": "Ma démarche",
+      "Title": "Phases & méthodologie de conception",
+      "Subtitle": "De l'idée initiale à la mise en ligne, chaque projet suit un cadre de travail structuré : les six phases de la méthode P6, la démarche UX de Jesse James Garrett, ainsi que les méthodes et techniques de recherche qui garantissent la qualité de chaque décision de conception."
+    },
+
+    "Section1": {
+      "Eyebrow": "01 — Phases du projet",
+      "Title": "Une approche structurée avec la méthode P6",
+      "Intro1": "Lors du développement des concepts de mes applications, j'utilise la méthode P6 de Roel Grit afin de structurer chaque projet de manière claire et méthodique. Cette approche me permet d'avoir une vision globale du projet, de définir les différentes étapes de réalisation et de suivre leur progression, de la conception à la mise en œuvre.",
+      "Intro2": "Chaque phase constitue un cadre de référence qui m'aide à garder une ligne directrice tout au long du développement. L'utilisation de la méthode P6 me permet ainsi de transformer une idée en un projet concret, en avançant étape par étape tout en gardant une vision cohérente des objectifs, des besoins et des résultats attendus."
+    },
+
+    "Phases": {
+      "Phase1": {
+        "Title": "Phase d'initiative",
+        "Text": "Lors de la phase d'initiative, un problème ou une idée est identifié(e) et l'on considère qu'une action doit être entreprise. Les activités suivantes sont réalisées au cours de cette phase :",
+        "List1": "Analyse de la situation actuelle",
+        "List2": "Définition de la problématique",
+        "List3": "Détermination de l'objectif et du résultat attendu du projet"
+      },
+      "Phase2": {
+        "Title": "Phase de définition",
+        "Text": "La phase de définition permet de déterminer clairement ce qui est attendu du projet. À la fin de cette phase, un plan d'action est établi, dans lequel le projet est défini avec précision."
+      },
+      "Phase3": {
+        "Title": "Phase de conception",
+        "Text": "Au cours de la phase de conception, on détermine à quoi la solution doit ressembler et comment elle doit fonctionner. Afin de vérifier si la solution imaginée répond aux exigences définies, il est possible, si nécessaire, de créer un prototype."
+      },
+      "Phase4": {
+        "Title": "Phase de préparation",
+        "Text": "Durant la phase de préparation, le produit issu de la phase de conception est préparé en vue de sa réalisation. Le produit n'est pas encore développé à ce stade ; l'objectif est de mettre en place toutes les conditions nécessaires pour que sa réalisation puisse se dérouler sans problème."
+      },
+      "Phase5": {
+        "Title": "Phase de réalisation",
+        "Text": "C'est au cours de cette phase que le travail de développement commence réellement. Le produit final est réalisé conformément aux plans et aux spécifications définis lors des phases précédentes."
+      },
+      "Phase6": {
+        "Title": "Phase de suivi (post-réalisation)",
+        "Text": "Durant cette phase, le résultat du projet est mis en utilisation. Comme les circonstances et les besoins peuvent évoluer au fil du temps, les exigences liées au produit peuvent également changer. Des adaptations et des améliorations peuvent alors devenir nécessaires."
+      }
+    },
+
+    "Section2": {
+      "Eyebrow": "02 — Phase de conception",
+      "Title": "User Experience Design",
+      "Intro1": "Pour le développement de mes applications, j'utilise la méthode de conception User Experience de Jesse James Garrett. Elle me permet de concevoir des applications centrées sur l'utilisateur, en tenant compte de ses besoins, de ses attentes et de ses objectifs.",
+      "Intro2": "Cette approche m'accompagne de la définition des besoins jusqu'à la conception de l'interface finale. Elle me permet de structurer chaque étape du processus UX et de créer des expériences intuitives, accessibles et cohérentes. La méthode repose sur cinq niveaux complémentaires — Strategy, Scope, Structure, Skeleton et Surface — qui me permettent de passer progressivement de la réflexion stratégique à la conception visuelle de l'application."
+    },
+
+    "Planes": {
+      "Plane1": {
+        "NameLocal": "Plan stratégique",
+        "Text": "Les besoins et attentes des utilisateurs sont identifiés à travers une étude des besoins utilisateurs et une analyse du public cible. L'objectif est d'adapter l'application aux besoins et aux attentes des utilisateurs. Les objectifs de l'application sont également définis afin de déterminer clairement ce que l'utilisateur doit pouvoir accomplir grâce à l'application."
+      },
+      "Plane2": {
+        "NameLocal": "Plan fonctionnel",
+        "Text": "Les exigences du système sont définies afin de déterminer clairement les fonctionnalités et les spécifications de contenu que l'application doit intégrer."
+      },
+      "Plane3": {
+        "NameLocal": "Plan structurel",
+        "Text": "On détermine comment les différentes exigences du système et fonctionnalités de l'application s'articulent entre elles et comment elles sont organisées."
+      },
+      "Plane4": {
+        "NameLocal": "Plan structurel de l'interface",
+        "Text": "On détermine comment l'utilisateur navigue au sein de l'application. Les wireframes du site sont également conçus afin de définir la structure et la disposition des différents éléments de l'interface."
+      },
+      "Plane5": {
+        "NameLocal": "Plan visuel",
+        "Text": "Le design visuel de l'application est créé afin de définir son apparence finale. Cette étape concerne notamment la palette de couleurs, les icônes, la typographie, l'identité visuelle de la marque ainsi que le look & feel de l'application."
+      }
+    },
+
+    "Section3": {
+      "Eyebrow": "03 — Méthodes utilisées",
+      "Title": "Mes méthodes de travail",
+      "Intro": "Pour garantir la qualité et la cohérence des résultats de mes projets, je m'appuie sur différentes méthodes qui structurent chaque étape de mon processus de travail."
+    },
+
+    "Methods": {
+      "Method1": {
+        "Title": "Gestion de projet — méthode P6 de Roel Grit",
+        "Text": "J'utilise la méthode P6 pour structurer mes projets, définir les différentes étapes et assurer un suivi clair, de l'idée initiale jusqu'à la réalisation."
+      },
+      "Method2": {
+        "Title": "Méthodologie de recherche — Nel Verhoeven",
+        "Text": "Pour mes recherches et analyses, je m'appuie sur la méthodologie de Nel Verhoeven afin de mener mes recherches de manière structurée et méthodique."
+      },
+      "Method3": {
+        "Title": "User Experience Design — Jesse James Garrett",
+        "Text": "Pour le développement de mes applications, j'utilise la méthode User Experience de Jesse James Garrett. Elle me permet de concevoir des solutions centrées sur l'utilisateur et adaptées aux besoins d'un public cible spécifique."
+      }
+    },
+
+    "Section4": {
+      "Eyebrow": "04 — Techniques utilisées",
+      "Title": "Techniques de recherche & d'évaluation",
+      "Intro": "Ces techniques structurent mes phases de recherche et de test, de l'identification des besoins des utilisateurs jusqu'à la validation du prototype."
+    },
+
+    "Techniques": {
+      "Technique1": {
+        "Title": "Évaluation par des experts (Expert Review)",
+        "Text": "Afin d'identifier les problèmes d'utilisabilité du site existant avant sa refonte, une évaluation par des experts est réalisée. Cette analyse permet d'identifier les principaux points d'amélioration en s'appuyant sur les heuristiques de Jakob Nielsen comme cadre de référence (Nielsen, 1995)."
+      },
+      "Technique2": {
+        "Title": "Entretien semi-structuré",
+        "Text": "Afin d'identifier les besoins et les attentes des utilisateurs, un entretien semi-structuré est réalisé. Cette méthode offre une certaine liberté dans la collecte des informations et permet de poser des questions ouvertes, mais également d'approfondir certains sujets grâce à des questions complémentaires. Elle permet ainsi d'obtenir des informations plus précises et détaillées sur les attentes du public cible."
+      },
+      "Technique3": {
+        "Title": "Étude du public cible",
+        "Text": "Afin de mieux comprendre les utilisateurs du site web, une étude du public cible est réalisée. Un entretien avec le client permet dans un premier temps d'identifier les caractéristiques connues des utilisateurs. Le public cible est ensuite sollicité afin de compléter ces informations et d'identifier les besoins et caractéristiques qui ne sont pas encore connus."
+      },
+      "Technique4": {
+        "Title": "Benchmarking",
+        "Text": "Afin d'identifier les fonctionnalités, les modes de navigation et les choix visuels pertinents pour le prototype, une analyse comparative (benchmark) est réalisée. L'analyse de sites web similaires permet d'identifier leurs points forts afin de s'en inspirer, mais également leurs points faibles afin d'en tirer des enseignements pour la conception. Cette démarche permet notamment d'identifier des pistes concrètes pour améliorer l'expérience utilisateur et l'utilisabilité du site."
+      },
+      "Technique5": {
+        "Title": "Méthode MoSCoW",
+        "Text": "Afin de prioriser les exigences fonctionnelles et techniques du prototype, la méthode MoSCoW est utilisée. Elle permet de classer les fonctionnalités selon leur niveau d'importance et d'identifier celles qui sont essentielles, souhaitables ou qui peuvent être reportées. Cette approche permet de maintenir le projet réalisable, cohérent et maîtrisable."
+      },
+      "Technique6": {
+        "Title": "Cas d'utilisation et scénarios",
+        "Text": "Afin d'anticiper les différentes situations susceptibles de se présenter lors de l'utilisation du site, des cas d'utilisation (use cases) et des scénarios sont élaborés. Ces outils permettent d'analyser l'application du point de vue de l'utilisateur et de simuler les situations les plus courantes afin de préparer les différentes étapes de test du prototype."
+      },
+      "Technique7": {
+        "Title": "Test d'utilisabilité",
+        "Text": "Afin de vérifier si le prototype répond aux exigences d'utilisabilité, un test est réalisé auprès du public cible. Ce test permet d'observer et d'analyser la manière dont les utilisateurs naviguent sur le site et réalisent les différentes tâches qui leur sont proposées. Les observations sont consignées dans une fiche d'observation et une grille d'évaluation afin de faciliter leur analyse. Un entretien est également réalisé avec les participants afin de recueillir leurs impressions, remarques et suggestions concernant le prototype."
+      },
+      "Technique8": {
+        "Title": "Enquête",
+        "Text": "Afin de recueillir des informations auprès d'un nombre plus important de personnes, une enquête est réalisée auprès du public cible. Cette méthode permet de collecter de manière structurée des données sur les besoins, attentes, habitudes et préférences des utilisateurs. L'enquête peut être réalisée à l'aide d'un questionnaire comprenant des questions fermées et ouvertes. Ces résultats permettent d'orienter les choix de conception et de développer une solution davantage adaptée au public cible."
+      },
+      "Technique9": {
+        "Title": "Desk Research",
+        "Text": "Une Desk Research est également réalisée afin de recueillir et d'analyser les informations déjà disponibles sur le sujet du projet. Cette recherche s'appuie notamment sur des articles scientifiques, études, rapports, ouvrages, sites spécialisés et autres sources fiables. La Desk Research permet également de comparer différentes sources, de vérifier certaines informations et d'identifier les tendances ou bonnes pratiques pertinentes pour le projet."
+      }
+    },
+
+    "Principles": {
+      "Title": "Principes de recherche et d'évaluation",
+      "Subtitle": "Afin de garantir la fiabilité et la qualité des informations utilisées tout au long du projet, les principes suivants sont appliqués.",
+      "Principle1": {
+        "Title": "Fiabilité des sources",
+        "Text": "Les sources utilisées dans le cadre des recherches proviennent de références fiables et pertinentes afin de garantir la qualité des informations recueillies."
+      },
+      "Principle2": {
+        "Title": "Actualité des sources",
+        "Text": "Dans la mesure du possible, les articles, études et autres sources consultés sont récents et datent de moins de dix ans, afin de s'appuyer sur des informations actuelles."
+      },
+      "Principle3": {
+        "Title": "Référencement des sources",
+        "Text": "Les différentes sources consultées au cours du projet sont référencées conformément aux normes APA, afin d'assurer une traçabilité claire des informations utilisées."
+      },
+      "Principle4": {
+        "Title": "Évaluation de l'utilisabilité",
+        "Text": "Afin d'évaluer si les interfaces conçues répondent aux principes d'utilisabilité, je m'appuie notamment sur les heuristiques d'utilisabilité de Jakob Nielsen (Nielsen, 1995). Ces principes servent de référence pour identifier les éventuels problèmes d'utilisation et améliorer l'expérience utilisateur."
+      }
+    }
+  },
+
+
+
+  "NavbarPageUxDesign": {
+    "Btn1": "Retournez à mon portfolio",
+    "Btn2": "Retournez à UX/UI Design",
+    "Btn3": "Description",
+    "Btn4": "Conception",
+    "Btn5": "Plan/d'action",
+    "Btn6": "Méthodes",
+    "Btn7": "Techniques",
+    "Btn8": "Système/spécifications",
+    "Btn9": "Wireframes",
+    "Btn10": "Visuel/Design",
+    "Btn11": "Résultat"
+  },
+
+
+
+  "PageFitnessFriend": {
+    "Banner": {
+      "title": "Fitness Friends - Application mobile",
+      "Content": "Fitness Friends est une application mobile conçue pour permettre aux passionnés de fitness de rencontrer des partenaires d'entraînement et de participer à des séances de sport en groupe, dans la salle de leur choix.",
+      "Btn1": "Découvrir le projet",
+      "Btn2": "Voir le résultat"
+    },
+
+    "Description": {
+      "title": "Description",
+      "paragraphe1": "est une application mobile que j’ai imaginée et conçue pour permettre aux passionnés de fitness de rencontrer plus facilement des personnes avec qui s’entraîner. L’idée est simple : trouver un partenaire qui partage les mêmes objectifs, rejoindre une séance de sport en groupe ou simplement rencontrer de nouvelles personnes dans sa salle de fitness.",
+      "paragraphe2": "L’application permet ainsi de rendre les entraînements plus conviviaux et motivants, en créant un lien entre les personnes qui souhaitent progresser ensemble. Chacun peut choisir sa salle, découvrir des partenaires à proximité et participer à des séances adaptées à ses envies.",
+      "paragraphe3": "À travers ce projet, j’ai travaillé sur le concept, l’expérience utilisateur, l’interface et l’identité visuelle de l’application, avec l’objectif de créer une expérience à la fois simple, moderne et agréable à utiliser."
+    },
+
+    "Conception": {
+      "title": "Conception",
+      "Subtitle": "Fonctionnement de l’application",
+      "paragraphe1": "Avec FitnessFriend, les passionnés de fitness peuvent créer leur propre profil en ajoutant des informations personnelles ainsi que des photos afin de se présenter à de potentiels partenaires d’entraînement. Ils peuvent également préciser leurs préférences, leurs objectifs et le type de partenaire avec lequel ils souhaitent s’entraîner.",
+      "paragraphe2": "Une fois leur profil créé, les utilisateurs peuvent découvrir les autres passionnés de fitness présents sur la plateforme et entrer en contact avec des personnes partageant des intérêts et des objectifs sportifs similaires. Ils peuvent envoyer des messages, répondre aux demandes et échanger afin de trouver le partenaire d’entraînement qui leur correspond.",
+      "paragraphe3": "FitnessFriend permet également de consulter les réseaux sociaux d’un partenaire potentiel, comme Instagram, Facebook ou TikTok, afin de mieux faire connaissance et de créer une relation qui va au-delà de l’application.",
+      "paragraphe4": "Les utilisateurs peuvent aussi partager des programmes alimentaires, échanger des conseils et se soutenir mutuellement dans l’atteinte de leurs objectifs. L’objectif de FitnessFriend est de créer une véritable communauté autour du fitness, où chacun peut rester motivé, s’entraîner ensemble et progresser ensemble."
+    },
+
+    "ActionPlan": {
+      "Title": "Plan d'action",
+
+      "Content": "Après avoir défini le projet, j'ai élaboré un plan de mise en œuvre afin d'avoir une vision claire du processus et des étapes à suivre pour atteindre mon objectif. Ce plan d'action comprend :",
+      "Line1": "Un aperçu des activités, phases et livrables à produire durant le projet, ainsi que des méthodes et techniques utilisées,",
+      "Line2": "Les exigences garantissant la qualité du résultat final ainsi que celle des livrables intermédiaires,",
+      "Line3": "Un aperçu de l'ensemble des acteurs et organisations ayant une influence sur le projet, incluant le rôle de chaque membre de l'équipe,",
+      "Line4": "Une planification du projet avec les différentes échéances,",
+      "Line5": "Une description de la durée, de l'ampleur et des prérequis du projet,",
+      "Line6": "Le coût du projet ainsi que l'ensemble des facteurs de risque."
+    },
+
+    "UsedMethod": {
+      "Title": "Méthodes utilisées",
+
+      "Subtitle1": "La méthode P6",
+      "Content1": "Pour structurer l'ensemble du projet, je me suis appuyé sur la méthode de gestion de projet P6, développée par le Néerlandais Roel Grit. Ce choix repose sur le fait que cette méthode permet d'appréhender un projet dans sa globalité : chaque étape contient des activités spécifiques, ce qui offre un cadre de référence tout au long de la réalisation. La méthode P6 comporte six phases.",
+      "Subtitle2": "La méthode User Experience",
+      "Content2": "Pour la conception de cette application mobile, j'ai utilisé la méthode User Experience, créée par le designer américain Jesse James Garrett. Ce choix se justifie par le fait que cette méthode m'a permis de développer une application adaptée à un public cible précis, rendant l'app accessible et pertinente. Durant le projet, j'ai appliqué cette méthode lors de la phase de conception du P6.",
+      "Subtitle3": "La méthode de Nel Verhoeven",
+      "Content3": "J'ai choisi de mener les différentes recherches du projet selon la méthode de la Néerlandaise Nel Verhoeven, consultante en recherche reconnue et respectée aux Pays-Bas."
+    },
+
+    "UsedTechnic": {
+      "Title": "Techniques utilisées",
+
+      "Subtitle1": "Entretien semi-structuré",
+      "Content1": "Cette technique permet de déterminer les besoins et attentes des utilisateurs. Elle offre davantage de liberté lors de la collecte d'informations, en posant des questions ouvertes qui donnent des réponses détaillées et une quantité importante d'informations sur le public cible.",
+      "Subtitle2": "Recherche documentaire",
+      "Content2": "Cette technique m'a permis d'identifier les caractéristiques possibles des utilisateurs réels de l'application, afin de mieux cerner concrètement les profils à approcher lors des sessions d'entretiens.",
+      "Subtitle3": "Benchmarking",
+      "Content3": "Cette technique m'a permis de déterminer les fonctionnalités, la navigation et le style directeur de l'application, en m'inspirant d'applications comparables à mon concept. Cette étude m'a aussi permis d'identifier les points faibles de ces applications afin de mieux positionner la mienne sur le marché.",
+
+      "Subtitle4": "Méthode MoSCoW",
+      "Content4": "J'ai également utilisé la méthode MoSCoW, qui permet de prioriser les exigences de l'application en les regroupant selon leur importance, afin de mieux comprendre les besoins essentiels du projet.",
+      "Subtitle5": "Cas d'utilisation",
+      "Content5": "Un cas d'utilisation permet de visualiser tous les scénarios alternatifs pouvant survenir lorsqu'un utilisateur cherche à atteindre son objectif, et de poser les bases des exigences fonctionnelles et non fonctionnelles.",
+      "Subtitle6": "Test d'utilisabilité",
+      "Content6": "Cette technique m'a permis d'évaluer si le prototype répondait aux critères d'ergonomie. Elle permet d'expérimenter et d'évaluer le comportement de l'utilisateur naviguant dans l'application, en observant comment il traverse les différentes étapes du parcours."
+
+    },
+
+    "SystemRequirements": {
+      "Title": "Les exigences de l'application",
+
+      "Paragraph1": "À cette étape de mon projet, j'ai défini les besoins et exigences de l'application FitnessFriend afin de déterminer clairement les fonctionnalités et les caractéristiques auxquelles elle devait répondre.",
+      "Paragraph2": "Pour cela, je me suis appuyé sur les résultats de ma phase de recherche, notamment le benchmark, les besoins des utilisateurs et les objectifs de l'application.",
+      "Paragraph3": "J'ai ensuite classé ces exigences en deux catégories : fonctionnelles et non fonctionnelles. Les exigences fonctionnelles décrivent les fonctionnalités que l'utilisateur doit pouvoir utiliser, tandis que les exigences non fonctionnelles concernent la manière dont l'application doit fonctionner, notamment en termes de performance, sécurité, simplicité et fiabilité.",
+      "Paragraph4": "Cette distinction m'a permis de structurer plus clairement les besoins du projet et de mieux définir les bases de FitnessFriend."
+    },
+
+    "VisualDeisgn": {
+      "Title": "Design visuel",
+
+      "Paragraph1": "À cette étape, j'ai créé le design visuel du site web tel qu'il apparaîtra dans sa version finale. J'y ai conçu les éléments nécessaires pour transformer le site vers le design final. Pour cela, j'ai :",
+
+      "Line1": "Déterminer la typographie",
+      "Line2": "Définir la palette de couleurs",
+      "Line3": "Sélectionner les icônes",
+      "Line4": "Créer le logo",
+      "Line5": "Sélectionner les photos",
+      "Line6": "Définir le look and feel",
+      "Line7": "Concevoir les maquettes des différentes pages de l'application",
+
+      "Paragraph2": "Lors de la création du design visuel, je me suis appuyé sur les résultats des besoins des utilisateurs, de l'étude de benchmark et des objectifs de l'application, afin que le design y soit parfaitement adapté."
+    },
+
+
+    "ColorScheme": {
+
+      "Title": "Palette de couleurs",
+
+      "Paragraph": "Afin de distinguer la marque FitnessFriend de la concurrence, j'ai sélectionné une nouvelle palette de couleurs et créé un univers visuel unique.",
+
+      "Color1": "Bleu",
+      "Color2": "Bleu ciel",
+      "Color3": "Rouge",
+      "Color4": "Vert",
+      "Color5": "Blanc"
+    },
+
+    "Logo": {
+      "Title": "Logo FitnessFriend",
+      "Content": "J'ai également créé un logo afin de donner une identité de marque à l'application FitnessFriend. Vous pouvez découvrir ce logo dans l'image ci-contre."
+    },
+
+
+    "Typography": {
+      "Title": "Typographie",
+      "Content": "Pour l'application FitnessFriend, j'ai utilisé la police Helvetica, une police lisible et internationalement reconnue pour sa polyvalence. J'ai utilisé cette police dans plusieurs couleurs et tailles afin de créer un contraste entre les titres et les textes du contenu. Dans certaines parties de l'application, j'ai utilisé des couleurs claires pour les textes secondaires, afin de les mettre en retrait et de permettre aux textes les plus importants de mieux ressortir auprès de l'utilisateur."
+    },
+
+
+    "Icons": {
+      "Title": "Icônes",
+      "ContentLine1": "Pour l'application FitnessFriend, j'ai choisi d'utiliser les icônes",
+      "ContentLine2": "Ce sont des icônes très populaires et facilement reconnaissables par les utilisateurs. Un autre avantage des icônes Font Awesome est que certaines d'entre elles sont disponibles gratuitement."
+    },
+
+    "Wireframes": {
+      "Title": "Wireframes",
+      "Content": "Pour l'application FitnessFriend, j'ai créé des wireframes afin d'obtenir une visualisation de la disposition du site. Ces wireframes m'ont permis d'avoir un cadre de référence lors de la conception des maquettes à l'étape suivante."
+    },
+
+    "Mockups": {
+      "Title": "Mockups",
+      "Content": "Après avoir créé les wireframes du site, j'ai conçu les maquettes de FitnessFriend. Pour cela, j'ai utilisé Figma, une plateforme de conception de produits digitaux telle que des prototypes interactifs et des sites web. Lors de la conception des maquettes, je me suis appuyé sur les wireframes réalisés à l'étape précédente afin de poursuivre la logique de design définie en amont. J'ai également pris en compte la palette de couleurs de mon guide de style afin de pouvoir facilement colorer les différentes parties du site. Durant ce processus, je me suis aussi appuyé sur la typographie définie précédemment."
+    },
+
+    "Result": {
+      "Title": "Résultats",
+      "Content": "Découvrez les 28 interfaces de l'application FitnessFriend. Utilisez les boutons de navigation ou glissez pour parcourir l'ensemble des écrans et découvrir progressivement l'expérience proposée par l'application."
+    }
+
+  },
+
+
+
+
+
+  "MusicPage":{
+    "Banner" : {
+      "Title": "Musique, Production, Créativité",
+      "ContentLine1": "Nous créons des sons puissants et professionnels qui donnent vie à votre histoire.",
+      "ContentLine2": "Écoutez, ressentez et appropriez-vous nos beats professionnels sur Falcon Beats. Le son qui fera la différence commence ici.",
+      "BtnLine": "Écouter nos beats"
+    },
+
+    "DescriptionMusic": {
+      "Title": "Nos Services de Production Musicale",
+      "Subtitle": "Nous transformons les idées en son. De la production de beats au mastering, nous créons une musique qui inspire, connecte et valorise votre message.",
+      "Content": "Nous produisons de la musique professionnelle pour les artistes et les marques, de la création de beats jusqu’au mixage et mastering complets. Notre studio offre un son clair et puissant, adapté à votre style et à votre message. Nous créons également des musiques originales pour les publicités, podcasts, vidéos et contenus digitaux."
+    },
+
+    "TypeVideo": {
+      "BigTitle": "Nous produisons de la musique pour :",
+
+      "1ArtistsMusiciansPerformers": {
+        "Title": "1. Artistes, Musiciens & Performers",
+        "ContentLine1": "Production de beats (beats sur mesure, instrumentaux)",
+        "ContentLine2": "Enregistrement, mixage & mastering",
+        "ContentLine3": "Arrangement musical & édition vocale",
+        "ContentLine4": "Production d’albums & de singles"
+      },
+
+      "2BusinessesEntrepreneurs": {
+        "Title": "2. Entreprises & Entrepreneurs",
+        "ContentLine1": "Musique d’ambiance pour publicités et vidéos promotionnelles",
+        "ContentLine2": "Jingles corporate & identité sonore",
+        "ContentLine3": "Intros / outros de podcasts et sound design",
+        "ContentLine4": "Musique pour le storytelling de marque ou les présentations"
+      },
+
+      "3ContentCreatorsInfluencers": {
+        "Title": "3. Créateurs de Contenu & Influenceurs",
+        "ContentLine1": "Musique pour vidéos sur les réseaux sociaux, Reels, YouTube & TikTok",
+        "ContentLine2": "Bandes-son lifestyle et voyage",
+        "ContentLine3": "Éditions courtes et boucles pour contenus digitaux"
+      },
+
+      "4ForFilmmakersCreators": {
+        "Title": "4. Pour Cinéastes & Créateurs",
+        "ContentLine1": "Bandes originales & compositions cinématographiques",
+        "ContentLine2": "Musique pour trailers et documentaires",
+        "ContentLine3": "Sound design ambiant et émotionnel"
+      }
+    },
+
+    "MusicPackage": {
+      "BigTitle": "Nos Packs de Production Musicale",
+
+      "Beat": {
+        "Title": "Beat",
+
+        "ProfessionalLicense": {
+          "Title": "Licence Professionnelle",
+          "ContentLine1": "Fichiers WAV + MP3 (qualité studio)",
+          "ContentLine2": "Trackouts / Stems (pistes séparées pour un mixage professionnel)",
+          "ContentLine3": "Droits de monétisation sur Spotify, YouTube, Apple Music, Deezer, etc.",
+          "ContentLine4": "Nombre de streams limité (ex. jusqu’à 500k ou 1M de streams)",
+          "ContentLine5": "Licence non exclusive — le producteur peut revendre le beat à d’autres artistes",
+          "ContentLine6": "Objectif:",
+          "ContentLine7": "Licence non exclusive avancée destinée aux artistes sérieux souhaitant monétiser leurs morceaux sur les plateformes de streaming."
+        },
+
+        "MonetizationStreaming": {
+          "Title": "Licence Monétisation & Streaming",
+          "ContentLine1": "Fichiers WAV + MP3 (qualité studio)",
+          "ContentLine2": "Trackouts / Stems (pistes séparées pour un mixage professionnel)",
+          "ContentLine3": "Droits de monétisation sur Spotify, YouTube, Apple Music, Deezer, etc.",
+          "ContentLine4": "Nombre de streams limité (ex. jusqu’à 500k ou 1M de streams)",
+          "ContentLine5": "Droits de performances live et diffusion radio locale",
+          "ContentLine6": "Licence non exclusive — le producteur peut revendre le beat à d’autres artistes",
+          "ContentLine7": "Objectif",
+          "ContentLine8": "Une licence avancée pour les artistes souhaitant exploiter et monétiser leur musique sur les plateformes digitales."
+        },
+
+        "EliteCreatorLicense": {
+          "Title": "Licence Elite Creator",
+          "ContentLine1": "Tous les fichiers inclus : WAV + MP3 + stems",
+          "ContentLine2": "Droits d’utilisation étendus ou illimités — streams illimités, radio nationale, TV, synchronisation (pubs, films, jeux, etc.)",
+          "ContentLine3": "Droits de perception de royalties ou de revente en tant que propriétaire",
+          "ContentLine4": "Licence exclusive (beat vendu une seule fois)",
+          "ContentLine5": "Options Pro possibles : contrat complet, transfert partiel de droits d’auteur, accès direct au producteur pour ajustements",
+          "ContentLine6": "Crédit de production officiel (« Prod by… »)",
+          "ContentLine7": "Objectif:",
+          "ContentLine8": "une licence haut de gamme offrant des droits professionnels étendus et des options premium."
+        }
+      },
+
+      "VocalRecording": {
+        "Title": "2. Packs d’Enregistrement Vocal",
+
+        "BasicPackageVocal": {
+          "Title": "Pack Basic (Enregistrement Vocal uniquement)",
+          "ContentLine1": "Session d’enregistrement vocal en studio",
+          "ContentLine2": "Microphone professionnel (Neumann U87 ou Brauner Phantom Classic)",
+          "ContentLine3": "Livraison du fichier WAV en haute résolution",
+          "ContentLine4": "Assistance d’un ingénieur du son pendant la session",
+          "ContentLine5": "Optionnel : choix du type de microphone (studio 1ère ou 2ème classe) — impact sur le prix",
+          "ContentLine6": "Objectif :",
+          "ContentLine7": "Pour les artistes, influenceurs ou créateurs qui souhaitent un enregistrement vocal propre et de haute qualité à mixer ailleurs."
+        },
+
+        "StandardVocal": {
+          "Title": "Pack Standard (Voix + Mix & Master)",
+          "ContentLine1": "Session d’enregistrement vocal",
+          "ContentLine2": "Mixage professionnel des voix avec votre instrumentale",
+          "ContentLine3": "Mastering disponible sur demande",
+          "ContentLine4": "Livraison du titre final en formats WAV + MP3",
+          "ContentLine5": "Droits de performances live et diffusion radio locale",
+          "ContentLine6": "Non exclusif — le producteur peut revendre le beat à d’autres artistes",
+          "ContentLine7": "Objectif :",
+          "ContentLine8": "Une formule avancée pour les artistes sérieux souhaitant monétiser leurs morceaux sur Spotify, YouTube et Apple Music."
+        },
+
+        "PremiumVocal": {
+          "Title": "Pack Premium (Direction Artistique Complète)",
+          "ContentLine1": "Session d’enregistrement vocal",
+          "ContentLine2": "Mixage et mastering professionnels",
+          "ContentLine3": "Direction artistique et coaching vocal pendant la session",
+          "ContentLine4": "Accompagnement sur le ton, l’émotion et l’interprétation",
+          "ContentLine5": "Accès au réseau du studio (producteurs, influenceurs, etc.)",
+          "ContentLine6": "Livraison finale en WAV + MP3 (qualité radio & streaming)",
+          "ContentLine7": "Objectif :",
+          "ContentLine8": "Pour les artistes qui veulent plus qu’un simple enregistrement : accompagnement créatif, son premium et expérience professionnelle complète."
+        }
+      },
+
+      "FullProduction": {
+        "Title": "3. Packs de Production Complète (Beat + Voix + Mix & Master)",
+
+        "FullProduction1": {
+          "Title": "Pack Production Complète (Beat + Voix + Mix & Master)",
+          "ContentLine1": "Beat personnalisé ou préexistant (WAV + MP3)",
+          "ContentLine2": "Session d’enregistrement vocal en studio",
+          "ContentLine3": "Microphone professionnel (Neumann U87 ou Brauner Phantom Classic)",
+          "ContentLine4": "Livraison des fichiers séparés (beat + voix, prêts pour le mixage)",
+          "ContentLine5": "Licence de beat non exclusive (jusqu’à 250k streams)",
+          "ContentLine6": "Optionnel : tarif variable selon la durée d’enregistrement et le type de beat",
+          "ContentLine7": "Objectif :",
+          "ContentLine8": "Pour les artistes souhaitant un beat sur mesure et un enregistrement vocal propre afin de construire leur projet et mixer ailleurs."
+        },
+
+        "ProfessionalPackage": {
+          "Title": "Pack Professionnel (Beat + Mix & Master)",
+          "ContentLine1": "Beat personnalisé (WAV + MP3 + stems)",
+          "ContentLine2": "Session d’enregistrement vocal",
+          "ContentLine3": "Mixage professionnel du beat et des voix",
+          "ContentLine4": "Mastering (prêt pour Spotify / Apple Music)",
+          "ContentLine5": "Licence non exclusive ou semi-exclusive (jusqu’à 1M de streams)",
+          "ContentLine6": "Mention de crédit (« Prod by NEXTÉCLAT »)",
+          "ContentLine7": "Optionnel : tarif variable selon l’exclusivité et la complexité du projet",
+          "ContentLine8": "Objectif :",
+          "ContentLine9": "Pour les artistes sérieux souhaitant un titre entièrement mixé et prêt pour le streaming."
+        },
+
+        "ElitePackage": {
+          "Title": "Pack Elite (Production Artistique Complète)",
+          "ContentLine1": "Beat exclusif (créé sur mesure selon votre vision)",
+          "ContentLine2": "Session d’enregistrement vocal avec direction artistique",
+          "ContentLine3": "Mixage et mastering professionnels",
+          "ContentLine4": "Coaching vocal (performance et interprétation)",
+          "ContentLine5": "Direction créative (concept, ambiance, hook, identité sonore)",
+          "ContentLine6": "Accès au réseau Falcon XXL (ingénieurs, influenceurs, médias)",
+          "ContentLine7": "Droits complets de monétisation et de distribution (streams illimités)",
+          "ContentLine8": "Contrat optionnel pour la gestion des droits d’auteur et royalties",
+          "ContentLine9": "Objectif :",
+          "ContentLine10": "Pour les artistes ou marques recherchant une production haut de gamme avec accompagnement artistique et son de niveau industrie."
+        }
+      }
+    },
+
+    "WhyChoose": {
+      "Title": "Pourquoi choisir nos services musicaux",
+      "ContentLine1": "Production actuelle : Nous créons des sons en phase avec les tendances musicales d’aujourd’hui — modernes, frais et prêts pour la radio.",
+      "ContentLine2": "Créativité polyvalente : De l’Afrobeat au R&B ou à la Trap, nous nous adaptons à votre public cible et livrons exactement ce que votre niche attend.",
+      "ContentLine3": "Ingénieurs de haut niveau : Collaboration avec des artistes à succès certifiés disque d’or.",
+      "ContentLine4": "Équipe experte : Beatmakers et ingénieurs de mixage avec une véritable expérience de l’industrie.",
+      "ContentLine5": "Accompagnement artistique : Nous vous aidons à façonner et affiner votre vision créative.",
+      "ContentLine6": "Studio tout-en-un : Production de beats, enregistrement vocal, mixage et mastering au même endroit.",
+      "ContentLine7": "Réseau solide : Connexions avec des artistes, influenceurs et entrepreneurs."
+    }
+  },
+
+  "Prices": {
+    "Title": "Nos tarifs",
+
+    "Content": "Nous affichons clairement les prix de nos principaux services : audiovisuel, photographie, web design, branding, marketing digital et production musicale. Cliquez sur un service ci-dessous pour consulter les détails des tarifs. Pour un devis personnalisé, veuillez nous contacter directement.",
+
+    "Button1": "Tarifs Audiovisuels",
+    "Button2": "Tarifs Photographie",
+    "Button3": "Tarifs Web Design",
+    "Button4": "Tarifs Branding",
+    "Button5": "Tarifs Marketing Digital",
+    "Button6": "Tarifs Production Musicale"
+  },
+
+  "RequestQuote": {
+    "BigTitle1": "Une question ?",
+    "BigTitle2": "Un projet ?",
+
+    "SubtitleLeft1": "Merci !",
+    "SubtitleLeft2": "Falcon XXL",
+    "SubtitleLeft3": "est prêt à vous accompagner",
+
+    "SubtitleRight1": "Votre demande concerne ?",
+
+    "Form1": "Prénom*",
+    "Form2": "Nom*",
+    "Form3": "Rôle dans l’entreprise (optionnel)",
+    "Form4": "Entreprise (optionnel)",
+    "Form5": "Email*",
+    "Form6": "Numéro de téléphone (si vous préférez être contacté par téléphone)",
+    "Form7": "Ville / Pays*",
+    "Form8": "Site web (optionnel)",
+
+    "FormServices": {
+      "drop1": "Sélectionnez le service souhaité",
+      "drop2": "Vidéo / Clip / Film corporate",
+      "drop3": "Photographie",
+      "drop4": "Site web",
+      "drop5": "Branding (logo, identité visuelle, guidelines…)",
+      "drop6": "Marketing digital / Réseaux sociaux",
+      "drop7": "Production musicale / Beatmaking",
+      "drop8": "Je ne sais pas encore, j’ai besoin de conseils"
+    },
+
+    "FormBudget": {
+      "drop1": "Sélectionnez votre budget estimé",
+      "drop2": "200 € – 500 €",
+      "drop3": "500 € – 1 000 €",
+      "drop4": "1 000 € – 3 000 €",
+      "drop5": "3 000 € – 10 000 €",
+      "drop6": "Plus de 10 000 €",
+      "drop7": "Je ne sais pas encore"
+    },
+
+    "Form11": "Décrivez votre projet...",
+    "Form12": "Deadline (optionnel) :",
+
+    "ButtonSend": "Envoyer la demande"
+  },
+
+
+  "ContactForm": {
+    "BigTitle": "Faites connaissance avec nous",
+    "Subtitle": "Des conseils sans engagement. Toujours honnêtes.",
+    "Content": "Nous sommes là pour vous aider. Nous allons toujours un pas plus loin \ndans notre communication. Faites-nous savoir ce que vous préférez.",
+
+    "TitleLeft": "Un service de rappel pratique",
+    "ContentLeft": "Laissez vos coordonnées et nous vous contacterons rapidement \nles jours ouvrables. C’est aussi simple que ça.",
+    "TitleRight": "Des questions ? Contactez l’équipe NEXTÉCLAT",
+    "ContentRight1": "Appelez-nous :",
+    "ContentRight2": "Envoyez-nous un e-mail :",
+
+    "Form1": "Prénom*",
+    "Form2": "Nom*",
+    "Form3": "Rôle dans l’entreprise (optionnel)",
+    "Form4": "Entreprise (optionnel)",
+    "Form5": "Email*",
+    "Form6": "Numéro de téléphone (si vous préférez être contacté par téléphone)",
+    "Form7": "Ville / Pays*",
+    "Form8": "Décrivez votre projet...",
+
+    "ButtonContact": "Contactez-nous"
+  },
+
+  "About": {
+    "Banner": {
+      "Title": "De mes études à aujourd’hui",
+      "Content": "Je suis Michael Ilunga, développeur Front-End, UX Designer et créateur d’identités visuelles, avec une expertise en réalisation audiovisuelle. À travers ce portfolio, je vous présente mes compétences et une sélection de mes projets développés au fil des années.",
+      "Button": "Découvrez-moi"
+    },
+    "WhoAreWe": {
+      "Title": "Qui suis-je ?",
+      "Subtitle1": "MICHAEL ILUNGA",
+      "Subtitle2": " est un Front-End Developer, UX Designer et créatif passionné par la conception d’expériences digitales modernes, fonctionnelles et visuellement impactantes.",
+      "ContentLine1a": "Développement Web :",
+      "ContentLine1b": " Création de sites web modernes, responsives et performants avec les technologies Front-end.",
+      "ContentLine2a": "UX/UI Design :",
+      "ContentLine2b": " Conception d’interfaces intuitives et d’expériences pensées autour des besoins des utilisateurs.",
+      "ContentLine3a": "Identité Visuelle :",
+      "ContentLine3b": " Création d’univers visuels cohérents à travers le design, les logos et les différents supports de communication.",
+      "ContentLine4a": "Audiovisuel :",
+      "ContentLine4b": " Création de contenus visuels, photographie et production audiovisuelle pour donner vie aux idées et aux projets.",
+      "ContentLine5a": "Créativité & Innovation :",
+      "ContentLine5b": " Une approche multidisciplinaire qui combine technologie, design et créativité pour créer des expériences digitales uniques."
+    }
+  },
+
+
+  "FounderMichael": {
+    "BigTitle": "De mes études à aujourd’hui",
+
+    "Paragraphe1": "Je suis né à Kinshasa, en République démocratique du Congo, où j’ai effectué mes études primaires et secondaires au Collège Boboto. C’est également au Congo que j’ai grandi dans un environnement multiculturel et linguistique, où j’ai appris le français, langue officielle du pays, ainsi que le lingala et le swahili. Cette diversité culturelle a naturellement influencé ma manière de communiquer, de créer et de voir le monde.",
+
+    "Paragraphe2": "Je me suis ensuite installé aux Pays-Bas, où j’ai poursuivi mon parcours académique et professionnel. J’ai commencé par étudier le Marketing et la Communication au ROC Zeeland à Middelburg. J’ai ensuite poursuivi mes études à la The Hague University of Applied Sciences à La Haye, où j’ai obtenu un Bachelor of Science en Communication & Multimedia Design. Ces formations m’ont permis de développer mes compétences en communication, marketing, design digital, UX/UI, multimédia et résolution créative de problèmes.",
+
+    "Paragraphe3": "Animé par ma passion pour la technologie et les expériences digitales, j’ai ensuite suivi une formation de Front-End Developer à la Novi University à Utrecht. J’y ai approfondi mes compétences en HTML, CSS, JavaScript et React, en apprenant à transformer des concepts et des designs en expériences web modernes, responsives et fonctionnelles. Mon parcours dans le numérique s’est ainsi progressivement construit à la croisée du design, de l’expérience utilisateur et du développement web.",
+
+    "Paragraphe4": "Mon parcours créatif s’est également développé dans le domaine de l’audiovisuel et de la musique. J’ai étudié la production de musique électronique au SAE Institute de Rotterdam, où j’ai appris la création sonore, l’enregistrement et la production musicale professionnelle destinée notamment à des plateformes comme Spotify et Deezer. J’ai également développé une expérience en direction artistique à travers la réalisation de clips musicaux, de spots publicitaires et de projets visuels pour différentes marques.",
+
+    "Paragraphe5": "Mon parcours international a également enrichi mes compétences linguistiques. En arrivant aux Pays-Bas, j’ai appris le néerlandais et j’ai considérablement amélioré mon anglais, que je ne maîtrisais auparavant qu’à un niveau très basique. Mes différentes activités musicales en Belgique et en France m’ont également permis de renforcer ma pratique du français. Aujourd’hui, cette diversité linguistique et culturelle fait partie intégrante de mon identité et de ma manière de travailler.",
+
+    "Paragraphe6": "Aujourd’hui, je réunis toutes ces expériences pour construire un profil multidisciplinaire, à la croisée du développement Front-end, de l’UX/UI, du design, de l’audiovisuel et de la créativité. Mon objectif est de concevoir des expériences digitales modernes, utiles et visuellement fortes, tout en apportant à chaque projet une vision à la fois technique et créative."
+  },
+
+  "Certification": {
+    "BigTitle": "Ses certifications et expertises",
+
+    "Cmd": {
+      "Title": "Université de La Haye (La Haye, Pays-Bas)",
+      "Content": "Diplômé en Communication et Multimedia Design à l’Université de La Haye, où il a obtenu un Bachelor en Technologies de l’Information avec un fort accent sur la résolution de problèmes digitaux et la production de médias créatifs.",
+      "ContentLine1a": "Communication : ",
+      "ContentLine1b": "Communiquer efficacement avec un public cible à travers les médias numériques.",
+      "ContentLine2a": "UX/UI Design : ",
+      "ContentLine2b": "Conception d’interfaces intuitives (UI) et d’expériences utilisateur fluides (UX).",
+      "ContentLine3a": "Interaction Design : ",
+      "ContentLine3b": "Concevoir la manière dont les utilisateurs interagissent avec un produit digital via des actions et des retours.",
+      "ContentLine4a": "Digital Product Design : ",
+      "ContentLine4b": "Création de produits digitaux complets en combinant stratégie, ergonomie et design visuel."
+    },
+
+    "Novi": {
+      "Title": "Université Novi (Utrecht, Pays-Bas)",
+      "Content": "Certifié en développement Front-End à l’Université Novi, où il a appris à créer des applications web modernes et performantes, notamment des Single Page Applications (SPA).",
+      "ContentLine1a": "React : ",
+      "ContentLine1b": "Création d’interfaces dynamiques et d’applications basées sur des composants.",
+      "ContentLine2a": "JavaScript : ",
+      "ContentLine2b": "Ajout de logique, d’interactivité et de fonctionnalités aux applications web.",
+      "ContentLine3a": "HTML : ",
+      "ContentLine3b": "Structuration du contenu web avec un balisage sémantique propre.",
+      "ContentLine4a": "CSS : ",
+      "ContentLine4b": "Stylisation des interfaces et création de mises en page responsives.",
+      "ContentLine5a": "Git & GitHub : ",
+      "ContentLine5b": "Gestion de versions, collaboration et gestion de projets.",
+      "ContentLine6a": "WebStorm & IntelliJ (IDE) : ",
+      "ContentLine6b": "Utilisation d’environnements de développement professionnels pour un codage efficace.",
+      "ContentLine7a": "Figma (Wireframes & Prototypes) : ",
+      "ContentLine7b": "Conception de wireframes, interfaces UI et prototypes interactifs."
+    },
+
+    "Sae": {
+      "Title": "SAE Institute (Rotterdam, Pays-Bas)",
+      "Content": "Certifié en production musicale au SAE Institute, avec une spécialisation dans la création musicale moderne, l’enregistrement et la production audio professionnelle.",
+      "ContentLine1a": "Production de musique électronique : ",
+      "ContentLine1b": "Compréhension du sound design, de l’arrangement, de la synthèse et de la composition créative.",
+      "ContentLine2a": "Beatmaking : ",
+      "ContentLine2b": "Création de patterns de batterie, grooves et structures rythmiques.",
+      "ContentLine3a": "Enregistrement vocal : ",
+      "ContentLine3b": "Capture de voix propres et de haute qualité grâce aux techniques studio.",
+      "ContentLine4a": "Utilisation de plugins : ",
+      "ContentLine4b": "Travail avec des synthétiseurs, plugins de mixage et outils de traitement sonore.",
+      "ContentLine5a": "Logic Pro / FL Studio / Cubase :",
+      "ContentLine5b": " Création de beats, production, arrangement et mixage de morceaux complets.",
+      "ContentLine6a": "Pro Tools : ",
+      "ContentLine6b": "Utilisation d’un environnement audio professionnel pour la production musicale."
+    }
+  },
+
+  "OurTeam": {
+    "Title": "Notre équipe",
+
+    "Fonction1": "Directeur Marketing & Communication",
+    "Fonction2": "Relations publiques (PR Manager)",
+    "Fonction3": "CEO – Directeur Général",
+    "Fonction4": "Directeur des Opérations"
+  },
+
+  "MissionVision": {
+    "OurMission": "Mes ambitions",
+
+    "Subtitle1": "À court terme — Intégrer une équipe et contribuer",
+    "Content1": "Mon objectif à court terme est d’intégrer une équipe performante dans laquelle je pourrai mettre mes compétences et mon expérience au service de projets concrets. Je souhaite contribuer pleinement à l’atteinte des objectifs de l’équipe et de l’entreprise, partager mes connaissances et apporter ma créativité et mon expertise. Je souhaite également continuer à apprendre : travailler aux côtés de professionnels expérimentés représente pour moi une opportunité de découvrir de nouvelles méthodes, d’acquérir de nouvelles compétences et de progresser au contact d’autres expertises.",
+
+    "Subtitle2": "À long terme — Évoluer dans la technologie",
+    "Content2": "À long terme, mon ambition est de continuer à évoluer dans le domaine de l’informatique et de devenir un professionnel plus complet. Après avoir développé mon expertise en Front-End Development, je souhaite approfondir mes connaissances en Back-End Development, puis explorer des domaines tels que la cybersécurité et l’intelligence artificielle. Mon objectif est de construire progressivement un profil polyvalent, capable de comprendre et de participer à différentes étapes de la conception et du développement de solutions numériques."
+  },
+
+  "PrivacyPolicy": {
+    "Title": "Politique de confidentialité – NEXTÉCLAT",
+
+    "Subtitle1": "1. Introduction",
+    "ContentLine1": "NEXTÉCLAT accorde une grande importance à la protection de votre vie privée. Cette politique de confidentialité explique comment nous collectons et utilisons vos données personnelles lorsque vous visitez notre site ou nous contactez.",
+
+    "Subtitle2": "2. Données collectées",
+    "ContentLine2": "Nous collectons uniquement les données nécessaires, notamment :",
+    "ContentLine3": "Nom et prénom",
+    "ContentLine4": "Adresse e-mail",
+    "ContentLine5": "Numéro de téléphone (si fourni)",
+    "ContentLine6": "Message envoyé via le formulaire de contact",
+    "ContentLine6a": "Ces données sont fournies volontairement par l’utilisateur.",
+
+    "Subtitle3": "3. Utilisation des données",
+    "ContentLine7": "Les données collectées sont utilisées uniquement pour :",
+    "ContentLine8": "répondre à vos demandes,",
+    "ContentLine9": "vous recontacter dans le cadre de nos services,",
+    "ContentLine10": "assurer le bon fonctionnement du site.",
+    "ContentLine11": "NEXTÉCLAT ne vend ni ne partage vos données à des tiers à des fins commerciales.",
+
+    "Subtitle4": "4. Conservation des données",
+    "ContentLine12": "Les données sont conservées uniquement pendant la durée nécessaire au traitement de votre demande ou conformément aux obligations légales.",
+
+    "Subtitle5": "5. Sécurité",
+    "ContentLine13": "NEXTÉCLAT met en place des mesures raisonnables pour protéger vos données personnelles contre tout accès non autorisé ou toute utilisation abusive.",
+
+    "Subtitle6": "6. Vos droits",
+    "ContentLine14": "Conformément à la réglementation en vigueur, vous disposez d’un droit :",
+    "ContentLine15": "d’accès,",
+    "ContentLine16": "de rectification,",
+    "ContentLine17": "de suppression de vos données personnelles.",
+    "ContentLine18": "Pour exercer ces droits, vous pouvez nous contacter à :",
+    "button1": "falconxxl.mail@gmail.com",
+
+    "Subtitle7": "Cookies",
+    "ContentLine19": "Le site NEXTÉCLAT peut utiliser des cookies à des fins de fonctionnement et d’analyse. Vous pouvez configurer votre navigateur pour refuser les cookies.",
+
+    "Subtitle8": "Contact",
+    "ContentLine20": "Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter à",
+    "button2": "falconxxl.mail@gmail.com"
+  },
+
+  "News": {
+    "Title": "Mise à jour de la page en cours",
+    "Subtitle": "Cette page sera bientôt disponible",
+    "ContentLine": "Nous mettons actuellement à jour cette section pour vous fournir les informations les plus précises et utiles. Merci de revenir bientôt, le nouveau contenu sera disponible sous peu. Faites-nous part de vos préférences."
+  },
+
+  "Ads-Falcon-Beat": {
+    "Title": "La plateforme de beats qu’il vous faut",
+    "ContentLine1": "Falcon Beats est une plateforme dédiée aux artistes à la recherche de ",
+    "ContentLine2": "beats professionnels et de haute qualité.",
+    "ContentLine3": "Écoutez, choisissez et achetez des instrumentales de différents genres, accessibles partout dans le monde, à un prix abordable.",
+    "BtnLine": "Accéder à Falcon Beats"
+  },
+
+  "Page-news": {
+    "Newspartenair": {
+      "Title": "Collaborez avec NextÉclat",
+      "ContentLine1": "NextÉclat recherche des partenaires, collaborateurs et bénévoles pour contribuer à ses projets et évoluer dans un environnement créatif, collaboratif et axé sur le développement des compétences.",
+      "Contact": "Contact :",
+      "ContactTitle1": "Email : ",
+      "ContactLine1": "falconxxl.mail@gmail.com",
+      "ContactTitle2": "Tel :",
+      "ContactLine2": "+31 685 533 124",
+      "BtnInfo": "Pour plus d'info",
+      "BtnWhatsapp": "WhatsApp"
+    },
+
+    "GotFlow": {
+      "ContentLine1": "You Got Flow est un concept musical où",
+      "ContentLine2": "partage ses instrus originales sur YouTube et les réseaux sociaux. Les artistes sont invités à poser ou chanter dessus et à nous envoyer leurs versions pour apparaître dans les prochains épisodes.",
+      "BtnLine": "Voir You Got Flow"
+    },
+
+    "Kinshasa": {
+      "Title": "Soutenir les entrepreneurs de Kinshasa",
+      "ContentLine1": "Nous accompagnons les talents locaux à maîtriser les outils digitaux et à développer leur visibilité. L’objectif est de créer des opportunités concrètes et durables pour les entrepreneurs congolais.",
+      "ContentLine2": "En favorisant leur épanouissement, nous voulons permettre à ces talents de faire connaître leurs projets à l’échelle locale et internationale, pour un impact réel sur leur succès et leur notoriété. Ce projet est prévu pour un futur proche et constitue une étape clé de notre mission en Afrique."
+    },
+
+    "Relook": {
+      "ContentLine0":"RELOOK TON BUSINESS",
+      "ContentLine1": " est un podcast éducatif pour les entrepreneurs africains de la diaspora qui souhaiteraient apprendre à maîtriser les outils digitaux, à développer leur business et à atteindre le succès.",
+      "BtnLine": "Suivre REELOOK TON BUSINESS"
+    }
+  }
+}

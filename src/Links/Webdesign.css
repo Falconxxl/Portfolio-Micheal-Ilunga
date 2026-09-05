@@ -1,0 +1,445 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*background-color: #f3bb2f;*/
+}
+
+.webdesign-wrapper.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.webdesign-wrapper.visible {
+    opacity: 1;
+    transition: opacity 0.4s ease;
+}
+
+.Container-webdesign {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.desktop-image{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    border-bottom: 1px solid #3f97fb;
+}
+
+.hero-content-webdesign {
+    position: absolute;
+    top: 34%;
+    left: 100px;
+    color: black;
+    height: auto;
+    width: 80%;
+    /*background-color: green;*/
+}
+
+.hero-content-webdesign h1 {
+    font-family: Poppins, sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    color: #3f97fb;
+    line-height: 1.0;
+    margin-bottom: 50px;
+}
+
+.webdesign-paragraphe-desktop {
+    display: block;
+    font-family: Poppins, sans-serif;
+    font-size: 1.4rem;
+    line-height: 1.6;
+    color: #0b3f88;
+    margin-bottom: 70px;
+    font-weight: 500;
+}
+
+.webdesign-paragraphe-mobile {
+    display:none;
+}
+
+.cta-btn-webdesign {
+    position: relative;
+    z-index: 3;
+
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-family: "Figtree", sans-serif;
+    border-radius: 60px;
+    background-color: #3f97fb;
+    border: 1px solid #3f97fb;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.cta-btn-webdesign:hover {
+    /*border: 2px solid transparent;*/
+    transform: scale(1.05);
+    color: white;
+    background-color: #0b3f88;
+    border: 1px solid #0b3f88;
+
+    /*background:*/
+    /*        linear-gradient(black, black) padding-box,*/
+    /*        linear-gradient(90deg, #6bc0f5, #7357eb, #908ef4) border-box;*/
+}
+
+.scroll-down-webdesign {
+    position: absolute;
+    bottom: 100px;
+    left: 95%;
+    transform: translateX(-50%);
+    font-size: 1.5rem;
+    color: white;
+
+    border-radius: 50px;
+    text-decoration: none;
+
+    border: 2px solid transparent;
+
+    background-color: #3f97fb;
+    height: 50px;
+    width: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    animation: bounce 2s infinite;
+}
+
+.scroll-down-webdesign:hover {
+    transform: translateX(-50%) scale(1.1);
+}
+
+/*!*--------------------------------------------*!*/
+.web-text1 {
+    font-family: Poppins, sans-serif;
+    color: #0b3f88;
+}
+
+.WhoAreWe-right p {
+    font-family: Poppins, sans-serif;
+}
+
+.icon-stack {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.icon-stack .fa-circle {
+    position: absolute;
+    font-size: 24px;
+    color: #3f97fb;
+    top: 0;
+    left: 0;
+}
+
+.icon-stack .fa-check {
+    position: absolute;
+    font-size: 12px;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.checklist-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.checklist-icon {
+    color: white !important;
+    font-size: 20px;
+    flex-shrink: 0;
+    margin-top: 3px;
+}
+
+.fa-circle-check {
+    color: white !important;
+}
+
+/*-------------------------------------------*/
+/*        SECTION PROJECTS                   */
+/*-------------------------------------------*/
+
+.Section-Projects {
+    background: white;
+    padding: 100px 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 70px;
+}
+
+/* --- En-tête --- */
+.Projects-header {
+    display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+    /*text-align: center;*/
+    max-width: 1170px;
+    gap: 20px;
+    /*background-color: red;*/
+}
+
+.Projects-eyebrow {
+    /*font-family: 'Poppins', sans-serif;*/
+    font-size: 60px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    /*text-transform: uppercase;*/
+    color: #3f97fb;
+    font-family: Poppins, sans-serif;
+}
+
+.Projects-title {
+    font-family: Poppins, sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    color: #0b3f88;
+    line-height: 1.2;
+
+}
+
+.Projects-intro {
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    line-height: 1.8;
+    color: black;
+    font-weight: 400;
+    text-align: start;
+}
+
+.Projects-intro strong {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.Projects-tagline {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: #908ef4;
+    font-style: italic;
+}
+
+.Projects-cta {
+    margin-top: 10px;
+}
+
+/* --- Grille projets --- */
+.Projects-grid {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 1300px;
+}
+
+/* --- Carte projet --- */
+.Project-card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 380px;
+    /*border: 1px solid #1e1e1e;*/
+    border-radius: 16px;
+    overflow: hidden;
+    background: white;
+    transition: transform 0.35s ease, border-color 0.35s ease, box-shadow 0.35s ease;
+}
+
+/*.Project-card:hover {*/
+/*    transform: translateY(-8px);*/
+/*    border-color: #7357eb;*/
+/*    box-shadow: 0 12px 40px rgba(115, 87, 235, 0.25);*/
+/*}*/
+
+.Project-card-image {
+    width: 100%;
+    overflow: hidden;
+    background: white;
+}
+
+.Project-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+.Project-card:hover .Project-img {
+    /*transform: scale(1.03);*/
+}
+
+.Project-card-body {
+    padding: 28px 28px 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.Project-card-title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #0b3f88;
+    letter-spacing: 1px;
+    font-family: Poppins, sans-serif;
+}
+
+.Project-card-desc {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: black;
+    font-weight: 350;
+}
+
+/*-------------------------------------------*/
+/*        PROJECT VIEW BUTTON                */
+/*-------------------------------------------*/
+
+.Project-view-btn {
+    align-self: flex-start;
+    margin-top: 8px;
+    display: inline-block;
+}
+
+/*-------------------------------------------*/
+/*           RESPONSIVE                      */
+/*-------------------------------------------*/
+
+@media screen and (max-width: 940px) {
+
+    .Container-Webdesign {
+        width: 100%;
+        height: 80vh;
+        box-sizing: border-box;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hero-content-webdesign {
+        position: absolute;
+        top: 13%;
+        left: 0;
+        color: black;
+        height: auto;
+        width: 100%;
+        padding: 40px 10px;
+        box-sizing: border-box;
+    }
+
+    .hero-content-webdesign h1 {
+        font-size: 48px;
+        margin-bottom: 40px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .webdesign-paragraphe-desktop {
+        display: none;
+    }
+
+    .webdesign-paragraphe-mobile {
+        display: block;
+        font-family: "Montserrat", sans-serif;
+        font-size: 1.2rem;
+        line-height: 1.6;
+        color: black;
+        margin-bottom: 50px;
+        font-weight: 500;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        box-sizing: border-box;
+    }
+
+    .scroll-down-webdesign {
+        bottom: 200px;
+        left: 90%;
+    }
+
+    /* --- Section Projects mobile --- */
+    .Section-Projects {
+        padding: 70px 20px;
+        gap: 50px;
+    }
+
+    .Projects-title {
+        font-size: 1.8rem;
+    }
+
+    .Projects-grid {
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .Project-card {
+        width: 100%;
+        max-width: 480px;
+    }
+
+    .Project-card-body {
+        padding: 22px 20px 26px;
+    }
+
+    .Project-card-title {
+        font-size: 25px;
+    }
+
+    .Project-card-desc {
+        font-size: 16px;
+    }
+
+    .Project-img {
+        margin-bottom: 0px;
+    }
+
+
+    .Projects-eyebrow {
+        /*font-family: 'Poppins', sans-serif;*/
+        font-size: 40px;
+        padding: 20px;
+        text-align: start;
+    }
+
+    .Projects-title {
+        font-size: 20px;
+        text-align: start;
+    }
+
+    .Projects-intro {
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        font-weight: 400;
+        text-align: start;
+    }
+}

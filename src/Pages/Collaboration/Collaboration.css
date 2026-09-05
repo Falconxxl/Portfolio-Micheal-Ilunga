@@ -1,0 +1,124 @@
+/* 📁 src/pages/Collaboration/Collaboration.css */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+
+/* ══════════════════════════════════════════
+   ROOT WRAPPER
+   ══════════════════════════════════════════ */
+.collab {
+    min-height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-color: #87d8f5; /* fallback si image ne charge pas */
+
+    /* ⚠️ CRITIQUE : sans display flex, le div peut s'effondrer
+       et cacher l'image de fond */
+    display: flex;
+    flex-direction: column;
+}
+
+/* ══════════════════════════════════════════
+   HERO SECTION
+   ══════════════════════════════════════════ */
+.collab__hero {
+    padding: 60px 8vw 0;
+    flex-shrink: 0;
+}
+
+.collab__hero-content {
+    max-width: 100%;
+}
+
+.collab__title {
+    font-family: "Poppins", sans-serif;
+    font-size: clamp(2.8rem, 6vw, 6rem);
+    font-weight: 400;
+    color: #0d3c82;
+    line-height: 1.05;
+    margin: 0 0 22px;
+    letter-spacing: -0.02em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.collab__subtitle {
+    font-family: "Poppins", sans-serif;
+    font-size: clamp(0.88rem, 1.4vw, 1rem);
+    color: #1a2f50;
+    line-height: 1.75;
+    margin: 0;
+    max-width: 720px;
+}
+
+.collab__subtitle strong {
+    color: #0d6efd;
+    font-weight: 400;
+}
+
+/* ══════════════════════════════════════════
+   CATEGORIES GRID
+   ══════════════════════════════════════════ */
+.collab__grid-section {
+    padding: 48px 8vw 64px;
+    flex: 1;
+}
+
+.collab__grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    max-width: 1070px;
+}
+
+/* Boutons — ajustements texte + icône */
+.collab__button-category {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+.collab__button-category .button-text {
+    flex: 1;
+    margin-right: 8px;
+}
+
+/* Agrandir légèrement les deux premiers carrés */
+.collab__button-category[data-id="dev-web"],
+.collab__button-category[data-id="audiovisual"] {
+    transform: scale(1.05);
+    margin-top: -10px;
+}
+
+/* ══════════════════════════════════════════
+   RESPONSIVE
+   ══════════════════════════════════════════ */
+@media (max-width: 1100px) {
+    .collab__grid {
+        grid-template-columns: repeat(3, 1fr);
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 780px) {
+    .collab__grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .collab__hero {
+        padding: 48px 6vw 0;
+    }
+
+    .collab__grid-section {
+        padding: 36px 6vw 48px;
+    }
+}
+
+@media (max-width: 480px) {
+    .collab__grid {
+        grid-template-columns: 1fr;
+    }
+}

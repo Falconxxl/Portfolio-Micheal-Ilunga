@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.TopButton {
+    width: 120px;
+    height: 120px;
+    position: fixed;
+    top:50vh;
+    left:70vw;
+    background-color: transparent;
+    border: none;
+}
+
+.TopButton i {
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    color: #fe609e;
+    top:70vh;
+    left:92vw;
+}
+
+.TopButton i:hover {
+    color: #3f97fb;
+
+}
+
+/*-----------------------------------------*/
+
+@media screen and (max-width:1040px) {
+    .TopButton i {
+        width: 150px;
+        height: 150px;
+        left:87vw;
+        top:75vh;
+    }
+}
+
+/*-----------------------------------------*/
+
+@media screen and (max-width:940px) {
+    .TopButton i {
+        width: 150px;
+        height: 150px;
+        /*left:90vw;*/
+        left:77vw;
+        top:75vh;
+    }
+
+}
+
+/*-----------------------------------------*/
+
+@media screen and (max-width:480px) {
+
+    .TopButton {
+        left: 72vw;
+        top: 75vh;
+    }
+
+    .TopButton i {
+
+        left: 72vw;
+        top: 75vh;
+        font-size: 3rem;
+
+    }
+
+}
+
+
+
