@@ -1,70 +1,143 @@
-# Getting Started with Create React App
+# Michael Ilunga — Portfolio 2026
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Portfolio personnel de Michael Ilunga (Falconxxl), développeur créatif multidisciplinaire — développement front-end, branding, audiovisuel et production musicale.
 
-## Available Scripts
+## Objectif
 
-In the project directory, you can run:
+Présenter les projets, services et compétences de Michael Ilunga à travers un site vitrine multilingue (FR / EN / NL), avec des sections dédiées au web design, à la photographie, à la vidéo, à la musique et au branding.
 
-### `npm start`
+## Technologies utilisées
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React 19 — bibliothèque UI
+- React Router DOM 7 — routing
+- i18next / react-i18next — internationalisation (FR, EN, NL)
+- EmailJS — envoi de formulaires de contact/devis sans backend
+- React Helmet Async — gestion des balises head (SEO)
+- Lucide React / React Icons — icônes
+- React Scroll — navigation par ancrage
+- react-scripts (Create React App) — build et tooling
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Fonctionnalités principales
 
-### `npm test`
+- Site multilingue (français, anglais, néerlandais)
+- Présentation de services : web design, branding, photographie, vidéo, musique
+- Galerie de projets avec modales détaillées
+- Formulaire de demande de devis intégré (EmailJS)
+- Navigation responsive avec menu hamburger mobile
+- Témoignages clients par catégorie de service
+- Pages légales (mentions, conditions de vente, politique de confidentialité)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Organisation du projet
 
-### `npm run build`
+src/
+- Components/     Composants réutilisables (modales, boutons, formulaires, i18n)
+- Data/           Données statiques (catégories, etc.)
+- JSONTraductor/  Fichiers de traduction (fr, en, nl, pt)
+- Layout/         Sections de mise en page réutilisables
+- Links/          Pages liées aux services et pages légales
+- Pages/          Pages principales (Home, About, Contact, Projects, etc.)
+- Assets/         Logos et images de marque
+- Images/         Visuels des projets
+- MyVideos/       Vidéos utilisées dans le site
+- Pdf/            CV téléchargeables (FR, EN, NL)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation et lancement en local
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+git clone URL_DU_REPO
+cd michael-2026-portfolio
+npm install --legacy-peer-deps
+npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Le site sera accessible sur http://localhost:3000.
 
-### `npm run eject`
+Note : --legacy-peer-deps est nécessaire en raison d'un conflit de peer dependencies entre react-scripts et la version de TypeScript utilisée par i18next.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Build de production
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+npm run build
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Le build optimisé est généré dans le dossier build/.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Déploiement
 
-## Learn More
+Le projet est configuré pour un déploiement sur Netlify :
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Commande de build : npm run build
+- Dossier de publication : build
+- Redirection SPA configurée (netlify.toml + public/_redirects) pour le bon fonctionnement de React Router
+- Variable d'environnement CI=false pour éviter que les warnings ESLint ne bloquent le build
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Auteur
 
-### Code Splitting
+Michael Ilunga (Falconxxl)
+Next Éclat — nexteclat.com
+E
+cat > README.md << 'EOF'
+# Michael Ilunga — Portfolio 2026
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Portfolio personnel de Michael Ilunga, développeur créatif multidisciplinaire — développement front-end, branding, audiovisuel et production musicale.
 
-### Analyzing the Bundle Size
+## Objectif
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Présenter les projets, services et compétences de Michael Ilunga à travers un site vitrine multilingue (FR / EN / NL), avec des sections dédiées au web design, à la photographie, à la vidéo, à la musique et au branding.
 
-### Making a Progressive Web App
+## Technologies utilisées
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- React 19 — bibliothèque UI
+- React Router DOM 7 — routing
+- i18next / react-i18next — internationalisation (FR, EN, NL)
+- EmailJS — envoi de formulaires de contact/devis sans backend
+- React Helmet Async — gestion des balises head (SEO)
+- Lucide React / React Icons — icônes
+- React Scroll — navigation par ancrage
+- react-scripts (Create React App) — build et tooling
 
-### Advanced Configuration
+## Fonctionnalités principales
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Site multilingue (français, anglais, néerlandais)
+- Présentation de services : web design, branding, photographie, vidéo, musique
+- Galerie de projets avec modales détaillées
+- Formulaire de demande de devis intégré (EmailJS)
+- Navigation responsive avec menu hamburger mobile
+- Témoignages clients par catégorie de service
+- Pages légales (mentions, conditions de vente, politique de confidentialité)
 
-### Deployment
+## Organisation du projet
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+src/
+- Components/     Composants réutilisables (modales, boutons, formulaires, i18n)
+- Data/           Données statiques (catégories, etc.)
+- JSONTraductor/  Fichiers de traduction (fr, en, nl, pt)
+- Layout/         Sections de mise en page réutilisables
+- Links/          Pages liées aux services et pages légales
+- Pages/          Pages principales (Home, About, Contact, Projects, etc.)
+- Assets/         Logos et images de marque
+- Images/         Visuels des projets
+- MyVideos/       Vidéos utilisées dans le site
+- Pdf/            CV téléchargeables (FR, EN, NL)
 
-### `npm run build` fails to minify
+## Installation et lancement en local
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+git clone URL_DU_REPO
+cd michael-2026-portfolio
+npm install --legacy-peer-deps
+npm start
+
+Le site sera accessible sur http://localhost:3000.
+
+Note : --legacy-peer-deps est nécessaire en raison d'un conflit de peer dependencies entre react-scripts et la version de TypeScript utilisée par i18next.
+
+## Build de production
+
+npm run build
+
+Le build optimisé est généré dans le dossier build/.
+
+## Déploiement
+
+Le projet est configuré pour un déploiement sur Netlify :
+
+- Commande de build : npm run build
+- Dossier de publication : build
+- Redirection SPA configurée (netlify.toml + public/_redirects) pour le bon fonctionnement de React Router
+- Variable d'environnement CI=false pour éviter que les warnings ESLint ne bloquent le build
