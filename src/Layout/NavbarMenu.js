@@ -7,9 +7,9 @@ import React from 'react';
 import { useTranslation } from "react-i18next";
 import LanguageDropdown from "../Components/LanguageDropdown"
 // import { FaTimes, FaBars } from "react-icons/fa";
-import cvDutch from "../Pdf/CV_Micheal_Ilunga_NL_2026_v3.pdf";
-import cvEnglish from "../Pdf/CV_Micheal_Ilunga_EN_2026_v3.pdf";
-import cvFrench from "../Pdf/CV_Micheal_Ilunga_FR_2026_v3.pdf";
+import cvDutch from "../Pdf/CV_Micheal_Ilunga_NL_2026.pdf";
+import cvEnglish from "../Pdf/CV_Micheal_Ilunga_EN_2026.pdf";
+import cvFrench from "../Pdf/CV_Micheal_Ilunga_FR_2026.pdf";
 
 
 function NavbarMenu() {

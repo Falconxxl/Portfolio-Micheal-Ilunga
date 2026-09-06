@@ -4,9 +4,9 @@ import { FaBars, FaTimes } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
-import cvDutch from "../Pdf/CV_Micheal_Ilunga_NL_2026_v3.pdf";
-import cvEnglish from "../Pdf/CV_Micheal_Ilunga_EN_2026_v3.pdf";
-import cvFrench from "../Pdf/CV_Micheal_Ilunga_FR_2026_v3.pdf";
+import cvDutch from "../Pdf/CV_Micheal_Ilunga_NL_2026.pdf";
+import cvEnglish from "../Pdf/CV_Micheal_Ilunga_EN_2026.pdf";
+import cvFrench from "../Pdf/CV_Micheal_Ilunga_FR_2026.pdf";
 
 function Hamburger({ menuOpen, setMenuOpen }) {
     const { t } = useTranslation();
